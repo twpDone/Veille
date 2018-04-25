@@ -1,7 +1,0 @@
-cve_20180423.txt
-cve_20180424.txt
-linker_20180423.html
-linker_20180424.html
-mywatch.txt
-pycrawl_20180423.txt
-pycrawl_20180424.txt
