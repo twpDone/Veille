@@ -1,0 +1,108 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10414
+2018-04-24T07:56:32.407-04:00	:CVE-2016-10414 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10421
+2018-04-24T08:03:36.817-04:00	:CVE-2016-10421 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10489
+2018-04-24T07:56:08.607-04:00	:CVE-2016-10489 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10490
+2018-04-24T07:59:54.617-04:00	:CVE-2016-10490 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10494
+2018-04-24T07:52:12.213-04:00	:CVE-2016-10494 (Score:10.0)['cpe:/o:qualcomm:sd_808_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10495
+2018-04-24T07:52:35.403-04:00	:CVE-2016-10495 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10498
+2018-04-24T07:55:47.077-04:00	:CVE-2016-10498 (Score:10.0)['cpe:/o:qualcomm:sdm630_firmware:-', 'cpe:/o:qualcomm:sdm636_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10501
+2018-04-23T16:31:12.380-04:00	:CVE-2016-10501 (Score:10.0)['cpe:/o:qualcomm:sd_808_firmware:-', 'cpe:/o:qualcomm:sd_810_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-11010
+2018-04-23T16:29:02.597-04:00	:CVE-2017-11010 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-11509
+2018-04-20T13:58:08.397-04:00	:CVE-2017-11509 (Score:9.0)['cpe:/a:firebirdsql:firebird:2.5.7']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14002
+2018-04-19T10:00:40.567-04:00	:CVE-2017-14002 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14906
+2018-04-23T16:29:40.613-04:00	:CVE-2017-14906 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-15325
+2018-04-19T10:02:22.600-04:00	:CVE-2017-15325 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0150
+2018-04-20T11:54:57.110-04:00	:CVE-2018-0150 (Score:10.0)['cpe:/o:cisco:ios_xe:16.5.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0151
+2018-04-20T11:41:18.300-04:00	:CVE-2018-0151 (Score:10.0)['cpe:/o:cisco:ios:everest-16.5.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0152
+2018-04-20T13:27:57.397-04:00	:CVE-2018-0152 (Score:9.0)['cpe:/o:cisco:ios:16.6.1', 'cpe:/o:cisco:ios:everest-16.6.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0167
+2018-04-24T08:07:31.717-04:00	:CVE-2018-0167 (Score:8.3)['cpe:/o:cisco:ios:5.2.0.base', 'cpe:/o:cisco:ios_xe:5.2.0.base']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0171
+2018-04-24T12:08:21.763-04:00	:CVE-2018-0171 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0541
+2018-04-17T10:39:13.943-04:00	:CVE-2018-0541 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-1238
+2018-04-24T08:22:51.467-04:00	:CVE-2018-1238 (Score:8.5)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-5224
+2018-04-24T08:58:58.077-04:00	:CVE-2018-5224 (Score:9.0)['cpe:/a:atlassian:bamboo:5.14.3', 'cpe:/a:atlassian:bamboo:5.14.4.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-5504
+2018-04-20T13:08:26.690-04:00	:CVE-2018-5504 (Score:9.3)['cpe:/a:f5:big-ip_local_traffic_manager:12.1.1', 'cpe:/a:f5:big-ip_policy_enforcement_manager:12.1.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-5768
+2018-04-18T09:46:59.930-04:00	:CVE-2018-5768 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-5770
+2018-04-18T09:48:02.297-04:00	:CVE-2018-5770 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-7445
+2018-04-24T10:53:44.183-04:00	:CVE-2018-7445 (Score:10.0)['cpe:/o:mikrotik:routeros:6.4.2:rc5', 'cpe:/o:mikrotik:routeros:6.4.2:rc6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8930
+2018-04-19T13:26:58.237-04:00	:CVE-2018-8930 (Score:9.3)['cpe:/o:amd:ryzen_firmware:-', 'cpe:/o:amd:ryzen_mobile_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8931
+2018-04-19T11:51:22.473-04:00	:CVE-2018-8931 (Score:9.3)['cpe:/o:amd:ryzen_firmware:-', 'cpe:/o:amd:ryzen_mobile_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8932
+2018-04-19T11:52:21.930-04:00	:CVE-2018-8932 (Score:9.3)['cpe:/o:amd:ryzen_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8933
+2018-04-19T13:23:43.340-04:00	:CVE-2018-8933 (Score:9.3)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8934
+2018-04-19T13:23:58.170-04:00	:CVE-2018-8934 (Score:9.3)['cpe:/o:amd:ryzen_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8935
+2018-04-19T13:24:06.607-04:00	:CVE-2018-8935 (Score:9.3)['cpe:/o:amd:ryzen_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8936
+2018-04-19T13:24:13.153-04:00	:CVE-2018-8936 (Score:9.3)['cpe:/o:amd:ryzen_firmware:-', 'cpe:/o:amd:ryzen_mobile_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9105
+2018-04-24T12:28:14.140-04:00	:CVE-2018-9105 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9139
+2018-04-19T13:27:12.567-04:00	:CVE-2018-9139 (Score:10.0)['cpe:/o:samsung:samsung_mobile:7.1', 'cpe:/o:samsung:samsung_mobile:7.1.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9141
+2018-04-19T13:26:39.860-04:00	:CVE-2018-9141 (Score:9.3)['cpe:/o:samsung:samsung_mobile:7.1', 'cpe:/o:samsung:samsung_mobile:7.1.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9143
+2018-04-19T13:26:52.347-04:00	:CVE-2018-9143 (Score:10.0)['cpe:/o:samsung:samsung_mobile:7.1', 'cpe:/o:samsung:samsung_mobile:7.1.1']

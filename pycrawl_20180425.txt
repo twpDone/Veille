@@ -1,0 +1,214 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[-] Crawling Exception <urlopen error [Errno 104] Connection reset by peer>>
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://www.scmagazine.com/ccleaner-attackers-gained-access-to-app-developers-network-via-teamviewer/article/760838/
+	--
+	--
+
+[attack]
+	--
+	 [attack, ransomware] http://www.globalsecuritymag.com/Atlanta-Ransomware-Attack-sas-self,20180424,78234.html/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.scmagazine.com/cybercrime/polymorphic-monero-mining-retadup-worm-gets-an-autohotkey-variant/article/760520/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 http://www.securityweek.com/35-million-penalty-not-telling-investors-yahoo-hack/
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-199/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-198/
+	--
+	--
+
+[cloud]
+	 http://www.zdnet.fr/actualites/atos-et-google-cloud-s-unissent-autour-de-l-intelligence-artificielle-39867446.htm/
+	--
+	--
+
+[scripting]
+	 http://www.securityfocus.com/archive/1/541955/
+	--
+	--
+
+[exploit]
+	 https://thehackernews.com/2018/04/nintendo-switch-linux-hack.html/
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/windows-10-le-mode-s-desactivable-depuis-le-microsoft-store-39867416.htm/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/windows-10-le-mode-s-desactivable-depuis-le-microsoft-store-39867416.htm/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	 [attacks, ransomware] https://www.scmagazine.com/separate-ransomware-attacks-hit-ukraine-and-canada/article/760654/
+	--
+
+[ransomware]
+	 https://www.welivesecurity.com/2018/04/24/ransomware-runs-rampant-report/
+	--
+	 [attacks, ransomware] https://www.scmagazine.com/separate-ransomware-attacks-hit-ukraine-and-canada/article/760654/
+	 [attack, ransomware] http://www.globalsecuritymag.com/Atlanta-Ransomware-Attack-sas-self,20180424,78234.html/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.cnet.com/topics/mobile-apps/
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'solution', u'vulnerability', u'infosec', u'x-force', u'ne', u'sites', u'social', u'endpoint', u'services', u'hackers', u'uk', u'bulletin', u'business', u'backdoor', u'outils', u'view', u'twitter', u'miner']
+6 [u'voir', u'securiteam', u'call', u'report', u'conference', u'test', u'update', u'ibm', u'product', u'disclosure', u'avis', u'tous', u'multiples', u'file', u'mickael', u'information', u'research', u'drupal', u'vulnerabilities', u'windows', u'threats', u'corruption', u'phishing', u'into', u'failles', u'subscribe', u'dorigny', u'cross', u'iot', u'ios']
+7 [u's\xe9curit\xe9', u'protection', u'dns', u'scripting', u'hacking', u'cybersecurity', u'says', u'trend', u'platform', u'10', u'hack', u'android', u'threat', u'google', u'30', u'ctf', u'cloud', u'our']
+8 [u'risk', u'advisory', u'best', u'attacks', u'internet', u'dactualit\xe9', u'micro', u'intelligence']
+9 [u'microsoft', u'vuln\xe9rabilit\xe9s', u'apple', u'web']
+10 [u'cars', u'full', u'folt\xfdn', u'cisco', u'tom\xe1\u0161', u'cryptocurrency']
+11 [u'blog', u'cet', u'linux', u'facebook', u'2017', u'rsa', u'email']
+12 [u'new', u'smart']
+13 [u'ransomware']
+14 [u'mobile']
+15 [u'archive']
+16 [u'privacy']
+19 [u'veille']
+21 [u'cybercrime']
+24 [u'2018']
+28 [u'malware']
+62 [u'vigil@nce']
+
+
