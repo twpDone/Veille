@@ -1,0 +1,208 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[-] Crawling Exception <urlopen error [Errno 104] Connection reset by peer>>
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	 [users, phishing] https://www.scmagazine.com/cybercrime/massive-phishing-campaign-targets-half-a-billion-users-in-the-first-quarter-2018/article/761541/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	 https://www.scmagazine.com/amazon-echo-made-to-eavesdrop-without-exploit-or-manipulation/article/761843/
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-208/
+	--
+
+[phishing]
+	--
+	 [users, phishing] https://www.scmagazine.com/cybercrime/massive-phishing-campaign-targets-half-a-billion-users-in-the-first-quarter-2018/article/761541/
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-met-fin-a-sa-gamme-airport-39867608.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/apres-un-an-d-attente-itunes-arrive-dans-le-microsoft-store-39867606.htm/
+	 https://www.scmagazine.com/microsoft-issues-more-spectre-updates/article/761684/
+	--
+	 [windows, microsoft] http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-208/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	 https://www.scmagazine.com/hpe-ilo-4-remote-management-interfaces-targeted-with-ransomware/article/761868/
+	 https://www.scmagazine.com/ransomware-exposes-records-of-85000-center-for-orthopaedic-specialists-patients/article/761844/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.scmagazine.com/sc-video-dhss-vincent-sritapan-discusses-adopting-mobile-security-solutions/article/761874/
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'solution', u'vulnerability', u'infosec', u'service', u'amazon', u'conference', u'three', u'x-force', u'ng', u'test', u'product', u'monitor', u'alfred', u'hack', u'business', u'services', u'most', u'spam', u'drupalgeddon2', u'bulletin', u'shut', u'backdoor', u'device', u'view', u'cross', u'iot', u'center', u'miner']
+6 [u'voir', u'cnet', u'scripting', u'report', u'cybersecurity', u'attacks', u'ne', u'ibm', u'avis', u'ssd', u'tous', u'mickael', u'information', u'android', u'research', u'vulnerabilities', u'threats', u'corruption', u'phishing', u'google', u'disclosure', u'into', u'twitter', u'subscribe', u'dorigny', u'ios']
+7 [u'risk', u'dns', u'hacking', u'down', u'ddos', u'update', u'trend', u'platform', u'file', u'linux', u'ctf', u'cloud', u'our', u'email']
+8 [u's\xe9curit\xe9', u'protection', u'call', u'best', u'internet', u'10', u'dactualit\xe9', u'multiples', u'flaw', u'micro', u'windows', u'intelligence', u'facebook']
+9 [u'securiteam', u'folt\xfdn', u'cisco', u'drupal', u'tom\xe1\u0161', u'30', u'web']
+10 [u'cars', u'full', u'apple', u'2017']
+11 [u'advisory', u'ransomware', u'cet', u'vuln\xe9rabilit\xe9s']
+12 [u'cryptocurrency', u'smart']
+13 [u'new', u'microsoft']
+14 [u'blog', u'mobile', u'rsa']
+15 [u'archive', u'privacy']
+19 [u'veille']
+20 [u'cybercrime']
+58 [u'vigil@nce']
+27 [u'2018']
+28 [u'malware']
+
+
