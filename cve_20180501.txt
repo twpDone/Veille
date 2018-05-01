@@ -1,0 +1,123 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10414
+2018-04-24T07:56:32.407-04:00	:CVE-2016-10414 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10421
+2018-04-24T08:03:36.817-04:00	:CVE-2016-10421 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10489
+2018-04-24T07:56:08.607-04:00	:CVE-2016-10489 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10490
+2018-04-24T07:59:54.617-04:00	:CVE-2016-10490 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10494
+2018-04-24T07:52:12.213-04:00	:CVE-2016-10494 (Score:10.0)['cpe:/o:qualcomm:sd_808_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10495
+2018-04-24T07:52:35.403-04:00	:CVE-2016-10495 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10498
+2018-04-24T07:55:47.077-04:00	:CVE-2016-10498 (Score:10.0)['cpe:/o:qualcomm:sdm630_firmware:-', 'cpe:/o:qualcomm:sdm636_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10501
+2018-04-23T16:31:12.380-04:00	:CVE-2016-10501 (Score:10.0)['cpe:/o:qualcomm:sd_808_firmware:-', 'cpe:/o:qualcomm:sd_810_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-11010
+2018-04-23T16:29:02.597-04:00	:CVE-2017-11010 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-12815
+2018-04-27T07:52:10.483-04:00	:CVE-2017-12815 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13853
+2018-04-27T13:23:04.347-04:00	:CVE-2017-13853 (Score:9.3)['cpe:/o:apple:mac_os_x:10.12.3', 'cpe:/o:apple:mac_os_x:10.12.4']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13854
+2018-04-27T13:59:21.927-04:00	:CVE-2017-13854 (Score:9.3)['cpe:/o:apple:watchos:3.2', 'cpe:/o:apple:watchos:3.2.2']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13904
+2018-04-27T13:50:58.387-04:00	:CVE-2017-13904 (Score:9.3)['cpe:/o:apple:watchos:4.0', 'cpe:/o:apple:watchos:4.0.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14906
+2018-04-23T16:29:40.613-04:00	:CVE-2017-14906 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14911
+2018-04-27T11:29:01.093-04:00	:CVE-2017-14911 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14912
+2018-04-27T11:26:27.347-04:00	:CVE-2017-14912 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_800_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14913
+2018-04-27T11:23:17.000-04:00	:CVE-2017-14913 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14915
+2018-04-27T11:22:10.167-04:00	:CVE-2017-14915 (Score:10.0)['cpe:/o:qualcomm:sd_650_firmware:-', 'cpe:/o:qualcomm:sd_652_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-7170
+2018-04-27T13:22:48.690-04:00	:CVE-2017-7170 (Score:9.3)['cpe:/o:apple:mac_os_x:10.12.5', 'cpe:/o:apple:mac_os_x:10.12.6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-7171
+2018-04-27T13:52:31.187-04:00	:CVE-2017-7171 (Score:9.3)['cpe:/o:apple:watchos:4.0', 'cpe:/o:apple:watchos:4.0.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-7172
+2018-04-27T13:54:12.163-04:00	:CVE-2017-7172 (Score:9.3)['cpe:/o:apple:watchos:4.0', 'cpe:/o:apple:watchos:4.0.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0167
+2018-04-24T08:07:31.717-04:00	:CVE-2018-0167 (Score:8.3)['cpe:/o:cisco:ios:5.2.0.base', 'cpe:/o:cisco:ios_xe:5.2.0.base']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0171
+2018-04-24T12:08:21.763-04:00	:CVE-2018-0171 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-1238
+2018-04-24T08:22:51.467-04:00	:CVE-2018-1238 (Score:8.5)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4082
+2018-04-27T14:16:05.727-04:00	:CVE-2018-4082 (Score:9.3)['cpe:/o:apple:watchos:4.0', 'cpe:/o:apple:watchos:4.0.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4083
+2018-04-27T13:22:06.550-04:00	:CVE-2018-4083 (Score:9.3)['cpe:/o:apple:mac_os_x:10.12.5', 'cpe:/o:apple:mac_os_x:10.12.6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4087
+2018-04-27T14:18:41.603-04:00	:CVE-2018-4087 (Score:9.3)['cpe:/o:apple:watchos:4.0', 'cpe:/o:apple:watchos:4.0.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4095
+2018-04-27T14:18:58.353-04:00	:CVE-2018-4095 (Score:9.3)['cpe:/o:apple:watchos:4.0', 'cpe:/o:apple:watchos:4.0.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4097
+2018-04-27T13:22:17.893-04:00	:CVE-2018-4097 (Score:9.3)['cpe:/o:apple:mac_os_x:10.12.5', 'cpe:/o:apple:mac_os_x:10.12.6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4098
+2018-04-27T13:22:29.473-04:00	:CVE-2018-4098 (Score:9.3)['cpe:/o:apple:mac_os_x:10.12.5', 'cpe:/o:apple:mac_os_x:10.12.6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4109
+2018-04-27T14:20:14.730-04:00	:CVE-2018-4109 (Score:9.3)['cpe:/o:apple:watchos:4.0', 'cpe:/o:apple:watchos:4.0.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4132
+2018-04-27T13:21:06.593-04:00	:CVE-2018-4132 (Score:9.3)['cpe:/o:apple:mac_os_x:10.12.5', 'cpe:/o:apple:mac_os_x:10.12.6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4135
+2018-04-27T13:21:19.313-04:00	:CVE-2018-4135 (Score:9.3)['cpe:/o:apple:mac_os_x:10.12.5', 'cpe:/o:apple:mac_os_x:10.12.6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4139
+2018-04-27T13:19:03.027-04:00	:CVE-2018-4139 (Score:9.3)['cpe:/o:apple:mac_os_x:10.12.5', 'cpe:/o:apple:mac_os_x:10.12.6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4143
+2018-04-27T14:41:32.000-04:00	:CVE-2018-4143 (Score:9.3)['cpe:/o:apple:watchos:4.0', 'cpe:/o:apple:watchos:4.0.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4144
+2018-04-27T14:36:15.697-04:00	:CVE-2018-4144 (Score:9.3)['cpe:/o:apple:watchos:4.0', 'cpe:/o:apple:watchos:4.0.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4150
+2018-04-27T14:41:46.500-04:00	:CVE-2018-4150 (Score:9.3)['cpe:/o:apple:watchos:4.0', 'cpe:/o:apple:watchos:4.0.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4841
+2018-04-27T07:59:15.967-04:00	:CVE-2018-4841 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-5224
+2018-04-24T08:58:58.077-04:00	:CVE-2018-5224 (Score:9.0)['cpe:/a:atlassian:bamboo:5.14.3', 'cpe:/a:atlassian:bamboo:5.14.4.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-7445
+2018-04-24T10:53:44.183-04:00	:CVE-2018-7445 (Score:10.0)['cpe:/o:mikrotik:routeros:6.4.2:rc5', 'cpe:/o:mikrotik:routeros:6.4.2:rc6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9105
+2018-04-24T12:28:14.140-04:00	:CVE-2018-9105 (Score:9.0)[]
