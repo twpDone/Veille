@@ -1,0 +1,207 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[-] Crawling Exception <urlopen error [Errno 104] Connection reset by peer>>
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	 [routers, hacking] http://www.securityweek.com/over-million-dasan-routers-vulnerable-remote-hacking/
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	 http://www.zdnet.fr/actualites/un-million-de-routeurs-fibre-optique-vulnerables-a-une-faille-39867768.htm/
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	 [routers, hacking] http://www.securityweek.com/over-million-dasan-routers-vulnerable-remote-hacking/
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.securityweek.com/microsoft-patches-critical-flaw-open-source-container-library/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/delaware-launches-data-breach-compliance-site-for-companies-and-consumers/article/763065/
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/spring-2018-password-attacks/
+	--
+	--
+
+[ransomware]
+	 https://www.scmagazine.com/blackheart-ransomware-uses-legit-anydesk-tool-as-an-unwitting-accomplice/article/763095/
+	--
+	--
+
+[cybercrime]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/cybercrime/
+	--
+	--
+
+[mobile]
+	 http://www.securityweek.com/mobile-phone-maker-settles-ftc-over-data-collection/
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/fancy-bear-likely-behind-malware-found-on-lojack-c2-domains/article/763102/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'vulnerability', u'infosec', u'over', u'features', u'enterprise', u'faille', u'chrome', u'x-force', u'ne', u'trend', u'product', u'platform', u'business', u'industry', u'fraud', u'social', u'flaw', u'20', u'micro', u'center', u'vulnerabilities', u'services', u'windows', u'corruption', u'bulletin', u'breach', u'backdoor', u'view', u'twitter', u'conference']
+6 [u'risk', u'voir', u'dns', u'attacks', u'ddos', u'test', u'update', u'avis', u'million', u'tous', u'file', u'mickael', u'information', u'research', u'drupal', u'phishing', u'source', u'disclosure', u'code', u'cloud', u'email', u'subscribe', u'dorigny', u'iot']
+7 [u'phones', u'10', u'multiples', u'cisco', u'into', u'ctf', u'our', u'ios']
+8 [u'call', u'hacking', u'best', u'ibm', u'internet', u'ssd', u'dactualit\xe9', u'folt\xfdn', u'intelligence', u'tom\xe1\u0161', u'google', u'facebook', u'30']
+9 [u's\xe9curit\xe9', u'microsoft', u'vuln\xe9rabilit\xe9s', u'apple']
+10 [u'ransomware', u'full', u'cet', u'linux', u'2017', u'web']
+11 [u'smart']
+12 [u'securiteam', u'advisory', u'cars', u'mobile', u'rsa']
+13 [u'new']
+15 [u'archive', u'cryptocurrency']
+16 [u'privacy']
+18 [u'cybercrime']
+19 [u'blog', u'veille']
+55 [u'vigil@nce']
+24 [u'2018']
+28 [u'malware']
+
+
