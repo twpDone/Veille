@@ -1,0 +1,213 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[-] Crawling Exception <urlopen error [Errno 104] Connection reset by peer>>
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 http://www.securityweek.com/android-phones-vulnerable-remote-rowhammer-attack-gpu/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [service, windows, microsoft] http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-212/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://www.scmagazine.com/twitter-urges-users-to-change-passwords-after-finding-bug-in-password-storage-system/article/763431/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 http://www.securityweek.com/industrial-networks-easy-hack-corporate-systems-study/
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/windows-10-april-update-des-bugs-sous-chrome-39867830.htm/
+	 http://www.securityweek.com/meltdown-patch-windows-10-can-be-bypassed/
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/windows-10-microsoft-imagine-un-monde-sans-mots-de-passe-39867808.htm/
+	 [service, windows, microsoft] http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-212/
+	--
+
+[phishing]
+	 https://www.scmagazine.com/phishing-campaign-aimed-at-airbnb-guests-uses-gdpr-hook/article/763430/
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/windows-10-microsoft-imagine-un-monde-sans-mots-de-passe-39867808.htm/
+	 [service, windows, microsoft] http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-212/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/massminer-attacks-web-servers-multiple-exploits/
+	--
+	 [attacks, ransomware] http://www.securityweek.com/commodity-ransomware-declines-corporate-attacks-increase/
+	--
+
+[ransomware]
+	 https://www.scmagazine.com/wannacry-dominated-2017-ransomware-landscape-report/article/763247/
+	--
+	 [attacks, ransomware] http://www.securityweek.com/commodity-ransomware-declines-corporate-attacks-increase/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 http://www.securityweek.com/evasive-malware-now-commodity/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'phones', u'dns', u'infosec', u'enterprise', u'patch', u'x-force', u'cybersecurity', u'post', u'manager', u'trend', u'product', u'million', u'hack', u'business', u'social', u'micro', u'vulnerabilities', u'services', u'corruption', u'bulletin', u'issues', u'cloud', u'backdoor', u'view', u'conference']
+6 [u'risk', u'voir', u'features', u'service', u'report', u'ddos', u'test', u'update', u'targets', u'avis', u'file', u'mickael', u'information', u'research', u'iot', u'phishing', u'disclosure', u'into', u'passe', u'email', u'subscribe', u'dorigny']
+7 [u'hacking', u'attacks', u'tous', u'multiples', u'ctf', u'our', u'ios']
+8 [u'call', u'best', u'ibm', u'internet', u'ssd', u'dactualit\xe9', u'folt\xfdn', u'cisco', u'20', u'intelligence', u'linux', u'tom\xe1\u0161', u'google', u'30', u'apple']
+9 [u's\xe9curit\xe9', u'vuln\xe9rabilit\xe9s', u'facebook', u'twitter']
+10 [u'cars', u'full', u'cet', u'microsoft', u'mobile']
+11 [u'10', u'2017', u'cryptocurrency', u'web']
+12 [u'securiteam', u'ransomware', u'windows', u'rsa', u'smart']
+13 [u'new', u'advisory']
+14 [u'privacy']
+15 [u'archive', u'cybercrime']
+19 [u'veille']
+20 [u'blog']
+23 [u'2018']
+55 [u'vigil@nce']
+30 [u'malware']
+
+
