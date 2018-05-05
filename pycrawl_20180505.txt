@@ -1,0 +1,209 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[-] Crawling Exception <urlopen error [Errno 104] Connection reset by peer>>
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://thehackernews.com/2018/05/rowhammer-android-hacking.html/
+	--
+	--
+
+[routers]
+	 http://www.securityweek.com/hackers-target-flaws-affecting-million-internet-exposed-routers/
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://www.scmagazine.com/quad9-executive-director-john-todd-project-now-blocks-2m-threats-daily/article/763774/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 http://www.securityweek.com/indegy-launches-industrial-security-risk-assessment-service/
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://www.welivesecurity.com/2018/05/04/twitter-passwords-glitch/
+	 https://www.scmagazine.com/cryptocurrency/cat-burglar-kitty-cryptominer-targets-web-application-servers-then-spreads-to-app-users/article/763411/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [windows, ransomware] http://www.securityweek.com/gandcrab-ransomware-breaks-windows-7-systems/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.securityweek.com/microsoft-makes-hyper-v-debugging-symbols-public/
+	 https://www.scmagazine.com/microsoft-fixes-critical-rce-bug-in-hcsshim-library/article/763557/
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 https://www.scmagazine.com/survey-large-organizations-improve-against-targeted-attacks-but-continue-to-leave-key-systems-exposed/article/763562/
+	 https://thehackernews.com/2015/03/dram-rowhammer-vulnerability.html/
+	--
+	--
+
+[ransomware]
+	--
+	 [windows, ransomware] http://www.securityweek.com/gandcrab-ransomware-breaks-windows-7-systems/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'dns', u'infosec', u'features', u'enterprise', u'report', u'conference', u'x-force', u'manager', u'france', u'product', u'million', u'business', u'flaws', u'vulnerabilities', u'services', u'threats', u'corruption', u'peu', u'into', u'bulletin', u'issues', u'cloud', u'backdoor', u'passe', u'view']
+6 [u'voir', u'attacks', u'ddos', u'test', u'trend', u'avis', u'multiples', u'file', u'mickael', u'information', u'20', u'micro', u'research', u'iot', u'disclosure', u'app', u'out', u'email', u'subscribe', u'dorigny']
+7 [u'phones', u'internet', u'tous', u'linux', u'ctf', u'our', u'android', u'ios']
+8 [u's\xe9curit\xe9', u'risk', u'call', u'service', u'hacking', u'best', u'ibm', u'ssd', u'dactualit\xe9', u'cisco', u'intelligence', u'vuln\xe9rabilit\xe9s', u'30', u'apple']
+9 [u'ransomware', u'10', u'folt\xfdn', u'tom\xe1\u0161']
+10 [u'cars', u'full', u'cet', u'mobile', u'2017', u'web', u'twitter']
+11 [u'new', u'windows', u'microsoft', u'facebook', u'cryptocurrency']
+12 [u'securiteam', u'rsa', u'smart']
+13 [u'advisory', u'cybercrime']
+14 [u'google', u'privacy']
+15 [u'archive']
+17 [u'blog']
+19 [u'veille']
+23 [u'2018']
+55 [u'vigil@nce']
+29 [u'malware']
+
+
