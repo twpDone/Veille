@@ -1,0 +1,196 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[-] HTTPError HTTP Error 504: Gateway Time-out>
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[-] Crawling Exception <urlopen error [Errno 104] Connection reset by peer>>
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'dns', u'infosec', u'features', u'enterprise', u'report', u'x-force', u'ddos', u'product', u'million', u'business', u'file', u'vulnerabilities', u'threats', u'corruption', u'peu', u'into', u'bulletin', u'issues', u'app', u'cloud', u'backdoor', u'passe', u'view']
+6 [u'voir', u'attacks', u'manager', u'trend', u'ibm', u'avis', u'multiples', u'flaws', u'mickael', u'information', u'20', u'micro', u'research', u'iot', u'disclosure', u'out', u'email', u'subscribe', u'dorigny', u'android', u'ios']
+7 [u'risk', u'phones', u'service', u'internet', u'tous', u'linux', u'vuln\xe9rabilit\xe9s', u'ctf', u'our']
+8 [u's\xe9curit\xe9', u'hacking', u'best', u'10', u'ssd', u'dactualit\xe9', u'cisco', u'intelligence', u'30', u'apple']
+9 [u'ransomware', u'folt\xfdn', u'tom\xe1\u0161', u'2017']
+10 [u'cars', u'full', u'cet', u'windows', u'mobile', u'twitter']
+11 [u'microsoft', u'facebook', u'cryptocurrency', u'web']
+12 [u'securiteam', u'new', u'google', u'rsa', u'smart']
+13 [u'advisory', u'cybercrime', u'privacy']
+16 [u'blog']
+19 [u'veille']
+22 [u'2018']
+55 [u'vigil@nce']
+26 [u'malware']
+
+
