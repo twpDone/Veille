@@ -1,0 +1,223 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[-] Crawling Exception <urlopen error [Errno 104] Connection reset by peer>>
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, microsoft] https://thehackernews.com/2018/05/microsoft-patch-tuesday.html/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	 http://www.globalsecuritymag.com/Hitachi-Vantara-Unveils-Industry,20180509,78519/
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Joomla-Fastball-SQL,20180508,78481/
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Joomla-DT-Register-SQL,20180508,78483/
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 http://www.securityfocus.com/archive/1/542002/
+	--
+	--
+
+[faille]
+	--
+	 [faille, linux, windows] http://www.zdnet.fr/actualites/windows-macos-linux-et-bsd-partagent-une-meme-faille-39868008.htm/
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-226/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-224/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-228/
+	--
+	 [faille, linux, windows] http://www.zdnet.fr/actualites/windows-macos-linux-et-bsd-partagent-une-meme-faille-39868008.htm/
+	--
+
+[cloud]
+	 https://helpx.adobe.com/security/products/creative-cloud/apsb18-12.html/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [faille, linux, windows] http://www.zdnet.fr/actualites/windows-macos-linux-et-bsd-partagent-une-meme-faille-39868008.htm/
+	--
+
+[phishing]
+	 https://www.welivesecurity.com/2018/05/09/inside-fake-interac-transfer/
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-222/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-223/
+	 http://www.zdnet.fr/actualites/microsoft-store-95-des-revenus-pour-les-developpeurs-mais-des-limites-39867990.htm/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/microsoft/
+	--
+	 [attack, microsoft] https://thehackernews.com/2018/05/microsoft-patch-tuesday.html/
+	--
+
+[breach]
+	 https://www.scmagazine.com/the-incident-resulted-from-a-phishing-attack-which-compromised-employee-email-accounts-and-left-the-information-of-at-least-16429-people/article/764830/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/network-security/office-365-defenses-vulnerable-to-basestriker-malware/article/764475/
+	--
+	--
+
+[vigil@nce]
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-IBM-Notes-executing-DLL,20180509,78493/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-IBM-Notes-executing-DLL,20180509,78493.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-IBM-Notes-executing-DLL,20180509,78492.html/
+	--
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Joomla-Fastball-SQL,20180508,78481/
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Joomla-DT-Register-SQL,20180508,78483/
+	--
+
+
+ KeyWords : 
+64 [u'vigil@nce']
+5 [u'cnet', u'phones', u'vulnerability', u'dns', u'infosec', u'macos', u'network', u'faille', u'conference', u'chrome', u'x-force', u'masse', u'ddos', u'flash', u'product', u'into', u'server', u'business', u'information', u'20', u'threat', u'hackers', u'code', u'out', u'backdoor', u'passe', u'view', u'email']
+6 [u'voir', u'securiteam', u'scripting', u'attacks', u'avis', u'xml', u'flaws', u'mickael', u'research', u'center', u'phishing', u'scams', u'bulletin', u'breach', u'facebook', u'apple', u'cloud', u'subscribe', u'dorigny', u'iot']
+7 [u'patches', u'risk', u'hacking', u'advisory', u'report', u'cybersecurity', u'says', u'10', u'tous', u'file', u'vulnerabilities', u'ctf', u'our']
+8 [u's\xe9curit\xe9', u'best', u'ibm', u'dactualit\xe9', u'cisco', u'intelligence', u'30', u'cross']
+9 [u'call', u'wordpress', u'folt\xfdn', u'tom\xe1\u0161', u'rsa', u'twitter']
+10 [u'new', u'internet', u'cars', u'multiples', u'blog', u'cet', u'2017', u'cryptocurrency', u'android', u'web']
+11 [u'ransomware', u'full', u'vuln\xe9rabilit\xe9s', u'windows', u'smart']
+12 [u'mobile', u'linux', u'cybercrime']
+13 [u'microsoft']
+14 [u'google']
+15 [u'sql', u'archive', u'injection']
+16 [u'privacy']
+17 [u'joomla']
+18 [u'2018']
+19 [u'veille']
+28 [u'malware']
+
+
