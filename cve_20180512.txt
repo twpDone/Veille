@@ -1,0 +1,522 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-10039
+2018-05-09T16:50:49.080-04:00	:CVE-2014-10039 (Score:10.0)['cpe:/o:qualcomm:mdm9625_firmware:-', 'cpe:/o:qualcomm:sd_400_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-10045
+2018-05-09T13:40:49.440-04:00	:CVE-2014-10045 (Score:10.0)['cpe:/o:qualcomm:sd_616_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-10046
+2018-05-09T13:40:12.017-04:00	:CVE-2014-10046 (Score:10.0)['cpe:/o:qualcomm:sd_800_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-10048
+2018-05-09T13:38:15.747-04:00	:CVE-2014-10048 (Score:10.0)['cpe:/o:qualcomm:sd_820_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-10050
+2018-05-09T13:37:51.623-04:00	:CVE-2014-10050 (Score:10.0)['cpe:/o:qualcomm:msm8996_firmware:-', 'cpe:/o:qualcomm:sdm660_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-10051
+2018-05-09T16:52:21.000-04:00	:CVE-2014-10051 (Score:10.0)['cpe:/o:qualcomm:sd_410_firmware:-', 'cpe:/o:qualcomm:sd_412_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-10052
+2018-05-10T12:24:37.213-04:00	:CVE-2014-10052 (Score:10.0)['cpe:/o:qualcomm:sd_810_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-10053
+2018-05-09T16:52:38.267-04:00	:CVE-2014-10053 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-10054
+2018-05-09T13:36:58.103-04:00	:CVE-2014-10054 (Score:10.0)['cpe:/o:qualcomm:sd_810_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-10056
+2018-05-09T16:53:42.043-04:00	:CVE-2014-10056 (Score:10.0)['cpe:/o:qualcomm:sd_205_firmware:-', 'cpe:/o:qualcomm:sd_210_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-10057
+2018-05-09T16:54:17.843-04:00	:CVE-2014-10057 (Score:10.0)['cpe:/o:qualcomm:sd_435_firmware:-', 'cpe:/o:qualcomm:sd_617_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-10059
+2018-05-09T13:33:19.267-04:00	:CVE-2014-10059 (Score:10.0)['cpe:/o:qualcomm:sd_212_firmware:-', 'cpe:/o:qualcomm:sd_400_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-6120
+2018-05-11T10:00:55.067-04:00	:CVE-2014-6120 (Score:10.0)['cpe:/a:ibm:security_appscan_source:9.0.0.0', 'cpe:/a:ibm:security_appscan_source:9.0.0.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9953
+2018-05-08T09:28:01.223-04:00	:CVE-2014-9953 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9954
+2018-05-08T09:30:03.023-04:00	:CVE-2014-9954 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9955
+2018-05-08T09:28:23.223-04:00	:CVE-2014-9955 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9956
+2018-05-08T09:29:45.727-04:00	:CVE-2014-9956 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9957
+2018-05-08T09:29:28.210-04:00	:CVE-2014-9957 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9958
+2018-05-08T09:30:25.587-04:00	:CVE-2014-9958 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9959
+2018-05-08T09:30:50.900-04:00	:CVE-2014-9959 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9985
+2018-05-09T13:18:33.740-04:00	:CVE-2014-9985 (Score:10.0)['cpe:/o:qualcomm:mdm9635m_firmware:-', 'cpe:/o:qualcomm:sd_400_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9987
+2018-05-09T13:17:53.753-04:00	:CVE-2014-9987 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9988
+2018-05-09T16:57:54.570-04:00	:CVE-2014-9988 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9989
+2018-05-11T10:05:25.517-04:00	:CVE-2014-9989 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9990
+2018-05-09T13:17:31.237-04:00	:CVE-2014-9990 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9991
+2018-05-09T13:17:08.720-04:00	:CVE-2014-9991 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9993
+2018-05-09T13:16:48.953-04:00	:CVE-2014-9993 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9994
+2018-05-09T13:16:33.997-04:00	:CVE-2014-9994 (Score:10.0)['cpe:/o:qualcomm:sd_400_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9995
+2018-05-09T13:16:22.543-04:00	:CVE-2014-9995 (Score:10.0)['cpe:/o:qualcomm:sd_400_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9996
+2018-05-09T13:16:06.153-04:00	:CVE-2014-9996 (Score:10.0)['cpe:/o:qualcomm:sd_400_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9997
+2018-05-09T16:58:29.933-04:00	:CVE-2014-9997 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2014-9998
+2018-05-09T13:15:32.423-04:00	:CVE-2014-9998 (Score:10.0)['cpe:/o:qualcomm:sd_810_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9008
+2018-05-08T09:31:40.200-04:00	:CVE-2015-9008 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9009
+2018-05-08T09:32:04.217-04:00	:CVE-2015-9009 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9010
+2018-05-08T09:32:27.200-04:00	:CVE-2015-9010 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9011
+2018-05-08T09:33:19.343-04:00	:CVE-2015-9011 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9012
+2018-05-08T09:33:37.877-04:00	:CVE-2015-9012 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9013
+2018-05-08T09:33:59.970-04:00	:CVE-2015-9013 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9014
+2018-05-08T09:34:22.207-04:00	:CVE-2015-9014 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9108
+2018-05-09T13:15:06.733-04:00	:CVE-2015-9108 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9109
+2018-05-09T13:09:53.997-04:00	:CVE-2015-9109 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9110
+2018-05-09T13:06:27.070-04:00	:CVE-2015-9110 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9111
+2018-05-09T13:06:06.540-04:00	:CVE-2015-9111 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9112
+2018-05-09T12:59:45.313-04:00	:CVE-2015-9112 (Score:10.0)['cpe:/o:qualcomm:sd_800_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9113
+2018-05-09T12:59:21.547-04:00	:CVE-2015-9113 (Score:10.0)['cpe:/o:qualcomm:sd_810_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9114
+2018-05-09T12:58:46.430-04:00	:CVE-2015-9114 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9115
+2018-05-09T12:58:28.663-04:00	:CVE-2015-9115 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9116
+2018-05-09T12:57:15.803-04:00	:CVE-2015-9116 (Score:10.0)['cpe:/o:qualcomm:sd_810_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9118
+2018-05-09T12:56:11.957-04:00	:CVE-2015-9118 (Score:10.0)['cpe:/o:qualcomm:sd_800_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9120
+2018-05-09T16:59:17.687-04:00	:CVE-2015-9120 (Score:10.0)['cpe:/o:qualcomm:sd_820_firmware:-', 'cpe:/o:qualcomm:sd_820a_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9122
+2018-05-10T12:34:22.767-04:00	:CVE-2015-9122 (Score:10.0)['cpe:/o:qualcomm:sd_810_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9124
+2018-05-09T16:59:57.380-04:00	:CVE-2015-9124 (Score:8.5)['cpe:/o:qualcomm:sd_800_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9126
+2018-05-09T17:00:13.303-04:00	:CVE-2015-9126 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9127
+2018-05-10T12:24:12.180-04:00	:CVE-2015-9127 (Score:10.0)['cpe:/o:qualcomm:sd_615_firmware:-', 'cpe:/o:qualcomm:sd_616_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9128
+2018-05-09T17:11:59.320-04:00	:CVE-2015-9128 (Score:10.0)['cpe:/o:qualcomm:sd_820a_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9129
+2018-05-10T12:22:17.657-04:00	:CVE-2015-9129 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9130
+2018-05-08T09:01:52.683-04:00	:CVE-2015-9130 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9133
+2018-05-09T17:07:14.937-04:00	:CVE-2015-9133 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_800_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9135
+2018-05-10T12:24:20.887-04:00	:CVE-2015-9135 (Score:10.0)['cpe:/o:qualcomm:sd_800_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9136
+2018-05-11T10:05:42.733-04:00	:CVE-2015-9136 (Score:10.0)['cpe:/o:qualcomm:sd_820_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9138
+2018-05-09T17:06:08.223-04:00	:CVE-2015-9138 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9139
+2018-05-09T17:05:39.880-04:00	:CVE-2015-9139 (Score:10.0)['cpe:/o:qualcomm:sd_808_firmware:-', 'cpe:/o:qualcomm:sd_810_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9141
+2018-05-09T12:54:54.300-04:00	:CVE-2015-9141 (Score:10.0)['cpe:/o:qualcomm:sd_800_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9142
+2018-05-09T12:52:52.170-04:00	:CVE-2015-9142 (Score:10.0)['cpe:/o:qualcomm:sdm630_firmware:-', 'cpe:/o:qualcomm:sdm636_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9143
+2018-05-09T12:47:08.860-04:00	:CVE-2015-9143 (Score:10.0)['cpe:/o:qualcomm:sd_615_firmware:-', 'cpe:/o:qualcomm:sd_616_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9144
+2018-05-09T17:02:55.337-04:00	:CVE-2015-9144 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9145
+2018-05-10T12:41:26.120-04:00	:CVE-2015-9145 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9146
+2018-05-09T12:46:47.110-04:00	:CVE-2015-9146 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9147
+2018-05-09T12:46:26.967-04:00	:CVE-2015-9147 (Score:10.0)['cpe:/o:qualcomm:mdm9635m_firmware:-', 'cpe:/o:qualcomm:sd_400_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9148
+2018-05-09T12:45:11.543-04:00	:CVE-2015-9148 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9149
+2018-05-09T13:03:20.010-04:00	:CVE-2015-9149 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9150
+2018-05-09T12:44:46.573-04:00	:CVE-2015-9150 (Score:10.0)['cpe:/o:qualcomm:mdm9635m_firmware:-', 'cpe:/o:qualcomm:sd_400_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9151
+2018-05-09T12:18:45.940-04:00	:CVE-2015-9151 (Score:10.0)['cpe:/o:qualcomm:mdm9635m_firmware:-', 'cpe:/o:qualcomm:sd_400_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9152
+2018-05-09T12:19:09.507-04:00	:CVE-2015-9152 (Score:10.0)['cpe:/o:qualcomm:sd_820_firmware:-', 'cpe:/o:qualcomm:sd_820a_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9153
+2018-05-09T12:22:36.500-04:00	:CVE-2015-9153 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9156
+2018-05-09T12:23:00.643-04:00	:CVE-2015-9156 (Score:10.0)['cpe:/o:qualcomm:sd_800_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9157
+2018-05-10T12:36:00.103-04:00	:CVE-2015-9157 (Score:10.0)['cpe:/o:qualcomm:sd_800_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9158
+2018-05-09T12:23:14.803-04:00	:CVE-2015-9158 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9159
+2018-05-09T12:23:51.430-04:00	:CVE-2015-9159 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9160
+2018-05-09T12:25:31.520-04:00	:CVE-2015-9160 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9161
+2018-05-09T12:26:19.570-04:00	:CVE-2015-9161 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9162
+2018-05-09T12:26:46.620-04:00	:CVE-2015-9162 (Score:10.0)['cpe:/o:qualcomm:sd_800_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9164
+2018-05-09T12:30:29.107-04:00	:CVE-2015-9164 (Score:10.0)['cpe:/o:qualcomm:sd_810_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9165
+2018-05-09T12:31:12.470-04:00	:CVE-2015-9165 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9167
+2018-05-09T12:35:11.610-04:00	:CVE-2015-9167 (Score:10.0)['cpe:/o:qualcomm:sd_810_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9170
+2018-05-09T12:35:57.597-04:00	:CVE-2015-9170 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9171
+2018-05-09T11:31:48.497-04:00	:CVE-2015-9171 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9172
+2018-05-09T11:32:19.357-04:00	:CVE-2015-9172 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9173
+2018-05-09T11:31:09.480-04:00	:CVE-2015-9173 (Score:10.0)['cpe:/o:qualcomm:sd_800_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9174
+2018-05-09T11:30:43.697-04:00	:CVE-2015-9174 (Score:10.0)['cpe:/o:qualcomm:sd_800_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9175
+2018-05-09T11:29:24.850-04:00	:CVE-2015-9175 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9177
+2018-05-09T11:28:39.037-04:00	:CVE-2015-9177 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9178
+2018-05-09T11:27:58.830-04:00	:CVE-2015-9178 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9179
+2018-05-09T11:26:52.013-04:00	:CVE-2015-9179 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9180
+2018-05-09T11:26:23.590-04:00	:CVE-2015-9180 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9181
+2018-05-09T17:02:29.737-04:00	:CVE-2015-9181 (Score:10.0)['cpe:/o:qualcomm:sd_820_firmware:-', 'cpe:/o:qualcomm:sd_820a_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9182
+2018-05-10T12:38:22.813-04:00	:CVE-2015-9182 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9183
+2018-05-09T11:26:02.183-04:00	:CVE-2015-9183 (Score:10.0)['cpe:/o:qualcomm:sd_800_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9184
+2018-05-09T11:25:25.120-04:00	:CVE-2015-9184 (Score:10.0)['cpe:/o:qualcomm:sd_820_firmware:-', 'cpe:/o:qualcomm:sd_820a_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9185
+2018-05-09T11:24:55.493-04:00	:CVE-2015-9185 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9186
+2018-05-09T11:24:32.540-04:00	:CVE-2015-9186 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9187
+2018-05-09T11:24:14.490-04:00	:CVE-2015-9187 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9188
+2018-05-09T17:01:53.510-04:00	:CVE-2015-9188 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9190
+2018-05-09T11:23:29.613-04:00	:CVE-2015-9190 (Score:10.0)['cpe:/o:qualcomm:sd_616_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9191
+2018-05-09T11:18:09.017-04:00	:CVE-2015-9191 (Score:10.0)['cpe:/o:qualcomm:sd_808_firmware:-', 'cpe:/o:qualcomm:sd_810_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9192
+2018-05-09T11:10:28.297-04:00	:CVE-2015-9192 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9195
+2018-05-09T11:01:00.333-04:00	:CVE-2015-9195 (Score:10.0)['cpe:/o:qualcomm:sd_808_firmware:-', 'cpe:/o:qualcomm:sd_810_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9196
+2018-05-09T11:00:44.003-04:00	:CVE-2015-9196 (Score:10.0)['cpe:/o:qualcomm:mdm9635m_firmware:-', 'cpe:/o:qualcomm:sd_400_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9197
+2018-05-09T10:59:19.803-04:00	:CVE-2015-9197 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9198
+2018-05-09T10:58:54.883-04:00	:CVE-2015-9198 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9199
+2018-05-09T10:58:16.990-04:00	:CVE-2015-9199 (Score:10.0)['cpe:/o:qualcomm:sd_810_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9200
+2018-05-09T10:49:53.650-04:00	:CVE-2015-9200 (Score:10.0)['cpe:/o:qualcomm:sd_650_firmware:-', 'cpe:/o:qualcomm:sd_652_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9201
+2018-05-09T10:43:32.580-04:00	:CVE-2015-9201 (Score:10.0)['cpe:/o:qualcomm:sd_820a_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9202
+2018-05-09T10:40:55.420-04:00	:CVE-2015-9202 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9203
+2018-05-09T10:40:30.623-04:00	:CVE-2015-9203 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9204
+2018-05-09T10:39:52.980-04:00	:CVE-2015-9204 (Score:10.0)['cpe:/o:qualcomm:sd_616_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9205
+2018-05-09T10:38:17.587-04:00	:CVE-2015-9205 (Score:10.0)['cpe:/o:qualcomm:sd_616_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9206
+2018-05-09T10:34:04.547-04:00	:CVE-2015-9206 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9207
+2018-05-09T10:32:57.607-04:00	:CVE-2015-9207 (Score:10.0)['cpe:/o:qualcomm:sd_800_firmware:-', 'cpe:/o:qualcomm:sd_808_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9208
+2018-05-09T10:32:09.637-04:00	:CVE-2015-9208 (Score:10.0)['cpe:/o:qualcomm:sd_616_firmware:-', 'cpe:/o:qualcomm:sd_800_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9209
+2018-05-09T10:30:24.537-04:00	:CVE-2015-9209 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9210
+2018-05-09T10:29:36.957-04:00	:CVE-2015-9210 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9211
+2018-05-09T10:29:09.847-04:00	:CVE-2015-9211 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9212
+2018-05-09T10:28:33.377-04:00	:CVE-2015-9212 (Score:10.0)['cpe:/o:qualcomm:sd_410_firmware:-', 'cpe:/o:qualcomm:sd_412_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10230
+2018-05-04T15:14:18.057-04:00	:CVE-2016-10230 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10231
+2018-05-04T15:14:59.717-04:00	:CVE-2016-10231 (Score:9.3)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10232
+2018-05-04T15:13:46.963-04:00	:CVE-2016-10232 (Score:9.3)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10233
+2018-05-04T15:12:21.313-04:00	:CVE-2016-10233 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10298
+2018-05-04T15:10:35.807-04:00	:CVE-2016-10298 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10299
+2018-05-04T15:10:10.490-04:00	:CVE-2016-10299 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-10471
+2018-05-09T10:22:20.897-04:00	:CVE-2016-10471 (Score:10.0)['cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-6811
+2018-05-10T09:12:10.290-04:00	:CVE-2016-6811 (Score:9.0)['cpe:/a:apache:hadoop:2.7.1', 'cpe:/a:apache:hadoop:2.7.2']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-8484
+2018-05-04T15:09:52.537-04:00	:CVE-2016-8484 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-8487
+2018-05-04T15:08:26.713-04:00	:CVE-2016-8487 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-8488
+2018-05-04T15:08:05.743-04:00	:CVE-2016-8488 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-8717
+2018-05-08T11:06:23.287-04:00	:CVE-2016-8717 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13248
+2018-05-09T08:52:40.773-04:00	:CVE-2017-13248 (Score:9.3)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13249
+2018-05-09T08:49:43.833-04:00	:CVE-2017-13249 (Score:9.3)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13250
+2018-05-09T08:49:12.690-04:00	:CVE-2017-13250 (Score:9.3)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13251
+2018-05-08T13:16:07.007-04:00	:CVE-2017-13251 (Score:9.3)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13252
+2018-05-08T13:15:33.363-04:00	:CVE-2017-13252 (Score:9.3)['cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13253
+2018-05-08T12:59:10.197-04:00	:CVE-2017-13253 (Score:9.3)['cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13255
+2018-05-08T12:58:05.557-04:00	:CVE-2017-13255 (Score:8.3)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13256
+2018-05-08T12:47:15.627-04:00	:CVE-2017-13256 (Score:8.3)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13266
+2018-05-08T12:13:39.370-04:00	:CVE-2017-13266 (Score:10.0)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13267
+2018-05-09T10:09:46.127-04:00	:CVE-2017-13267 (Score:10.0)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13272
+2018-05-08T12:13:16.290-04:00	:CVE-2017-13272 (Score:10.0)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13277
+2018-05-09T09:27:10.240-04:00	:CVE-2017-13277 (Score:9.3)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13281
+2018-05-09T09:15:29.713-04:00	:CVE-2017-13281 (Score:10.0)['cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13282
+2018-05-09T09:10:37.537-04:00	:CVE-2017-13282 (Score:10.0)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13283
+2018-05-09T09:10:17.783-04:00	:CVE-2017-13283 (Score:10.0)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13284
+2018-05-09T09:02:25.337-04:00	:CVE-2017-13284 (Score:10.0)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13285
+2018-05-09T09:00:55.127-04:00	:CVE-2017-13285 (Score:10.0)['cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13292
+2018-05-10T12:16:38.047-04:00	:CVE-2017-13292 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-13827
+2018-05-04T11:21:21.927-04:00	:CVE-2017-13827 (Score:9.3)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-15822
+2018-05-08T11:49:38.133-04:00	:CVE-2017-15822 (Score:8.3)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-17770
+2018-05-08T11:19:48.607-04:00	:CVE-2017-17770 (Score:9.3)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18132
+2018-05-11T07:36:55.387-04:00	:CVE-2017-18132 (Score:10.0)['cpe:/o:qualcomm:mdm9206_firmware:-', 'cpe:/o:qualcomm:mdm9607_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18134
+2018-05-11T07:37:02.530-04:00	:CVE-2017-18134 (Score:10.0)['cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18135
+2018-05-11T07:37:10.217-04:00	:CVE-2017-18135 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18136
+2018-05-11T14:10:01.170-04:00	:CVE-2017-18136 (Score:10.0)['cpe:/o:qualcomm:sd_820a_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18137
+2018-05-11T07:35:13.477-04:00	:CVE-2017-18137 (Score:10.0)['cpe:/o:qualcomm:sd_810_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18138
+2018-05-11T14:10:18.420-04:00	:CVE-2017-18138 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18139
+2018-05-11T14:15:13.057-04:00	:CVE-2017-18139 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18140
+2018-05-11T14:11:00.970-04:00	:CVE-2017-18140 (Score:10.0)['cpe:/o:qualcomm:sd_820a_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18142
+2018-05-11T07:37:17.797-04:00	:CVE-2017-18142 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18145
+2018-05-11T14:12:55.317-04:00	:CVE-2017-18145 (Score:10.0)['cpe:/o:qualcomm:sd_820_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-8274
+2018-05-11T14:16:15.543-04:00	:CVE-2017-8274 (Score:10.0)['cpe:/o:qualcomm:sd_625_firmware:-', 'cpe:/o:qualcomm:sd_650_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-8275
+2018-05-11T14:11:37.237-04:00	:CVE-2017-8275 (Score:10.0)['cpe:/o:qualcomm:sd_808_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-1469
+2018-05-11T13:33:27.560-04:00	:CVE-2018-1469 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3592
+2018-05-11T07:35:28.493-04:00	:CVE-2018-3592 (Score:10.0)['cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4136
+2018-05-04T09:16:45.763-04:00	:CVE-2018-4136 (Score:9.3)['cpe:/o:apple:mac_os_x:10.12.5', 'cpe:/o:apple:mac_os_x:10.12.6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4160
+2018-05-04T10:42:48.227-04:00	:CVE-2018-4160 (Score:9.3)['cpe:/o:apple:mac_os_x:10.12.5', 'cpe:/o:apple:mac_os_x:10.12.6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4164
+2018-05-04T10:41:24.253-04:00	:CVE-2018-4164 (Score:10.0)['cpe:/a:apple:xcode:7.1.1', 'cpe:/a:apple:xcode:7.2.1']
