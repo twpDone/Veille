@@ -1,0 +1,200 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[-] Crawling Exception <urlopen error [Errno 104] Connection reset by peer>>
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	 [linux, windows] https://thehackernews.com/2018/05/signal-messenger-vulnerability.html/
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [linux, windows] https://thehackernews.com/2018/05/signal-messenger-vulnerability.html/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 http://www.securityweek.com/nigelthorn-malware-infects-over-100000-systems/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+64 [u'vigil@nce']
+5 [u'patches', u'cnet', u'dns', u'infosec', u'service', u'hacking', u'x-force', u'attacks', u'ne', u'update', u'trend', u'product', u'exploit', u'business', u'social', u'through', u'20', u'micro', u'uk', u'code', u'breach', u'access', u'cloud', u'backdoor', u'passe', u'view', u'email', u'conference']
+6 [u'risk', u'voir', u'securiteam', u'vulnerability', u'scripting', u'network', u'chrome', u'cybersecurity', u'ddos', u'avis', u'into', u'internet', u'xml', u'file', u'mickael', u'research', u'center', u'scams', u'bulletin', u'facebook', u'subscribe', u'dorigny']
+7 [u'after', u'advisory', u'ransomware', u'tous', u'threat', u'30', u'ctf', u'rsa', u'iot']
+8 [u's\xe9curit\xe9', u'best', u'dactualit\xe9', u'cisco', u'intelligence', u'phishing', u'our', u'cross', u'web', u'twitter']
+9 [u'call', u'report', u'wordpress', u'ibm', u'folt\xfdn', u'linux', u'tom\xe1\u0161', u'apple', u'cryptocurrency', u'android']
+10 [u'cars', u'10', u'multiples', u'blog', u'cet', u'vulnerabilities']
+11 [u'full', u'microsoft', u'vuln\xe9rabilit\xe9s', u'windows', u'2017', u'smart']
+12 [u'mobile', u'cybercrime']
+13 [u'new', u'google']
+14 [u'privacy']
+15 [u'archive']
+16 [u'sql', u'injection']
+17 [u'joomla', u'2018']
+19 [u'veille']
+30 [u'malware']
+
+
