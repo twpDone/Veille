@@ -1,0 +1,214 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 http://www.securityfocus.com/archive/1/542019/
+	--
+	 [injection, linux] http://www.securityweek.com/critical-command-injection-flaw-patched-red-hat-linux/
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 http://www.globalsecuritymag.com/Rapid7-Quarterly-Threat-Report,20180516,78614.html/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/author/trend-micro-advanced-threats-researchers/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	 [injection, linux] http://www.securityweek.com/critical-command-injection-flaw-patched-red-hat-linux/
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	 https://bit.ly/signal-exploit-poc/
+	--
+	 [exploit, windows] https://www.scmagazine.com/vulnerabilities/pdf-exploit-built-to-combine-zero-day-windows-and-adobe-reader-bugs/article/766100/
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 http://www.securityweek.com/malicious-pdf-leads-discovery-adobe-reader-windows-zero-days/
+	--
+	 [exploit, windows] https://www.scmagazine.com/vulnerabilities/pdf-exploit-built-to-combine-zero-day-windows-and-adobe-reader-bugs/article/766100/
+	--
+
+[phishing]
+	 https://threatpost.com/phishing-campaign-targeted-top-officials-with-surveillance-ware-tools/131994/
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 https://www.welivesecurity.com/2018/05/16/criminal-hacking-big-risk-health-safety-prosperity/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://thehackernews.com/2018/04/outlook-smb-vulnerability.html/
+	 http://www.zdnet.fr/actualites/microsoft-pret-a-lancer-des-surface-plus-petites-et-low-cost-39868314.htm/
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	 http://www.securityweek.com/serbia-arrests-fbi-sought-cybercrime-suspect/
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://threatpost.com/secrets-of-the-wiper-inside-the-worlds-most-destructive-malware/131836/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'patches', u'cnet', u'infosec', u'service', u'backdoor', u'stop', u'report', u'x-force', u'ics', u'attacks', u'ddos', u'team', u'internet', u'million', u'awards', u'exploit', u'intel', u'business', u'file', u'social', u'flaws', u'20', u'center', u'banking', u'scams', u'kernels', u'signal', u'senate', u'into', u'up', u'bulletin', u'brook', u'passe', u'view', u'subscribe']
+6 [u'voir', u'secure', u'dns', u'hacking', u'ransomware', u'chrome', u'hijacked', u'product', u'avis', u'hacks', u'log', u'podcast', u'mickael', u'micro', u'research', u'threat', u'threats', u'source', u'advisory', u'breach', u'access', u'firefox', u'app', u'cloud', u'os', u'rsa', u'dorigny', u'2016', u'bug']
+7 [u'call', u'adobe', u'cybersecurity', u'trend', u'tous', u'multiples', u'bugs', u'major', u'targets', u'30', u'ctf', u'apple', u'our', u'email', u'podcasts', u'twitter', u'conference']
+8 [u'risk', u'top', u'best', u'dactualit\xe9', u'blog', u'cisco', u'intelligence', u'linux', u'cryptocurrency', u'android']
+9 [u'scripting', u'critical', u'vuln\xe9rabilit\xe9s', u'out', u'iot']
+10 [u's\xe9curit\xe9', u'cars', u'folt\xfdn', u'full', u'cet', u'phishing', u'tom\xe1\u0161', u'2017', u'smart']
+11 [u'vulnerability', u'ibm', u'10', u'microsoft']
+12 [u'windows', u'facebook']
+13 [u'new', u'code', u'cybercrime', u'web']
+14 [u'cross']
+15 [u'wordpress', u'archive']
+16 [u'privacy']
+17 [u'vulnerabilities']
+18 [u'mobile']
+19 [u'sql', u'veille', u'google', u'2018']
+20 [u'joomla']
+25 [u'injection']
+37 [u'malware']
+71 [u'vigil@nce']
+
+
