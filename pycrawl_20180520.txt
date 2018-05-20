@@ -1,0 +1,200 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://threatpost.com/telegrab-malware-steals-telegram-desktop-messaging-sessions-steam-credentials/132079/#li-comment-633714/
+	 https://threatpost.com/telegrab-malware-steals-telegram-desktop-messaging-sessions-steam-credentials/132079/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'solution', u'dns', u'infosec', u'free', u'service', u'enterprise', u'ransomware', u'stop', u'chrome', u'x-force', u'mexico', u'ics', u'ng', u'odonnell', u'lindsey', u'millions', u'alfred', u'white', u'awards', u'pas', u'hacks', u'business', u'log', u'file', u'social', u'door', u'technology', u'response', u'20', u'services', u'scams', u'hackers', u'desktop', u'bulletin', u'app', u'brook', u'system', u'cryptocurrency', u'view', u'subscribe', u'2016']
+6 [u'voir', u'hacking', u'report', u'ddos', u'team', u'product', u'mais', u'avis', u'internet', u'network', u'mickael', u'micro', u'research', u'threat', u'center', u'targets', u'banking', u'donn\xe9es', u'into', u'opens', u'advisory', u'apple', u'backdoor', u'dorigny', u'apps']
+7 [u'risk', u'after', u'trend', u'10', u'tous', u'multiples', u'server', u'microsoft', u'source', u'breach', u'facebook', u'30', u'ctf', u'this', u'our', u'email', u'twitter', u'conference']
+8 [u'top', u'cybersecurity', u'attacks', u'dactualit\xe9', u'blog', u'flaw', u'cloud', u'out', u'podcasts', u'android', u'iot', u'bug']
+9 [u'secure', u'call', u'scripting', u'best', u'intelligence', u'vuln\xe9rabilit\xe9s', u'windows', u'access']
+10 [u'ibm', u'cars', u'cisco', u'critical', u'cet', u'phishing', u'code', u'2017', u'smart']
+11 [u'vulnerability', u'folt\xfdn', u'podcast', u'linux', u'tom\xe1\u0161']
+12 [u'cross', u'web']
+13 [u's\xe9curit\xe9', u'wordpress']
+14 [u'full', u'cybercrime']
+15 [u'archive', u'vulnerabilities']
+16 [u'2018', u'privacy']
+17 [u'new', u'mobile']
+18 [u'sql', u'google']
+19 [u'joomla', u'veille']
+23 [u'injection']
+33 [u'malware']
+68 [u'vigil@nce']
+
+
