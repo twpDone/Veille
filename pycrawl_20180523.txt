@@ -1,0 +1,211 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [service, breach] https://www.scmagazine.com/jay-zs-tidal-streaming-service-discloses-breach-while-denying-number-fudging-accusations/article/767483/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-248/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-IBM-MQ-Cross-Site,20180522,78722.html/
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.securityweek.com/im-sorry-facebook-boss-tells-european-lawmakers/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/guerre-des-brevets-apple-a-samsung-le-design-de-l-iphone-vous-coutera-1-milliard-de-dollars-39868454.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/microsoft-veut-bloquer-les-contenus-flash-dans-office-365-39868520.htm/
+	 http://www.zdnet.fr/actualites/spectre-de-nouvelles-failles-identifiees-par-google-et-microsoft-39868490.htm/
+	 https://blogs.technet.microsoft.com/srd/2018/05/21/analysis-and-mitigation-of-speculative-store-bypass-cve-2018-3639/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/data-breach/speech-recognition-software-firm-breach-exposes-thousands-of-patient-records/article/767531/
+	--
+	 [service, breach] https://www.scmagazine.com/jay-zs-tidal-streaming-service-discloses-breach-while-denying-number-fudging-accusations/article/767483/
+	--
+
+[attacks]
+	 https://threatpost.com/banking-apps-found-vulnerable-to-mitm-attacks/129105/#li-comment-633842/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.scmagazine.com/trumps-mobile-phone-security-questioned/article/767891/
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-IBM-MQ-Cross-Site,20180522,78722.html/
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'credentials', u'secure', u'infosec', u'after', u'law', u'features', u'enterprise', u'ransomware', u'x-force', u'ics', u'awards', u'technology', u'business', u'file', u'threat', u'bulletin', u'brook', u'backdoor', u'cryptocurrency', u'view', u'subscribe', u'2016', u'alexa', u'bug']
+6 [u'voir', u'hacking', u'report', u'attacks', u'ni', u'product', u'avis', u'internet', u'tous', u'desktop', u'log', u'network', u'social', u'mickael', u'spectre', u'source', u'breach', u'access', u'apple', u'this', u'email', u'dorigny', u'center', u'twitter']
+7 [u'risk', u'dns', u'top', u'conference', u'eu', u'10', u'blog', u'micro', u'research', u'windows', u'banking', u'advisory', u'30', u'ctf', u'our', u'out', u'android', u'iot']
+8 [u'call', u'service', u'trend', u'dactualit\xe9', u'cisco', u'intelligence', u'phishing', u'linux', u'into', u'code', u'cloud', u'2017', u'podcasts', u'apps']
+9 [u'best', u'critical']
+10 [u'vulnerability', u'cybersecurity', u'ibm', u'folt\xfdn', u'multiples', u'cet', u'tom\xe1\u0161', u'smart']
+11 [u's\xe9curit\xe9', u'scripting', u'cars', u'facebook']
+12 [u'podcast', u'full', u'flaw']
+13 [u'wordpress']
+14 [u'new', u'vuln\xe9rabilit\xe9s', u'cybercrime', u'cross', u'web']
+15 [u'archive']
+17 [u'joomla', u'sql', u'vulnerabilities']
+18 [u'2018']
+19 [u'veille', u'microsoft', u'mobile', u'privacy']
+20 [u'injection']
+24 [u'google']
+32 [u'malware']
+70 [u'vigil@nce']
+
+
