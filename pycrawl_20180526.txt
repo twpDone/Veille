@@ -1,0 +1,221 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	 [access, linux] https://threatpost.com/critical-linux-flaw-opens-the-door-to-full-root-access/132034/#li-comment-633954/
+	--
+
+[attack]
+	 https://thehackernews.com/2018/05/z-wave-wireless-hacking.html/
+	--
+	--
+
+[routers]
+	--
+	 [routers, malware] https://threatpost.com/vpnfilter-malware-infects-500k-routers-including-linksys-mikrotik-netgear/132212/#li-comment-633934/
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	 https://threatpost.com/attackers-cashing-in-on-cryptocurrency-with-increased-scams/132275/
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-256/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-258/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-257/
+	--
+	 [access, linux] https://threatpost.com/critical-linux-flaw-opens-the-door-to-full-root-access/132034/#li-comment-633954/
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/windows-defender-mal-note-parmi-les-antivirus-la-faute-aux-tests-pour-microsoft-39868678.htm/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://www.scmagazine.com/facebook-2fa-no-longer-requires-a-phone-number/article/768725/
+	 https://www.welivesecurity.com/2018/05/25/facebook-refines-2fa-setup/
+	 http://www.zdnet.fr/actualites/rgpd-une-premiere-plainte-a-la-cnil-contre-google-facebook-aussi-dans-la-tourmente-39868684.htm/
+	 https://www.scmagazine.com/privacy-compliance/gdpr-is-on-the-books-google-facebook-face-lawsuits-others-scramble-to-comply/article/768700/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-ecarte-steam-link-de-son-app-store-39868690.htm/
+	 http://www.zdnet.fr/actualites/l-iphone-x-gagnant-du-super-bowl-d-apple-39867734.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/windows-defender-mal-note-parmi-les-antivirus-la-faute-aux-tests-pour-microsoft-39868678.htm/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/flaw-schneider-plc-programming-tool-allows-remote-attacks/
+	 https://threatpost.com/millions-of-iot-devices-vulnerable-to-z-wave-downgrade-attacks-researchers-claim/132295/
+	 https://threatpost.com/pet-trackers-open-to-mitm-attacks-interception/132291/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	 https://www.scmagazine.com/12b-worth-of-crypto-stolen-since-2017-gdpr-could-hinder-cybercrime-research/article/768935/
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.welivesecurity.com/2018/05/25/backswap-malware-empty-bank-accounts/
+	--
+	 [routers, malware] https://threatpost.com/vpnfilter-malware-infects-500k-routers-including-linksys-mikrotik-netgear/132212/#li-comment-633934/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'protection', u'dns', u'infosec', u'penetration', u'features', u'top', u'ransomware', u'report', u'faces', u'x-force', u'ics', u'update', u'says', u'platform', u'eu', u'comey', u'hacks', u'log', u'deep', u'file', u'social', u'flaw', u'rgpd', u'infects', u'spectre', u'help', u'threat', u'russian', u'up', u'bulletin', u'breach', u'download', u'app', u'private', u'brook', u'attack', u'subscribe', u'2016', u'government', u'apps', u'alexa', u'bug']
+6 [u'voir', u'secure', u'stop', u'500000', u'product', u'awards', u'tous', u'researchers', u'mickael', u'phishing', u'scams', u'linux', u'source', u'into', u'uk', u'access', u'cloud', u'this', u'out', u'dorigny', u'android', u'center']
+7 [u'risk', u'call', u'tom\xe1\u0161', u'service', u'conference', u'devices', u'team', u'avis', u'10', u'folt\xfdn', u'cisco', u'critical', u'vpnfilter', u'network', u'internet', u'botnet', u'micro', u'research', u'business', u'30', u'ctf', u'our', u'cryptocurrency', u'podcasts']
+8 [u'vulnerability', u'amazon', u'cybersecurity', u'trend', u'dactualit\xe9', u'blog', u'intelligence', u'backdoor', u'email']
+9 [u'best', u'attacks', u'fbi', u'apple', u'routers']
+10 [u's\xe9curit\xe9', u'ibm', u'cars', u'multiples', u'podcast', u'cet', u'windows', u'smart']
+11 [u'scripting', u'full']
+12 [u'hacking', u'microsoft', u'2017']
+13 [u'new', u'wordpress', u'iot']
+14 [u'vulnerabilities', u'vuln\xe9rabilit\xe9s', u'cross', u'web']
+15 [u'archive', u'google', u'mobile', u'cybercrime']
+16 [u'facebook']
+17 [u'joomla', u'sql']
+18 [u'injection']
+19 [u'veille', u'2018']
+21 [u'gdpr']
+27 [u'privacy']
+35 [u'malware']
+70 [u'vigil@nce']
+
+
