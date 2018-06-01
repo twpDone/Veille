@@ -1,0 +1,24 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0238
+2018-05-24T08:07:20.533-04:00	:CVE-2018-0238 (Score:9.0)['cpe:/a:cisco:unified_computing_system_director:6.5%280.0%29']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10192
+2018-05-24T10:53:46.253-04:00	:CVE-2018-10192 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10518
+2018-05-24T13:10:58.877-04:00	:CVE-2018-10518 (Score:8.5)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10520
+2018-05-24T13:10:22.967-04:00	:CVE-2018-10520 (Score:8.5)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-7243
+2018-05-24T12:17:06.453-04:00	:CVE-2018-7243 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8735
+2018-05-24T08:32:01.267-04:00	:CVE-2018-8735 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8736
+2018-05-24T09:49:09.587-04:00	:CVE-2018-8736 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9245
+2018-05-25T11:33:25.377-04:00	:CVE-2018-9245 (Score:10.0)[]
