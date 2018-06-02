@@ -1,0 +1,3 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9245
+2018-05-25T11:33:25.377-04:00	:CVE-2018-9245 (Score:10.0)[]

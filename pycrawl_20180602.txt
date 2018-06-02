@@ -1,0 +1,214 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 https://www.scmagazine.com/cyber-incident-leaves-eventbrite-owned-ticketfly-offline-ransom-demanded/article/770512/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	 [access, linux] https://threatpost.com/critical-linux-flaw-opens-the-door-to-full-root-access/132034/#li-comment-634425/
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	 https://www.welivesecurity.com/2018/06/01/world-cup-scams-avoid-goal/
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://www.scmagazine.com/hackers-hijack-spamcannibal-spam-users-with-false-notifications/article/770088/
+	--
+	 [users, mobile] https://www.scmagazine.com/mobile-users-ignore-shady-app-permissions-at-their-own-risk-warns-ny-state-cyber-command/article/770064/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 http://www.securityweek.com/personal-data-compromised-ticketfly-hack/
+	--
+	--
+
+[linux]
+	--
+	 [access, linux] https://threatpost.com/critical-linux-flaw-opens-the-door-to-full-root-access/132034/#li-comment-634425/
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/januss-un-mysterieux-terminal-windows-10-arm-a-deux-ecrans-39869021.htm/
+	--
+	--
+
+[phishing]
+	 https://www.scmagazine.com/rat-campaign-targets-koreans-with-phishing-lures-featuring-us-north-korea-summit/article/770529/
+	--
+	--
+
+[facebook]
+	 https://threatpost.com/browser-side-channel-flaw-de-anonymizes-facebook-data/132465/
+	 http://www.zdnet.fr/actualites/les-ados-sont-blases-de-facebook-39869011.htm/
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://threatpost.com/researchers-warn-of-microsoft-zero-day-rce-bug/132473/
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/wordpress-disables-plugins-expose-e-commerce-sites-attacks/
+	 http://www.securityweek.com/hardcoded-credentials-expose-yokogawa-controllers-attacks/
+	 http://www.securityweek.com/punycode-makes-smishing-attacks-more-deceiving/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	 [users, mobile] https://www.scmagazine.com/mobile-users-ignore-shady-app-permissions-at-their-own-risk-warns-ny-state-cyber-command/article/770064/
+	--
+
+[malware]
+	 http://www.securityweek.com/fud-crypters-recycling-old-malware/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'solution', u'dns', u'expose', u'infosec', u'yahoo', u'service', u'enterprise', u'ethical', u'conference', u'kit', u'recaptcha', u'update', u'ticketfly', u'says', u'canadian', u'banks', u'sites', u'infrastructure', u'jobs', u'tous', u'60', u'exploit', u'dark', u'hacks', u'network', u'bypass', u'threat', u'services', u'access', u'threats', u'trojan', u'source', u'application', u'bulletin', u'brook', u'reboot', u'subscribe', u'2016', u'apps']
+6 [u'risk', u'voir', u'call', u'penetration', u'advisory', u'testing', u'chrome', u'x-force', u'fbi', u'product', u'awards', u'world', u'severed', u'mickael', u'two', u'botnet', u'banking', u'scams', u'backdoor', u'cryptocurrency', u'dorigny', u'android', u'ios']
+7 [u'patches', u'top', u'avis', u'hacker', u'critical', u'business', u'micro', u'linux', u'ctf', u'30', u'podcasts', u'bug']
+8 [u'vulnerability', u'ransomware', u'trend', u'ibm', u'dactualit\xe9', u'folt\xfdn', u'server', u'research', u'tom\xe1\u0161', u'up', u'cloud', u'our']
+9 [u'best', u'joomla', u'10', u'multiples', u'blog', u'gdpr', u'microsoft', u'intelligence', u'vuln\xe9rabilit\xe9s', u'breach', u'apple']
+10 [u'hacking', u'cars', u'cet', u'windows', u'2017', u'iot']
+11 [u's\xe9curit\xe9', u'team', u'internet', u'full', u'cybercrime']
+12 [u'hack', u'podcast', u'injection', u'attack', u'smart']
+13 [u'wordpress', u'facebook']
+14 [u'attacks']
+15 [u'new', u'sql', u'archive']
+17 [u'vulnerabilities', u'2018']
+18 [u'mobile']
+19 [u'scripting', u'veille', u'google']
+23 [u'privacy', u'cross', u'web']
+67 [u'vigil@nce']
+36 [u'malware']
+
+
