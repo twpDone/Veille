@@ -1,0 +1,223 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	 [access, facebook] https://thehackernews.com/2018/06/facebook-data-privacy.html/
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	 http://www.securityweek.com/vpnfilter-continues-targeting-routers-ukraine/
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	 https://threatpost.com/mozilla-tests-dns-over-https-meets-some-privacy-pushback/130765/#li-comment-634454/
+	 https://threatpost.com/cloudflare-gets-transparent-on-dns-resolver-outage/132490/
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	 [users, facebook] https://thehackernews.com/2018/03/facebook-android-data.html/
+	 [users, hack] http://www.securityweek.com/26-million-users-hit-ticketfly-hack/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	 [users, hack] http://www.securityweek.com/26-million-users-hit-ticketfly-hack/
+	--
+
+[linux]
+	--
+	 [linux, windows] https://thehackernews.com/2017/09/windows-10-linux-evade-malware.html/
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 https://thehackernews.com/2017/07/windows-10-ubuntu-linux.html/
+	--
+	 [linux, windows] https://thehackernews.com/2017/09/windows-10-linux-evade-malware.html/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.globalsecuritymag.com/New-Facebook-scandal-And-besides,20180604,78995.html/
+	--
+	 [access, facebook] https://thehackernews.com/2018/06/facebook-data-privacy.html/
+	 [users, facebook] https://thehackernews.com/2018/03/facebook-android-data.html/
+	 [facebook, mobile] https://www.scmagazine.com/facebook-defends-sharing-user-data-with-mobile-oems/article/770887/
+	--
+
+[apple]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-266/
+	 http://www.securityweek.com/apple-touts-privacy-features-new-operating-systems/
+	 https://www.scmagazine.com/apple-releases-security-updates-for-macos-tvos-ios-and-more/article/770881/
+	 http://www.securityweek.com/apple-patches-dozens-flaws-macos-ios-safari/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/officiel-microsoft-met-la-main-sur-github-pour-75-milliards-de-dollars-39869096.htm/
+	 http://www.securityweek.com/microsoft-acquire-github-75-billion/
+	 http://www.globalsecuritymag.com/Microsoft-to-acquire-GitHub-for-7,20180604,78999.html/
+	 http://www.zdnet.fr/actualites/rachat-de-github-par-microsoft-la-concurrence-n-en-perd-pas-une-miette-39869109.htm/
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	 https://www.scmagazine.com/sigrun-ransomware-author-letting-russian-victims-off-the-hook/article/770882/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	 [facebook, mobile] https://www.scmagazine.com/facebook-defends-sharing-user-data-with-mobile-oems/article/770887/
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'solution', u'infosec', u'my', u'after', u'over', u'service', u'hacking', u'advisory', u'solutions', u'conference', u'kit', u'billion', u'infrastructure', u'tous', u'60', u'hacker', u'lets', u'network', u'seals', u'two', u'github', u'through', u'botnet', u'threat', u'services', u'banking', u'user', u'source', u'up', u'tara', u'bulletin', u'brook', u'2016', u'should', u'email', u'subscribe']
+6 [u'voir', u'phones', u'ldap', u'report', u'x-force', u'cybersecurity', u'says', u'product', u'10', u'jobs', u'world', u'critical', u'mickael', u'sensitive', u'scams', u'users', u'breach', u'cryptocurrency', u'dorigny', u'bug']
+7 [u'vulnerability', u'call', u'dns', u'features', u'top', u'ticketfly', u'manager', u'avis', u'awards', u'cisco', u'micro', u'research', u'ctf', u'30', u'our', u'reboot', u'podcasts']
+8 [u'patches', u'tom\xe1\u0161', u'chrome', u'attacks', u'joomla', u'trend', u'ibm', u'million', u'dactualit\xe9', u'folt\xfdn', u'business', u'intelligence', u'cloud', u'account', u'backdoor']
+9 [u'ransomware', u'best', u'wordpress', u'internet', u'gdpr', u'windows', u'ios']
+10 [u'cars', u'multiples', u'full', u'cet', u'injection', u'iot']
+11 [u's\xe9curit\xe9', u'team', u'hack', u'blog', u'cybercrime', u'2017', u'smart']
+12 [u'sql', u'podcast']
+13 [u'vulnerabilities', u'vuln\xe9rabilit\xe9s']
+14 [u'microsoft', u'apple']
+15 [u'archive']
+16 [u'new', u'facebook']
+17 [u'mobile']
+18 [u'scripting', u'web']
+19 [u'veille', u'google', u'2018']
+24 [u'privacy']
+27 [u'cross']
+36 [u'malware']
+70 [u'vigil@nce']
+
+
