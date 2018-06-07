@@ -1,0 +1,210 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	 [users, apple] https://thehackernews.com/2018/06/porting-ios-apps-macos.html/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-268/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/comment-installer-reinstaller-upgrader-et-activer-windows-10-39869237.htm/
+	--
+	--
+
+[phishing]
+	--
+	 [phishing, attacks] https://threatpost.com/auth0-glitch-allows-attackers-to-launch-phishing-attacks/132554/
+	--
+
+[facebook]
+	 http://www.securityweek.com/facebook-deals-chinese-firm-draw-ire-us-lawmakers/
+	--
+	--
+
+[apple]
+	--
+	 [users, apple] https://thehackernews.com/2018/06/porting-ios-apps-macos.html/
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/microsoft-coule-un-datacenter-en-ecosse-mais-il-marche-bien-39869213.htm/
+	--
+	--
+
+[breach]
+	 http://www.securityweek.com/92-million-user-credentials-lost-myheritage/
+	 https://www.scmagazine.com/human-resources-firm-pageup-suffers-data-breach-clients-affected/article/771427/
+	--
+	--
+
+[attacks]
+	--
+	 [phishing, attacks] https://threatpost.com/auth0-glitch-allows-attackers-to-launch-phishing-attacks/132554/
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://thehackernews.com/2018/06/vpnfilter-router-malware.html/
+	 https://www.scmagazine.com/vpnfilter-malware-affects-even-more-network-devices-can-deliver-exploits-to-endpoints/article/771637/
+	 https://threatpost.com/pageup-malware-scare-sheds-light-on-third-party-risks/132571/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'infosec', u'fifa', u'features', u'service', u'tom', u'hacking', u'advisory', u'ransomware', u'do', u'conference', u'chrome', u'devices', u'manager', u'still', u'mais', u'router', u'federal', u'infrastructure', u'jobs', u'tous', u'hacks', u'talks', u'social', u'rgpd', u'20', u'threats', u'scams', u'firm', u'user', u'cup', u'spring', u'bulletin', u'business', u'access', u'account', u'brook', u'2016', u'have', u'agencies', u'subscribe', u'twitter', u'apps']
+6 [u'voir', u'phones', u'top', u'x-force', u'update', u'product', u'challenges', u'10', u'hack', u'sites', u'awards', u'mickael', u'botnet', u'users', u'reboot', u'cryptocurrency', u'dorigny']
+7 [u'cybersecurity', u'attacks', u'team', u'avis', u'gdpr', u'micro', u'research', u'30', u'ctf', u'podcasts', u'ios']
+8 [u'new', u'call', u'joomla', u'trend', u'ibm', u'internet', u'million', u'dactualit\xe9', u'world', u'windows', u'microsoft', u'intelligence', u'breach', u'cloud']
+9 [u'tom\xe1\u0161', u'wordpress', u'folt\xfdn', u'multiples', u'vpnfilter', u'our', u'android']
+10 [u'vulnerability', u'cars', u'cet', u'injection', u'backdoor', u'iot']
+11 [u's\xe9curit\xe9', u'dns', u'sql', u'blog', u'full', u'vuln\xe9rabilit\xe9s', u'cybercrime', u'2017', u'smart']
+12 [u'best', u'critical', u'podcast', u'apple']
+14 [u'facebook']
+15 [u'archive', u'vulnerabilities']
+16 [u'google', u'web']
+18 [u'scripting']
+19 [u'veille', u'mobile', u'2018']
+20 [u'privacy']
+25 [u'cross']
+68 [u'vigil@nce']
+38 [u'malware']
+
+
