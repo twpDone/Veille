@@ -1,0 +1,216 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	 http://www.securityweek.com/74-arrested-international-operation-targeting-bec-scams/
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [service, attacks] http://www.securityweek.com/multi-stage-attacks-target-service-centers-russia/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://thehackernews.com/2018/06/cyber-threat-hunting.html/
+	--
+	--
+
+[users]
+	 https://www.welivesecurity.com/2018/06/11/android-popularity-faking-tricks-google-play/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 http://www.securityweek.com/bitcoin-declines-after-coinrail-cryptocurrency-exchange-hack/
+	--
+	--
+
+[linux]
+	--
+	 [linux, microsoft] http://www.zdnet.fr/actualites/rachat-de-github-par-microsoft-une-victoire-pour-la-fondation-linux-39869471.htm/
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 http://www.zdnet.fr/blogs/digital-home-revolution/etats-unis-une-etude-mesure-l-impact-du-prix-des-services-de-svod-sur-les-cha-nes-payantes-39869391.htm/
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://threatpost.com/facebook-software-bug-made-some-private-posts-public-14-million-affected/132665/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-ne-veut-pas-que-vous-utilisiez-autant-votre-iphone-mais-plus-39869463.htm/
+	 http://www.zdnet.fr/actualites/samsung-payer-a-apple-539-millions-sans-facon-39869485.htm/
+	--
+	--
+
+[hacking]
+	 http://www.securityweek.com/us-blacklists-russian-firms-tied-fsb-hacking-ops/
+	--
+	--
+
+[intelligence]
+	 http://www.securityweek.com/how-establish-effective-intelligence-requirements/
+	--
+	--
+
+[microsoft]
+	--
+	 [linux, microsoft] http://www.zdnet.fr/actualites/rachat-de-github-par-microsoft-une-victoire-pour-la-fondation-linux-39869471.htm/
+	--
+
+[breach]
+	 https://www.scmagazine.com/wellington-fla-almost-faces-data-breach-waterloo/article/772418/
+	 https://www.scmagazine.com/data-breach/chinese-govt-hackers-snag-secret-missile-plans-in-navy-contractor-breach/article/772420/
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/critical-flaws-expose-abb-door-communication-systems-attacks/
+	--
+	 [service, attacks] http://www.securityweek.com/multi-stage-attacks-target-service-centers-russia/
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	 https://www.scmagazine.com/cybercrime-fighting-dogs-to-the-rescue/article/772428/
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'here', u'infosec', u'vpn', u'top', u'report', u'conference', u'things', u'ics', u'manager', u'tablets', u'infrastructure', u'tous', u'hacks', u'vpnfilter', u'image', u'file', u'seals', u'public', u'social', u'20', u'micro', u'threats', u'cup', u'windows', u'tara', u'users', u'bulletin', u'attackers', u'brook', u'2016', u'relevanssi', u'attack', u'subscribe', u'challenges']
+6 [u'patches', u'voir', u'vulnerability', u'call', u'dns', u'advisory', u'x-force', u'cryptocurrency', u'cybersecurity', u'trend', u'product', u'hack', u'sites', u'awards', u'industry', u'allows', u'mickael', u'flaw', u'scams', u'russian', u'injection', u'breach', u'business', u'account', u'backdoor', u'have', u'email', u'dorigny']
+7 [u'team', u'avis', u'million', u'threat', u'services', u'microsoft', u'phishing', u'ctf', u'source', u'code', u'30', u'cloud', u'our', u'android']
+8 [u'hacking', u'joomla', u'sql', u'ibm', u'dactualit\xe9', u'folt\xfdn', u'blog', u'world', u'research', u'tom\xe1\u0161', u'podcasts', u'bug']
+9 [u'service', u'multiples', u'critical', u'2017']
+10 [u'ransomware', u'cars', u'full', u'cet', u'vulnerabilities', u'intelligence', u'apple']
+11 [u's\xe9curit\xe9', u'best', u'cybercrime', u'iot', u'smart']
+12 [u'internet', u'vuln\xe9rabilit\xe9s', u'facebook']
+13 [u'new', u'podcast']
+14 [u'attacks']
+15 [u'mobile', u'web']
+16 [u'archive']
+17 [u'wordpress', u'google', u'2018']
+19 [u'scripting', u'veille']
+22 [u'privacy']
+30 [u'malware']
+31 [u'cross']
+72 [u'vigil@nce']
+
+
