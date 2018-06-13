@@ -1,0 +1,231 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://www.scmagazine.com/foscam-home-security-cameras-updated-to-address-root-access-vulnerabilities/article/772948/
+	--
+	--
+
+[attack]
+	 http://www.securityweek.com/microsoft-releases-mitigations-spectre-variant-4-attack/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	 https://threatpost.com/shipping-industry-cybersecurity-a-shipwreck-waiting-to-happen/132625/#li-comment-634996/
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	 https://www.welivesecurity.com/2018/06/12/74-arrested-us-led-crackdown-email-scams/
+	 https://thehackernews.com/2018/06/email-phishing-nigerian-scams.html/
+	--
+	--
+
+[injection]
+	 http://www.securityweek.com/crestron-patches-command-injection-flaw-dge-100-controller/
+	 http://www.securityfocus.com/archive/1/542080/
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 https://www.ic3.gov/media/2017/170504.aspx/
+	 https://thehackernews.com/2018/06/android-adb-hacking.html/
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 http://www.securityweek.com/security-vulnerabilities-threat-automotive-innovation/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-277/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-275/
+	--
+	--
+
+[cloud]
+	--
+	 [cloud, microsoft] http://www.zdnet.fr/actualites/thales-et-microsoft-s-allient-pour-vendre-du-cloud-aux-armees-39869539.htm/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	 [exploit, malware] http://www.securityweek.com/new-pyromineiot-malware-spreads-nsa-linked-exploit/
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/microsoft-lache-les-forums-de-support-de-windows-7-et-81-39869513.htm/
+	 [windows, microsoft] http://www.securityweek.com/microsoft-patches-11-critical-rce-flaws-windows-browsers/
+	--
+
+[phishing]
+	--
+	 [phishing, attacks] https://threatpost.com/auth0-glitch-allows-attackers-to-launch-phishing-attacks/132554/#li-comment-634989/
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 https://thehackernews.com/2018/06/cryptocurrency-mining-apps.html/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	 http://www.zdnet.fr/actualites/intelligence-artificielle-google-aurait-des-principes-39869527.htm/
+	--
+	--
+
+[microsoft]
+	 https://www.scmagazine.com/spectre-variant-4-fix-included-in-microsoft-patch-tuesday-rollout/article/772966/
+	 https://thehackernews.com/2018/06/microsoft-june-security-patch.html/
+	 http://www.zdnet.fr/actualites/microsoft-croit-toujours-a-son-destin-dans-le-jeu-video-39869509.htm/
+	--
+	 [cloud, microsoft] http://www.zdnet.fr/actualites/thales-et-microsoft-s-allient-pour-vendre-du-cloud-aux-armees-39869539.htm/
+	 [windows, microsoft] http://www.zdnet.fr/actualites/microsoft-lache-les-forums-de-support-de-windows-7-et-81-39869513.htm/
+	 [windows, microsoft] http://www.securityweek.com/microsoft-patches-11-critical-rce-flaws-windows-browsers/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/north-korean-hackers-abuse-activex-recent-attacks/
+	 https://threatpost.com/sonic-tone-attacks-damage-hard-disk-drives-crashes-os/132343/#li-comment-634993/
+	--
+	 [phishing, attacks] https://threatpost.com/auth0-glitch-allows-attackers-to-launch-phishing-attacks/132554/#li-comment-634989/
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.scmagazine.com/executive-insight/why-the-office-of-the-future-will-demand-stronger-security-for-enterprise-solutions-and-personal-mobile-devices/article/771065/
+	 http://www.zdnet.fr/actualites/free-mobile-de-nouvelles-offres-et-la-volte-pour-bientot-39869535.htm/
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/flawed-code-signing-process-could-have-let-attackers-pass-malware-off-as-apple-approved/article/772987/
+	 https://thehackernews.com/2018/06/apple-mac-code-signing.html/
+	--
+	 [exploit, malware] http://www.securityweek.com/new-pyromineiot-malware-spreads-nsa-linked-exploit/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'vulnerability', u'dns', u'infosec', u'fifa', u'top', u'stop', u'conference', u'chrome', u'things', u'ics', u'ng', u'update', u'manager', u'tablets', u'challenges', u'million', u'awards', u'tous', u'hacks', u'image', u'compliance', u'20', u'micro', u'threats', u'into', u'bulletin', u'code', u'attackers', u'business', u'products', u'brook', u'2016', u'backdoor', u'have', u'subscribe', u'government', u'shipping']
+6 [u'voir', u'phones', u'call', u'hacking', u'advisory', u'ransomware', u'x-force', u'mickael', u'trend', u'product', u'11', u'hack', u'industry', u'flaw', u'phishing', u'hackers', u'cup', u'account', u'attack', u'dorigny']
+7 [u'patches', u'joomla', u'team', u'avis', u'sites', u'infrastructure', u'variant', u'threat', u'scams', u'ctf', u'30', u'this', u'our', u'android']
+8 [u'service', u'cybersecurity', u'sql', u'ibm', u'dactualit\xe9', u'blog', u'world', u'research', u'injection', u'windows', u'cloud', u'2017', u'podcasts', u'bug']
+9 [u'best', u'facebook', u'apple', u'email', u'iot']
+10 [u'report', u'cars', u'folt\xfdn', u'multiples', u'critical', u'full', u'cet', u'intelligence', u'tom\xe1\u0161']
+11 [u's\xe9curit\xe9', u'cryptocurrency', u'attacks', u'cybercrime', u'smart']
+12 [u'internet']
+13 [u'podcast', u'vuln\xe9rabilit\xe9s']
+14 [u'microsoft', u'web']
+15 [u'archive', u'vulnerabilities']
+16 [u'new', u'wordpress', u'privacy']
+17 [u'mobile']
+18 [u'google', u'2018']
+19 [u'scripting', u'veille']
+28 [u'cross']
+36 [u'malware']
+68 [u'vigil@nce']
+
+
