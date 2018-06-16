@@ -1,0 +1,123 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-12120
+2018-06-15T14:54:52.870-04:00	:CVE-2017-12120 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-12121
+2018-06-15T14:55:02.900-04:00	:CVE-2017-12121 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-12125
+2018-06-15T14:56:32.950-04:00	:CVE-2017-12125 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14432
+2018-06-15T14:56:41.027-04:00	:CVE-2017-14432 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14433
+2018-06-15T14:56:47.857-04:00	:CVE-2017-14433 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14434
+2018-06-15T14:56:55.357-04:00	:CVE-2017-14434 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14474
+2018-06-13T11:59:21.487-04:00	:CVE-2017-14474 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14475
+2018-06-13T11:40:13.897-04:00	:CVE-2017-14475 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14476
+2018-06-13T11:40:18.133-04:00	:CVE-2017-14476 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14477
+2018-06-13T11:40:24.273-04:00	:CVE-2017-14477 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14478
+2018-06-13T11:40:27.307-04:00	:CVE-2017-14478 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14479
+2018-06-13T11:43:10.233-04:00	:CVE-2017-14479 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14480
+2018-06-13T11:43:16.453-04:00	:CVE-2017-14480 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-14481
+2018-06-13T11:44:26.783-04:00	:CVE-2017-14481 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-15043
+2018-06-13T11:07:00.873-04:00	:CVE-2017-15043 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-17539
+2018-06-12T14:13:24.797-04:00	:CVE-2017-17539 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-17540
+2018-06-12T14:13:39.843-04:00	:CVE-2017-17540 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0253
+2018-06-13T08:40:58.577-04:00	:CVE-2018-0253 (Score:10.0)['cpe:/a:cisco:secure_access_control_system:5.8:p4', 'cpe:/a:cisco:secure_access_control_system:5.8:p6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0258
+2018-06-13T08:48:57.017-04:00	:CVE-2018-0258 (Score:10.0)['cpe:/a:cisco:prime_data_center_network_manager:10.0%281%29', 'cpe:/a:cisco:prime_data_center_network_manager:10.2%281%29']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10251
+2018-06-13T11:12:26.177-04:00	:CVE-2018-10251 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10381
+2018-06-13T13:04:14.773-04:00	:CVE-2018-10381 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10577
+2018-06-13T10:08:44.300-04:00	:CVE-2018-10577 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10718
+2018-06-13T12:21:29.550-04:00	:CVE-2018-10718 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10746
+2018-06-12T13:32:11.497-04:00	:CVE-2018-10746 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10747
+2018-06-12T13:32:53.550-04:00	:CVE-2018-10747 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10748
+2018-06-12T08:48:50.920-04:00	:CVE-2018-10748 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10749
+2018-06-12T13:33:36.407-04:00	:CVE-2018-10749 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10750
+2018-06-12T13:59:13.970-04:00	:CVE-2018-10750 (Score:9.3)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11189
+2018-06-08T11:40:45.687-04:00	:CVE-2018-11189 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11190
+2018-06-08T11:40:48.703-04:00	:CVE-2018-11190 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11191
+2018-06-08T11:40:58.313-04:00	:CVE-2018-11191 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11192
+2018-06-08T11:41:02.753-04:00	:CVE-2018-11192 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11193
+2018-06-08T11:41:05.563-04:00	:CVE-2018-11193 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11194
+2018-06-08T11:41:08.283-04:00	:CVE-2018-11194 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-1239
+2018-06-12T14:56:22.717-04:00	:CVE-2018-1239 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-5234
+2018-06-13T13:12:28.783-04:00	:CVE-2018-5234 (Score:8.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8115
+2018-06-13T10:50:51.427-04:00	:CVE-2018-8115 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8136
+2018-06-13T09:54:16.810-04:00	:CVE-2018-8136 (Score:9.3)['cpe:/o:microsoft:windows_server_2016', 'cpe:/o:microsoft:windows_server_2016:1709']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8866
+2018-06-13T08:51:29.387-04:00	:CVE-2018-8866 (Score:8.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8872
+2018-06-13T12:36:14.927-04:00	:CVE-2018-8872 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9232
+2018-06-13T09:57:49.090-04:00	:CVE-2018-9232 (Score:9.3)[]

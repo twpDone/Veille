@@ -1,0 +1,209 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	 [access, apple] https://threatpost.com/apple-removes-iphone-usb-access-feature-blocking-out-hackers-law-enforcement/132842/
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	 http://www.zdnet.fr/actualites/coup-d-envoi-pour-le-kit-de-sensibilisation-au-risque-numerique-39869746.htm/
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-294/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-292/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 http://www.zdnet.fr/actualites/qwant-annonce-une-batterie-de-nouveaux-services-comme-google-39869750.htm/
+	--
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/le-rapide-deploiement-de-windows-10-version-1803-cause-t-il-des-problemes-de-qualite-39869770.htm/
+	--
+	--
+
+[phishing]
+	 https://www.scmagazine.com/cybercrime/adidas-phishing-campaign-promises-free-shoes-offers-50-subscription-instead/article/773683/
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-entend-devenir-editeur-musical-39869772.htm/
+	--
+	 [access, apple] https://threatpost.com/apple-removes-iphone-usb-access-feature-blocking-out-hackers-law-enforcement/132842/
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	 http://www.securityweek.com/india-based-network-intelligence-raises-48-million-expansion/
+	--
+	--
+
+[microsoft]
+	 http://www.securityweek.com/microsoft-patches-code-execution-vulnerability-wimgapi-library/
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 http://www.zdnet.fr/actualites/mobile-la-fin-du-roaming-en-europe-a-fait-exploser-les-usages-39869760.htm/
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'devenir', u'risk', u'cnet', u'phones', u'carphone', u'dns', u'infosec', u'free', u'service', u'things', u'challenges', u'million', u'muddywater', u'tous', u'critical', u'dixons', u'image', u'lifetime', u'network', u'allows', u'bugs', u'micro', u'services', u'targeted', u'into', u'bulletin', u'code', u'business', u'access', u'brook', u'2016', u'reboot', u'backdoor', u'email', u'subscribe', u'software']
+6 [u'voir', u'campaign', u'hacking', u'ransomware', u'conference', u'x-force', u'cybersecurity', u'trend', u'product', u'avis', u'awards', u'mickael', u'num\xe9rique', u'found', u'threats', u'hackers', u'injection', u'breach', u'cloud', u'attack', u'tablets', u'dorigny']
+7 [u'patches', u'call', u'fifa', u'top', u'advisory', u'stop', u'joomla', u'sql', u'sites', u'social', u'research', u'phishing', u'scams', u'ctf', u'windows', u'30', u'subscription', u'2017', u'our']
+8 [u'report', u'attacks', u'manager', u'team', u'ibm', u'10', u'dactualit\xe9', u'folt\xfdn', u'threat', u'tom\xe1\u0161', u'facebook', u'this', u'podcasts', u'android', u'iot']
+9 [u'multiples', u'blog', u'hacks']
+10 [u's\xe9curit\xe9', u'best', u'cars', u'full', u'cet', u'cybercrime']
+11 [u'vulnerability', u'microsoft', u'intelligence', u'smart']
+12 [u'internet', u'web']
+13 [u'google', u'vuln\xe9rabilit\xe9s']
+14 [u'podcast', u'apple']
+15 [u'archive', u'vulnerabilities', u'cup']
+34 [u'malware']
+17 [u'new', u'wordpress', u'world', u'mobile']
+18 [u'2018', u'privacy']
+19 [u'scripting', u'veille']
+68 [u'vigil@nce']
+28 [u'cross']
+
+
