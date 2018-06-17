@@ -1,0 +1,201 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	 [access, apple] https://threatpost.com/apple-removes-iphone-usb-access-feature-blocking-out-hackers-law-enforcement/132842/#li-comment-635118/
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	 [access, apple] https://threatpost.com/apple-removes-iphone-usb-access-feature-blocking-out-hackers-law-enforcement/132842/#li-comment-635118/
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 https://threatpost.com/new-banking-trojan-can-launch-overlay-attacks-on-latest-android-versions/132858/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'devenir', u'risk', u'cnet', u'phones', u'infosec', u'free', u'service', u'patch', u'things', u'challenges', u'million', u'muddywater', u'tous', u'critical', u'image', u'lifetime', u'network', u'allows', u'micro', u'services', u'targeted', u'bulletin', u'business', u'access', u'brook', u'2016', u'reboot', u'backdoor', u'attack', u'tablets', u'email', u'subscribe', u'software']
+6 [u'voir', u'campaign', u'dns', u'hacking', u'ransomware', u'conference', u'x-force', u'cybersecurity', u'trend', u'product', u'avis', u'awards', u'mickael', u'num\xe9rique', u'found', u'threats', u'hackers', u'into', u'injection', u'windows', u'code', u'breach', u'cloud', u'dorigny']
+7 [u'patches', u'call', u'fifa', u'top', u'advisory', u'stop', u'joomla', u'sql', u'10', u'sites', u'social', u'research', u'phishing', u'scams', u'ctf', u'30', u'subscription', u'2017', u'our', u'iot']
+8 [u'report', u'manager', u'team', u'ibm', u'dactualit\xe9', u'folt\xfdn', u'hacks', u'threat', u'tom\xe1\u0161', u'facebook', u'this', u'podcasts']
+9 [u'attacks', u'multiples', u'blog']
+10 [u's\xe9curit\xe9', u'best', u'cars', u'full', u'cet', u'cybercrime', u'android']
+11 [u'vulnerability', u'smart']
+12 [u'internet', u'microsoft', u'intelligence', u'google', u'web']
+13 [u'podcast', u'vuln\xe9rabilit\xe9s']
+14 [u'apple']
+15 [u'archive', u'vulnerabilities']
+16 [u'mobile', u'cup']
+17 [u'wordpress', u'world', u'privacy']
+18 [u'2018']
+19 [u'new', u'scripting', u'veille']
+28 [u'cross']
+35 [u'malware']
+68 [u'vigil@nce']
+
+
