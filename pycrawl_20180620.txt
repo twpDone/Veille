@@ -1,0 +1,212 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 http://www.globalsecuritymag.com/Pulse-Secure-Extends-Secure-Access,20180619,79318.html/
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	 [fraud, breach] http://www.securityweek.com/data-stolen-opm-breach-used-loan-fraud-scheme/
+	--
+
+[threats]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/threats/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	 [threat, mobile] https://blog.trendmicro.com/trendlabs-security-intelligence/author/ecularx/
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 http://www.zdnet.fr/actualites/cisco-acquiert-july-systems-pour-renforcer-ses-services-de-localisation-interieure-39869930.htm/
+	--
+	--
+
+[windows]
+	 https://www.scmagazine.com/malicious-version-of-syscoins-windows-installer-found-on-github/article/774513/
+	--
+	--
+
+[phishing]
+	 https://www.scmagazine.com/cybercriminals-attempt-to-score-using-fifa-world-cup-phishing-emails/article/774706/
+	--
+	 [phishing, mobile] https://blog.trendmicro.com/trendlabs-security-intelligence/tag/mobile-phishing/
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 https://thehackernews.com/2017/06/wikileaks-Brutal-Kangaroo-airgap-malware.html/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	 [fraud, breach] http://www.securityweek.com/data-stolen-opm-breach-used-loan-fraud-scheme/
+	--
+
+[attacks]
+	--
+	 [attacks, malware] http://www.securityweek.com/olympic-destroyer-malware-spotted-new-attacks/
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://thehackernews.com/2017/03/wikileaks-cia-mac-iphone-hacking.html/
+	--
+	 [threat, mobile] https://blog.trendmicro.com/trendlabs-security-intelligence/author/ecularx/
+	 [phishing, mobile] https://blog.trendmicro.com/trendlabs-security-intelligence/tag/mobile-phishing/
+	--
+
+[malware]
+	--
+	 [attacks, malware] http://www.securityweek.com/olympic-destroyer-malware-spotted-new-attacks/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'dns', u'infosec', u'enterprise', u'advisory', u'ransomware', u'amazon', u'conference', u'cybersecurity', u'team', u'olympic', u'trend', u'ibm', u'challenges', u'10', u'awards', u'tous', u'business', u'doug', u'social', u'information', u'micro', u'drupal', u'avec', u'microsoft', u'scams', u'into', u'malicious', u'tools', u'backdoor', u'request', u'subscribe', u'olenick', u'ios']
+6 [u'voir', u'call', u'fifa', u'office', u'x-force', u'joomla', u'product', u'avis', u'jobs', u'mickael', u'research', u'vulnerabilities', u'services', u'phishing', u'apple', u'windows', u'bulletin', u'breach', u'email', u'dorigny']
+7 [u'phones', u'vulnerability', u'attacks', u'internet', u'million', u'sites', u'ctf', u'30', u'our']
+8 [u's\xe9curit\xe9', u'dactualit\xe9', u'folt\xfdn', u'multiples', u'cisco', u'intelligence', u'threats', u'tom\xe1\u0161', u'2017']
+9 [u'cars', u'cup', u'web']
+10 [u'hacking', u'best', u'wordpress', u'blog', u'world', u'full', u'cet', u'google']
+11 [u'cybercrime', u'android', u'smart']
+12 [u'privacy']
+13 [u'mobile', u'vuln\xe9rabilit\xe9s']
+14 [u'new']
+15 [u'archive']
+34 [u'malware']
+18 [u'2018']
+19 [u'veille']
+38 [u'cross']
+71 [u'vigil@nce']
+27 [u'scripting']
+
+
