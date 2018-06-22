@@ -1,0 +1,207 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	 [hacker, attacks] https://www.welivesecurity.com/2018/06/21/ham-fisted-cybercriminal-gets-jail-time-serial-ddos-attacks/
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-299/
+	--
+	--
+
+[cloud]
+	 http://www.zdnet.fr/actualites/5-facons-de-tirer-le-meilleur-parti-du-passage-au-cloud-39870052.htm/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 http://www.securityweek.com/stepping-increasing-demand-managed-security-services/
+	 https://threatpost.com/financial-services-sector-rife-with-hidden-tunnels/132987/
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	 http://www.securityweek.com/cyber-intelligence-firm-intsights-raises-17-million/
+	--
+	--
+
+[microsoft]
+	 http://www.securityweek.com/microsoft-combats-bad-passwords-new-azure-tools/
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	 [hacker, attacks] https://www.welivesecurity.com/2018/06/21/ham-fisted-cybercriminal-gets-jail-time-serial-ddos-attacks/
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://thehackernews.com/2018/06/mobile-security-firebase-hosting.html/
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'patches', u'seals', u'cnet', u'never', u'infosec', u'target', u'conference', u'cybersecurity', u'joomla', u'team', u'ibm', u'10', u'jobs', u'awards', u'tous', u'business', u'through', u'scams', u'products', u'apple', u'into', u'tara', u'bulletin', u'app', u'tools', u'brook', u'2016', u'backdoor', u'email', u'subscribe', u'twitter', u'leak', u'apps']
+6 [u'voir', u'phones', u'dns', u'fifa', u'doug', u'advisory', u'ransomware', u'patch', u'bad', u'x-force', u'when', u'update', u'avis', u'sites', u'hacks', u'mickael', u'information', u'bugs', u'micro', u'research', u'threat', u'services', u'phishing', u'cloud', u'cryptocurrency', u'dorigny', u'olenick']
+7 [u'call', u'trend', u'multiples', u'social', u'drupal', u'linux', u'breach', u'30', u'ctf', u'our', u'podcasts']
+8 [u'hacking', u'product', u'dactualit\xe9', u'critical', u'threats', u'2017']
+9 [u'vulnerability', u'tom\xe1\u0161', u'top', u'best', u'wordpress', u'internet', u'cars', u'folt\xfdn', u'blog', u'cup']
+10 [u's\xe9curit\xe9', u'world', u'cisco', u'cet', u'intelligence', u'cybercrime', u'iot']
+11 [u'attacks']
+12 [u'podcast', u'full', u'microsoft', u'vuln\xe9rabilit\xe9s', u'windows', u'smart']
+15 [u'archive']
+16 [u'vulnerabilities', u'mobile']
+17 [u'web']
+18 [u'2018']
+19 [u'new', u'veille', u'privacy', u'android']
+22 [u'google']
+27 [u'scripting']
+35 [u'cross']
+42 [u'malware']
+68 [u'vigil@nce']
+
+
