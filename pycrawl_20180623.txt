@@ -1,0 +1,212 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 http://www.securityweek.com/hidden-tunnels-favored-tactic-evade-strong-access-controls/
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	 https://threatpost.com/fortnite-fraudsters-infest-the-web-with-fake-apps-scams/133029/
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-301/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	 http://www.securityweek.com/hackers-exploit-drupal-flaw-monero-mining/
+	--
+	--
+
+[services]
+	 https://threatpost.com/financial-services-sector-rife-with-hidden-tunnels/132987/#li-comment-635270/
+	 https://www3.smartadserver.com/h/cc?imgid=21932304&pgid=420893&tmstp=[timestamp]&tgt=[reference]/
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/cross-play-microsoft-et-nintendo-font-jeu-commun-pas-sony-39870114.htm/
+	 https://www.welivesecurity.com/2018/06/22/microsoft-edge-bug-exploited-spill-emails-malicious-sites/
+	 http://www.securityweek.com/wavethrough-bug-microsoft-edge-leaks-sensitive-information/
+	--
+	--
+
+[breach]
+	 http://www.securityweek.com/tesla-breach-malicious-insider-revenge-or-whistleblowing/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	 http://www.securityweek.com/watch-out-fileless-ransomware/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/monero-mining-drupal-malware-targets-network-systems/article/775310/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'dns', u'infosec', u'tunnels', u'cybersecurity', u'joomla', u'team', u'france', u'insider', u'ibm', u'10', u'only', u'email', u'jobs', u'awards', u'tous', u'hidden', u'business', u'donn\xe9es', u'edge', u'location', u'into', u'application', u'bulletin', u'facebook', u'products', u'this', u'brook', u'2016', u'out', u'cryptocurrency', u'subscribe', u'twitter']
+6 [u'voir', u'phones', u'securiteam', u'call', u'hacking', u'advisory', u'x-force', u'update', u'avis', u'when', u'hacks', u'critical', u'mickael', u'bugs', u'micro', u'research', u'threat', u'linux', u'cloud', u'should', u'dorigny', u'apps']
+7 [u'trend', u'social', u'scams', u'malicious', u'30', u'ctf', u'app', u'our', u'backdoor', u'podcasts', u'government']
+8 [u'vulnerability', u'ransomware', u'conference', u'product', u'dactualit\xe9', u'sites', u'multiples', u'information', u'services', u'intelligence', u'threats', u'phishing', u'cup', u'2017', u'bug']
+9 [u's\xe9curit\xe9', u'tom\xe1\u0161', u'best', u'wordpress', u'cars', u'folt\xfdn', u'world']
+10 [u'top', u'cisco', u'cet', u'drupal', u'breach', u'cybercrime', u'iot']
+11 [u'attacks', u'internet', u'full']
+12 [u'blog', u'podcast', u'windows', u'smart']
+13 [u'microsoft', u'vuln\xe9rabilit\xe9s']
+15 [u'archive', u'vulnerabilities']
+17 [u'2018', u'android']
+18 [u'web']
+19 [u'new', u'veille']
+20 [u'mobile']
+21 [u'google']
+22 [u'privacy']
+25 [u'scripting']
+33 [u'cross']
+42 [u'malware']
+65 [u'vigil@nce']
+
+
