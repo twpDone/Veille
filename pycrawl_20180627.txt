@@ -1,0 +1,207 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	 http://www.securityweek.com/eight-arrested-roles-email-fraud-schemes/
+	--
+	--
+
+[threats]
+	 http://www.securityweek.com/toxic-content-insider-threats-lurk-business-collaboration-tools-report/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 http://www.securityfocus.com/archive/1/542103/
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	 https://www.scmagazine.com/hackers-exploit-fastbooking-flaw-to-steal-customer-data-from-hundreds-of-hotels/article/776351/
+	--
+	--
+
+[services]
+	 http://www.zdnet.fr/actualites/google-renomme-ses-services-publicitaires-adwords-devient-google-ads-39870288.htm/
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	 https://www.scmagazine.com/fake-wannacry-sent-via-phishing-emails/article/776321/
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/cisco-asa-flaw-exploited-dos-attacks/
+	--
+	--
+
+[ransomware]
+	 https://thehackernews.com/2018/06/free-ransomware-decryption-tools.html/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'dns', u'infosec', u'ultimate', u'standard', u'features', u'siem', u'ethical', u'hacker', u'team', u'monitor', u'wi-fi', u'training', u'10', u'hack', u'xml', u'awards', u'tous', u'external', u'flaws', u'flaw', u'response', u'found', u'tara', u'bulletin', u'products', u'apple', u'cloud', u'brook', u'2016', u'cryptocurrency', u'agency', u'should', u'subscribe', u'government', u'twitter', u'bug']
+6 [u'voir', u'call', u'x-force', u'product', u'course', u'avis', u'into', u'mickael', u'micro', u'research', u'microsoft', u'scams', u'linux', u'injection', u'breach', u'this', u'backdoor', u'exploited', u'dorigny']
+7 [u'phones', u'my', u'could', u'penetration', u'top', u'ransomware', u'report', u'conference', u'trend', u'sites', u'cisco', u'business', u'social', u'phishing', u'30', u'ctf', u'our', u'podcasts']
+8 [u'vulnerability', u'testing', u'attacks', u'dactualit\xe9', u'threat', u'cup']
+9 [u'best', u'ibm', u'cars', u'world', u'drupal', u'services', u'intelligence', u'malicious', u'firefox', u'app', u'2017', u'email', u'wpa3', u'iot']
+10 [u's\xe9curit\xe9', u'devices', u'folt\xfdn', u'cet', u'threats', u'tom\xe1\u0161', u'uk']
+11 [u'internet', u'multiples', u'blog', u'full', u'vulnerabilities', u'cybercrime']
+12 [u'podcast', u'smart']
+13 [u'hacking', u'google', u'vuln\xe9rabilit\xe9s']
+15 [u'archive']
+16 [u'new', u'wordpress', u'android']
+17 [u'2018']
+18 [u'mobile', u'web']
+19 [u'veille']
+20 [u'scripting']
+21 [u'privacy']
+29 [u'cross']
+37 [u'malware']
+69 [u'vigil@nce']
+
+
