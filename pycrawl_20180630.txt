@@ -1,0 +1,210 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	 [hacker, threats] https://www.scmagazine.com/hacker-behind-hoax-jcc-threats-convicted-in-israel/article/777224/
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	 [hacker, threats] https://www.scmagazine.com/hacker-behind-hoax-jcc-threats-convicted-in-israel/article/777224/
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	 [users, facebook] http://www.securityweek.com/facebook-app-exposed-data-120-million-users/
+	 [users, facebook] https://www.scmagazine.com/facebook-quizzes-may-have-exposed-120-million-users-personal-information/article/777453/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 http://www.zdnet.fr/actualites/cloud-gaming-yeti-de-google-se-precise-39870500.htm/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	 [users, facebook] http://www.securityweek.com/facebook-app-exposed-data-120-million-users/
+	 [users, facebook] https://www.scmagazine.com/facebook-quizzes-may-have-exposed-120-million-users-personal-information/article/777453/
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 http://www.securityweek.com/two-arrested-hacking-700000-accounts/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	 http://www.securityweek.com/massive-breach-data-broker-exactis-exposes-millions-americans/
+	 https://www.scmagazine.com/privacy-compliance/exactis-breach-exposes-340m-records-may-compel-gdpr-like-reg-in-us/article/777059/
+	 https://thehackernews.com/2018/06/typeform-survey-software.html/
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/researchers-devise-rowhammer-attacks-against-latest-android-versions/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/understanding-code-signing-abuse-in-malware-campaigns/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'dns', u'infosec', u'my', u'law', u'ultimate', u'fifa', u'ransomware', u'siem', u'report', u'browser', u'hack', u'awards', u'tous', u'cisco', u'exactis', u'file', u'rowhammer', u'phishing', u'scams', u'bulletin', u'ticketmaster', u'this', u'brook', u'2016', u'have', u'agency', u'should', u'email', u'ships', u'subscribe']
+6 [u'voir', u'phones', u'changes', u'call', u'top', u'conference', u'x-force', u'devices', u'product', u'avis', u'10', u'sites', u'pas', u'mickael', u'micro', u'research', u'microsoft', u'into', u'injection', u'firefox', u'apple', u'cloud', u'dorigny', u'iot']
+7 [u'cybersecurity', u'trend', u'million', u'exposed', u'hacks', u'drupal', u'services', u'ctf', u'up', u'30', u'2017', u'our', u'120', u'podcasts', u'twitter']
+8 [u'hacking', u'attacks', u'ibm', u'internet', u'dactualit\xe9', u'blog', u'threat', u'intelligence', u'threats']
+9 [u'necurs', u'vulnerability', u'best', u'cars', u'multiples', u'uk', u'users']
+10 [u's\xe9curit\xe9', u'could', u'folt\xfdn', u'full', u'social', u'cet', u'linux', u'tom\xe1\u0161']
+11 [u'world', u'vulnerabilities', u'cup', u'vuln\xe9rabilit\xe9s', u'app', u'smart']
+12 [u'podcast', u'facebook', u'cybercrime']
+13 [u'new']
+15 [u'wordpress', u'archive']
+16 [u'breach', u'2018']
+17 [u'mobile', u'android', u'web']
+19 [u'scripting', u'veille', u'google']
+25 [u'privacy']
+27 [u'cross']
+69 [u'vigil@nce']
+37 [u'malware']
+
+
