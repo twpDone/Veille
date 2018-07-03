@@ -1,0 +1,220 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://www.welivesecurity.com/2018/07/02/principle-least-privilege-strategy/
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	 [kit, exploit] https://blog.trendmicro.com/trendlabs-security-intelligence/tag/magnitude-exploit-kit/
+	 [kit, exploit] https://blog.trendmicro.com/trendlabs-security-intelligence/tag/grandsoft-exploit-kit/
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 http://www.securityweek.com/insider-threat-common-myths-and-misconceptions/
+	--
+	--
+
+[users]
+	--
+	 [users, facebook] http://www.securityweek.com/facebook-notifies-800000-users-blocking-bug/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.zdnet.fr/actualites/linux-micro-focus-cede-suse-39870552.htm/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-319/
+	--
+	--
+
+[cloud]
+	 http://www.zdnet.fr/actualites/cloud-computing-et-batteries-accord-majeur-entre-bollore-et-alibaba-39870556.htm/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	 https://www.trendmicro.com/vinfo/us/security/definition/exploit-kit/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/exploit-kits/
+	--
+	 [kit, exploit] https://blog.trendmicro.com/trendlabs-security-intelligence/tag/magnitude-exploit-kit/
+	 [kit, exploit] https://blog.trendmicro.com/trendlabs-security-intelligence/tag/grandsoft-exploit-kit/
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://www.scmagazine.com/facebook-makes-additional-api-changes-to-secure-user-data/article/778088/
+	 https://www.scmagazine.com/facebook-says-61-apps-got-extensions-for-collecting-user-data-following-2015-policy-change/article/777630/
+	--
+	 [users, facebook] http://www.securityweek.com/facebook-notifies-800000-users-blocking-bug/
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/n-esperez-pas-microsoft-andromeda-cette-annee-ou-peut-etre-jamais-39870580.htm/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/typeform-breach-exposes-survey-data-collected-for-tasmanian-electoral-commission-fortnum-mason-monzo/article/778058/
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/researchers-create-attacks-compromise-lte-data-communication/
+	 http://thehackernews.com/search/label/Cyber%20Attack/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/macos-malware-hits-cryptocurrency-investors-on-slack-and-discord/article/777616/
+	 http://thehackernews.com/search/label/Malware/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'call', u'dns', u'infosec', u'my', u'fifa', u'over', u'typeform', u'rampage', u'enterprise', u'programs', u'targets', u'france', u'million', u'browser', u'hack', u'sites', u'tous', u'phpmyadmin', u'critical', u'business', u'rowhammer', u'injection', u'bulletin', u'brook', u'2016', u'120', u'subscribe']
+6 [u'voir', u'phones', u'free', u'top', u'report', u'conference', u'x-force', u'kit', u'team', u'product', u'avis', u'10', u'exploit', u'cisco', u'file', u'mickael', u'research', u'store', u'services', u'threats', u'users', u'apple', u'cloud', u'this', u'2017', u'agency', u'dorigny', u'iot']
+7 [u'vulnerability', u'changes', u'hacking', u'advisory', u'ransomware', u'devices', u'pas', u'hacks', u'drupal', u'threat', u'ctf', u'into', u'up', u'30', u'cryptocurrency', u'podcasts', u'twitter']
+8 [u'trend', u'dactualit\xe9', u'multiples', u'micro', u'vmware', u'microsoft', u'intelligence', u'linux', u'uk', u'app', u'our']
+9 [u'securiteam', u'best', u'necurs', u'cybersecurity', u'ibm', u'internet', u'cars', u'social', u'could']
+10 [u's\xe9curit\xe9', u'folt\xfdn', u'world', u'cet', u'tom\xe1\u0161', u'cup', u'bug']
+11 [u'attacks', u'full', u'vuln\xe9rabilit\xe9s']
+12 [u'podcast', u'cybercrime']
+13 [u'new', u'wordpress', u'blog', u'google', u'breach', u'android', u'smart']
+14 [u'mobile']
+15 [u'archive', u'vulnerabilities']
+16 [u'2018', u'web']
+17 [u'facebook']
+18 [u'scripting']
+19 [u'veille']
+20 [u'privacy']
+28 [u'cross']
+41 [u'malware']
+64 [u'vigil@nce']
+
+
