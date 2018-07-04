@@ -1,0 +1,220 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://threatpost.com/ios-10-passcode-bypass-can-access-photos-contacts/122033/
+	--
+	--
+
+[attack]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/macro-based-attack/
+	--
+	--
+
+[routers]
+	 https://www.cnet.com/topics/networking/best-networking-devices/
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 https://www.scmagazine.com/smoke-loader-gains-propagate-injection-capability/article/778385/
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	 [threat, exploit] https://threatpost.com/threatlist-exploit-kits-still-a-top-web-based-threat/133044/
+	--
+
+[users]
+	 https://www.scmagazine.com/samsung-glitch-randomly-sends-users-pictures-to-contacts/article/778214/
+	--
+	 [users, malware] http://www.securityweek.com/new-macos-malware-targets-crypto-currency-users/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://threatpost.com/total-recall-troy-hunt-breaks-down-his-nissan-hack/116497/
+	--
+	--
+
+[linux]
+	 https://threatpost.com/linux-foundation-badge-program-to-boost-open-source-security/117799/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-321/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	 https://threatpost.com/mark-dowd-on-exploit-mitigation-development/125947/
+	--
+	 [threat, exploit] https://threatpost.com/threatlist-exploit-kits-still-a-top-web-based-threat/133044/
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://www.scmagazine.com/facebook-patches-bug-that-allowed-blocked-friends-to-see-content/article/778219/
+	 https://threatpost.com/more-federal-agencies-wrapped-up-in-facebook-data-privacy-probe/133667/
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 https://www.scmagazine.com/a-rochester-man-accused-of-hacking-into-accounts-of-young-women/article/778378/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	 http://www.globalsecuritymag.com/Mike-Forcepoint-comment-NHS-data,20180703,79629.html/
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/flaws-expose-siemens-central-plant-clocks-attacks/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://threatpost.com/abandoned-mobile-cc-servers-present-opportunity-to-attackers/121122/
+	--
+	--
+
+[malware]
+	 https://threatpost.com/bashlite-family-of-malware-infects-1-million-iot-devices/120230/
+	 https://www.scmagazine.com/hidden-malware-in-fortnite-cheating-app-shells-gamers-with-barrage-of-ads/article/778386/
+	--
+	 [users, malware] http://www.securityweek.com/new-macos-malware-targets-crypto-currency-users/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'call', u'dns', u'infosec', u'risk', u'fifa', u'free', u'enterprise', u'stop', u'ics', u'france', u'tablets', u'platform', u'hack', u'tous', u'business', u'file', u'drupal', u'services', u'source', u'up', u'uk', u'bulletin', u'products', u'backdoor', u'future', u'podcasts', u'twitter', u'samsung']
+6 [u'voir', u'phones', u'advisory', u'x-force', u'kit', u'product', u'avis', u'cisco', u'mickael', u'research', u'into', u'injection', u'app', u'dorigny', u'apps']
+7 [u'top', u'hacking', u'conference', u'team', u'trend', u'10', u'sites', u'micro', u'threats', u'ctf', u'users', u'30', u'2017', u'bounty', u'subscribe']
+8 [u'securiteam', u'necurs', u'internet', u'dactualit\xe9', u'pas', u'social', u'threat', u'our', u'iot']
+9 [u'ransomware', u'odonnell', u'ibm', u'cars', u'lindsey', u'exploit', u'podcast', u'intelligence', u'linux', u'android']
+10 [u'tom\xe1\u0161', u'cybersecurity', u'folt\xfdn', u'multiples', u'full', u'cet', u'vulnerabilities', u'web']
+11 [u'attacks', u'google', u'breach', u'facebook', u'cybercrime', u'bug']
+12 [u's\xe9curit\xe9', u'wordpress', u'blog', u'world', u'cup']
+13 [u'mobile', u'vuln\xe9rabilit\xe9s']
+14 [u'smart']
+15 [u'new', u'archive']
+16 [u'2018']
+18 [u'scripting']
+19 [u'veille']
+21 [u'privacy']
+27 [u'cross']
+29 [u'best']
+38 [u'malware']
+63 [u'vigil@nce']
+
+
