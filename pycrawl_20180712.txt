@@ -1,0 +1,225 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	 [access, hacker] http://www.securityweek.com/hacker-offers-access-machine-international-airport-10/
+	--
+
+[attack]
+	 http://www.securityweek.com/hackers-can-chain-multiple-flaws-attack-wago-hmi-devices/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	 [access, hacker] http://www.securityweek.com/hacker-offers-access-machine-international-airport-10/
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 http://www.securityweek.com/att-acquire-threat-management-firm-alienvault/
+	--
+	--
+
+[users]
+	 https://www.scmagazine.com/malware/bankbot-anubis-campaign-targets-turkish-android-users-with-fake-apps-in-google-play-store/article/779500/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 http://www.zdnet.fr/actualites/cloud-big-data-et-cybersecurite-priorite-aux-jeunes-39871045.htm/
+	--
+	--
+
+[scripting]
+	 http://www.securityfocus.com/archive/1/542139/
+	--
+	--
+
+[exploit]
+	 https://www.scmagazine.com/crypto-scammers-posing-as-elon-musk-exploit-thai-cave-rescue-efforts/article/779859/
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-336/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://www.scmagazine.com/uk-privacy-regulators-fine-facebook-660000-in-cambridge-analytica-scandal/article/779827/
+	--
+	 [facebook, breach] http://www.securityweek.com/britain-fine-facebook-over-data-breach/
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-334/
+	 http://www.zdnet.fr/actualites/pourquoi-microsoft-a-t-il-cree-surface-go-39870917.htm/
+	 https://www.scmagazine.com/july-patch-tuesday-microsoft-covers-17-critical-rated/article/779814/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-337/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-335/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-333/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-338/
+	--
+	 [windows, microsoft] http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-336/
+	--
+
+[breach]
+	 https://www.scmagazine.com/third-party-ticketmaster-breach-targeted-800-plus-e-commerce-sites/article/780075/
+	 https://securityintelligence.com/ponemon-cost-of-a-data-breach-2018/
+	 https://threatpost.com/ticketmaster-breach-just-one-part-of-a-wide-ranging-campaign/133892/
+	--
+	 [facebook, breach] http://www.securityweek.com/britain-fine-facebook-over-data-breach/
+	--
+
+[attacks]
+	 http://www.securityweek.com/credssp-flaw-exposes-pepperlfuchs-hmi-devices-attacks/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/ammyy-admin-site-found-pushing-banking-malware-uses-world-cup-as-cover/article/779848/
+	 https://www.welivesecurity.com/2018/07/11/ammyy-admin-compromised-malware-world-cup-cover/
+	--
+	--
+
+[vigil@nce]
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Joomla-Admin-Tools-Pro,20180711,79790.html/
+	 http://www.globalsecuritymag.com/Vigil-nce-Joomla-Admin-Tools-Pro,20180711,79790.html/
+	--
+	--
+
+
+ KeyWords : 
+5 [u'patches', u'stolen', u'cnet', u'phones', u'call', u'dns', u'infosec', u'fifa', u'adobe', u'restricted', u'protection', u'x-force', u'marrian', u'ics', u'team', u'targets', u'iphone', u'ibm', u'internet', u'ssh', u'sites', u'hacker', u'polar', u'flaws', u'spectre', u'found', u'services', u'windows', u'linux', u'bulletin', u'apple', u'stop', u'mode', u'could', u'backdoor', u'podcasts', u'android', u'center', u'twitter', u'apps', u'zhou']
+6 [u'voir', u'top', u'bounty', u'hacking', u'advisory', u'ransomware', u'newsmaker', u'kit', u'product', u'avis', u'tous', u'dark', u'critical', u'business', u'mickael', u'information', u'research', u'threat', u'threats', u'firm', u'source', u'google', u'into', u'uk', u'app', u'dorigny', u'ios', u'software']
+7 [u'conference', u'devices', u'trend', u'interview', u'seals', u'social', u'micro', u'drupal', u'intelligence', u'hackers', u'ctf', u'usb', u'tara', u'users', u'access', u'30', u'cloud', u'2017', u'admin', u'subscribe', u'bug']
+8 [u'securiteam', u'best', u'attacks', u'10', u'dactualit\xe9', u'facebook', u'our', u'patch']
+9 [u'cars', u'exploit', u'podcast']
+10 [u'wordpress', u'folt\xfdn', u'world', u'full', u'tom\xe1\u0161', u'cup', u'iot']
+11 [u's\xe9curit\xe9', u'cybersecurity', u'multiples', u'cet', u'smart']
+12 [u'cybercrime']
+13 [u'blog', u'mobile', u'breach']
+14 [u'new', u'microsoft']
+15 [u'archive', u'vulnerabilities', u'vuln\xe9rabilit\xe9s']
+43 [u'malware']
+18 [u'2018']
+19 [u'veille', u'privacy', u'web']
+21 [u'scripting']
+31 [u'cross']
+65 [u'vigil@nce']
+
+
