@@ -1,0 +1,215 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 http://www.securityweek.com/three-emerging-technologies-accelerate-incident-readiness/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://www.scmagazine.com/blizzard-hit-with-another-dos-attack-affecting-overwatch-heroes-of-the-storm-world-of-warcraft/article/780371/
+	 https://www.scmagazine.com/cybercrime/blizzard-hit-with-another-dos-attack-affecting-overwatch-heroes-of-the-storm-world-of-warcraft/article/780371/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 https://threatpost.com/hacker-compromises-air-force-captain-to-steal-sensitive-drone-info/133915/
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	 http://www.zdnet.fr/actualites/ticketmaster-la-faille-est-plus-inquietante-que-prevu-39871091.htm/
+	--
+	 [faille, facebook] http://www.zdnet.fr/actualites/une-faille-dans-facebook-et-des-donnees-privees-exposees-39871143.htm/
+	--
+
+[threat]
+	--
+	 [threat, malware] https://threatpost.com/threatlist-6-year-old-dorkbot-banking-malware-resurfaces-as-big-threat/133898/
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.securityweek.com/arch-linux-aur-repository-compromised/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://www.welivesecurity.com/2018/07/12/facebook-fined-data-privacy-scandal/
+	--
+	 [faille, facebook] http://www.zdnet.fr/actualites/une-faille-dans-facebook-et-des-donnees-privees-exposees-39871143.htm/
+	--
+
+[apple]
+	 https://www.scmagazine.com/former-apple-engineer-arrested-for-stealing-secret-info-on-autonomous-car-project/article/780373/
+	 http://www.zdnet.fr/actualites/apple-prepare-t-il-un-renouvellement-massif-de-ses-terminaux-39871103.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/patch-tuesday-microsoft-corrige-54-failles-dont-17-critiques-39871097.htm/
+	 http://www.zdnet.fr/actualites/microsoft-teams-la-version-gratuite-a-l-assaut-de-slack-39871137.htm/
+	--
+	--
+
+[breach]
+	 http://www.securityweek.com/timehop-shares-more-details-data-breach/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	 https://www.welivesecurity.com/2018/07/12/trends-2018-time-cybercrime/
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 http://www.securityweek.com/vpnfilter-malware-hits-critical-infrastructure-ukraine/
+	--
+	 [threat, malware] https://threatpost.com/threatlist-6-year-old-dorkbot-banking-malware-resurfaces-as-big-threat/133898/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'patches', u'cnet', u'call', u'dns', u'infosec', u'programs', u'chrome', u'x-force', u'ics', u'devices', u'team', u'targets', u'iphone', u'ibm', u'internet', u'ssh', u'sites', u'admin', u'hacker', u'information', u'windows', u'firm', u'google', u'trends', u'uk', u'access', u'app', u'cloud', u'out', u'backdoor', u'podcasts', u'ios', u'center', u'twitter']
+6 [u'stolen', u'voir', u'features', u'top', u'hacking', u'newsmaker', u'necurs', u'kit', u'product', u'tous', u'critical', u'business', u'mickael', u'drupal', u'services', u'threatlist', u'threats', u'source', u'usb', u'into', u'users', u'bulletin', u'apple', u'dorigny', u'avis', u'software']
+7 [u'phones', u'bounty', u'advisory', u'ransomware', u'conference', u'trend', u'interview', u'cisco', u'social', u'micro', u'threat', u'intelligence', u'linux', u'ctf', u'30', u'patch', u'subscribe']
+8 [u'securiteam', u'best', u'cybersecurity', u'attacks', u'10', u'dactualit\xe9', u'dark', u'seals', u'research', u'tara', u'facebook', u'our']
+9 [u'cars', u'exploit', u'podcast', u'cup', u'2017']
+10 [u's\xe9curit\xe9', u'wordpress', u'folt\xfdn', u'full', u'cet', u'tom\xe1\u0161', u'breach', u'iot']
+11 [u'multiples', u'smart', u'bug']
+12 [u'mobile']
+13 [u'blog', u'world']
+14 [u'microsoft']
+15 [u'archive', u'vuln\xe9rabilit\xe9s', u'cybercrime']
+16 [u'new', u'vulnerabilities']
+19 [u'scripting', u'veille']
+20 [u'2018', u'privacy', u'web']
+46 [u'malware']
+28 [u'cross']
+62 [u'vigil@nce']
+
+
