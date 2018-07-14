@@ -1,0 +1,208 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://www.scmagazine.com/ukrainian-officials-blame-russia-for-vpnfilter-attack-on-chlorine-plant/article/780729/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 https://www.scmagazine.com/cisco-patches-denial-of-service-flaw-affecting-voip-phones/article/780703/
+	 http://www.securityfocus.com/archive/1/542148/
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-342/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/tout-savoir-sur-l-achat-des-derniers-macbook-pro-2018-d-apple-39871197.htm/
+	--
+	--
+
+[hacking]
+	 https://threatpost.com/justice-department-indicts-12-russian-nationals-tied-to-2016-election-hacking/133978/
+	--
+	 [hacking, intelligence] http://www.securityweek.com/breaking-12-russian-intelligence-officers-indicted-hacking-us-democrats/
+	--
+
+[intelligence]
+	--
+	 [hacking, intelligence] http://www.securityweek.com/breaking-12-russian-intelligence-officers-indicted-hacking-us-democrats/
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/flaws-expose-siemens-protection-relays-dos-attacks/
+	 https://www.scmagazine.com/spambots-launch-last-minute-world-cup-themed-hi-attacks/article/780718/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 http://www.zdnet.fr/actualites/ukraine-le-malware-vpnfilter-utilise-pour-s-attaquer-a-une-usine-de-filtrage-d-eau-39871227.htm/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'dns', u'infosec', u'mdm', u'backdoor', u'top', u'newsmaker', u'chrome', u'x-force', u'pro', u'ics', u'team', u'internet', u'dark', u'business', u'flaws', u'information', u'google', u'users', u'code', u'access', u'app', u'stop', u'admin', u'podcasts', u'ios', u'software', u'hacker']
+6 [u'risk', u'voir', u'vulnerability', u'used', u'advisory', u'ransomware', u'patch', u'conference', u'necurs', u'ibm', u'product', u'avis', u'interview', u'tous', u'vpnfilter', u'seals', u'mickael', u'drupal', u'threat', u'services', u'threatlist', u'threats', u'source', u'into', u'tara', u'bulletin', u'cloud', u'dorigny', u'twitter']
+7 [u'patches', u'solution', u'protection', u'trend', u'iphone', u'12', u'sites', u'social', u'micro', u'linux', u'ctf', u'breach', u'facebook', u'30', u'2017', u'subscribe']
+8 [u'securiteam', u'best', u'10', u'dactualit\xe9', u'cisco', u'critical', u'research', u'russian', u'apple', u'our']
+9 [u's\xe9curit\xe9', u'bounty', u'cybersecurity', u'cars', u'exploit', u'podcast', u'intelligence']
+10 [u'tom\xe1\u0161', u'hacking', u'attacks', u'wordpress', u'folt\xfdn', u'multiples', u'full', u'cet', u'cup']
+11 [u'microsoft', u'iot', u'bug']
+12 [u'mobile', u'smart']
+13 [u'blog', u'cybercrime']
+14 [u'new', u'world', u'vuln\xe9rabilit\xe9s', u'web']
+45 [u'malware']
+19 [u'veille']
+20 [u'scripting', u'privacy']
+21 [u'2018']
+22 [u'vulnerabilities']
+29 [u'cross']
+62 [u'vigil@nce']
+
+
