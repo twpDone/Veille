@@ -1,0 +1,211 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/author/joeyc/
+	--
+	 [threats, ransomware] https://www.scmagazine.com/new-and-improved-magniber-ransomware-expands-threats-within-asia/article/781393/
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 http://www.securityweek.com/symantec-launches-email-threat-isolation-solution/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/it-walmart-opte-pour-microsoft-azure-39871341.htm/
+	 http://www.securityfocus.com/archive/1/542154/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/data-breach/telefonica-breach-leaves-data-on-millions-exposed/article/781066/
+	--
+	--
+
+[attacks]
+	 https://threatpost.com/ddos-attacks-get-bigger-smarter-and-more-diverse/134028/
+	 https://threatpost.com/recent-andariel-group-activex-attacks-point-to-future-targets/134053/
+	--
+	 [attacks, ransomware] http://www.securityweek.com/downward-trend-healthcare-ransomware-attacks-may-be-temporary/
+	--
+
+[ransomware]
+	 https://securityintelligence.com/move-over-ransomware-why-cybercriminals-are-shifting-their-focus-to-cryptojacking/
+	--
+	 [threats, ransomware] https://www.scmagazine.com/new-and-improved-magniber-ransomware-expands-threats-within-asia/article/781393/
+	 [attacks, ransomware] http://www.securityweek.com/downward-trend-healthcare-ransomware-attacks-may-be-temporary/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/researchers-roman-holiday-malware-campaign-appears-to-be-russia-targeting-italian-navy/article/781201/
+	 http://www.securityweek.com/malware-creator-admits-building-and-selling-luminositylink-rat/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'solution', u'vulnerability', u'campaign', u'dns', u'infosec', u'forgery', u'enterprise', u'advisory', u'stop', u'conference', u'x-force', u'old', u'ics', u'devices', u'request', u'ddos', u'manager', u'team', u'trump', u'internet', u'millions', u'russia', u'dark', u'critical', u'business', u'blackgear', u'information', u'curtis', u'micro', u'extradited', u'services', u'threatlist', u'targeted', u'facebook', u'cloud', u'backdoor', u'podcasts', u'ios', u'shane', u'hacker']
+6 [u'voir', u'wp', u'odonnell', u'trend', u'ibm', u'product', u'avis', u'lindsey', u'sites', u'tous', u'cisco', u'deep', u'mickael', u'threat', u'bulletin', u'2017', u'dorigny', u'twitter', u'software']
+7 [u'top', u'ransomware', u'newsmaker', u'update', u'10', u'seals', u'research', u'russian', u'tara', u'summit', u'breach', u'30', u'ctf', u'subscribe', u'bug']
+8 [u'best', u'cybersecurity', u'targets', u'interview', u'dactualit\xe9', u'threats', u'hackers', u'our']
+9 [u's\xe9curit\xe9', u'tom\xe1\u0161', u'hacking', u'cars', u'folt\xfdn', u'podcast', u'social', u'intelligence', u'google']
+10 [u'multiples', u'blog', u'world', u'full', u'cet', u'cup', u'vuln\xe9rabilit\xe9s']
+11 [u'microsoft']
+12 [u'attacks', u'cybercrime', u'iot']
+13 [u'mobile', u'smart']
+15 [u'web']
+17 [u'new']
+19 [u'scripting', u'veille', u'vulnerabilities', u'privacy']
+21 [u'2018']
+23 [u'wordpress']
+67 [u'vigil@nce']
+38 [u'malware']
+30 [u'cross']
+
+
