@@ -1,0 +1,211 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://www.scmagazine.com/hackers-access-personal-data-of-15-million-singhealth-patients-including-singapores-prime-minister/article/782409/
+	--
+	--
+
+[attack]
+	--
+	 [attack, routers] https://threatpost.com/d-link-dasan-routers-under-attack-in-yet-another-assault/134255/
+	--
+
+[routers]
+	--
+	 [attack, routers] https://threatpost.com/d-link-dasan-routers-under-attack-in-yet-another-assault/134255/
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 https://www.scmagazine.com/wizards-of-waverly-place-dad-exposed-hacker-posts-nude-photos-of-deluise/article/782412/
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 http://www.securityfocus.com/archive/1/542168/
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 http://www.securityfocus.com/archive/1/542170/
+	 http://www.securityfocus.com/archive/1/542169/
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/microsoft-franchit-pour-la-premiere-fois-les-100-milliards-de-dollars-39871503.htm/
+	 https://www.scmagazine.com/microsoft-shares-evidence-russia-hacked-2018-congressional-candidates-house-votes-down-additional-state-election-funds/article/782184/
+	 http://www.securityweek.com/microsoft-addresses-serious-vulnerability-translator-hub/
+	--
+	--
+
+[breach]
+	 http://www.globalsecuritymag.com/Singapore-data-breach-comment-from,20180720,80005.html/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/attackers-concealing-malware-in-images-uploaded-to-google-servers/article/782393/
+	 https://www.scmagazine.com/malware-author-anarchy-builds-18000-strong-huawei-router-botnet/article/782395/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'phones', u'infosec', u'experts', u'service', u'forgery', u'tom', u'enterprise', u'advisory', u'conference', u'x-force', u'marrian', u'ics', u'dns', u'devices', u'request', u'update', u'manager', u'team', u'millions', u'cisco', u'deep', u'curtis', u'micro', u'spring', u'into', u'malicious', u'bulletin', u'facebook', u'cloud', u'patch', u'backdoor', u'podcasts', u'ios', u'apps', u'shane', u'bug', u'zhou']
+6 [u'risk', u'voir', u'million', u'campaign', u'top', u'trend', u'ibm', u'product', u'avis', u'sites', u'tous', u'critical', u'business', u'seals', u'mickael', u'tara', u'summit', u'2017', u'attack', u'wp', u'dorigny']
+7 [u'newsmaker', u'attacks', u'internet', u'folt\xfdn', u'services', u'threatlist', u'intelligence', u'threats', u'ctf', u'tom\xe1\u0161', u'oracle', u'30', u'subscribe', u'twitter']
+8 [u'hacking', u'best', u'interview', u'10', u'dactualit\xe9', u'world', u'cup', u'breach', u'our']
+9 [u's\xe9curit\xe9', u'ransomware', u'cars', u'podcast', u'social', u'hackers']
+10 [u'vulnerability', u'blog', u'full', u'cet', u'research']
+11 [u'new', u'cybersecurity', u'cybercrime', u'smart']
+12 [u'multiples', u'vuln\xe9rabilit\xe9s', u'mobile']
+13 [u'iot']
+14 [u'google', u'web']
+15 [u'microsoft']
+18 [u'scripting']
+19 [u'veille', u'vulnerabilities', u'privacy']
+20 [u'wordpress']
+22 [u'2018']
+29 [u'cross']
+36 [u'malware']
+66 [u'vigil@nce']
+
+
