@@ -1,0 +1,210 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, microsoft] http://www.securityweek.com/microsoft-uncovers-multi-tier-supply-chain-attack/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 http://www.securityweek.com/cross-vector-threats-web-begins-where-email-ends/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.scmagazine.com/idaho-inmates-hack-prison-tablets-steal-225000-in-commissary-credits/article/783887/
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/office-2019-et-windows-10-enterprise-hausses-de-prix-en-vue-39871783.htm/
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/facebook-prive-infowars-de-tribune-pendant-30-jours-39871787.htm/
+	--
+	 [facebook, apple] http://www.zdnet.fr/actualites/apple-pourrait-il-prendre-une-claque-en-bourse-comme-facebook-39871791.htm/
+	--
+
+[apple]
+	--
+	 [facebook, apple] http://www.zdnet.fr/actualites/apple-pourrait-il-prendre-une-claque-en-bourse-comme-facebook-39871791.htm/
+	--
+
+[hacking]
+	 https://www.scmagazine.com/sen-mccaskill-reportedly-identified-as-russian-hacking-target-as-mid-term-elections-approach/article/784077/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	 [attack, microsoft] http://www.securityweek.com/microsoft-uncovers-multi-tier-supply-chain-attack/
+	--
+
+[breach]
+	--
+	 [breach, ransomware] https://www.scmagazine.com/data-breach-at-blue-springs-family-care-endangers-patient-records-enables-ransomware-attack/article/784080/
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	 [breach, ransomware] https://www.scmagazine.com/data-breach-at-blue-springs-family-care-endangers-patient-records-enables-ransomware-attack/article/784080/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'campaign', u'dns', u'experts', u'adobe', u'top', u'enterprise', u'protection', u'ics', u'update', u'manager', u'team', u'trend', u'fake', u'mais', u'challenges', u'multiple', u'exploit', u'world', u'remote', u'podcasts', u'information', u'micro', u'research', u'store', u'play', u'threatlist', u'banking', u'up', u'bulletin', u'ctf', u'products', u'apple', u'forgery', u'request', u'email', u'android']
+6 [u'risk', u'voir', u'phones', u'over', u'newsmaker', u'conference', u'chrome', u'ibm', u'product', u'tablets', u'avis', u'tous', u'dark', u'cisco', u'business', u'social', u'mickael', u'30', u'cloud', u'2017', u'dorigny', u'ios', u'twitter', u'bug']
+7 [u'attacks', u'devices', u'interview', u'internet', u'10', u'folt\xfdn', u'network', u'services', u'tom\xe1\u0161', u'subscribe']
+8 [u'vulnerability', u'advisory', u'dactualit\xe9', u'seals', u'threats', u'linux', u'tara', u'our', u'attack']
+9 [u's\xe9curit\xe9', u'hacking', u'cars', u'multiples']
+10 [u'sites', u'blog', u'full', u'cet', u'microsoft', u'intelligence', u'cybercrime']
+11 [u'facebook']
+12 [u'new', u'ransomware', u'vuln\xe9rabilit\xe9s', u'apps']
+13 [u'podcast']
+14 [u'mobile', u'iot']
+16 [u'2018', u'smart']
+17 [u'web']
+19 [u'scripting', u'wordpress', u'veille']
+21 [u'privacy']
+23 [u'vulnerabilities']
+28 [u'best']
+30 [u'google', u'cross']
+32 [u'malware']
+63 [u'vigil@nce']
+
+
