@@ -1,0 +1,208 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	 [access, injection, microsoft] http://www.securityfocus.com/archive/1/542191/
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-wpForo-SQL,20180730,80135.html/
+	 [access, injection, microsoft] http://www.securityfocus.com/archive/1/542191/
+	 [injection, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-WordPress-wpForo-SQL,20180730,80135.html/
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.scmagazine.com/new-darkhydrus-threat-group-targets-middle-eastern-government-agency/article/784461/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-362/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	 [access, injection, microsoft] http://www.securityfocus.com/archive/1/542191/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-wpForo-SQL,20180730,80135.html/
+	 [injection, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-WordPress-wpForo-SQL,20180730,80135.html/
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'dns', u'backdoor', u'top', u'conference', u'hat', u'ics', u'update', u'team', u'trend', u'targets', u'fake', u'car', u'exploit', u'dark', u'world', u'cisco', u'network', u'podcasts', u'advertising', u'micro', u'research', u'services', u'microsoft', u'threatlist', u'banking', u'exploits', u'line', u'bulletin', u'breach', u'30', u'products', u'cloud', u'stop', u'ios', u'government', u'twitter', u'bug', u'samsung']
+6 [u'risk', u'voir', u'newsmaker', u'chrome', u'sql', u'product', u'tablets', u'mais', u'avis', u'challenges', u'10', u'injection', u'tous', u'critical', u'business', u'social', u'mickael', u'hackthebox', u'ctf', u'2017', u'dorigny', u'android']
+7 [u'phones', u'securiteam', u'campaign', u'interview', u'hacking', u'devices', u'internet', u'folt\xfdn', u'linux', u'tom\xe1\u0161', u'facebook', u'subscribe']
+8 [u'vulnerability', u'attacks', u'dactualit\xe9', u'multiples', u'seals', u'threats', u'up', u'tara', u'our']
+9 [u's\xe9curit\xe9', u'advisory', u'cars', u'intelligence']
+10 [u'ransomware', u'sites', u'full', u'cet', u'cybercrime', u'email']
+11 [u'apps']
+12 [u'blog', u'vuln\xe9rabilit\xe9s']
+13 [u'podcast', u'mobile']
+14 [u'new', u'iot']
+16 [u'2018', u'web']
+17 [u'smart']
+19 [u'scripting', u'veille']
+22 [u'google', u'privacy']
+25 [u'vulnerabilities']
+26 [u'wordpress']
+28 [u'best', u'cross']
+32 [u'malware']
+64 [u'vigil@nce']
+
+

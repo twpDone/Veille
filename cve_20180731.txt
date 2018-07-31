@@ -1,0 +1,18 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-16035
+2018-07-23T12:26:19.037-04:00	:CVE-2017-16035 (Score:9.3)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-16088
+2018-07-23T13:22:20.757-04:00	:CVE-2017-16088 (Score:10.0)['cpe:/a:safe-eval_project:safe-eval:0.1.0::~~~node.js~~', 'cpe:/a:safe-eval_project:safe-eval:0.2.0::~~~node.js~~']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-7811
+2018-07-30T12:56:20.950-04:00	:CVE-2017-7811 (Score:10.0)['cpe:/a:mozilla:firefox:55.0.1', 'cpe:/a:mozilla:firefox:55.0.2']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11808
+2018-07-23T09:25:08.863-04:00	:CVE-2018-11808 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-2926
+2018-07-29T21:29:01.493-04:00	:CVE-2018-2926 (Score:8.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-2928
+2018-07-29T21:29:01.540-04:00	:CVE-2018-2928 (Score:8.8)[]
