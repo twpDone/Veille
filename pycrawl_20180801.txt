@@ -1,0 +1,233 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://www.scmagazine.com/alaska-city-borough-under-attack-by-cryptolocker/article/784776/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/the-need-for-managed-detection-and-response-persistent-and-prevalent-threats-in-north-americas-security-landscape/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [service, cloud] https://www.scmagazine.com/executive-insight/best-practices-for-entering-into-cloud-service-agreements/article/780704/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 http://www.securityweek.com/mimecast-acquires-threat-detection-startup-solebit-88-million/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.welivesecurity.com/2018/07/31/inmates-hack-tablets-free-credits-prison/
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	 [service, cloud] https://www.scmagazine.com/executive-insight/best-practices-for-entering-into-cloud-service-agreements/article/780704/
+	--
+
+[scripting]
+	--
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Zabbix-Cross-Site,20180731,80168.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-Synology-DSM-Cross-Site,20180731,80164.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Synology-DSM-Cross-Site,20180731,80164.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-Zabbix-Cross-Site,20180731,80168.html/
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	 [services, apple] http://www.zdnet.fr/actualites/trimestriels-apple-en-grande-forme-grace-a-l-iphone-et-les-services-39871919.htm/
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/android-encore-des-apps-du-play-store-infectees-mais-c-est-windows-qui-est-vise-39871873.htm/
+	--
+	 [windows, malware] http://www.securityweek.com/android-apps-carrying-windows-malware-yanked-google-play/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.securityweek.com/facebook-uncovers-political-influence-campaign-ahead-midterms/
+	 https://threatpost.com/facebook-removes-17-profiles-involved-in-political-meddling/134598/
+	 https://www.scmagazine.com/facebook-takes-down-pages-suspected-in-election-influence-campaign/article/784773/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-aux-portes-des-1000-milliards-de-dollars-de-capitalisation-et-alors-39871895.htm/
+	--
+	 [services, apple] http://www.zdnet.fr/actualites/trimestriels-apple-en-grande-forme-grace-a-l-iphone-et-les-services-39871919.htm/
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	 http://www.securityweek.com/medical-system-notifies-14m-patients-about-computer-breach/
+	 https://www.scmagazine.com/old-school-yale-discloses-breach-from-more-than-10-years-ago/article/784584/
+	 http://www.globalsecuritymag.com/Comment-Dixons-Carphone-data,20180731,80179.html/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	 https://www.scmagazine.com/updated-azorult-info-stealerdownloader-used-to-spread-ransomware-shortly-after-appearing-on-dark-web/article/784752/
+	 http://www.securityweek.com/samsam-ransomware-patient-persistent-competent-and-dangerous/
+	--
+	 [ransomware, malware] https://www.scmagazine.com/ransomware/samsam-ransomware-payments-hit-6-million-malware-called-labor-intensive-to-operate/article/784454/
+	 [ransomware, malware] https://www.scmagazine.com/samsam-ransomware-payments-hit-6-million-malware-called-labor-intensive-to-operate/article/784454/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	 [windows, malware] http://www.securityweek.com/android-apps-carrying-windows-malware-yanked-google-play/
+	 [ransomware, malware] https://www.scmagazine.com/ransomware/samsam-ransomware-payments-hit-6-million-malware-called-labor-intensive-to-operate/article/784454/
+	 [ransomware, malware] https://www.scmagazine.com/samsam-ransomware-payments-hit-6-million-malware-called-labor-intensive-to-operate/article/784454/
+	--
+
+[vigil@nce]
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Codra-Panorama-security,20180731,80162.html/
+	 http://www.globalsecuritymag.com/Vigil-nce-Codra-Panorama-security,20180731,80162.html/
+	--
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Zabbix-Cross-Site,20180731,80168.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-Synology-DSM-Cross-Site,20180731,80164.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Synology-DSM-Cross-Site,20180731,80164.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-Zabbix-Cross-Site,20180731,80168.html/
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'dns', u'dhs', u'top', u'detection', u'conference', u'chrome', u'hat', u'ics', u'devices', u'update', u'sql', u'managed', u'car', u'mais', u'internet', u'injection', u'dark', u'world', u'critical', u'podcasts', u'information', u'response', u'research', u'store', u'microsoft', u'spam', u'line', u'bulletin', u'summit', u'30', u'products', u'app', u'out', u'national', u'hp']
+6 [u'voir', u'phones', u'advisory', u'newsmaker', u'team', u'trend', u'product', u'avis', u'challenges', u'lindsey', u'tous', u'cisco', u'network', u'social', u'mickael', u'micro', u'windows', u'threatlist', u'apple', u'odonnell', u'ctf', u'cloud', u'printers', u'dorigny']
+7 [u'interview', u'hacking', u'cybersecurity', u'million', u'10', u'sites', u'seals', u'play', u'services', u'linux', u'tara', u'hackthebox', u'2017', u'subscribe', u'center']
+8 [u's\xe9curit\xe9', u'attacks', u'tablets', u'dactualit\xe9', u'folt\xfdn', u'multiples', u'tom\xe1\u0161', u'up', u'our', u'email']
+9 [u'new', u'campaign', u'cars', u'business', u'threats', u'breach', u'intelligence']
+10 [u'risk', u'blog', u'full', u'cet', u'android', u'cybercrime']
+11 [u'facebook', u'iot']
+12 [u'vuln\xe9rabilit\xe9s']
+13 [u'mobile', u'web', u'apps']
+14 [u'podcast']
+15 [u'ransomware', u'vulnerabilities', u'smart']
+16 [u'2018']
+19 [u'veille']
+21 [u'google', u'privacy']
+23 [u'wordpress']
+25 [u'scripting']
+29 [u'best', u'cross']
+36 [u'malware']
+69 [u'vigil@nce']
+
+
