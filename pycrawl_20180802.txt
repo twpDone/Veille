@@ -1,0 +1,215 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 https://www.scmagazine.com/security-incident-at-reddit-exposed-user-data-to-hackers/article/785327/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 http://www.zdnet.fr/actualites/10000-dollars-pour-hacker-une-imprimante-hp-39871955.htm/
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 http://www.securityweek.com/disconnect-between-understanding-email-threats-and-preventing-them/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-368/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-365/
+	--
+	--
+
+[cloud]
+	 http://www.zdnet.fr/actualites/istio-10-le-maillage-reseau-pour-les-applications-cloud-native-39871969.htm/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 https://threatpost.com/malicious-android-apps-touted-windows-executable-files/134631/
+	 http://www.zdnet.fr/actualites/windows-10-se-rapproche-de-la-fin-des-mots-de-passe-avec-webauthn-pour-edge-39871957.htm/
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 https://www.welivesecurity.com/2018/08/01/hp-offers-rewards-hacking-printers/
+	 http://www.securityweek.com/leaked-chats-show-alleged-russian-spy-seeking-hacking-tools/
+	 http://www.securityweek.com/three-ukrainians-arrested-hacking-over-100-us-companies/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	 https://threatpost.com/reddit-breach-stems-from-sms-two-factor-authentication-breakdown/134641/
+	 http://www.securityweek.com/yale-university-discloses-decade-old-data-breach/
+	 http://www.securityweek.com/dixons-carphone-breach-much-larger-first-thought/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	 https://threatpost.com/doj-nab-three-fin7-cybercrime-suspects-in-europe/134652/
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 http://www.securityweek.com/fireeye-malwareguard-uses-machine-learning-detect-malware/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'dns', u'top', u'detection', u'ics', u'deception', u'devices', u'update', u'sql', u'managed', u'mais', u'internet', u'nearly', u'seals', u'podcasts', u'research', u'store', u'services', u'microsoft', u'networks', u'tara', u'bulletin', u'30', u'products', u'app', u'forgery', u'request', u'center', u'twitter']
+6 [u'voir', u'newsmaker', u'conference', u'attacks', u'team', u'trend', u'product', u'tablets', u'avis', u'challenges', u'lindsey', u'sites', u'tous', u'cisco', u'business', u'mickael', u'information', u'response', u'micro', u'play', u'threatlist', u'targeted', u'odonnell', u'up', u'ctf', u'printers', u'dorigny']
+7 [u'campaign', u'interview', u'over', u'network', u'windows', u'linux', u'hackthebox', u'cloud', u'2017', u'subscribe', u'hp']
+8 [u'risk', u'phones', u'tom\xe1\u0161', u'cybersecurity', u'dactualit\xe9', u'folt\xfdn', u'multiples', u'our', u'email']
+9 [u'new', u'cars', u'10', u'blog', u'social', u'intelligence']
+10 [u'cet', u'android']
+11 [u's\xe9curit\xe9', u'ransomware', u'full', u'threats', u'breach', u'facebook', u'cybercrime', u'iot', u'apps']
+12 [u'hacking', u'vuln\xe9rabilit\xe9s']
+13 [u'podcast', u'mobile', u'web', u'smart']
+14 [u'vulnerabilities']
+16 [u'2018']
+19 [u'veille']
+20 [u'google', u'privacy']
+21 [u'scripting']
+26 [u'wordpress']
+27 [u'cross']
+29 [u'best']
+34 [u'malware']
+68 [u'vigil@nce']
+
+
