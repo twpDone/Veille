@@ -1,0 +1,214 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, ransomware] https://threatpost.com/podcast-breaking-down-the-cosco-ransomware-attack/134677/
+	 [attack, phishing] https://www.scmagazine.com/phishing-attack-compromised-the-data-of-14-million-unitypoint-health-patients/article/785692/
+	 [attack, routers] https://threatpost.com/huge-cryptomining-attack-on-isp-grade-routers-spreads-globally/134667/
+	--
+
+[routers]
+	 https://www.scmagazine.com/vulnerable-mikrotik-routers-being-used-to-spread-coinhive-miner/article/785688/
+	--
+	 [attack, routers] https://threatpost.com/huge-cryptomining-attack-on-isp-grade-routers-spreads-globally/134667/
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/author/weiminwu/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 http://www.securityweek.com/attackers-circumvent-two-factor-authentication-protections-hack-reddit/
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	 https://threatpost.com/phishing-campaign-steals-money-from-industrial-companies/134671/
+	 http://www.securityweek.com/phishing-campaign-targets-400-industrial-organizations/
+	--
+	 [attack, phishing] https://www.scmagazine.com/phishing-attack-compromised-the-data-of-14-million-unitypoint-health-patients/article/785692/
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 https://www.scmagazine.com/valedictorian-allegedly-stole-2m-in-cryptocurrency-by-hacking-cell-phones/article/785470/
+	--
+	--
+
+[intelligence]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/artificial-intelligence/
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	 https://www.welivesecurity.com/2018/08/02/reddit-reveals-breach-staffs-2fa/
+	--
+	--
+
+[attacks]
+	 https://www.scmagazine.com/sinking-feeling-hacktivist-rescued-by-disney-cruise-ship-convicted-for-ddos-attacks-against-health-facilities/article/785468/
+	--
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware] https://threatpost.com/podcast-breaking-down-the-cosco-ransomware-attack/134677/
+	--
+
+[cybercrime]
+	 https://www.scmagazine.com/worst-of-both-words-gorgon-hackers-practice-both-general-cybercrime-and-targeted-government-attacks/article/785655/
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'china', u'dns', u'industrial', u'top', u'bien', u'conference', u'ics', u'attacks', u'devices', u'mais', u'internet', u'sites', u'business', u'seals', u'podcasts', u'response', u'research', u'store', u'services', u'microsoft', u'networks', u'tara', u'bulletin', u'30', u'products', u'cloud', u'forgery', u'cryptocurrency', u'request', u'printers', u'email', u'twitter']
+6 [u'voir', u'securiteam', u'over', u'newsmaker', u'team', u'trend', u'product', u'tablets', u'avis', u'challenges', u'million', u'tous', u'dorigny', u'mickael', u'information', u'micro', u'targets', u'play', u'threatlist', u'phishing', u'linux', u'duo', u'ctf', u'2017']
+7 [u'phones', u'new', u'interview', u'advisory', u'10', u'multiples', u'windows', u'hackthebox', u'subscribe']
+8 [u'risk', u'reddit', u'cybersecurity', u'dactualit\xe9', u'social', u'threats', u'our']
+9 [u'campaign', u'tom\xe1\u0161', u'ransomware', u'cars', u'folt\xfdn']
+10 [u'cet', u'breach', u'intelligence', u'android']
+11 [u'hacking', u'full', u'vuln\xe9rabilit\xe9s', u'facebook', u'web', u'apps']
+12 [u's\xe9curit\xe9', u'blog', u'cybercrime', u'iot']
+13 [u'mobile', u'smart']
+14 [u'cisco', u'podcast', u'vulnerabilities']
+17 [u'2018']
+19 [u'veille']
+20 [u'scripting', u'google', u'privacy']
+23 [u'wordpress']
+25 [u'cross']
+29 [u'best']
+31 [u'malware']
+63 [u'vigil@nce']
+
+
