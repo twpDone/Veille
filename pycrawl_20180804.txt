@@ -1,0 +1,220 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, phishing] https://www.scmagazine.com/data-breach/phishing-attack-compromised-the-data-of-14-million-unitypoint-health-patients/article/785692/
+	--
+
+[routers]
+	 http://www.securityweek.com/mikrotik-routers-exploited-massive-crypto-mining-campaign/
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-wpForo-SQL,20180730,80135/
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.scmagazine.com/government-natl-security-experts-unify-to-fight-russia-election-threat/article/785819/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-371/
+	--
+	--
+
+[cloud]
+	 https://threatpost.com/threatlist-smb-security-challenges-grow-with-the-cloud/134706/
+	--
+	--
+
+[scripting]
+	--
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Zabbix-Cross-Site,20180731,80168/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Synology-DSM-Cross-Site,20180731,80164/
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/edge-windows-10-se-rapproche-de-la-fin-des-mots-de-passe-avec-webauthn-39871957.htm/
+	 https://www.scmagazine.com/malicious-windows-executable-files-hidden-in-google-play-apps/article/786049/
+	 https://www.scmagazine.com/bug-in-mingw-w64-windows-app-development-environment-results-in-exploitable-executables/article/785814/
+	--
+	--
+
+[phishing]
+	--
+	 [attack, phishing] https://www.scmagazine.com/data-breach/phishing-attack-compromised-the-data-of-14-million-unitypoint-health-patients/article/785692/
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/le-homepod-d-apple-a-du-mal-a-se-faire-entendre-aux-us-39872061.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	 http://www.securityweek.com/global-shipping-firm-clarksons-provides-update-2017-breach/
+	 https://www.scmagazine.com/us-treasury-calls-for-national-data-breach-notification-and-increased-data-protections/article/785999/
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/google-offers-g-suite-alerts-state-sponsored-attacks/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Codra-Panorama-security,20180731,80162/
+	--
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Zabbix-Cross-Site,20180731,80168/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Synology-DSM-Cross-Site,20180731,80164/
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-wpForo-SQL,20180730,80135/
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'securiteam', u'new', u'china', u'dns', u'experts', u'over', u'top', u'conference', u'ics', u'wireless', u'devices', u'mais', u'internet', u'business', u'podcasts', u'response', u'research', u'targets', u'services', u'microsoft', u'networks', u'hackers', u'spam', u'bulletin', u'30', u'products', u'apple', u'app', u'forgery', u'attack', u'request', u'printers', u'email', u'attaques', u'routers', u'bug']
+6 [u'voir', u'phones', u'vulnerability', u'advisory', u'reddit', u'newsmaker', u'attacks', u'update', u'team', u'trend', u'product', u'tablets', u'avis', u'million', u'sites', u'tous', u'mickael', u'information', u'micro', u'play', u'phishing', u'ctf', u'dorigny']
+7 [u'interview', u'cybersecurity', u'10', u'multiples', u'seals', u'threatlist', u'linux', u'tara', u'hackthebox', u'subscribe']
+8 [u'risk', u'campaign', u'challenges', u'dactualit\xe9', u'social', u'threats', u'facebook', u'cloud', u'2017', u'our']
+9 [u'tom\xe1\u0161', u'hacking', u'ransomware', u'cars', u'folt\xfdn', u'windows', u'android']
+10 [u'full', u'cet', u'intelligence', u'apps']
+11 [u's\xe9curit\xe9', u'blog', u'cisco', u'vuln\xe9rabilit\xe9s', u'cybercrime', u'web']
+12 [u'breach', u'iot']
+13 [u'mobile']
+14 [u'podcast', u'vulnerabilities', u'smart']
+16 [u'2018']
+19 [u'veille']
+20 [u'scripting']
+21 [u'privacy']
+23 [u'wordpress']
+24 [u'google']
+25 [u'cross']
+29 [u'best']
+32 [u'malware']
+63 [u'vigil@nce']
+
+
