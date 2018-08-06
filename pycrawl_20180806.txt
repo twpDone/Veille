@@ -76,6 +76,7 @@
 
 [service]
 	--
+	 [service, facebook] http://www.zdnet.fr/actualites/facebook-teste-son-service-de-rencontres-en-interne-39872079.htm/
 	--
 
 [faille]
@@ -128,6 +129,7 @@
 
 [facebook]
 	--
+	 [service, facebook] http://www.zdnet.fr/actualites/facebook-teste-son-service-de-rencontres-en-interne-39872079.htm/
 	--
 
 [apple]
@@ -163,11 +165,11 @@
 	--
 
 [mobile]
-	 http://www.zdnet.fr/actualites/free-conteste-la-rumeur-d-une-perte-record-d-abonnes-free-mobile-39871977.htm/
 	--
 	--
 
 [malware]
+	 http://www.securityweek.com/malware-hits-plants-chip-giant-tsmc/
 	--
 	--
 
@@ -177,23 +179,22 @@
 
 
  KeyWords : 
-5 [u'securiteam', u'new', u'china', u'dns', u'experts', u'over', u'free', u'top', u'reddit', u'conference', u'ics', u'wireless', u'devices', u'mais', u'internet', u'business', u'podcasts', u'information', u'response', u'research', u'targets', u'services', u'microsoft', u'networks', u'spam', u'bulletin', u'30', u'products', u'apple', u'app', u'forgery', u'attack', u'request', u'printers', u'email', u'attaques', u'routers', u'bug']
-6 [u'voir', u'cnet', u'phones', u'vulnerability', u'advisory', u'newsmaker', u'attacks', u'update', u'team', u'trend', u'product', u'tablets', u'avis', u'million', u'sites', u'tous', u'mickael', u'micro', u'play', u'phishing', u'ctf', u'dorigny']
-7 [u'interview', u'cybersecurity', u'10', u'multiples', u'seals', u'threatlist', u'linux', u'tara', u'hackthebox', u'subscribe']
-8 [u'risk', u'campaign', u'challenges', u'dactualit\xe9', u'social', u'threats', u'facebook', u'cloud', u'2017', u'our', u'android']
-9 [u'tom\xe1\u0161', u'hacking', u'ransomware', u'cars', u'folt\xfdn', u'windows']
-10 [u'full', u'cet', u'intelligence', u'apps']
-11 [u's\xe9curit\xe9', u'blog', u'cisco', u'vuln\xe9rabilit\xe9s', u'breach', u'cybercrime', u'web']
-12 [u'iot']
+64 [u'vigil@nce']
+5 [u'securiteam', u'new', u'china', u'dns', u'experts', u'over', u'free', u'top', u'reddit', u'conference', u'hat', u'ics', u'devices', u'mais', u'internet', u'business', u'podcasts', u'response', u'research', u'services', u'networks', u'spam', u'bulletin', u'30', u'products', u'app', u'forgery', u'attack', u'request', u'printers', u'email', u'attaques', u'routers', u'bug']
+6 [u'voir', u'cnet', u'phones', u'vulnerability', u'advisory', u'newsmaker', u'attacks', u'team', u'trend', u'product', u'tablets', u'avis', u'million', u'sites', u'tous', u'search', u'mickael', u'micro', u'play', u'virus', u'phishing', u'tsmc', u'ctf', u'dorigny']
+7 [u'interview', u'cybersecurity', u'update', u'10', u'multiples', u'hackthebox', u'seals', u'threatlist', u'linux', u'tara', u'subscribe']
+8 [u'risk', u'campaign', u'challenges', u'dactualit\xe9', u'social', u'threats', u'cloud', u'2017', u'our', u'android']
+9 [u'tom\xe1\u0161', u'hacking', u'ransomware', u'cars', u'folt\xfdn', u'windows', u'facebook']
+10 [u'full', u'cet', u'intelligence', u'vuln\xe9rabilit\xe9s', u'apps']
+11 [u's\xe9curit\xe9', u'blog', u'cisco', u'breach', u'cybercrime', u'iot', u'web']
+34 [u'malware']
 14 [u'podcast', u'vulnerabilities', u'mobile', u'smart']
 16 [u'2018']
 19 [u'veille']
-20 [u'scripting']
-21 [u'privacy']
-23 [u'wordpress', u'google']
-25 [u'cross']
+21 [u'scripting', u'privacy']
+23 [u'google']
+25 [u'wordpress']
+26 [u'cross']
 29 [u'best']
-32 [u'malware']
-63 [u'vigil@nce']
 
 
