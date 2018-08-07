@@ -1,0 +1,210 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 http://www.securityweek.com/campaigns-their-own-cyber-threats-roil-midterms/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 http://www.securityweek.com/github-warn-users-compromised-passwords/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.securityfocus.com/archive/1/542203/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Openfire-Cross-Site,20180806,80247.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-Openfire-Cross-Site,20180806,80247.html/
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.securityweek.com/facebook-asks-big-banks-share-customer-details/
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 http://www.securityweek.com/ex-tesla-worker-accused-hacking-seeks-1m-counterclaim/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	 https://www.scmagazine.com/atlanta-ransomware-recovery-cost-now-at-17-million-reports-say/article/786184/
+	 https://www.scmagazine.com/ransomware/atlanta-ransomware-recovery-cost-now-at-17-million-reports-say/article/786184/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Openfire-Cross-Site,20180806,80247.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-Openfire-Cross-Site,20180806,80247.html/
+	--
+
+
+ KeyWords : 
+5 [u'securiteam', u'vulnerability', u'campaign', u'dns', u'free', u'conference', u'hat', u'ics', u'update', u'platform', u'internet', u'million', u'critical', u'business', u'network', u'podcasts', u'response', u'help', u'research', u'contre', u'part', u'virus', u'services', u'networks', u'products', u'bulletin', u'30', u'forgery', u'request', u'printers', u'email', u'twitter']
+6 [u'cnet', u'phones', u'machine', u'top', u'newsmaker', u'team', u'trend', u'tablets', u'avis', u'10', u'sites', u'tous', u'woocommerce', u'search', u'mickael', u'micro', u'source', u'spam', u'breach', u'ctf', u'2017', u'dorigny']
+7 [u'experts', u'interview', u'over', u'advisory', u'cybersecurity', u'hackthebox', u'seals', u'store', u'windows', u'threatlist', u'tsmc', u'tara', u'product', u'subscribe']
+8 [u'risk', u'new', u'devices', u'challenges', u'dactualit\xe9', u'multiples', u'social', u'linux', u'our']
+9 [u'voir', u'tom\xe1\u0161', u'cars', u'folt\xfdn', u'threats', u'cloud']
+10 [u's\xe9curit\xe9', u'cisco', u'full', u'cet', u'play', u'intelligence', u'cybercrime', u'apps']
+11 [u'ransomware', u'blog', u'vuln\xe9rabilit\xe9s', u'facebook']
+12 [u'hacking', u'iot', u'web']
+14 [u'vulnerabilities', u'mobile', u'podcast']
+15 [u'2018', u'android', u'smart']
+19 [u'veille']
+21 [u'privacy']
+22 [u'google']
+23 [u'scripting']
+27 [u'wordpress']
+29 [u'best']
+30 [u'cross']
+31 [u'malware']
+67 [u'vigil@nce']
+
+
