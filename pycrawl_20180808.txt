@@ -1,0 +1,214 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 http://www.securityweek.com/importance-access-control-iot-devices/
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-374/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-375/
+	 https://www.scmagazine.com/linux-vulnerability-could-lead-to-ddos-attacks/article/786713/
+	--
+	 [linux, attacks] http://www.securityweek.com/segmentsmack-flaw-linux-kernel-allows-remote-dos-attacks/
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 https://threatpost.com/threatlist-financial-services-firms-lag-in-patching-habits/134750/
+	--
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/les-mises-a-jour-de-windows-10-irreprochables-selon-microsoft-39872167.htm/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.securityweek.com/facebook-open-sources-tls-13-library/
+	--
+	--
+
+[apple]
+	 https://www.welivesecurity.com/category/apple/
+	 https://www.welivesecurity.com/2018/08/07/apple-chip-wannacryptor-shutdowns/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://threatpost.com/microsoft-adds-direct-trust-for-lets-encrypt/134761/
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/les-mises-a-jour-de-windows-10-irreprochables-selon-microsoft-39872167.htm/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/bgp-hijacking-attacks-target-us-payment-processors/
+	--
+	 [linux, attacks] http://www.securityweek.com/segmentsmack-flaw-linux-kernel-allows-remote-dos-attacks/
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/dark-web-listing-for-bitcoin-atm-malware-promises-plentiful-payouts/article/786512/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'securiteam', u'supplier', u'dns', u'free', u'bitcoin', u'conference', u'update', u'trend', u'iphone', u'chip', u'business', u'network', u'woocommerce', u'podcasts', u'search', u'response', u'systems', u'micro', u'research', u'store', u'gps', u'virus', u'microsoft', u'hackers', u'tsmc', u'spam', u'bulletin', u'30', u'products', u'email']
+6 [u'voir', u'cnet', u'vulnerability', u'over', u'report', u'newsmaker', u'ics', u'team', u'tablets', u'avis', u'internet', u'million', u'sites', u'tous', u'mickael', u'part', u'ctf', u'2017', u'product', u'dorigny']
+7 [u'phones', u'experts', u'interview', u'advisory', u'hat', u'cybersecurity', u'attacks', u'ibm', u'black', u'hackthebox', u'play', u'services', u'windows', u'threatlist', u'source', u'apple', u'cloud', u'subscribe']
+8 [u'risk', u'top', u'challenges', u'10', u'dactualit\xe9', u'multiples', u'social', u'threats', u'cybercrime', u'our']
+9 [u'ransomware', u'cars', u'intelligence']
+10 [u's\xe9curit\xe9', u'new', u'hacking', u'devices', u'seals', u'full', u'cet', u'tara', u'facebook', u'android', u'apps']
+11 [u'tom\xe1\u0161', u'folt\xfdn', u'blog', u'linux', u'vuln\xe9rabilit\xe9s']
+12 [u'cisco']
+13 [u'mobile', u'iot', u'smart']
+14 [u'podcast', u'web']
+15 [u'vulnerabilities']
+16 [u'2018']
+19 [u'veille']
+20 [u'privacy']
+21 [u'google']
+22 [u'scripting', u'wordpress']
+29 [u'best', u'cross']
+35 [u'malware']
+64 [u'vigil@nce']
+
+
