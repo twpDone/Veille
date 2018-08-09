@@ -1,0 +1,214 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 http://www.securityweek.com/enterprises-someone-your-security-team-likely-grey-hat-hacker/
+	--
+	--
+
+[industry]
+	 http://www.securityweek.com/reconnaissance-lateral-movement-soar-manufacturing-industry/
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.scmagazine.com/requirements-to-action-cyber-threat-intelligence/article/782722/
+	--
+	 [threat, intelligence] https://www.scmagazine.com/executive-insight/requirements-to-action-cyber-threat-intelligence/article/782722/
+	 [threat, malware] https://www.scmagazine.com/ibm-researchers-developed-ai-powered-malware-to-demonstrate-future-threat-models/article/786844/
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	 [linux, attacks] https://www.scmagazine.com/network-security/linux-vulnerability-could-lead-to-ddos-attacks/article/786713/
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 http://www.zdnet.fr/actualites/new-york-va-geler-l-attribution-de-licences-pour-les-services-vtc-39872227.htm/
+	--
+	--
+
+[windows]
+	 http://www.securityfocus.com/archive/1/542206/
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	 [threat, intelligence] https://www.scmagazine.com/executive-insight/requirements-to-action-cyber-threat-intelligence/article/782722/
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/darkhydrus-uses-open-source-phishery-tool-middle-east-attacks/
+	 https://threatpost.com/update-mechanism-flaws-allow-remote-attacks-on-uefi-firmware/134785/
+	 https://threatpost.com/mixed-signal-microcontrollers-open-to-side-channel-attacks/134793/
+	 http://www.securityweek.com/flaw-bind-security-feature-allows-dos-attacks/
+	 http://www.securityweek.com/ddos-attacks-less-frequent-pack-more-punch-report/
+	--
+	 [linux, attacks] https://www.scmagazine.com/network-security/linux-vulnerability-could-lead-to-ddos-attacks/article/786713/
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://securityintelligence.com/deeplocker-how-ai-can-power-a-stealthy-new-breed-of-malware/
+	--
+	 [threat, malware] https://www.scmagazine.com/ibm-researchers-developed-ai-powered-malware-to-demonstrate-future-threat-models/article/786844/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'securiteam', u'dns', u'machine', u'free', u'conference', u'ddos', u'trend', u'million', u'critical', u'leaked', u'talks', u'woocommerce', u'podcasts', u'information', u'breaking', u'response', u'github', u'micro', u'research', u'store', u'virus', u'networks', u'bulletin', u'30', u'products']
+6 [u'voir', u'cnet', u'report', u'newsmaker', u'ics', u'update', u'chip', u'tablets', u'avis', u'10', u'sites', u'tous', u'business', u'industry', u'snapchat', u'seals', u'mickael', u'flaw', u'threat', u'play', u'tara', u'code', u'ctf', u'apple', u'cloud', u'usa', u'2017', u'product', u'dorigny']
+7 [u'phones', u'experts', u'interview', u'ransomware', u'cybersecurity', u'team', u'lindsey', u'hackthebox', u'part', u'windows', u'threatlist', u'tsmc', u'odonnell', u'facebook', u'email', u'subscribe']
+8 [u'advisory', u'challenges', u'dactualit\xe9', u'multiples', u'social', u'services', u'threats', u'linux', u'cybercrime', u'our', u'iot', u'apps']
+9 [u'vulnerability', u'top', u'cars', u'android']
+10 [u's\xe9curit\xe9', u'risk', u'cisco', u'full', u'cet', u'intelligence']
+11 [u'hacking', u'blog', u'vuln\xe9rabilit\xe9s']
+12 [u'new', u'attacks', u'source', u'mobile']
+13 [u'black', u'folt\xfdn', u'tom\xe1\u0161']
+14 [u'web', u'smart']
+15 [u'hat', u'podcast', u'vulnerabilities']
+19 [u'veille', u'privacy']
+21 [u'2018']
+22 [u'scripting', u'wordpress', u'google']
+63 [u'vigil@nce']
+28 [u'best', u'cross']
+37 [u'malware']
+
+
