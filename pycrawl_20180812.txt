@@ -1,0 +1,200 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 https://threatpost.com/def-con-2018-hacking-medical-protocols-to-change-vital-signs/134967/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'securiteam', u'dns', u'bitcoin', u'conference', u'chip', u'mais', u'internet', u'hack', u'critical', u'business', u'woocommerce', u'podcasts', u'bulletin', u'networks', u'30', u'products', u'email', u'software', u'bug']
+6 [u'voir', u'free', u'enterprise', u'newsmaker', u'cybersecurity', u'ics', u'attacks', u'team', u'tablets', u'avis', u'infrastructure', u'tous', u'learning', u'researchers', u'exposed', u'mickael', u'research', u'threat', u'threatlist', u'ctf', u'tsmc', u'code', u'usa', u'2017', u'product', u'dorigny', u'apps']
+7 [u'experts', u'interview', u'top', u'ng', u'alfred', u'multiples', u'hackthebox', u'flaws', u'help', u'part', u'services', u'threats', u'hackers', u'linux', u'facebook', u'apple', u'attack', u'subscribe']
+8 [u'machine', u'advisory', u'challenges', u'dactualit\xe9', u'sites', u'source', u'cloud', u'cybercrime', u'our', u'iot']
+9 [u'risk', u'phones', u'vulnerability', u'cars', u'10', u'social', u'android']
+10 [u'new', u'cisco', u'full', u'cet', u'windows', u'intelligence', u'vuln\xe9rabilit\xe9s']
+11 [u's\xe9curit\xe9', u'hacking', u'blog']
+13 [u'podcast', u'mobile']
+14 [u'ransomware', u'black', u'folt\xfdn', u'smart', u'tom\xe1\u0161']
+16 [u'hat', u'vulnerabilities']
+18 [u'google', u'web']
+19 [u'veille', u'privacy']
+20 [u'scripting']
+21 [u'wordpress']
+25 [u'2018']
+26 [u'cross']
+28 [u'best']
+37 [u'malware']
+60 [u'vigil@nce']
+
+
