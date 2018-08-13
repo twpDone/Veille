@@ -1,0 +1,204 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://threatpost.com/def-con-2018-critical-bug-opens-millions-of-hp-officejet-printers-to-attack/134972/
+	--
+	 [attack, apple] https://threatpost.com/def-con-2018-apple-0-day-reopens-door-to-synthetic-mouse-click-attack/134951/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/projet-titan-doug-field-revient-chez-apple-39872325.htm/
+	--
+	 [attack, apple] https://threatpost.com/def-con-2018-apple-0-day-reopens-door-to-synthetic-mouse-click-attack/134951/
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'dns', u'doug', u'bitcoin', u'con', u'conference', u'chip', u'mais', u'internet', u'hack', u'symfony', u'researchers', u'business', u'podcasts', u'def', u'bulletin', u'code', u'30', u'products', u'printers', u'email', u'software']
+6 [u'voir', u'free', u'newsmaker', u'cybersecurity', u'ics', u'attacks', u'team', u'tablets', u'avis', u'tous', u'learning', u'flaws', u'mickael', u'research', u'threat', u'tom', u'threatlist', u'hackers', u'ctf', u'tsmc', u'spring', u'facebook', u'usa', u'2017', u'product', u'dorigny', u'apps', u'bug']
+7 [u'experts', u'interview', u'top', u'advisory', u'ng', u'alfred', u'multiples', u'help', u'part', u'services', u'threats', u'linux', u'hackthebox', u'cloud', u'attack', u'subscribe']
+8 [u'new', u'machine', u'challenges', u'dactualit\xe9', u'sites', u'exposed', u'critical', u'social', u'information', u'source', u'cybercrime', u'our', u'iot']
+9 [u'risk', u'phones', u'cars', u'10', u'windows', u'android']
+10 [u'blog', u'full', u'cet', u'intelligence', u'vuln\xe9rabilit\xe9s', u'apple']
+11 [u's\xe9curit\xe9', u'vulnerability', u'hacking']
+12 [u'cisco']
+13 [u'hat', u'black', u'podcast', u'mobile']
+14 [u'ransomware', u'folt\xfdn', u'smart', u'tom\xe1\u0161']
+16 [u'vulnerabilities']
+17 [u'web']
+18 [u'wordpress']
+19 [u'veille', u'privacy']
+21 [u'google']
+23 [u'scripting']
+26 [u'2018']
+28 [u'best', u'cross']
+36 [u'malware']
+65 [u'vigil@nce']
+
+
