@@ -1,0 +1,217 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://threatpost.com/def-con-2018-man-in-the-disk-attack-surface-affects-all-android-phones/134993/
+	--
+	--
+
+[routers]
+	 http://www.securityweek.com/critical-flaws-found-netcomm-industrial-routers/
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Joomla-Ek-rishta-SQL,20180813,80332.html/
+	 [injection, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-Joomla-Ek-rishta-SQL,20180813,80332.html/
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 https://threatpost.com/godaddy-leaks-map-of-the-internet-via-amazon-s3-cloud-bucket-misconfig/135009/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	 [phishing, attacks, mobile] https://threatpost.com/black-hat-2018-mobile-apts-redefining-phishing-attacks/134954/
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/facetime-apple-repousse-l-introduction-des-appels-de-groupe-39872381.htm/
+	--
+	--
+
+[hacking]
+	 https://www.scmagazine.com/def-con-voter-hacking-village-stirs-backlash-from-states-vendors/article/788123/
+	 http://www.securityweek.com/nigerian-man-found-guilty-charges-related-hacking/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/smart-irrigation-systems-expose-water-utilities-attacks/
+	--
+	 [phishing, attacks, mobile] https://threatpost.com/black-hat-2018-mobile-apts-redefining-phishing-attacks/134954/
+	--
+
+[ransomware]
+	 https://threatpost.com/new-variant-of-keypass-ransomware-discovered/135018/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	 [phishing, attacks, mobile] https://threatpost.com/black-hat-2018-mobile-apts-redefining-phishing-attacks/134954/
+	--
+
+[malware]
+	 http://www.securityweek.com/ibm-describes-ai-powered-malware-can-hide-inside-benign-applications/
+	--
+	--
+
+[vigil@nce]
+	--
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Joomla-Ek-rishta-SQL,20180813,80332.html/
+	 [injection, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-Joomla-Ek-rishta-SQL,20180813,80332.html/
+	--
+
+
+ KeyWords : 
+5 [u'cnet', u'dns', u'network', u'industrial', u'voting', u'ics', u'devices', u'vous', u'mais', u'business', u'seals', u'podcasts', u'framework', u'line', u'play', u'microsoft', u'hackers', u'tsmc', u'tara', u'bulletin', u'30', u'products', u'attack', u'email', u'ce', u'conference', u'hacker']
+6 [u'voir', u'experts', u'free', u'newsmaker', u'ng', u'sql', u'team', u'tablets', u'avis', u'internet', u'alfred', u'injection', u'sites', u'tous', u'learning', u'multiples', u'critical', u'mickael', u'information', u'research', u'threat', u'part', u'threatlist', u'ctf', u'code', u'tooltipy', u'facebook', u'usa', u'product', u'printers', u'dorigny', u'2017']
+7 [u'interview', u'top', u'advisory', u'cybersecurity', u'hack', u'services', u'threats', u'hackthebox', u'apple', u'subscribe', u'apps', u'bug']
+8 [u'con', u'attacks', u'challenges', u'dactualit\xe9', u'social', u'def', u'help', u'cloud', u'cybercrime', u'our']
+9 [u'phones', u'machine', u'cars', u'windows', u'vuln\xe9rabilit\xe9s', u'iot']
+10 [u'10', u'blog', u'cisco', u'full', u'cet', u'intelligence', u'source']
+11 [u's\xe9curit\xe9', u'risk', u'new', u'vulnerability']
+12 [u'hacking', u'hat', u'black']
+13 [u'ransomware', u'podcast', u'mobile']
+15 [u'folt\xfdn', u'vulnerabilities', u'android', u'tom\xe1\u0161']
+16 [u'smart']
+18 [u'privacy', u'web']
+19 [u'veille']
+21 [u'scripting']
+22 [u'wordpress']
+23 [u'2018']
+26 [u'google']
+28 [u'best']
+29 [u'cross']
+35 [u'malware']
+68 [u'vigil@nce']
+
+
