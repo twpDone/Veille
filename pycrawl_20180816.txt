@@ -1,0 +1,215 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 http://www.securityweek.com/fbi-eyes-plethora-river-related-threats/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://www.welivesecurity.com/2018/08/15/instagram-users-locked-accounts/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 http://www.securityweek.com/real-takeaways-reddit-hack/
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	 [exploit, malware] https://www.scmagazine.com/def-con-presenter-synthetic-clicks-exploit-can-help-attackers-install-malware-on-macs/article/788789/
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.securityweek.com/microsoft-patches-zero-day-flaws-windows-internet-explorer/
+	--
+
+[phishing]
+	 https://threatpost.com/threatlist-financial-themed-phishing-lures-sink-hooks-into-targets-in-q2/135413/
+	 https://threatpost.com/office-365-phishing-campaign-hides-malicious-urls-in-sharepoint-files/136525/
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://threatpost.com/microsoft-cortana-flaw-allows-web-browsing-on-locked-pcs/136558/
+	 https://www.scmagazine.com/vulnerabilities/patch-tuesday-august-2018-microsoft-corrects-two-actively-exploited-zero-day-bugs/article/788484/
+	 http://www.zdnet.fr/actualites/amazon-et-microsoft-lancent-l-integration-croisee-de-leurs-assistants-alexa-et-cortana-39872423.htm/
+	--
+	 [microsoft, ransomware] https://www.scmagazine.com/former-microsoft-worker-and-reveton-ransomware-bag-man-sentenced-to-18-months/article/788619/
+	 [windows, microsoft] http://www.securityweek.com/microsoft-patches-zero-day-flaws-windows-internet-explorer/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	 [microsoft, ransomware] https://www.scmagazine.com/former-microsoft-worker-and-reveton-ransomware-bag-man-sentenced-to-18-months/article/788619/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.scmagazine.com/505-million-sungy-mobile-customers-exposed-through-open-ports/article/788804/
+	--
+	--
+
+[malware]
+	--
+	 [exploit, malware] https://www.scmagazine.com/def-con-presenter-synthetic-clicks-exploit-can-help-attackers-install-malware-on-macs/article/788789/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'updates', u'cnet', u'dns', u'machine', u'network', u'bitcoin', u'conference', u'ics', u'ne', u'sql', u'trend', u'chip', u'million', u'releases', u'injection', u'60', u'exploit', u'authentication', u'users', u'seals', u'register', u'micro', u'threat', u'most', u'tara', u'bulletin', u'code', u'30', u'products', u'apple', u'usa', u'email', u'cl\xe9s', u'podcasts', u'bug']
+6 [u'voir', u'securiteam', u'experts', u'free', u'top', u'bounty', u'patch', u'newsmaker', u'team', u'product', u'tablets', u'avis', u'lindsey', u'10', u'tous', u'multiples', u'intel', u'cisco', u'instagram', u'mickael', u'response', u'bugs', u'research', u'part', u'phishing', u'odonnell', u'ctf', u'cloud', u'out', u'dorigny', u'2017']
+7 [u'phones', u'interview', u'cybersecurity', u'mais', u'challenges', u'hack', u'social', u'flaws', u'services', u'threatlist', u'linux', u'hackthebox', u'subscribe', u'android', u'apps']
+8 [u'attacks', u'internet', u'dactualit\xe9', u'windows', u'source', u'cybercrime', u'our']
+9 [u'advisory', u'cars', u'help', u'intelligence', u'threats', u'vuln\xe9rabilit\xe9s', u'iot']
+10 [u'risk', u'hacking', u'cet']
+11 [u's\xe9curit\xe9', u'full', u'vulnerabilities']
+12 [u'blog']
+13 [u'black', u'smart']
+14 [u'vulnerability', u'ransomware', u'podcast', u'mobile']
+15 [u'tom\xe1\u0161', u'hat', u'folt\xfdn']
+17 [u'new']
+18 [u'microsoft', u'privacy']
+19 [u'scripting', u'veille', u'web']
+20 [u'google']
+21 [u'wordpress']
+24 [u'2018']
+28 [u'best', u'cross']
+32 [u'malware']
+62 [u'vigil@nce']
+
+
