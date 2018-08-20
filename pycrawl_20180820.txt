@@ -127,6 +127,7 @@
 	--
 
 [facebook]
+	 http://www.zdnet.fr/actualites/le-gouvernement-americain-veut-mettre-facebook-messenger-sur-ecoute-39872513.htm/
 	--
 	--
 
@@ -176,24 +177,26 @@
 
 
  KeyWords : 
-5 [u'voir', u'cnet', u'talks', u'china', u'secure', u'dns', u'machine', u'after', u'conference', u'ics', u'update', u'sql', u'trend', u'mais', u'injection', u'infrastructure', u'60', u'exploit', u'dark', u'cisco', u'instagram', u'podcasts', u'flaws', u'register', u'micro', u'threat', u'most', u'into', u'files', u'bulletin', u'30', u'products', u'cloud', u'attack', u'foreshadow', u'android', u'apps']
-6 [u'phones', u'securiteam', u'free', u'bitcoin', u'newsmaker', u'team', u'product', u'tablets', u'avis', u'challenges', u'sites', u'tous', u'social', u'mickael', u'information', u'research', u'part', u'threatlist', u'phishing', u'ctf', u'2017', u'dorigny', u'twitter']
-7 [u'experts', u'interview', u'top', u'intel', u'response', u'services', u'threats', u'linux', u'hackthebox', u'code', u'business', u'out', u'subscribe']
+5 [u'voir', u'cnet', u'veut', u'talks', u'china', u'secure', u'dns', u'after', u'conference', u'ics', u'update', u'sql', u'trend', u'mais', u'injection', u'infrastructure', u'60', u'exploit', u'dark', u'instagram', u'podcasts', u'flaws', u'register', u'micro', u'threat', u'most', u'into', u'files', u'bulletin', u'30', u'products', u'cloud', u'attack', u'foreshadow', u'android', u'apps']
+6 [u'phones', u'free', u'bitcoin', u'newsmaker', u'team', u'product', u'tablets', u'avis', u'challenges', u'ssd', u'sites', u'tous', u'social', u'mickael', u'information', u'research', u'part', u'services', u'threatlist', u'phishing', u'linux', u'ctf', u'2017', u'dorigny', u'twitter']
+7 [u'experts', u'interview', u'top', u'intel', u'response', u'threats', u'hackthebox', u'code', u'business', u'out', u'subscribe']
 8 [u'cybersecurity', u'hack', u'dactualit\xe9', u'help', u'intelligence', u'source', u'cybercrime', u'our']
-9 [u's\xe9curit\xe9', u'advisory', u'attacks', u'internet', u'cars', u'facebook', u'apple', u'iot']
-10 [u'risk', u'10', u'multiples', u'seals', u'full', u'cet', u'windows', u'tara']
-11 [u'black', u'network', u'vulnerabilities']
-12 [u'blog', u'podcast']
-13 [u'vulnerability', u'hacking', u'hat', u'vuln\xe9rabilit\xe9s', u'mobile']
-14 [u'ransomware', u'smart']
+9 [u's\xe9curit\xe9', u'securiteam', u'attacks', u'internet', u'cars', u'10', u'windows', u'apple', u'iot']
+10 [u'risk', u'multiples', u'seals', u'full', u'cet', u'tara', u'facebook']
+11 [u'advisory', u'black', u'network', u'vulnerabilities']
+12 [u'podcast']
+13 [u'vulnerability', u'hacking', u'hat', u'mobile']
+14 [u'ransomware', u'blog', u'vuln\xe9rabilit\xe9s', u'smart']
 16 [u'new', u'tom\xe1\u0161', u'folt\xfdn', u'google']
-18 [u'microsoft', u'privacy']
-19 [u'scripting', u'veille']
+17 [u'scripting', u'microsoft']
+18 [u'privacy']
+19 [u'veille']
 20 [u'web']
 21 [u'2018']
-23 [u'wordpress']
-28 [u'best', u'cross']
+22 [u'wordpress']
+26 [u'cross']
+28 [u'best']
 35 [u'malware']
-62 [u'vigil@nce']
+59 [u'vigil@nce']
 
 
