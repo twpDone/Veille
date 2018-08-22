@@ -1,0 +1,226 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, phishing] https://www.scmagazine.com/supply-chain-attack-targets-south-koreans-with-9002-rat-separate-phishing-campaign-delivers-gandcrab-ransomware/article/790175/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://threatpost.com/video-bishop-fox-on-device-threats-and-layered-security/136716/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://threatpost.com/dark-tequila-a-distilled-threat-for-mexican-targets/136739/
+	--
+	 [threat, malware] https://www.scmagazine.com/threat-of-info-stealing-malware-dark-tequila-hangs-over-mexicans-since-2013/article/790131/
+	--
+
+[users]
+	--
+	 [users, exploit, apple] https://threatpost.com/airmail-3-exploit-instantly-steals-info-from-apple-users/136737/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	 [linux, microsoft] http://www.zdnet.fr/actualites/linux-et-microsoft-suse-prepare-un-nouveau-kernel-pour-azure-39872583.htm/
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	 [users, exploit, apple] https://threatpost.com/airmail-3-exploit-instantly-steals-info-from-apple-users/136737/
+	--
+
+[services]
+	--
+	 [services, ransomware] https://www.scmagazine.com/fox-variant-of-matrix-ransomware-installed-on-computers-running-remote-desktop-services-security-researchers-spotted-the-ransomware-and-noted-that-like-its-predecessor-the-newest-variant-is-communicates-a-lot-with-its-command-and-control-server/article/790166/
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	 https://www.scmagazine.com/cybercrime/phishing-scam-claims-recall-on-exploding-barclays-credit-cards/article/789620/
+	--
+	 [attack, phishing] https://www.scmagazine.com/supply-chain-attack-targets-south-koreans-with-9002-rat-separate-phishing-campaign-delivers-gandcrab-ransomware/article/790175/
+	--
+
+[facebook]
+	 https://www.scmagazine.com/facebook-purges-hundreds-of-pages-accounts-for-coordinated-inauthentic-activity/article/790289/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/comme-un-air-d-apple-watch-series-4-39872577.htm/
+	--
+	 [users, exploit, apple] https://threatpost.com/airmail-3-exploit-instantly-steals-info-from-apple-users/136737/
+	--
+
+[hacking]
+	 https://www.scmagazine.com/cohen-keen-on-talking-to-mueller-about-subjects-of-interest-including-russia-hacking/article/790287/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://www.scmagazine.com/microsoft-rebuffed-fancy-bear-attempts-to-target-candidates-conservative-think-tanks/article/789934/
+	 http://www.securityweek.com/microsoft-disrupts-election-related-domains-used-russian-hackers/
+	 http://www.zdnet.fr/actualites/microsoft-intercepte-une-campagne-visant-des-think-tanks-republicains-39872593.htm/
+	 http://www.securityweek.com/microsoft-rolls-out-end-end-encryption-skype/
+	 http://www.securityweek.com/russian-hackers-went-after-conservative-us-groups-microsoft/
+	--
+	 [linux, microsoft] http://www.zdnet.fr/actualites/linux-et-microsoft-suse-prepare-un-nouveau-kernel-pour-azure-39872583.htm/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/google-warns-thousands-each-month-state-sponsored-attacks/
+	 https://www.welivesecurity.com/2018/08/21/smart-irrigation-systems-vulnerable-warn-researchers/
+	--
+	--
+
+[ransomware]
+	 https://threatpost.com/ryuk-ransomware-emerges-in-highly-targeted-highly-lucrative-campaign/136755/
+	 https://www.scmagazine.com/updated-azorult-stealer-used-in-hermes-ransomware-campaign/article/790132/
+	--
+	 [services, ransomware] https://www.scmagazine.com/fox-variant-of-matrix-ransomware-installed-on-computers-running-remote-desktop-services-security-researchers-spotted-the-ransomware-and-noted-that-like-its-predecessor-the-newest-variant-is-communicates-a-lot-with-its-command-and-control-server/article/790166/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	 [threat, malware] https://www.scmagazine.com/threat-of-info-stealing-malware-dark-tequila-hangs-over-mexicans-since-2013/article/790131/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'patches', u'voir', u'cnet', u'dns', u'adobe', u'patch', u'conference', u'ics', u'update', u'targets', u'think', u'ssd', u'sites', u'60', u'exploit', u'tracking', u'seals', u'search', u'flaws', u'threat', u'response', u'threatlist', u'hackers', u'tara', u'bulletin', u'business', u'30', u'products', u'cloud', u'rsa', u'podcasts']
+6 [u'secure', u'newsmaker', u'team', u'trend', u'product', u'tablets', u'avis', u'challenges', u'internet', u'hack', u'tous', u'dark', u'execution', u'critical', u'social', u'mickael', u'micro', u'research', u'part', u'phishing', u'ctf', u'2017', u'attack', u'request', u'dorigny']
+7 [u'phones', u'experts', u'interview', u'after', u'top', u'10', u'suse', u'cisco', u'network', u'help', u'windows', u'hackthebox', u'out', u'subscribe']
+8 [u'securiteam', u'lindsey', u'dactualit\xe9', u'services', u'intelligence', u'threats', u'odonnell', u'russian', u'facebook', u'cybercrime', u'our']
+9 [u's\xe9curit\xe9', u'cybersecurity', u'cars', u'linux', u'iot']
+10 [u'risk', u'advisory', u'full', u'attacks', u'multiples', u'cet', u'code', u'apple']
+11 [u'vulnerability', u'black', u'vulnerabilities']
+12 [u'new', u'hat', u'podcast']
+13 [u'scripting', u'blog', u'google']
+14 [u'vuln\xe9rabilit\xe9s']
+15 [u'wordpress', u'mobile']
+16 [u'hacking', u'folt\xfdn', u'web', u'tom\xe1\u0161']
+17 [u'ransomware', u'smart']
+18 [u'2018', u'privacy']
+19 [u'veille']
+21 [u'cross']
+28 [u'best']
+29 [u'microsoft']
+34 [u'malware']
+60 [u'vigil@nce']
+
+
