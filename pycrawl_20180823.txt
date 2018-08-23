@@ -1,0 +1,213 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+[-] HTTPError HTTP Error 503: Service Unavailable>
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 https://www.scmagazine.com/cloud-based-video-creation-service-animoto-alerts-california-doj-of-possible-data-theft/article/790542/
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	 [threat, intelligence] https://securityintelligence.com/whats-in-a-threat-intelligence-name/
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.scmagazine.com/aptscyberespionage/dnc-spurns-hack-on-voter-database/article/790558/
+	 https://www.scmagazine.com/dnc-spurns-hack-on-voter-database/article/790558/
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-403/
+	 https://threatpost.com/researchers-blame-monolithic-linux-code-base-for-critical-vulnerabilities/136785/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/alerte-windows-10-des-correctifs-pour-les-failles-spectre-et-foreshadow-39872629.htm/
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/fausses-informations-facebook-sort-son-carnet-de-notes-39872625.htm/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/antitrust-l-europe-autoriserait-apple-a-racheter-shazam-39872639.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	 [threat, intelligence] https://securityintelligence.com/whats-in-a-threat-intelligence-name/
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 https://threatpost.com/podcast-bad-packets-report-founder-on-rising-cryptojacking-attacks/136778/
+	 https://threatpost.com/dnc-becomes-latest-target-in-series-of-election-season-attacks/136814/
+	--
+	--
+
+[ransomware]
+	 http://www.zdnet.fr/actualites/ryuk-un-ransomware-qui-coute-tres-cher-aux-entreprises-39872615.htm/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://threatpost.com/triout-malware-carries-out-extensive-targeted-android-surveillance/136773/
+	 https://securityintelligence.com/backswap-malware-now-targets-six-banks-in-spain/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'cnet', u'secure', u'adobe', u'service', u'patch', u'30', u'internet', u'sites', u'exploit', u'suse', u'systems', u'research', u'part', u'threatlist', u'threats', u'targeted', u'users', u'bulletin', u'products', u'foreshadow', u'podcasts', u'failles']
+6 [u'risk', u'phones', u'experts', u'newsmaker', u'update', u'trend', u'product', u'tablets', u'avis', u'challenges', u'hack', u'tous', u'mickael', u'micro', u'services', u'code', u'ctf', u'2017', u'request', u'subscribe', u'dorigny', u'android']
+7 [u'securiteam', u'interview', u'top', u'cybersecurity', u'intelligence', u'google', u'hackthebox', u'iot']
+8 [u'dactualit\xe9', u'cisco', u'linux', u'our']
+9 [u'advisory', u'cars', u'seals', u'tara', u'facebook', u'apple', u'out']
+10 [u's\xe9curit\xe9', u'attacks', u'10', u'black', u'multiples', u'critical', u'cet', u'windows']
+11 [u'vulnerability', u'hat']
+12 [u'blog', u'vulnerabilities', u'mobile']
+13 [u'new', u'hacking', u'podcast', u'web']
+14 [u'vuln\xe9rabilit\xe9s']
+15 [u'wordpress', u'privacy']
+16 [u'scripting', u'ransomware', u'folt\xfdn', u'smart', u'tom\xe1\u0161']
+18 [u'microsoft', u'2018']
+19 [u'veille', u'malware']
+24 [u'cross']
+28 [u'best']
+61 [u'vigil@nce']
+
+
