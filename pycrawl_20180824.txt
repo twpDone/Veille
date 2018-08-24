@@ -1,0 +1,213 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	 http://www.securityweek.com/cross-platform-mirai-variant-leverages-open-source-project/
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	 [users, facebook] https://www.scmagazine.com/facebook-bans-mypersonality-app-notifies-4-million-users-affected/article/790849/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.scmagazine.com/dnc-voter-database-hack-false-alarm/article/790688/
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	 https://threatpost.com/dnc-highly-publicized-phishing-attempt-was-only-a-security-test/136828/
+	--
+	--
+
+[facebook]
+	 https://threatpost.com/recent-app-issues-reveal-facebooks-struggles-to-temper-data-privacy-woes/136838/
+	--
+	 [users, facebook] https://www.scmagazine.com/facebook-bans-mypersonality-app-notifies-4-million-users-affected/article/790849/
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 http://www.securityweek.com/leaker-secret-report-russian-hacking-gets-5-years/
+	--
+	--
+
+[intelligence]
+	 https://threatpost.com/security-and-artificial-intelligence-hype-vs-reality/136837/
+	--
+	--
+
+[microsoft]
+	 https://www.scmagazine.com/necurs-botnet-abuses-microsoft-publisher-file-format-to-deliver-flawedammyy-rat-to-bank-employees/article/790859/
+	 http://www.zdnet.fr/actualites/corruption-une-enquete-ouverte-contre-les-pratiques-commerciales-de-microsoft-en-hongrie-39872683.htm/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/cheddars-restaurant-data-breach-exposes-567000-payment-cards/article/790687/
+	 https://threatpost.com/cheddars-restaurants-bitten-by-credit-card-breach/136876/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	 https://threatpost.com/threatlist-1-1m-is-lost-to-cybercrime-every-minute-of-every-day/136871/
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://threatpost.com/advisorsbot-downloader-emerges-in-raft-of-malware-campaigns/136863/
+	 http://www.securityweek.com/north-korean-hackers-hit-cryptocurrency-exchange-macos-malware/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'cnet', u'phones', u'dns', u'conference', u'cryptocurrency', u'ics', u'tr\xe8s', u'team', u'tablets', u'hack', u'sites', u'awards', u'tout', u'suse', u'dark', u'intel', u'accounts', u'social', u'response', u'systems', u'most', u'services', u'targeted', u'bulletin', u'business', u'30', u'products', u'backdoor', u'request', u'podcasts', u'bug']
+6 [u'dnc', u'experts', u'top', u'report', u'newsmaker', u'trend', u'targets', u'product', u'avis', u'challenges', u'tous', u'mickael', u'micro', u'research', u'part', u'windows', u'threatlist', u'donn\xe9es', u'hackers', u'russian', u'code', u'ctf', u'2017', u'dorigny', u'apps']
+7 [u'interview', u'cybersecurity', u'update', u'10', u'ssd', u'cisco', u'network', u'threats', u'phishing', u'hackthebox', u'users', u'subscribe', u'android']
+8 [u'internet', u'dactualit\xe9', u'linux', u'app', u'our']
+9 [u's\xe9curit\xe9', u'cars', u'multiples', u'critical', u'seals', u'intelligence', u'tara', u'apple', u'out', u'iot']
+10 [u'attacks', u'black', u'full', u'cet']
+11 [u'risk', u'securiteam', u'hat', u'google', u'facebook', u'cybercrime']
+12 [u'new', u'vulnerability', u'advisory', u'podcast', u'vulnerabilities', u'mobile']
+13 [u'vuln\xe9rabilit\xe9s']
+14 [u'hacking', u'ransomware']
+15 [u'scripting', u'wordpress', u'blog', u'web']
+16 [u'folt\xfdn', u'microsoft', u'smart', u'tom\xe1\u0161']
+19 [u'veille', u'privacy']
+21 [u'cross']
+22 [u'2018']
+29 [u'best']
+35 [u'malware']
+56 [u'vigil@nce']
+
+
