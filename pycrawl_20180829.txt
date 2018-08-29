@@ -1,0 +1,227 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	 http://www.zdnet.fr/actualites/fortnite-android-google-et-epic-se-chicanent-sur-une-faille-de-securite-39872833.htm/
+	--
+	--
+
+[threat]
+	 https://www.scmagazine.com/anomali-threat-platform/review/9462/
+	--
+	 [threat, intelligence] https://www.scmagazine.com/intsights-cyber-intelligence-threat-intelligence-platform/review/9463/
+	 [threat, intelligence] https://www.scmagazine.com/group-ib-threat-intelligence/review/9465/
+	 [threat, intelligence] https://www.scmagazine.com/threat-intelligence-group-opener/article/791007/
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 http://www.securityweek.com/lacework-raises-24-million-expand-cloud-security-business/
+	 https://threatpost.com/adobe-pushes-out-unscheduled-creative-cloud-application-fix/136968/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	 https://www.scmagazine.com/vulnerabilities/proof-of-concept-exploit-published-shortly-after-disclosure-of-critical-apache-struts-2-flaw/article/791343/
+	--
+	 [exploit, windows] http://www.securityweek.com/exploit-published-windows-task-scheduler-zero-day/
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [exploit, windows] http://www.securityweek.com/exploit-published-windows-task-scheduler-zero-day/
+	 [windows, microsoft] https://threatpost.com/microsoft-windows-zero-day-found-in-task-scheduler/136977/
+	 [windows, microsoft] https://www.scmagazine.com/microsoft-windows-task-manager-contains-local-privilege-escalation-vulnerability/article/791680/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/facebook-se-met-vraiment-en-colere-contre-moi-et-je-suis-inquiet-39872835.htm/
+	 https://threatpost.com/facebook-flaw-allowed-remote-commands/136987/
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 http://www.securityweek.com/man-accused-hacking-bank-account-stealing-300000/
+	--
+	--
+
+[intelligence]
+	--
+	 [threat, intelligence] https://www.scmagazine.com/intsights-cyber-intelligence-threat-intelligence-platform/review/9463/
+	 [threat, intelligence] https://www.scmagazine.com/group-ib-threat-intelligence/review/9465/
+	 [threat, intelligence] https://www.scmagazine.com/threat-intelligence-group-opener/article/791007/
+	--
+
+[microsoft]
+	--
+	 [windows, microsoft] https://threatpost.com/microsoft-windows-zero-day-found-in-task-scheduler/136977/
+	 [windows, microsoft] https://www.scmagazine.com/microsoft-windows-task-manager-contains-local-privilege-escalation-vulnerability/article/791680/
+	--
+
+[breach]
+	 http://www.securityweek.com/hackers-breach-cryptocurrency-platform-atlas-quantum/
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/critical-apache-struts-vulnerability-exploited-live-attacks/
+	 http://www.securityweek.com/email-impersonation-attacks-increase-80/
+	--
+	 [attacks, ransomware, malware] https://threatpost.com/threatlist-ransomware-attacks-down-fileless-malware-up-in-2018/136962/
+	--
+
+[ransomware]
+	--
+	 [attacks, ransomware, malware] https://threatpost.com/threatlist-ransomware-attacks-down-fileless-malware-up-in-2018/136962/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://threatpost.com/crashing-mobile-apps-capture-screens-leak-private-data/136988/
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/researchers-find-new-pos-malware-with-no-data-exfiltration-capabilities/article/791880/
+	--
+	 [attacks, ransomware, malware] https://threatpost.com/threatlist-ransomware-attacks-down-fileless-malware-up-in-2018/136962/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'cnet', u'dns', u'top', u'patch', u'conference', u'cryptocurrency', u'ics', u'joomla', u'sql', u'manager', u'team', u'says', u'tablets', u'cisco', u'research', u'most', u'services', u'linux', u'epic', u'into', u'bulletin', u'breach', u'30', u'products', u'attack', u'request', u'view', u'email', u'podcasts', u'failles', u'bug']
+6 [u'phones', u'adobe', u'tom', u'update', u'product', u'platform', u'avis', u'challenges', u'fortnite', u'tous', u'mickael', u'information', u'threatlist', u'threats', u'spring', u'facebook', u'threat', u'ctf', u'app', u'2017', u'business', u'dorigny', u'apps']
+7 [u'securiteam', u'report', u'newsmaker', u'trend', u'apache', u'internet', u'10', u'flaw', u'micro', u'struts', u'hackthebox', u'cloud', u'subscribe', u'twitter']
+8 [u'interview', u'dactualit\xe9', u'multiples', u'hackers', u'iot']
+9 [u'risk', u'advisory', u'cars', u'our', u'out']
+10 [u'new', u'cybersecurity', u'million', u'full', u'cet', u'microsoft', u'cybercrime']
+11 [u'wordpress', u'black', u'vuln\xe9rabilit\xe9s']
+12 [u's\xe9curit\xe9', u'hacking', u'hat', u'attacks', u'blog', u'podcast', u'vulnerabilities', u'intelligence']
+13 [u'vulnerability', u'folt\xfdn', u'critical', u'windows', u'smart', u'tom\xe1\u0161']
+14 [u'ransomware', u'mobile', u'web']
+15 [u'google', u'android']
+18 [u'privacy']
+19 [u'veille']
+20 [u'scripting']
+24 [u'2018']
+25 [u'cross']
+28 [u'best']
+38 [u'malware']
+61 [u'vigil@nce']
+
+
