@@ -1,0 +1,212 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 1] _ssl.c:504: error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://www.scmagazine.com/cisco-data-center-network-manager-flaw-allows-unauthorized-access-to-sensitive-information/article/792003/
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://threatpost.com/the-4-critical-building-blocks-for-digital-threat-hunting/137037/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 https://threatpost.com/podcast-plugging-leaky-data-in-the-cloud/137014/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [windows, microsoft] https://www.scmagazine.com/network-security/microsoft-windows-task-manager-contains-local-privilege-escalation-vulnerability/article/791680/
+	--
+
+[phishing]
+	--
+	 [phishing, microsoft] https://www.information-security.fr/etude-de-cas-phishing-paypal-et-microsoft/
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/realite-augmentee-apple-acquiert-akonia-holographics-39872901.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	 https://www.scmagazine.com/baes-the-intelligence-network-names-first-members/article/792164/
+	--
+	--
+
+[microsoft]
+	--
+	 [phishing, microsoft] https://www.information-security.fr/etude-de-cas-phishing-paypal-et-microsoft/
+	 [windows, microsoft] https://www.scmagazine.com/network-security/microsoft-windows-task-manager-contains-local-privilege-escalation-vulnerability/article/791680/
+	--
+
+[breach]
+	--
+	 [breach, mobile] https://www.scmagazine.com/air-canada-mobile-app-breach-potentially-impacts-about-20000-profiles/article/791996/
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.welivesecurity.com/2018/08/29/semi-annual-balance-mobile-security/
+	--
+	 [breach, mobile] https://www.scmagazine.com/air-canada-mobile-app-breach-potentially-impacts-about-20000-profiles/article/791996/
+	--
+
+[malware]
+	 https://threatpost.com/busygasper-malware-packs-a-simple-but-potent-punch/137050/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'cnet', u'phones', u'dns', u'report', u'patch', u'newsmaker', u'conference', u'ics', u'update', u'sql', u'manager', u'team', u'apache', u'tablets', u'cisco', u'flaws', u'help', u'research', u'struts', u'most', u'services', u'threatlist', u'session', u'targeted', u'linux', u'bulletin', u'facebook', u'30', u'app', u'business', u'view', u'podcasts', u'center']
+6 [u'interview', u'product', u'platform', u'avis', u'challenges', u'million', u'network', u'tous', u'instagram', u'mickael', u'flaw', u'information', u'threats', u'phishing', u'ctf', u'spam', u'threat', u'products', u'apple', u'2017', u'dorigny', u'twitter', u'apps']
+7 [u'securiteam', u'features', u'top', u'internet', u'10', u'hackthebox', u'cloud', u'subscribe', u'iot']
+8 [u'risk', u'ransomware', u'trend', u'dactualit\xe9', u'multiples', u'micro', u'hackers', u'pan-os', u'out']
+9 [u'advisory', u'attacks', u'cars', u'our']
+10 [u's\xe9curit\xe9', u'cybersecurity', u'wordpress', u'full', u'cet', u'windows', u'cybercrime']
+11 [u'vulnerability', u'hacking', u'black', u'vulnerabilities', u'microsoft', u'vuln\xe9rabilit\xe9s']
+12 [u'hat', u'folt\xfdn', u'blog', u'critical', u'intelligence', u'android', u'tom\xe1\u0161']
+13 [u'smart']
+14 [u'new', u'podcast', u'google']
+15 [u'web']
+18 [u'mobile', u'privacy']
+19 [u'veille']
+21 [u'2018']
+22 [u'scripting']
+25 [u'cross']
+28 [u'best']
+34 [u'malware']
+61 [u'vigil@nce']
+
+
