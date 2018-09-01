@@ -1,0 +1,210 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 1] _ssl.c:504: error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	 [hacker, phishing] https://www.scmagazine.com/convicted-celebgate-hacker-sentenced-to-eight-months-for-phishing-icloud-accounts/article/792650/
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	 https://www.scmagazine.com/email-security/bec-fraud-burgeoning-despite-training/article/792553/
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.scmagazine.com/rocke-threat-actor-on-monero-cryptominer-infection-campaign/article/792853/
+	--
+	--
+
+[users]
+	 https://www.scmagazine.com/android-vulnerability-exposes-users-data-via-wifi/article/792661/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 http://www.globalsecuritymag.com/VMware-Expands-its-Hybrid-Cloud,20180831,80575.html/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 http://www.securityweek.com/third-party-patch-released-windows-zero-day/
+	 http://www.zdnet.fr/actualites/ordi-portable-windows-10-avec-autonomie-de-25-heures-lenovo-presente-son-nouveau-yoga-2-en-1-39873023.htm/
+	--
+	--
+
+[phishing]
+	--
+	 [hacker, phishing] https://www.scmagazine.com/convicted-celebgate-hacker-sentenced-to-eight-months-for-phishing-icloud-accounts/article/792650/
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	 https://securityintelligence.com/author/securityintelligence-staff/
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/microsoft-veut-12-semaines-minimum-de-conge-parental-pour-les-salaries-39873015.htm/
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 http://www.securityweek.com/hackers-hit-air-canada-mobile-app/
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'cnet', u'dns', u'top', u'stop', u'report', u'newsmaker', u'conference', u'air', u'ics', u'son', u'sql', u'team', u'tablets', u'par', u'week', u'tvs', u'network', u'instagram', u'social', u'research', u'services', u'session', u'threats', u'users', u'bulletin', u'facebook', u'30', u'products', u'view', u'podcasts', u'center', u'apps']
+6 [u'phones', u'interview', u'targets', u'product', u'platform', u'avis', u'challenges', u'tous', u'mickael', u'flaw', u'information', u'ses', u'ctf', u'cloud', u'2017', u'dorigny', u'twitter', u'out']
+7 [u'risk', u'securiteam', u'canada', u'internet', u'threat', u'avec', u'threatlist', u'phishing', u'linux', u'hackthebox', u'app', u'subscribe', u'iot']
+8 [u'ransomware', u'patch', u'trend', u'dactualit\xe9', u'micro', u'hackers', u'pan-os']
+9 [u'advisory', u'cars', u'10', u'black', u'multiples', u'seals', u'tara', u'our']
+10 [u's\xe9curit\xe9', u'hacking', u'wordpress', u'full', u'cet']
+11 [u'hat', u'cybersecurity', u'attacks', u'folt\xfdn', u'critical', u'vulnerabilities', u'google', u'cybercrime', u'tom\xe1\u0161']
+12 [u'blog', u'intelligence', u'vuln\xe9rabilit\xe9s']
+13 [u'new', u'vulnerability', u'microsoft', u'android', u'smart']
+14 [u'podcast', u'windows']
+16 [u'web']
+18 [u'privacy']
+19 [u'veille', u'mobile']
+20 [u'2018']
+22 [u'scripting']
+25 [u'cross']
+28 [u'best']
+30 [u'malware']
+61 [u'vigil@nce']
+
+
