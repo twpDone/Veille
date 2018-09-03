@@ -1,22 +1,37 @@
 [+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :https://securityintelligence.com/category/x-force/
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
-[-] Crawling Exception <urlopen error [Errno 8] _ssl.c:504: EOF occurred in violation of protocol>>
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.welivesecurity.com/
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.securityfocus.com
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.cert-ist.com/public/
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.cert.ssi.gouv.fr
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://pseudonyme.over-blog.net/
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://thehackernews.com/
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :https://www.cnet.com/topics/security/
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :https://nakedsecurity.sophos.com/
-[-] Crawling Exception ''>
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :https://www.scmagazine.com
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :https://threatpost.com/
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.securityweek.com/cybercrime
+[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 
 [cerber]
 	--
@@ -176,24 +191,5 @@
 
 
  KeyWords : 
-5 [u'stolen', u'voir', u'cnet', u'phones', u'dns', u'free', u'amazon', u'report', u'patch', u'conference', u'ics', u'ne', u'team', u'says', u'apache', u'tablets', u'sean', u'awards', u'dark', u'network', u'keane', u'social', u'response', u'most', u'customers', u'bulletin', u'30', u'products', u'cloud', u'attack', u'request', u'view', u'podcasts']
-6 [u'experts', u'top', u't-mobile', u'newsmaker', u'product', u'avis', u'challenges', u'sites', u'tous', u'intel', u'cisco', u'mickael', u'research', u'part', u'business', u'services', u'threatlist', u'ctf', u'2017', u'dorigny', u'twitter', u'apps', u'bug']
-7 [u'interview', u'update', u'trend', u'targets', u'ssd', u'micro', u'windows', u'threats', u'phishing', u'hackthebox', u'code', u'facebook', u'apple', u'out', u'subscribe']
-8 [u'over', u'cybersecurity', u'attacks', u'internet', u'10', u'dactualit\xe9', u'seals', u'threat', u'intelligence', u'tara', u'our']
-9 [u's\xe9curit\xe9', u'cars', u'multiples', u'critical', u'linux', u'breach', u'iot']
-10 [u'black', u'full', u'cet', u'microsoft']
-11 [u'securiteam', u'new', u'hacking', u'million', u'google', u'cybercrime']
-12 [u'risk', u'vulnerability', u'advisory', u'hat', u'podcast', u'vulnerabilities', u'vuln\xe9rabilit\xe9s', u'mobile']
-13 [u'folt\xfdn', u'smart', u'tom\xe1\u0161']
-14 [u'ransomware', u'wordpress']
-15 [u'scripting', u'blog']
-17 [u'web']
-18 [u'privacy']
-19 [u'veille']
-20 [u'cross']
-22 [u'2018']
-28 [u'best']
-36 [u'malware']
-55 [u'vigil@nce']
 
 
