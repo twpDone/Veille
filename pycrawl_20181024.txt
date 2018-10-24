@@ -1,0 +1,288 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 1] _ssl.c:504: error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 https://securityintelligence.com/ibm-security-named-a-leader-in-idc-incident-response-marketscape-report/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://blogs.securiteam.com/index.php/archives/3751/
+	 https://www.welivesecurity.com/2018/10/18/new-linux-chachaddos-malware-distributed-servers-vestacp-installed/
+	--
+	 [attack, routers] https://threatpost.com/multiple-d-link-routers-open-to-complete-takeover-with-simple-attack/138383/
+	 [attack, breach] https://www.scmagazine.com/home/reviews/safebreach-breach-attack-simulation-platform/
+	 [attack, breach] https://www.scmagazine.com/home/reviews/picus-breach-attack-simulation-platform/
+	 [attack, breach] https://www.scmagazine.com/home/reviews/emerging-products-breach-and-attack-simulation/
+	 [attack, ransomware] https://threatpost.com/podcast-a-utility-ransomware-attack-post-hurricane/138391/
+	--
+
+[routers]
+	--
+	 [attack, routers] https://threatpost.com/multiple-d-link-routers-open-to-complete-takeover-with-simple-attack/138383/
+	 [routers, users] https://www.welivesecurity.com/2018/10/08/routers-firmware-flaws-leave-users-risk/
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://www.scmagazine.com/insider-threats/
+	 http://www.securityweek.com/fortinet-tackles-insider-threats-zonefox-acquisition/
+	--
+	--
+
+[scams]
+	 https://www.welivesecurity.com/2018/10/19/scams-and-flaws-why-we-get-duped/
+	--
+	--
+
+[injection]
+	--
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Joomla-J,20181009,81375.html/
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [service, users] http://www.securityweek.com/mozilla-offers-vpn-service-firefox-users/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://securityintelligence.com/threat-actors-prey-on-drupalgeddon-vulnerability-to-mass-compromise-websites-and-underlying-servers/
+	 http://www.globalsecuritymag.com/Netscout-takes-internet-scale,20181023,81696.html/
+	 http://www.globalsecuritymag.com/Fortinet-acquires-cloud-based,20181023,81689.html/
+	 https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
+	--
+	--
+
+[users]
+	--
+	 [service, users] http://www.securityweek.com/mozilla-offers-vpn-service-firefox-users/
+	 [routers, users] https://www.welivesecurity.com/2018/10/08/routers-firmware-flaws-leave-users-risk/
+	--
+
+[infosec]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=OTc0NTY3/
+	 https://threatpost.com//#modal_infosec_desc/
+	--
+	--
+
+[hack]
+	 https://threatpost.com/adult-website-hack-exposes-1-2m-wife-lover-fans/138516/
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-505/
+	 https://blogs.securiteam.com/index.php/archives/3759/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-507/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-508/
+	--
+	--
+
+[cloud]
+	 https://www.scmagazine.com/home/security-news/cloud-security/
+	--
+	 [cloud, services] http://www.securityweek.com/oracle-adds-new-security-services-cloud-platform/
+	--
+
+[scripting]
+	--
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-Strong,20180925,81059.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Cisco-Unified,20181002,81218.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-Gwolle,20180925,81063.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-TYPO3-Powermail-Cross,20181009,81374.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-Apache-AXIS-Cross-Site,20181023,81694.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-XStatic-jquery-ui-Cross,20181008,81331.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Apache-AXIS-Cross-Site,20181023,81694.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-Mondula-Multi,20180926,81091.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-Snazzy-Maps,20180925,81060.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Drupal-Select-Or-Other,20180926,81089.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-qutebrowser-Cross-Site,20181001,81181.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Cisco-Web-Security,20181002,81217.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-TYPO3-Heise-Shariff,20181009,81370.html/
+	--
+
+[exploit]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/new-cve-2018-8373-exploit-spotted/
+	--
+	--
+
+[services]
+	 https://www3.smartadserver.com/h/cc?imgid=22421267&tmstp=[timestamp]&tgt=[reference]/
+	--
+	 [cloud, services] http://www.securityweek.com/oracle-adds-new-security-services-cloud-platform/
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/deux-nouvelles-versions-de-windows-10-par-an-c-est-trop-39874943.htm/
+	 http://www.zdnet.fr/actualites/problemes-de-mise-a-jour-windows-10-documents-effaces-et-alerte-au-driver-intel-39874581.htm/
+	--
+	--
+
+[phishing]
+	 https://www.scmagazine.com/phishing/
+	 https://www.scmagazine.com/home/opinions/data-games-phishing-as-an-endless-quest-for-exploitable-data/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/phishing/
+	--
+	--
+
+[facebook]
+	 http://www.securityweek.com/japan-orders-facebook-improve-data-protection/
+	 https://www.welivesecurity.com/2018/10/11/send-clones-facebook-cloning-revisited/
+	--
+	 [facebook, breach] https://www.welivesecurity.com/2018/10/15/facebook-downgrades-victim-count-details-data-accessed-breach/
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/le-service-tv-d-apple-serait-lance-dans-plus-de-100-pays-en-2019-39875497.htm/
+	--
+	--
+
+[hacking]
+	 https://www.welivesecurity.com/2018/10/05/virus-bulletin-2018-supply-chain-hacking-grows/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://threatpost.com/threatlist-microsoft-iis-sees-triple-digit-spike-in-cyberattack-volume/138104/
+	--
+	--
+
+[breach]
+	 https://threatpost.com/obamacare-sign-up-channel-breach-affects-75k-consumers/138482/
+	--
+	 [facebook, breach] https://www.welivesecurity.com/2018/10/15/facebook-downgrades-victim-count-details-data-accessed-breach/
+	 [attack, breach] https://www.scmagazine.com/home/reviews/safebreach-breach-attack-simulation-platform/
+	 [attack, breach] https://www.scmagazine.com/home/reviews/picus-breach-attack-simulation-platform/
+	 [attack, breach] https://www.scmagazine.com/home/reviews/emerging-products-breach-and-attack-simulation/
+	--
+
+[attacks]
+	 https://securityintelligence.com/an-increase-in-powershell-attacks-observations-from-ibm-x-force-iris/
+	--
+	--
+
+[ransomware]
+	 https://threatpost.com/city-pays-2k-in-ransomware-stirs-never-pay-debate/138527/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/virobot-ransomware-with-botnet-capability-breaks-through/
+	 https://www.scmagazine.com/ransomware/
+	--
+	 [attack, ransomware] https://threatpost.com/podcast-a-utility-ransomware-attack-post-hurricane/138391/
+	--
+
+[cybercrime]
+	 https://securityintelligence.com/visit-the-subway-system-of-cybercrime-with-security-consultant-francisco-galian/
+	 https://www.scmagazine.com/home/security-news/cybercrime/
+	--
+	--
+
+[mobile]
+	 https://www.scmagazine.com/home/security-news/mobile-security/
+	--
+	--
+
+[malware]
+	 http://www.securityweek.com/triton-malware-linked-russian-government-research-institute/
+	 https://www.scmagazine.com/malware/
+	 http://www.cert-ist.com/public/fr/SO_detail?format=html&code=ics-triton/
+	--
+	--
+
+[vigil@nce]
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-AppArmor-security,20181022,81653.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Sympa-open-redirect-via,20181008,81334.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-qutebrowser-Cross-Site,20181001,81180.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-Feed,20181002,81234.html/
+	--
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-Strong,20180925,81059.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Cisco-Unified,20181002,81218.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-Gwolle,20180925,81063.html/
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Joomla-J,20181009,81375.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-TYPO3-Powermail-Cross,20181009,81374.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-Apache-AXIS-Cross-Site,20181023,81694.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-XStatic-jquery-ui-Cross,20181008,81331.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Apache-AXIS-Cross-Site,20181023,81694.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-Mondula-Multi,20180926,81091.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-Snazzy-Maps,20180925,81060.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Drupal-Select-Or-Other,20180926,81089.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-qutebrowser-Cross-Site,20181001,81181.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Cisco-Web-Security,20181002,81217.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-TYPO3-Heise-Shariff,20181009,81370.html/
+	--
+
+
+ KeyWords : 
+5 [u's\xe9curit\xe9', u'voir', u'phones', u'doug', u'newsmaker', u'bloomberg', u'team', u'spy', u'dangers', u'week', u'file', u'social', u'olenick', u'response', u'found', u'robert', u'virus', u'incident', u'puce', u'apple', u'apt', u'could', u'url', u'ce', u'raccourcisseurs', u'podcasts', u'apps', u'challenges']
+6 [u'cnet', u'interview', u'report', u'wordpress', u'update', u'trend', u'insider', u'platform', u'avis', u'tous', u'cisco', u'flaws', u'mickael', u'information', u'botnet', u'threat', u'hackthebox', u'threatlist', u'exploits', u'popular', u'oracle', u'breach', u'30', u'firefox', u'insight', u'subscribe', u'dorigny', u'executive', u'x-force']
+7 [u'dns', u'infosec', u'ransomware', u'patch', u'conference', u'super', u'attacks', u'ssd', u'cure', u'threats', u'linux', u'analysis', u'products', u'dan', u'our', u'bug']
+8 [u'risk', u'vulnerability', u'internet', u'dactualit\xe9', u'multiples', u'research', u'most', u'windows', u'bulletin', u'cloud', u'product', u'android']
+9 [u'seals', u'cars', u'10', u'services', u'intelligence', u'tara', u'facebook', u'smart']
+10 [u'cybersecurity', u'folt\xfdn', u'critical', u'cet', u'microsoft', u'phishing', u'tom\xe1\u0161', u'attack']
+11 [u'hacking', u'full', u'google', u'web']
+12 [u'advisory', u'vulnerabilities', u'vuln\xe9rabilit\xe9s', u'mobile', u'iot']
+13 [u'securiteam', u'podcast', u'micro']
+14 [u'cybercrime']
+15 [u'blog']
+16 [u'2018']
+59 [u'vigil@nce']
+18 [u'privacy']
+19 [u'new', u'scripting', u'veille']
+24 [u'malware', u'cross']
+27 [u'best']
+
+
