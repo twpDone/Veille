@@ -1,0 +1,217 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 1] _ssl.c:504: error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://www.scmagazine.com/home/security-news/fireeye-attributes-triton-ics-attack-to-russian/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=OTc4ODQ1/
+	--
+	--
+
+[fraud]
+	 http://www.securityweek.com/google-blocks-new-ad-fraud-scheme/
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://www.scmagazine.com/home/security-news/google-privacy-update-makes-it-easier-for-users-to-review-and-delete-search-data/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-509/
+	--
+	--
+
+[cloud]
+	 http://www.zdnet.fr/actualites/juniper-au-dessus-des-attentes-malgre-la-lenteur-des-deploiements-dans-le-cloud-39875543.htm/
+	--
+	 [cloud, microsoft] http://www.zdnet.fr/actualites/trimestriels-microsoft-toujours-en-grande-forme-grace-au-cloud-39875557.htm/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	 [exploit, windows] http://www.securityweek.com/exploit-new-windows-zero-day-published-twitter/
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 https://threatpost.com/windows-deletebug-zero-day-allows-privilege-escalation-destruction/138550/
+	--
+	 [exploit, windows] http://www.securityweek.com/exploit-new-windows-zero-day-published-twitter/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 https://www.scmagazine.com/home/security-news/apple-supports-national-privacy-law-cook-says/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	 [cloud, microsoft] http://www.zdnet.fr/actualites/trimestriels-microsoft-toujours-en-grande-forme-grace-au-cloud-39875557.htm/
+	--
+
+[breach]
+	 http://www.securityweek.com/yahoo-pay-50m-other-costs-massive-security-breach/
+	 https://www.scmagazine.com/home/security-news/cathay-pacific-data-breach-exposes-pii-of-9-4-million-customers/
+	 https://www.scmagazine.com/home/security-news/data-breach/
+	 https://www.scmagazine.com/home/security-news/yahoo-agrees-to-50-million-breach-settlement-victims-eligible-for-compensation/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	 [ransomware, malware] https://threatpost.com/threatlist-ransomware-eks-and-trojans-lead-the-way-in-q3-malware-trends/138433/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	 [ransomware, malware] https://threatpost.com/threatlist-ransomware-eks-and-trojans-lead-the-way-in-q3-malware-trends/138433/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u's\xe9curit\xe9', u'voir', u'campaign', u'noyau', u'doug', u'newsmaker', u'conference', u'targeting', u'ics', u'team', u'million', u'hack', u'exploit', u'dangers', u'week', u'file', u'response', u'found', u'threats', u'incident', u'30', u'firefox', u'apple', u'apt', u'out', u'could', u'url', u'view', u'ce', u'raccourcisseurs', u'podcasts', u'olenick', u'apps', u'challenges']
+6 [u'interview', u'zero-day', u'wordpress', u'yahoo', u'trend', u'avis', u'review', u'tous', u'mickael', u'information', u'robert', u'hackthebox', u'services', u'hackers', u'popular', u'spam', u'bulletin', u'insight', u'subscribe', u'dorigny', u'android', u'executive', u'other', u'twitter', u'x-force']
+7 [u'cnet', u'vulnerability', u'dns', u'cybersecurity', u'attacks', u'update', u'10', u'ssd', u'most', u'threatlist', u'analysis', u'cure', u'products', u'dan', u'our', u'patch']
+8 [u'risk', u'ransomware', u'product', u'internet', u'dactualit\xe9', u'multiples', u'micro', u'research', u'linux', u'facebook', u'cloud', u'bug']
+9 [u'hacking', u'cars', u'intelligence', u'phishing', u'iot']
+10 [u'folt\xfdn', u'critical', u'cet', u'tom\xe1\u0161', u'smart']
+11 [u'attack', u'web']
+12 [u'advisory', u'full', u'vulnerabilities', u'microsoft', u'google', u'vuln\xe9rabilit\xe9s', u'breach']
+13 [u'securiteam', u'podcast', u'mobile']
+14 [u'seals', u'windows', u'tara', u'2018']
+15 [u'blog']
+16 [u'cybercrime']
+18 [u'scripting']
+19 [u'new', u'veille']
+20 [u'privacy']
+22 [u'cross']
+26 [u'best']
+29 [u'malware']
+57 [u'vigil@nce']
+
+
