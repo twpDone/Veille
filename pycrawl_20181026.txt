@@ -1,0 +1,218 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 1] _ssl.c:504: error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 http://www.securityweek.com/ba-says-185000-more-customers-affected-cyber-attack/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	 [industry, threat] https://scmagazine.icrowdnewswire.com/news.php?id=OTgzMTU0/
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 http://www.securityweek.com/researchers-find-command-injection-flaw-cisco-webex/
+	--
+	 [injection, windows] https://www.scmagazine.com/home/security-news/cisco-patches-command-injection-bug-in-webex-meetings-desktop-app-for-windows/
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	 [industry, threat] https://scmagazine.icrowdnewswire.com/news.php?id=OTgzMTU0/
+	--
+
+[users]
+	--
+	 [users, cloud] https://www.scmagazine.com/home/security-news/armoru-poll-finds-46-of-37k-twitter-users-have-put-sensitive-data-in-cloud/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.scmagazine.com/home/security-news/former-high-school-teacher-pleads-guilty-in-celebgate-hack/
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/cloud/
+	--
+	 [users, cloud] https://www.scmagazine.com/home/security-news/armoru-poll-finds-46-of-37k-twitter-users-have-put-sensitive-data-in-cloud/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 http://www.zdnet.fr/actualites/amazon-web-services-va-ouvrir-son-premier-datacenter-en-afrique-du-sud-39875629.htm/
+	--
+	--
+
+[windows]
+	--
+	 [injection, windows] https://www.scmagazine.com/home/security-news/cisco-patches-command-injection-bug-in-webex-meetings-desktop-app-for-windows/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.securityweek.com/uk-regulator-hits-facebook-maximum-fine/
+	 https://threatpost.com/uk-slaps-facebook-with-645k-fine-over-cambridge-analytica-scandal/138579/
+	 http://www.zdnet.fr/actualites/facebook-doit-payer-560000-en-grande-bretagne-suite-au-scandale-cambridge-analytica-39875613.htm/
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://www.scmagazine.com/home/security-news/researchers-report-vulnerability-in-microsoft-words-online-video-feature/
+	 https://scmagazine.icrowdnewswire.com/news.php?id=OTgzMTMx/
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	 https://www.welivesecurity.com/2018/10/25/eset-releases-new-decryptor-syrian-victims-gandcrab-ransomware/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.scmagazine.com/home/security-news/russia-china-listening-in-on-trumps-private-mobile-phone-conversations-report/
+	--
+	--
+
+[malware]
+	 http://www.securityweek.com/mac-malware-injects-ads-encrypted-traffic/
+	 http://www.securityweek.com/timpdoor-malware-turns-android-devices-proxies/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u's\xe9curit\xe9', u'voir', u'skills', u'trojans', u'after', u'network', u'stop', u'newsmaker', u'targeting', u'ics', u'mais', u'teri', u'challenges', u'internet', u'hack', u'over', u'dangers', u'pacific', u'file', u'robinson', u'banking', u'threats', u'incident', u'cathay', u'exploits', u'spam', u'30', u'apple', u'patch', u'could', u'url', u'view', u'raccourcisseurs', u'podcasts', u'other', u'apps', u'x-force']
+6 [u'phones', u'infosec', u'interview', u'conference', u'cybersecurity', u'attacks', u'wordpress', u'trend', u'avis', u'injection', u'tous', u'multiples', u'update', u'mickael', u'flaw', u'information', u'hackthebox', u'donn\xe9es', u'phishing', u'linux', u'popular', u'uk', u'bulletin', u'insight', u'subscribe', u'dorigny', u'twitter']
+7 [u'cnet', u'vulnerability', u'dns', u'report', u'ssd', u'android', u'micro', u'most', u'threatlist', u'analysis', u'cure', u'products', u'dan', u'our', u'executive']
+8 [u'risk', u'hacking', u'product', u'10', u'dactualit\xe9', u'critical', u'research', u'services', u'cloud', u'bug']
+9 [u'cars', u'cisco', u'intelligence', u'iot', u'smart']
+10 [u'tom\xe1\u0161', u'ransomware', u'folt\xfdn', u'cet', u'vuln\xe9rabilit\xe9s', u'breach']
+11 [u'seals', u'microsoft', u'tara', u'attack']
+12 [u'advisory', u'podcast', u'full', u'facebook']
+13 [u'securiteam', u'vulnerabilities', u'google', u'mobile', u'2018', u'web']
+14 [u'cybercrime']
+15 [u'windows', u'blog']
+18 [u'new', u'scripting']
+19 [u'veille']
+21 [u'privacy']
+22 [u'cross']
+26 [u'best']
+33 [u'malware']
+57 [u'vigil@nce']
+
+
