@@ -1,0 +1,200 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[-] Crawling Exception <urlopen error [Errno 1] _ssl.c:504: error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure>>
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=OTgyOTc0/
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'stop', u'newsmaker', u'conference', u'team', u'challenges', u'million', u'hack', u'dangers', u'multiples', u'update', u'file', u'found', u'threats', u'cathay', u'exploits', u'pacific', u'uk', u'30', u'url', u'view', u'key', u'raccourcisseurs', u'podcasts', u'other', u'twitter', u'x-force']
+6 [u's\xe9curit\xe9', u'cnet', u'skills', u'infosec', u'interview', u'after', u'wordpress', u'trend', u'avis', u'tous', u'critical', u'business', u'airways', u'mickael', u'information', u'hackthebox', u'services', u'incident', u'phishing', u'linux', u'popular', u'spam', u'bulletin', u'apple', u'insight', u'out', u'subscribe', u'dorigny', u'android']
+7 [u'risk', u'dns', u'report', u'attacks', u'ddos', u'british', u'ssd', u'cure', u'botnet', u'micro', u'research', u'most', u'donn\xe9es', u'products', u'our', u'executive']
+8 [u'vulnerability', u'hacking', u'cybersecurity', u'internet', u'10', u'dactualit\xe9', u'threatlist', u'cloud', u'dan', u'bug']
+9 [u'ransomware', u'product', u'cars', u'intelligence', u'google']
+10 [u'folt\xfdn', u'cisco', u'cet', u'tom\xe1\u0161', u'facebook', u'smart']
+11 [u'seals', u'full', u'iot', u'tara', u'attack', u'web']
+12 [u'advisory', u'podcast', u'vulnerabilities', u'vuln\xe9rabilit\xe9s', u'mobile']
+13 [u'securiteam', u'2018']
+14 [u'microsoft']
+15 [u'windows', u'blog', u'cybercrime']
+16 [u'breach']
+18 [u'scripting']
+19 [u'veille', u'privacy']
+21 [u'new']
+22 [u'cross']
+26 [u'best']
+36 [u'malware']
+57 [u'vigil@nce']
+
+
