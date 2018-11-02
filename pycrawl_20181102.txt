@@ -1,0 +1,217 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:581)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	 [access, attack] https://threatpost.com/two-zero-day-bugs-open-millions-of-wireless-access-points-to-attack/138713/
+	--
+
+[attack]
+	--
+	 [access, attack] https://threatpost.com/two-zero-day-bugs-open-millions-of-wireless-access-points-to-attack/138713/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 http://www.securityweek.com/law-enforcement-faces-dilemma-assessing-online-threats/
+	--
+	--
+
+[scams]
+	 https://www.scmagazine.com/home/security-news/fbi-pittsburg-warns-of-tree-of-life-synagogue-shooting-scams-soliciting-money-and-information/
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.scmagazine.com/home/security-news/outlaw-threat-actor-uses-shellbot-variant-to-form-new-botnet/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	 [cloud, intelligence] https://www.scmagazine.com/review/cavirin-cyberposture-intelligence-for-the-hybrid-cloud/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	 [exploit, microsoft] https://threatpost.com/poc-exploit-compromises-microsoft-live-accounts-via-subdomain-hijacking/138719/
+	--
+
+[services]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTAwMTU0NA==/
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/les-bizarreries-d-apple-en-matiere-de-prix-du-stockage-39875889.htm/
+	 http://www.zdnet.fr/actualites/trimestriels-malgre-une-bonne-rentree-apple-joue-la-prudence-sur-la-fin-d-annee-39875909.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	 [cloud, intelligence] https://www.scmagazine.com/review/cavirin-cyberposture-intelligence-for-the-hybrid-cloud/
+	--
+
+[microsoft]
+	--
+	 [exploit, microsoft] https://threatpost.com/poc-exploit-compromises-microsoft-live-accounts-via-subdomain-hijacking/138719/
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/fifa-readies-for-data-breach-reveal/
+	 http://www.securityweek.com/top-australia-defence-firm-reports-serious-cyber-breach/
+	 https://www.scmagazine.com/home/security-news/aussie-shipbuilder-austal-hit-with-data-breach/
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/bluetooth-chip-flaws-expose-enterprises-remote-attacks/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTAwMTU4OQ==/
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 http://www.securityweek.com/usb-drives-deliver-dangerous-malware-industrial-facilities-honeywell/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/banking-malware/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'phones', u'hacking', u'stop', u'newsmaker', u'conference', u'chrome', u'hat', u'ng', u'chip', u'alfred', u'sql', u'file', u'research', u'incident', u'gap', u'popular', u'microsoft', u'could', u'podcasts']
+6 [u's\xe9curit\xe9', u'cnet', u'skills', u'dns', u'interview', u'after', u'top', u'ics', u'avis', u'multiples', u'business', u'update', u'information', u'response', u'bugs', u'threat', u'bulletin', u'linux', u'services', u'facebook', u'30', u'cloud', u'view', u'subscribe', u'phishing', u'android', u'executive', u'apps', u'out']
+7 [u'vulnerability', u'team', u'trend', u'internet', u'tous', u'most', u'threatlist', u'link', u'ccprojectzeromembers', u'insight', u'our', u'attack', u'bug']
+8 [u'ssd', u'dactualit\xe9', u'micro', u'threats']
+9 [u'risk', u'cars', u'cisco', u'google', u'spam', u'web']
+10 [u'attacks', u'product', u'seals', u'full', u'cet', u'vulnerabilities', u'intelligence', u'tara', u'smart']
+11 [u'advisory', u'10', u'folt\xfdn', u'mobile', u'tom\xe1\u0161', u'apple', u'iot']
+12 [u'ransomware', u'podcast', u'windows', u'breach']
+13 [u'cybersecurity', u'vuln\xe9rabilit\xe9s', u'2018']
+14 [u'securiteam']
+16 [u'blog']
+19 [u'veille', u'cybercrime']
+20 [u'scripting']
+22 [u'privacy']
+23 [u'cross']
+26 [u'best']
+30 [u'new', u'malware']
+58 [u'vigil@nce']
+
+
