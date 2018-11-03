@@ -1,0 +1,209 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:581)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://www.scmagazine.com/home/security-news/critical-bleedingbit-flaws-found-in-microcontrollers-used-by-wi-fi-access-points/
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTAwNTQ4Mw==/
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTAwNTU0MA==/
+	--
+	--
+
+[users]
+	--
+	 [users, facebook] https://www.scmagazine.com/home/security-news/facebook-users-data-private-messages-found-up-for-sale-online/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-527/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	 [facebook, breach] https://threatpost.com/facebook-blames-malicious-extensions-in-breach-of-81k-private-messages/138770/
+	 [users, facebook] https://www.scmagazine.com/home/security-news/facebook-users-data-private-messages-found-up-for-sale-online/
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	 http://www.securityweek.com/radisson-hotel-group-hit-data-breach/
+	--
+	 [facebook, breach] https://threatpost.com/facebook-blames-malicious-extensions-in-breach-of-81k-private-messages/138770/
+	--
+
+[attacks]
+	 https://threatpost.com/threatlist-fewer-big-ddos-attacks-in-q3-overall-rate-holds-steady/138757/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'office', u'stop', u'newsmaker', u'conference', u'prison', u'hat', u'gift', u'wireless', u'ddos', u'bradley', u'millions', u'black', u'nouvelle', u'update', u'sql', u'file', u'network', u'research', u'ses', u'popular', u'services', u'microsoft', u'could', u'view', u'incident', u'podcasts', u'phishing', u'bug', u'barth']
+6 [u's\xe9curit\xe9', u'cnet', u'phones', u'dns', u'interview', u'messages', u'hacking', u'ng', u'avis', u'internet', u'alfred', u'multiples', u'business', u'gifts', u'flaw', u'information', u'bugs', u'found', u'threat', u'bulletin', u'access', u'30', u'cloud', u'subscribe', u'android', u'executive', u'software', u'apps']
+7 [u'vulnerability', u'after', u'top', u'ics', u'team', u'trend', u'tous', u'response', u'most', u'threatlist', u'donn\xe9es', u'google', u'link', u'facebook', u'ccprojectzeromembers', u'insight', u'our']
+8 [u'risk', u'ssd', u'dactualit\xe9', u'micro', u'threats', u'linux']
+9 [u'cybersecurity', u'cars', u'10', u'coverage', u'spam', u'apple', u'attack', u'state', u'web']
+10 [u'seals', u'product', u'full', u'cet', u'vulnerabilities', u'intelligence', u'tara', u'breach', u'smart']
+11 [u'advisory', u'ransomware', u'attacks', u'folt\xfdn', u'cisco', u'mobile', u'tom\xe1\u0161', u'windows', u'2018', u'iot']
+12 [u'podcast']
+13 [u'vuln\xe9rabilit\xe9s']
+14 [u'securiteam']
+16 [u'blog', u'cybercrime']
+19 [u'veille']
+20 [u'scripting']
+22 [u'privacy']
+23 [u'cross']
+29 [u'new']
+31 [u'malware']
+32 [u'best']
+58 [u'vigil@nce']
+
+
