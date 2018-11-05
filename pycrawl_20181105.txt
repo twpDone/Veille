@@ -1,4 +1,5 @@
 [+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[-] HTTPError HTTP Error 404: Not Found>
 [+] Crawling :https://www.information-security.fr
 [-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:581)>>
 [+] Crawling :https://securityintelligence.com/category/x-force/
@@ -55,6 +56,7 @@
 	--
 
 [fraud]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=OTk4ODQw/
 	--
 	--
 
@@ -103,7 +105,6 @@
 	--
 
 [cloud]
-	 https://scmagazine.icrowdnewswire.com/news.php?id=OTk4ODY2/
 	--
 	--
 
@@ -136,6 +137,7 @@
 	--
 
 [hacking]
+	 http://www.securityweek.com/kemp-cites-voter-database-hacking-attempt-gives-no-evidence/
 	--
 	--
 
@@ -177,22 +179,22 @@
 
 
  KeyWords : 
-5 [u'voir', u'stop', u'newsmaker', u'conference', u'prison', u'hat', u'wireless', u'ddos', u'bradley', u'millions', u'black', u'nouvelle', u'business', u'update', u'sql', u'file', u'gifts', u'podcasts', u'research', u'threat', u'ses', u'incident', u'popular', u'services', u'could', u'view', u'phishing', u'bug', u'barth']
-6 [u's\xe9curit\xe9', u'cnet', u'phones', u'dns', u'interview', u'after', u'messages', u'top', u'hacking', u'avis', u'internet', u'multiples', u'flaw', u'response', u'bugs', u'found', u'bulletin', u'threatlist', u'access', u'30', u'subscribe', u'android', u'executive', u'software', u'apps']
-7 [u'vulnerability', u'cybersecurity', u'ics', u'trend', u'alfred', u'tous', u'information', u'most', u'google', u'link', u'facebook', u'cloud', u'ccprojectzeromembers', u'insight', u'our']
-8 [u'risk', u'ng', u'team', u'10', u'ssd', u'dactualit\xe9', u'micro', u'donn\xe9es', u'threats', u'linux', u'apple', u'attack']
-9 [u'cars', u'coverage', u'spam', u'breach', u'state', u'web']
-10 [u'product', u'seals', u'full', u'cet', u'intelligence', u'tara', u'smart']
-11 [u'advisory', u'ransomware', u'attacks', u'folt\xfdn', u'cisco', u'vulnerabilities', u'mobile', u'tom\xe1\u0161', u'windows']
-12 [u'podcast', u'2018', u'iot']
-13 [u'vuln\xe9rabilit\xe9s']
-14 [u'securiteam']
-16 [u'blog', u'cybercrime']
-19 [u'veille']
-20 [u'scripting']
-23 [u'privacy', u'cross']
-58 [u'vigil@nce']
-28 [u'new']
-30 [u'best', u'malware']
+5 [u'voir', u'secure', u'stop', u'newsmaker', u'conference', u'zero-day', u'hat', u'ddos', u'bradley', u'millions', u'black', u'update', u'sql', u'gifts', u'compliance', u'team', u'threat', u'services', u'incident', u'linux', u'popular', u'code', u'access', u'30', u'view', u'podcasts', u'android', u'barth', u'software', u'bug']
+6 [u's\xe9curit\xe9', u'cnet', u'phones', u'vulnerability', u'dns', u'interview', u'after', u'messages', u'top', u'ics', u'avis', u'multiples', u'flaw', u'information', u'found', u'research', u'most', u'bulletin', u'apple', u'cloud', u'2018', u'subscribe', u'executive', u'apps']
+7 [u'ng', u'alfred', u'tous', u'threatlist', u'donn\xe9es', u'threats', u'link', u'facebook', u'ccprojectzeromembers', u'insight', u'our']
+8 [u'hacking', u'ransomware', u'10', u'dactualit\xe9', u'vulnerabilities', u'intelligence', u'attack', u'web']
+9 [u'risk', u'cybersecurity', u'cars', u'cisco', u'coverage', u'windows', u'google', u'breach', u'state']
+10 [u'attacks', u'product', u'seals', u'full', u'cet', u'iot', u'vuln\xe9rabilit\xe9s', u'mobile', u'tara', u'smart']
+11 [u'ssd', u'folt\xfdn', u'tom\xe1\u0161']
+12 [u'podcast']
+14 [u'advisory']
+16 [u'cybercrime']
+18 [u'securiteam', u'scripting', u'blog']
+19 [u'veille', u'malware']
+20 [u'cross']
+21 [u'privacy']
+54 [u'vigil@nce']
+23 [u'new']
+30 [u'best']
 
 
