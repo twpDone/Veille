@@ -1,0 +1,211 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:581)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 http://www.securityweek.com/iran-accuses-israel-failed-cyber-attack/
+	 https://threatpost.com/portsmash-side-channel-attack-siphons-data-from-intel-other-cpus/138777/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTAwOTUyMg==/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTAwOTQ5OQ==/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.securityweek.com/shellbot-botnet-targets-linux-android-devices/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.zdnet.fr/blogs/watch-it/exode-de-facebook-les-jeunes-quittent-le-navire-39876017.htm/
+	 https://www.scmagazine.com/home/security-news/in-preface-to-elections-facebook-instagram-accounts-shuttered-after-feds-report-suspicious-activity/
+	--
+	 [facebook, breach] https://scmagazine.icrowdnewswire.com/news.php?id=MTAwOTUwMg==/
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 https://threatpost.com/newsmaker-interview-tom-kellermann-on-hacking-the-midterm-elections/138791/
+	--
+	--
+
+[intelligence]
+	 http://www.securityweek.com/intelligence-not-numbers-game/
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	 [facebook, breach] https://scmagazine.icrowdnewswire.com/news.php?id=MTAwOTUwMg==/
+	--
+
+[attacks]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTAwOTUzNQ==/
+	 http://www.securityweek.com/ics-devices-vulnerable-side-channel-attacks-researcher/
+	--
+	--
+
+[ransomware]
+	 https://www.scmagazine.com/home/security-news/new-ransomware-spotted-using-diskcryptor/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.welivesecurity.com/2018/11/05/malware-1980s-brain-virus-morris-worm/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'phones', u'report', u'conference', u'chrome', u'hat', u'wireless', u'devices', u'ddos', u'bradley', u'million', u'black', u'update', u'file', u'botnet', u'found', u'threat', u'incident', u'phishing', u'popular', u'code', u'stop', u'view', u'accuses', u'podcasts', u'barth']
+6 [u's\xe9curit\xe9', u'cnet', u'dns', u'after', u'messages', u'enterprise', u'newsmaker', u'team', u'avis', u'millions', u'multiples', u'business', u'social', u'information', u'response', u'research', u'most', u'bulletin', u'donn\xe9es', u'services', u'30', u'apple', u'cloud', u'subscribe', u'executive', u'apps']
+7 [u'interview', u'ics', u'trend', u'tous', u'cisco', u'threatlist', u'linux', u'google', u'link', u'breach', u'ccprojectzeromembers', u'insight', u'bug']
+8 [u'vulnerability', u'hacking', u'internet', u'10', u'dactualit\xe9', u'intel', u'micro', u'our', u'android']
+9 [u'cars', u'coverage', u'threats', u'spam', u'facebook']
+10 [u'risk', u'ssd', u'folt\xfdn', u'seals', u'full', u'cet', u'tom\xe1\u0161', u'vuln\xe9rabilit\xe9s', u'tara', u'attack', u'web']
+11 [u'product', u'vulnerabilities', u'mobile', u'intelligence', u'windows']
+12 [u'ransomware', u'cybersecurity', u'podcast', u'smart']
+13 [u'advisory', u'attacks', u'2018', u'iot']
+17 [u'securiteam']
+18 [u'scripting', u'blog', u'cybercrime', u'privacy']
+19 [u'veille']
+21 [u'cross']
+54 [u'vigil@nce']
+29 [u'malware']
+31 [u'new', u'best']
+
+
