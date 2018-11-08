@@ -1,0 +1,212 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:581)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 http://www.zdnet.fr/actualites/hsbc-revele-un-incident-de-securite-39876137.htm/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://www.scmagazine.com/home/security-news/encryption-flaws-in-solid-state-drives-enable-unauthorized-data-access/
+	--
+	 [access, cloud] https://scmagazine.icrowdnewswire.com/news.php?id=MTAxNDU2NA==/
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	 [threat, mobile] https://blog.trendmicro.com/trendlabs-security-intelligence/author/echod/
+	--
+
+[users]
+	 https://www.scmagazine.com/home/security-news/using-social-auth-with-your-app-4-steps-to-protect-your-users-and-mitigate-security-concerns/
+	--
+	 [users, microsoft] http://www.securityweek.com/microsoft-releases-guidance-users-concerned-about-flawed-ssd-encryption/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-533/
+	--
+	--
+
+[cloud]
+	--
+	 [access, cloud] https://scmagazine.icrowdnewswire.com/news.php?id=MTAxNDU2NA==/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	 https://www.scmagazine.com/home/security-news/phishing-extortion-campaign-using-new-more-effective-methods/
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	 http://www.securityweek.com/starter-pistol-has-been-fired-artificial-intelligence-regulation-europe/
+	--
+	--
+
+[microsoft]
+	--
+	 [users, microsoft] http://www.securityweek.com/microsoft-releases-guidance-users-concerned-about-flawed-ssd-encryption/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	 [threat, mobile] https://blog.trendmicro.com/trendlabs-security-intelligence/author/echod/
+	--
+
+[malware]
+	 http://www.securityweek.com/us-cyber-command-shares-malware-virustotal/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'top', u'conference', u'zero-day', u'ics', u'odonnell', u'platform', u'lindsey', u'black', u'business', u'botnet', u'found', u'play', u'most', u'donn\xe9es', u'spam', u'users', u'microsoft', u'code', u'apple', u'cryptocurrency', u'view', u'podcasts', u'bug']
+6 [u'cnet', u'phones', u'dns', u'millions', u'features', u'newsmaker', u'chrome', u'team', u'trend', u'avis', u'sites', u'social', u'information', u'research', u'bulletin', u'phishing', u'breach', u'subscribe', u'executive']
+7 [u'interview', u'cybersecurity', u'wordpress', u'tous', u'flaw', u'response', u'micro', u'threatlist', u'linux', u'popular', u'link', u'ccprojectzeromembers', u'insight', u'our']
+8 [u'risk', u'hacking', u'internet', u'10', u'dactualit\xe9', u'multiples', u'banking', u'threats', u'incident', u'facebook', u'access', u'30', u'cloud', u'attack', u'android']
+9 [u's\xe9curit\xe9', u'attacks', u'product', u'cars', u'vulnerabilities', u'windows']
+10 [u'seals', u'vulnerability', u'advisory', u'ssd', u'folt\xfdn', u'cisco', u'full', u'cet', u'iot', u'tom\xe1\u0161', u'tara', u'web', u'apps']
+11 [u'ransomware', u'intelligence', u'vuln\xe9rabilit\xe9s', u'smart']
+12 [u'podcast']
+13 [u'securiteam', u'mobile', u'2018']
+14 [u'google']
+15 [u'blog']
+16 [u'cybercrime']
+17 [u'scripting']
+19 [u'veille', u'privacy']
+22 [u'cross']
+29 [u'malware']
+30 [u'best']
+32 [u'new']
+58 [u'vigil@nce']
+
+
