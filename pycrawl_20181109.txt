@@ -1,0 +1,209 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:581)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://www.scmagazine.com/home/security-news/lazarus-fastcash-atm-attack-details-discovered/
+	--
+	--
+
+[routers]
+	 https://www.scmagazine.com/home/security-news/iot-botnet-bcmupnp_hunter-targets-routers-with-vulnerable-upnp-feature/
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 https://www.scmagazine.com/home/security-news/secret-service-warns-of-usps-informed-delivery-scam/
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://www.scmagazine.com/home/security-news/woocommerce-wordpress-flaw-allowed-unique-privilege-escalation-4m-users-affected/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	 https://threatpost.com/cisco-accidentally-released-dirty-cow-exploit-code-in-software/138888/
+	--
+	--
+
+[services]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTAxNTcwNA==/
+	--
+	--
+
+[windows]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/windows-installer/
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 https://threatpost.com/apple-modernizes-its-hardware-security-with-t2/138904/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/man-behind-ddos-attacks-gaming-companies-pleads-guilty/
+	 http://www.securityweek.com/default-account-exposes-cisco-switches-remote-attacks/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://threatpost.com/pentagon-draws-back-the-veil-on-apt-malware-with-sudden-embrace-of-virustotal/138954/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'top', u'enterprise', u'conference', u'devices', u'ddos', u'update', u'odonnell', u'tablets', u'lindsey', u'black', u'intel', u'business', u'flaws', u'research', u'most', u'donn\xe9es', u'phishing', u'services', u'tvs', u'users', u'breach', u'30', u'view', u'podcasts', u'bug']
+6 [u'cnet', u'phones', u'dns', u'millions', u'newsmaker', u'team', u'trend', u'avis', u'internet', u'sites', u'social', u'information', u'bulletin', u'threatlist', u'banking', u'incident', u'linux', u'code', u'cloud', u'subscribe']
+7 [u's\xe9curit\xe9', u'interview', u'tous', u'seals', u'flaw', u'response', u'micro', u'threats', u'popular', u'spam', u'link', u'tara', u'ccprojectzeromembers', u'our', u'executive']
+8 [u'risk', u'hacking', u'wordpress', u'10', u'dactualit\xe9', u'multiples', u'botnet', u'insight', u'attack', u'cryptocurrency', u'web']
+9 [u'cybersecurity', u'cars', u'ssd', u'facebook', u'apps']
+10 [u'ransomware', u'product', u'folt\xfdn', u'full', u'cet', u'iot', u'windows', u'intelligence', u'tom\xe1\u0161', u'google', u'android']
+11 [u'advisory', u'attacks', u'vulnerabilities', u'vuln\xe9rabilit\xe9s', u'2018', u'smart']
+13 [u'securiteam', u'podcast']
+14 [u'vulnerability', u'mobile']
+15 [u'blog', u'cisco']
+16 [u'cybercrime']
+17 [u'scripting']
+19 [u'veille']
+21 [u'privacy', u'cross']
+26 [u'new']
+29 [u'malware']
+30 [u'best']
+57 [u'vigil@nce']
+
+
