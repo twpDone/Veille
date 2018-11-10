@@ -1,0 +1,213 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:581)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	 http://www.zdnet.fr/actualites/une-faille-corrigee-au-sein-des-serveurs-coldfusion-attise-l-interet-des-cybercriminels-39876245.htm/
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://www.scmagazine.com/home/security-news/group-facetime-for-ios-exposes-users-full-contact-info/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.scmagazine.com/home/security-news/hack-the-air-force-3-0-takes-off/
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-538/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	 http://www.securityweek.com/inception-attackers-combine-old-exploit-and-new-backdoor/
+	--
+	--
+
+[services]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTAxNjkwNA==/
+	--
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/docker-participe-au-projet-de-migration-de-windows-server-2008-39876223.htm/
+	--
+	 [windows, malware] https://www.scmagazine.com/home/security-news/cryptomining-malware-using-windows-installer-to-remain-hidden/
+	 [windows, microsoft] http://www.zdnet.fr/actualites/microsoft-repond-a-la-grogne-sur-le-bug-d-activation-de-windows-10-39876233.htm/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 http://www.securityweek.com/vmware-patches-vm-escape-flaw-disclosed-chinese-hacking-contest/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/microsoft-repond-a-la-grogne-sur-le-bug-d-activation-de-windows-10-39876233.htm/
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/companies-customers-will-avoid-you-after-a-breach-survey-says/
+	 https://www.scmagazine.com/home/security-news/huntsville-hospital-in-alabama-notifies-job-applicants-of-data-breach/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	 [windows, malware] https://www.scmagazine.com/home/security-news/cryptomining-malware-using-windows-installer-to-remain-hidden/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'after', u'top', u'enterprise', u'newsmaker', u'conference', u'old', u'abel', u'ng', u'internet', u'alfred', u'white', u'black', u'sites', u'exploit', u'business', u'woocommerce', u'social', u'robert', u'threat', u'most', u'ses', u'phishing', u'services', u'users', u'microsoft', u'code', u'attack', u'view', u'podcasts', u'bug']
+6 [u'cnet', u'phones', u'dns', u'interview', u'devices', u'trend', u'avis', u'information', u'micro', u'research', u'play', u'bulletin', u'incident', u'tvs', u'30', u'cloud', u'subscribe', u'executive']
+7 [u's\xe9curit\xe9', u'team', u'tous', u'seals', u'response', u'botnet', u'banking', u'threats', u'linux', u'popular', u'link', u'tara', u'ccprojectzeromembers', u'insight', u'our']
+8 [u'hacking', u'attacks', u'10', u'ssd', u'dactualit\xe9', u'multiples', u'flaws', u'android']
+9 [u'ransomware', u'wordpress', u'cars', u'folt\xfdn', u'flaw', u'iot', u'threatlist', u'tom\xe1\u0161', u'spam', u'breach', u'facebook', u'cryptocurrency', u'apps']
+10 [u'risk', u'vulnerability', u'product', u'cet', u'vulnerabilities', u'intelligence', u'google', u'smart']
+11 [u'advisory', u'cybersecurity', u'cisco', u'full', u'vuln\xe9rabilit\xe9s', u'2018']
+12 [u'windows', u'web']
+13 [u'securiteam', u'podcast']
+15 [u'blog']
+16 [u'mobile', u'cybercrime']
+17 [u'scripting']
+19 [u'veille']
+21 [u'cross']
+22 [u'privacy']
+25 [u'new']
+30 [u'malware']
+32 [u'best']
+57 [u'vigil@nce']
+
+
