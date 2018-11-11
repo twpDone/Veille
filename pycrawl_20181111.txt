@@ -1,0 +1,200 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:581)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'after', u'top', u'enterprise', u'newsmaker', u'conference', u'old', u'abel', u'ng', u'update', u'internet', u'alfred', u'white', u'black', u'exploit', u'business', u'woocommerce', u'social', u'robert', u'threat', u'most', u'ses', u'phishing', u'firm', u'services', u'users', u'microsoft', u'code', u'attack', u'view', u'podcasts', u'bug']
+6 [u'cnet', u'phones', u'dns', u'interview', u'devices', u'trend', u'avis', u'sites', u'information', u'micro', u'research', u'play', u'bulletin', u'incident', u'tvs', u'30', u'cloud', u'subscribe', u'executive']
+7 [u's\xe9curit\xe9', u'seals', u'attacks', u'team', u'tous', u'response', u'botnet', u'banking', u'threats', u'linux', u'popular', u'link', u'tara', u'ccprojectzeromembers', u'insight', u'our']
+8 [u'hacking', u'ssd', u'dactualit\xe9', u'multiples', u'flaws', u'flaw', u'threatlist', u'android']
+9 [u'risk', u'ransomware', u'cybersecurity', u'wordpress', u'cars', u'10', u'folt\xfdn', u'iot', u'tom\xe1\u0161', u'spam', u'breach', u'facebook', u'cryptocurrency', u'apps']
+10 [u'vulnerability', u'product', u'cet', u'vulnerabilities', u'intelligence', u'google', u'smart']
+11 [u'advisory', u'cisco', u'full', u'vuln\xe9rabilit\xe9s', u'2018']
+12 [u'windows', u'web']
+13 [u'securiteam']
+14 [u'podcast']
+15 [u'blog']
+16 [u'mobile', u'cybercrime']
+17 [u'scripting']
+19 [u'veille']
+21 [u'cross']
+22 [u'privacy']
+25 [u'new']
+30 [u'malware']
+32 [u'best']
+57 [u'vigil@nce']
+
+
