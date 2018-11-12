@@ -1,0 +1,87 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2009-0614
+2018-11-08T15:21:06.283-05:00	:CVE-2009-0614 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-12577
+2018-11-05T14:31:13.330-05:00	:CVE-2017-12577 (Score:10.0)['cpe:/a:planex:smacam_night_vision:-::~~~android~~']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-15399
+2018-11-07T14:22:54.790-05:00	:CVE-2017-15399 (Score:9.3)['cpe:/o:redhat:enterprise_linux_desktop:6.0', 'cpe:/o:redhat:enterprise_linux_server:6.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11891
+2018-11-09T12:21:22.487-05:00	:CVE-2018-11891 (Score:8.3)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15476
+2018-11-09T10:51:26.173-05:00	:CVE-2018-15476 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15477
+2018-11-09T10:46:46.607-05:00	:CVE-2018-15477 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15877
+2018-11-06T09:50:22.967-05:00	:CVE-2018-15877 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16158
+2018-11-06T16:06:28.847-05:00	:CVE-2018-16158 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16282
+2018-11-05T16:28:54.710-05:00	:CVE-2018-16282 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16367
+2018-11-06T14:39:23.110-05:00	:CVE-2018-16367 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16591
+2018-11-05T14:53:07.583-05:00	:CVE-2018-16591 (Score:10.0)['cpe:/o:furuno:felcom_250_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-17022
+2018-11-07T14:12:47.013-05:00	:CVE-2018-17022 (Score:8.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-17063
+2018-11-09T14:47:58.280-05:00	:CVE-2018-17063 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-17064
+2018-11-09T16:52:30.890-05:00	:CVE-2018-17064 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-17066
+2018-11-09T14:51:53.957-05:00	:CVE-2018-17066 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-17068
+2018-11-09T14:12:23.433-05:00	:CVE-2018-17068 (Score:10.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3864
+2018-11-09T14:49:09.923-05:00	:CVE-2018-3864 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3865
+2018-11-09T14:40:15.273-05:00	:CVE-2018-3865 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3873
+2018-11-09T14:34:33.530-05:00	:CVE-2018-3873 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3874
+2018-11-09T14:26:19.010-05:00	:CVE-2018-3874 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3875
+2018-11-07T13:27:33.870-05:00	:CVE-2018-3875 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3876
+2018-11-09T14:24:45.723-05:00	:CVE-2018-3876 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3877
+2018-11-09T14:02:27.427-05:00	:CVE-2018-3877 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3893
+2018-11-09T14:05:11.707-05:00	:CVE-2018-3893 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3895
+2018-11-09T15:11:28.773-05:00	:CVE-2018-3895 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3896
+2018-11-07T13:28:21.817-05:00	:CVE-2018-3896 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3897
+2018-11-07T13:28:00.063-05:00	:CVE-2018-3897 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3904
+2018-11-09T16:06:47.807-05:00	:CVE-2018-3904 (Score:9.0)[]
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8421
+2018-11-05T10:46:29.190-05:00	:CVE-2018-8421 (Score:10.0)['cpe:/a:microsoft:.net_framework:4.7', 'cpe:/a:microsoft:.net_framework:4.7.1']
