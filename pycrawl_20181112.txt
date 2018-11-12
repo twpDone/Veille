@@ -111,10 +111,12 @@
 	--
 
 [exploit]
+	 http://www.securityweek.com/hackers-exploit-flaw-gdpr-compliance-plugin-wordpress/
 	--
 	--
 
 [services]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTAxNDU2MA==/
 	--
 	--
 
@@ -131,6 +133,10 @@
 	--
 
 [apple]
+	 http://www.zdnet.fr/actualites/macbook-pro-13-touches-par-des-defauts-apple-lance-un-programme-de-reparation-39876295.htm/
+	 http://www.zdnet.fr/actualites/amazon-elargit-son-offre-apple-aux-iphone-et-ipad-39876293.htm/
+	 http://www.zdnet.fr/actualites/iphone-xr-d-apple-le-choix-raisonnable-39875101.htm/
+	 http://www.zdnet.fr/actualites/iphone-x-sans-tactile-apple-a-un-correctif-gratuit-39876297.htm/
 	--
 	--
 
@@ -176,23 +182,23 @@
 
 
  KeyWords : 
-5 [u'voir', u'after', u'top', u'enterprise', u'newsmaker', u'conference', u'old', u'abel', u'ng', u'update', u'internet', u'alfred', u'white', u'black', u'exploit', u'business', u'woocommerce', u'social', u'robert', u'threat', u'most', u'ses', u'phishing', u'firm', u'services', u'users', u'microsoft', u'code', u'attack', u'view', u'podcasts', u'bug']
-6 [u'cnet', u'phones', u'dns', u'interview', u'devices', u'trend', u'avis', u'sites', u'information', u'micro', u'research', u'play', u'bulletin', u'incident', u'tvs', u'30', u'cloud', u'subscribe', u'executive']
-7 [u's\xe9curit\xe9', u'seals', u'attacks', u'team', u'tous', u'response', u'botnet', u'banking', u'threats', u'linux', u'popular', u'link', u'tara', u'ccprojectzeromembers', u'insight', u'our']
-8 [u'hacking', u'ssd', u'dactualit\xe9', u'multiples', u'flaws', u'flaw', u'threatlist', u'android']
-9 [u'risk', u'ransomware', u'cybersecurity', u'wordpress', u'cars', u'10', u'folt\xfdn', u'iot', u'tom\xe1\u0161', u'spam', u'breach', u'facebook', u'cryptocurrency', u'apps']
-10 [u'vulnerability', u'product', u'cet', u'vulnerabilities', u'intelligence', u'google', u'smart']
-11 [u'advisory', u'cisco', u'full', u'vuln\xe9rabilit\xe9s', u'2018']
-12 [u'windows', u'web']
-13 [u'securiteam']
-14 [u'podcast']
+5 [u'voir', u'after', u'top', u'enterprise', u'newsmaker', u'conference', u'old', u'abel', u'ng', u'internet', u'alfred', u'white', u'black', u'business', u'compliance', u'social', u'robert', u'threat', u'most', u'donn\xe9es', u'phishing', u'services', u'users', u'code', u'products', u'attack', u'view', u'coldfusion', u'podcasts', u'center', u'bug', u'lance']
+6 [u'cnet', u'phones', u'dns', u'interview', u'devices', u'trend', u'avis', u'sites', u'information', u'micro', u'research', u'play', u'bulletin', u'incident', u'hackers', u'tvs', u'cloud', u'subscribe', u'executive']
+7 [u's\xe9curit\xe9', u'attacks', u'team', u'tous', u'exploit', u'seals', u'flaws', u'response', u'botnet', u'banking', u'threats', u'popular', u'link', u'tara', u'30', u'ccprojectzeromembers', u'insight', u'our']
+8 [u'hacking', u'10', u'ssd', u'dactualit\xe9', u'threatlist', u'linux', u'android']
+9 [u'risk', u'ransomware', u'cars', u'folt\xfdn', u'multiples', u'iot', u'vulnerabilities', u'tom\xe1\u0161', u'spam', u'breach', u'facebook', u'cryptocurrency', u'apps']
+10 [u'vulnerability', u'cybersecurity', u'wordpress', u'product', u'cet', u'windows', u'intelligence', u'google', u'smart']
+11 [u'advisory', u'cisco', u'full', u'flaw', u'apple', u'web']
+12 [u'2018']
+13 [u'securiteam', u'podcast']
+14 [u'vuln\xe9rabilit\xe9s']
 15 [u'blog']
 16 [u'mobile', u'cybercrime']
 17 [u'scripting']
 19 [u'veille']
 21 [u'cross']
 22 [u'privacy']
-25 [u'new']
+26 [u'new']
 30 [u'malware']
 32 [u'best']
 57 [u'vigil@nce']
