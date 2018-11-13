@@ -1,0 +1,214 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:726)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	 [threats, threat] https://scmagazine.icrowdnewswire.com/news.php?id=MTAxOTYzMw==/
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	 [dns, mobile] http://www.securityweek.com/new-cloudflare-dns-app-brings-increased-privacy-mobile-devices/
+	--
+
+[service]
+	 http://www.zdnet.fr/actualites/cloudflare-lance-des-applications-android-et-ios-pour-son-service-11111-39876351.htm/
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	 [threats, threat] https://scmagazine.icrowdnewswire.com/news.php?id=MTAxOTYzMw==/
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-541/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	 https://www.scmagazine.com/home/security-news/attackers-exploit-gdpr-compliance-plug-in-for-wordpress/
+	--
+	--
+
+[services]
+	 http://www.securityweek.com/google-services-inaccessible-due-bgp-leak/
+	--
+	--
+
+[windows]
+	 http://www.securityweek.com/researcher-bypasses-windows-uac-spoofing-trusted-directory/
+	--
+	--
+
+[phishing]
+	 http://www.securityweek.com/phishing-training-tool-not-solution/
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://www.scmagazine.com/home/security-news/microsoft-word-doc-bug-using-online-video-feature-found-in-wild/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/microsoft-office/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/nordstrom-data-breach-exposes-employee-information/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	 [dns, mobile] http://www.securityweek.com/new-cloudflare-dns-app-brings-increased-privacy-mobile-devices/
+	--
+
+[malware]
+	 https://www.welivesecurity.com/2018/11/12/malware-90s-michelangelo-melissa-viruses/
+	 https://www.welivesecurity.com/2018/11/12/googles-data-avoiding-malware-on-android/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'after', u'millions', u'top', u'newsmaker', u'conference', u'chrome', u'abel', u'global', u'ibm', u'internet', u'lindsey', u'black', u'sites', u'intel', u'compliance', u'social', u'response', u'botnet', u'robert', u'hackers', u'odonnell', u'up', u'users', u'view', u'podcasts', u'bug']
+6 [u's\xe9curit\xe9', u'cnet', u'phones', u'interview', u'office', u'hacking', u'manager', u'trend', u'france', u'avis', u'cisco', u'business', u'file', u'information', u'micro', u'threat', u'incident', u'most', u'services', u'spam', u'tvs', u'bulletin', u'apple', u'cloud', u'subscribe', u'executive']
+7 [u'ransomware', u'report', u'attacks', u'team', u'10', u'ssd', u'tous', u'seals', u'flaw', u'research', u'play', u'banking', u'threats', u'phishing', u'linux', u'popular', u'link', u'tara', u'30', u'ccprojectzeromembers', u'insight', u'our', u'comment']
+8 [u'dns', u'dactualit\xe9', u'folt\xfdn', u'iot', u'vulnerabilities', u'threatlist', u'tom\xe1\u0161', u'breach', u'facebook', u'app', u'cryptocurrency']
+9 [u'risk', u'vulnerability', u'advisory', u'cars', u'apps']
+10 [u'product', u'cet', u'intelligence', u'smart']
+11 [u'securiteam', u'multiples', u'full', u'2018', u'web']
+12 [u'cybersecurity', u'windows']
+13 [u'wordpress', u'podcast']
+14 [u'blog', u'cybercrime', u'android']
+16 [u'google', u'vuln\xe9rabilit\xe9s']
+17 [u'scripting']
+19 [u'veille', u'mobile']
+23 [u'cross']
+24 [u'new']
+27 [u'privacy']
+32 [u'best']
+34 [u'malware']
+60 [u'vigil@nce']
+
+
