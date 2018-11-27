@@ -1,37 +1,22 @@
 [+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :https://www.information-security.fr
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:726)>>
 [+] Crawling :https://securityintelligence.com/category/x-force/
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.welivesecurity.com/
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.securityfocus.com
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.cert-ist.com/public/
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.cert.ssi.gouv.fr
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://pseudonyme.over-blog.net/
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://thehackernews.com/
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :https://www.cnet.com/topics/security/
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :https://nakedsecurity.sophos.com/
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
+[-] Crawling Exception ''>
 [+] Crawling :https://www.scmagazine.com
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :https://threatpost.com/
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 [+] Crawling :http://www.securityweek.com/cybercrime
-[-] Crawling Exception <urlopen error [Errno -2] Name or service not known>>
 
 [cerber]
 	--
@@ -39,6 +24,7 @@
 
 [incident]
 	--
+	 [incident, microsoft] http://www.zdnet.fr/actualites/incident-d-authentification-microsoft-revient-sur-les-causes-39877169.htm/
 	--
 
 [mirai]
@@ -50,6 +36,7 @@
 	--
 
 [attack]
+	 https://www.welivesecurity.com/2018/11/20/oceanlotus-new-watering-hole-attack-southeast-asia/
 	--
 	--
 
@@ -62,6 +49,7 @@
 	--
 
 [hacker]
+	 https://www.scmagazine.com/home/security-news/dolce-and-gabbana-blames-hacker-for-offensive-instagram-posts/
 	--
 	--
 
@@ -71,9 +59,11 @@
 
 [fraud]
 	--
+	 [fraud, cybercrime] https://securityintelligence.com/easy-does-it-a-timely-look-into-fraud-ttps-in-the-brazilian-financial-cybercrime-landscape/
 	--
 
 [threats]
+	 https://threatpost.com/podcast-why-throwing-money-at-threats-wont-work/139310/
 	--
 	--
 
@@ -83,6 +73,7 @@
 
 [injection]
 	--
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Joomla-JCK-Editor-SQL,20181121,82268.html/
 	--
 
 [dns]
@@ -90,6 +81,7 @@
 	--
 
 [service]
+	 http://www.securityweek.com/us-postal-service-api-flaw-exposes-data-60-million-customers/
 	--
 	--
 
@@ -98,10 +90,12 @@
 	--
 
 [threat]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTA1OTMwMQ==/
 	--
 	--
 
 [users]
+	 https://www.scmagazine.com/home/security-news/usps-fixes-informed-delivery-flaw-that-exposed-60m-users/
 	--
 	--
 
@@ -110,14 +104,20 @@
 	--
 
 [hack]
+	 https://www.welivesecurity.com/2018/11/21/two-brits-jailed-talktalk-hack/
 	--
 	--
 
 [linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-568/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-567/
+	 http://www.securityweek.com/dos-vulnerabilities-impact-linux-kernel/
+	 https://www.scmagazine.com/home/security-news/new-cryptominer-seeks-out-root-permissions-on-linux-machines/
 	--
 	--
 
 [cloud]
+	 http://www.securityweek.com/orkus-exits-stealth-mode-cloud-security-platform/
 	--
 	--
 
@@ -130,6 +130,8 @@
 	--
 
 [services]
+	 http://www.zdnet.fr/actualites/ces-outils-et-services-qui-facilitent-le-deploiement-de-nouveaux-postes-de-travail-39877021.htm/
+	 http://www.zdnet.fr/actualites/amazon-web-services-lance-une-plateforme-pour-les-applications-robotiques-39877187.htm/
 	--
 	--
 
@@ -142,6 +144,7 @@
 	--
 
 [facebook]
+	 http://www.securityweek.com/uk-parliament-seizes-confidential-facebook-documents/
 	--
 	--
 
@@ -158,10 +161,14 @@
 	--
 
 [microsoft]
+	 https://www.welivesecurity.com/2018/11/22/microsoft-lets-face-security-key/
 	--
+	 [incident, microsoft] http://www.zdnet.fr/actualites/incident-d-authentification-microsoft-revient-sur-les-causes-39877169.htm/
 	--
 
 [breach]
+	 https://www.scmagazine.com/home/security-news/pageup-client-data-likely-not-removed-following-data-breach/
+	 https://threatpost.com/knuddels-flirt-app-slapped-with-hefty-fine-after-data-breach/139384/
 	--
 	--
 
@@ -171,25 +178,48 @@
 
 [ransomware]
 	--
+	 [ransomware, mobile, malware] https://threatpost.com/mobile-rotexy-malware-touts-ransomware-banking-trojan-functions/139350/
 	--
 
 [cybercrime]
 	--
+	 [fraud, cybercrime] https://securityintelligence.com/easy-does-it-a-timely-look-into-fraud-ttps-in-the-brazilian-financial-cybercrime-landscape/
 	--
 
 [mobile]
 	--
+	 [ransomware, mobile, malware] https://threatpost.com/mobile-rotexy-malware-touts-ransomware-banking-trojan-functions/139350/
 	--
 
 [malware]
+	 https://www.scmagazine.com/home/security-news/trend-micro-researchers-believe-they-have-spotted-a-connection-between-the-xloader-and-fakespy-malware-families-along-with-possible-ties-to-the-yanbian-gang/
 	--
+	 [ransomware, mobile, malware] https://threatpost.com/mobile-rotexy-malware-touts-ransomware-banking-trojan-functions/139350/
 	--
 
 [vigil@nce]
 	--
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Joomla-JCK-Editor-SQL,20181121,82268.html/
 	--
 
 
  KeyWords : 
+5 [u'devenir', u'voir', u'office', u'ransomware', u'stop', u'report', u'newsmaker', u'conference', u'vulnerability', u'ics', u'ne', u'update', u'manager', u'team', u'ibm', u'applications', u'teri', u'internet', u'million', u'tous', u'pas', u'researchers', u'exposed', u'critical', u'business', u'ou', u'file', u'robinson', u'information', u'most', u'hackers', u'products', u'popular', u'uk', u'users', u'emotet', u'breach', u'firms', u'30', u'insight', u'view', u'podcasts', u'lance', u'hacker']
+6 [u'cnet', u'phones', u'dns', u'interview', u'joomla', u'sql', u'avis', u'60', u'multiples', u'threatlist', u'linux', u'google', u'bulletin', u'subscribe', u'executive', u'monday']
+7 [u'advisory', u'trend', u'injection', u'seals', u'micro', u'research', u'services', u'microsoft', u'threats', u'incident', u'phishing', u'tara', u'facebook', u'cloud', u'ccprojectzeromembers', u'our', u'email']
+8 [u's\xe9curit\xe9', u'securiteam', u'risk', u'hacking', u'black', u'dactualit\xe9', u'link', u'apple']
+9 [u'cybersecurity', u'attacks', u'product', u'cars', u'folt\xfdn', u'tom\xe1\u0161', u'vuln\xe9rabilit\xe9s', u'iot']
+10 [u'wordpress', u'blog', u'full', u'cet', u'intelligence', u'web']
+12 [u'vulnerabilities']
+13 [u'smart']
+14 [u'podcast', u'mobile', u'cybercrime', u'2018']
+16 [u'scripting']
+17 [u'veille']
+18 [u'privacy']
+20 [u'new']
+25 [u'cross']
+28 [u'malware']
+30 [u'best']
+63 [u'vigil@nce']
 
 

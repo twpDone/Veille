@@ -1,0 +1,147 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2012-0391
+2018-11-23T09:36:02.613-05:00	:CVE-2012-0391 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2013-1965
+2018-11-23T09:38:26.930-05:00	:CVE-2013-1965 (Score:9.3)['cpe:/a:apache:struts2-showcase:2.0.0', 'cpe:/a:apache:struts2-showcase:2.3.13']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2013-1966
+2018-11-23T09:40:47.607-05:00	:CVE-2013-1966 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2013-2134
+2018-11-23T10:54:12.673-05:00	:CVE-2013-2134 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2013-2135
+2018-11-23T10:49:39.697-05:00	:CVE-2013-2135 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-9268
+2018-11-25T09:10:34.033-05:00	:CVE-2015-9268 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-12573
+2018-11-21T11:22:22.133-05:00	:CVE-2017-12573 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-12574
+2018-11-21T11:23:30.243-05:00	:CVE-2017-12574 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-12576
+2018-11-21T12:04:18.190-05:00	:CVE-2017-12576 (Score:9.0)['cpe:/o:planex:cs-qr20_firmware:1.30']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18314
+2018-11-23T10:53:20.780-05:00	:CVE-2017-18314 (Score:10.0)['cpe:/o:qualcomm:mdm9206_firmware:-', 'cpe:/o:qualcomm:mdm9607_firmware:-', 'cpe:/o:qualcomm:mdm9635m_firmware:-', 'cpe:/o:qualcomm:mdm9640_firmware:-', 'cpe:/o:qualcomm:mdm9645_firmware:-', 'cpe:/o:qualcomm:mdm9650_firmware:-', 'cpe:/o:qualcomm:mdm9655_firmware:-', 'cpe:/o:qualcomm:msm8909w_firmware:-', 'cpe:/o:qualcomm:msm8996au_firmware:-', 'cpe:/o:qualcomm:sd205_firmware:-', 'cpe:/o:qualcomm:sd210_firmware:-', 'cpe:/o:qualcomm:sd212_firmware:-', 'cpe:/o:qualcomm:sd410_firmware:-', 'cpe:/o:qualcomm:sd412_firmware:-', 'cpe:/o:qualcomm:sd415_firmware:-', 'cpe:/o:qualcomm:sd425_firmware:-', 'cpe:/o:qualcomm:sd427_firmware:-', 'cpe:/o:qualcomm:sd430_firmware:-', 'cpe:/o:qualcomm:sd435_firmware:-', 'cpe:/o:qualcomm:sd450_firmware:-', 'cpe:/o:qualcomm:sd615_firmware:-', 'cpe:/o:qualcomm:sd616_firmware:-', 'cpe:/o:qualcomm:sd617_firmware:-', 'cpe:/o:qualcomm:sd625_firmware:-', 'cpe:/o:qualcomm:sd650_firmware:-', 'cpe:/o:qualcomm:sd652_firmware:-', 'cpe:/o:qualcomm:sd810_firmware:-', 'cpe:/o:qualcomm:sd820_firmware:-', 'cpe:/o:qualcomm:sd820a_firmware:-', 'cpe:/o:qualcomm:sd835_firmware:-', 'cpe:/o:qualcomm:sda660_firmware:-', 'cpe:/o:qualcomm:sdm429_firmware:-', 'cpe:/o:qualcomm:sdm439_firmware:-', 'cpe:/o:qualcomm:sdm630_firmware:-', 'cpe:/o:qualcomm:sdm632_firmware:-', 'cpe:/o:qualcomm:sdm636_firmware:-', 'cpe:/o:qualcomm:sdm660_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-2855
+2018-11-21T10:46:07.980-05:00	:CVE-2017-2855 (Score:9.3)['cpe:/o:foscam:c1_firmware:2.52.2.43']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-2856
+2018-11-19T13:20:19.333-05:00	:CVE-2017-2856 (Score:9.3)['cpe:/o:foscam:c1_firmware:2.52.2.43']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-2857
+2018-11-19T13:19:54.130-05:00	:CVE-2017-2857 (Score:9.3)['cpe:/o:foscam:c1_firmware:2.52.2.43']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-2872
+2018-11-21T11:00:16.537-05:00	:CVE-2017-2872 (Score:9.0)['cpe:/o:foscam:c1_firmware:2.52.2.43']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0423
+2018-11-21T15:54:51.403-05:00	:CVE-2018-0423 (Score:9.3)['cpe:/o:cisco:rv110w_firmware', 'cpe:/o:cisco:rv130w_firmware', 'cpe:/o:cisco:rv215w_firmware']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0424
+2018-11-26T12:56:41.707-05:00	:CVE-2018-0424 (Score:9.0)['cpe:/o:cisco:rv110w_firmware:1.2.1.7', 'cpe:/o:cisco:rv130w_firmware:1.0.0.21', 'cpe:/o:cisco:rv130w_firmware:1.0.1.3', 'cpe:/o:cisco:rv130w_firmware:1.0.2.7', 'cpe:/o:cisco:rv215w_firmware:1.3.0.8']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0649
+2018-11-19T11:23:21.060-05:00	:CVE-2018-0649 (Score:9.3)['cpe:/a:eset:compusec:-', 'cpe:/a:eset:deslock%2b_pro:-', 'cpe:/a:eset:internet_security:-', 'cpe:/a:eset:nod32_antivirus:-', 'cpe:/a:eset:smart_security:-', 'cpe:/a:eset:smart_security_premium:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11285
+2018-11-23T11:17:11.113-05:00	:CVE-2018-11285 (Score:9.3)['cpe:/o:qualcomm:mdm9206_firmware:-', 'cpe:/o:qualcomm:mdm9607_firmware:-', 'cpe:/o:qualcomm:mdm9650_firmware:-', 'cpe:/o:qualcomm:msm8909w_firmware:-', 'cpe:/o:qualcomm:msm8996au_firmware:-', 'cpe:/o:qualcomm:sd205_firmware:-', 'cpe:/o:qualcomm:sd210_firmware:-', 'cpe:/o:qualcomm:sd212_firmware:-', 'cpe:/o:qualcomm:sd415_firmware:-', 'cpe:/o:qualcomm:sd425_firmware:-', 'cpe:/o:qualcomm:sd427_firmware:-', 'cpe:/o:qualcomm:sd430_firmware:-', 'cpe:/o:qualcomm:sd435_firmware:-', 'cpe:/o:qualcomm:sd450_firmware:-', 'cpe:/o:qualcomm:sd615_firmware:-', 'cpe:/o:qualcomm:sd616_firmware:-', 'cpe:/o:qualcomm:sd625_firmware:-', 'cpe:/o:qualcomm:sd650_firmware:-', 'cpe:/o:qualcomm:sd810_firmware:-', 'cpe:/o:qualcomm:sd820_firmware:-', 'cpe:/o:qualcomm:sd820a_firmware:-', 'cpe:/o:qualcomm:sd835_firmware:-', 'cpe:/o:qualcomm:sd845_firmware:-', 'cpe:/o:qualcomm:sda660_firmware:-', 'cpe:/o:qualcomm:sdm429_firmware:-', 'cpe:/o:qualcomm:sdm439_firmware:-', 'cpe:/o:qualcomm:sdm630_firmware:-', 'cpe:/o:qualcomm:sdm632_firmware:-', 'cpe:/o:qualcomm:sdm636_firmware:-', 'cpe:/o:qualcomm:sdm660_firmware:-', 'cpe:/o:qualcomm:sdm710_firmware:-', 'cpe:/o:qualcomm:sdx20_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11287
+2018-11-23T11:23:49.353-05:00	:CVE-2018-11287 (Score:10.0)['cpe:/o:qualcomm:mdm9206_firmware:-', 'cpe:/o:qualcomm:mdm9607_firmware:-', 'cpe:/o:qualcomm:mdm9650_firmware:-', 'cpe:/o:qualcomm:msm8909w_firmware:-', 'cpe:/o:qualcomm:msm8996au_firmware:-', 'cpe:/o:qualcomm:sd205_firmware:-', 'cpe:/o:qualcomm:sd210_firmware:-', 'cpe:/o:qualcomm:sd212_firmware:-', 'cpe:/o:qualcomm:sd425_firmware:-', 'cpe:/o:qualcomm:sd427_firmware:-', 'cpe:/o:qualcomm:sd430_firmware:-', 'cpe:/o:qualcomm:sd435_firmware:-', 'cpe:/o:qualcomm:sd450_firmware:-', 'cpe:/o:qualcomm:sd625_firmware:-', 'cpe:/o:qualcomm:sd650_firmware:-', 'cpe:/o:qualcomm:sd652_firmware:-', 'cpe:/o:qualcomm:sd820_firmware:-', 'cpe:/o:qualcomm:sd820a_firmware:-', 'cpe:/o:qualcomm:sd835_firmware:-', 'cpe:/o:qualcomm:sd845_firmware:-', 'cpe:/o:qualcomm:sd850_firmware:-', 'cpe:/o:qualcomm:sda660_firmware:-', 'cpe:/o:qualcomm:sdm429_firmware:-', 'cpe:/o:qualcomm:sdm439_firmware:-', 'cpe:/o:qualcomm:sdm630_firmware:-', 'cpe:/o:qualcomm:sdm632_firmware:-', 'cpe:/o:qualcomm:sdm636_firmware:-', 'cpe:/o:qualcomm:sdm660_firmware:-', 'cpe:/o:qualcomm:sdm710_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11982
+2018-11-23T13:07:37.723-05:00	:CVE-2018-11982 (Score:8.3)['cpe:/o:qualcomm:mdm9206_firmware:-', 'cpe:/o:qualcomm:mdm9607_firmware:-', 'cpe:/o:qualcomm:mdm9635m_firmware:-', 'cpe:/o:qualcomm:mdm9640_firmware:-', 'cpe:/o:qualcomm:mdm9645_firmware:-', 'cpe:/o:qualcomm:mdm9655_firmware:-', 'cpe:/o:qualcomm:msm8909w_firmware:-', 'cpe:/o:qualcomm:msm8996au_firmware:-', 'cpe:/o:qualcomm:sd205_firmware:-', 'cpe:/o:qualcomm:sd210_firmware:-', 'cpe:/o:qualcomm:sd212_firmware:-', 'cpe:/o:qualcomm:sd410_firmware:-', 'cpe:/o:qualcomm:sd412_firmware:-', 'cpe:/o:qualcomm:sd415_firmware:-', 'cpe:/o:qualcomm:sd425_firmware:-', 'cpe:/o:qualcomm:sd427_firmware:-', 'cpe:/o:qualcomm:sd430_firmware:-', 'cpe:/o:qualcomm:sd435_firmware:-', 'cpe:/o:qualcomm:sd450_firmware:-', 'cpe:/o:qualcomm:sd615_firmware:-', 'cpe:/o:qualcomm:sd616_firmware:-', 'cpe:/o:qualcomm:sd617_firmware:-', 'cpe:/o:qualcomm:sd625_firmware:-', 'cpe:/o:qualcomm:sd650_firmware:-', 'cpe:/o:qualcomm:sd652_firmware:-', 'cpe:/o:qualcomm:sd810_firmware:-', 'cpe:/o:qualcomm:sd820_firmware:-', 'cpe:/o:qualcomm:sd835_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-13806
+2018-11-20T10:27:39.923-05:00	:CVE-2018-13806 (Score:9.3)['cpe:/a:siemens:td_keypad_designer']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-14810
+2018-11-23T16:23:30.527-05:00	:CVE-2018-14810 (Score:9.3)['cpe:/a:we-con:pi_studio:4.2.34', 'cpe:/a:we-con:pi_studio_hmi:4.1.9']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15408
+2018-11-21T12:10:13.090-05:00	:CVE-2018-15408 (Score:9.3)['cpe:/a:cisco:webex_business_suite_32:-', 'cpe:/a:cisco:webex_business_suite_32:32.15.10', 'cpe:/a:cisco:webex_business_suite_33:33.0', 'cpe:/a:cisco:webex_business_suite_33:33.1', 'cpe:/a:cisco:webex_business_suite_33:33.2', 'cpe:/a:cisco:webex_meetings_online:-', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release5_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch2', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch3', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch4', 'cpe:/a:cisco:webex_meetings_server:2.5.1.29', 'cpe:/a:cisco:webex_meetings_server:2.6', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch2', 'cpe:/a:cisco:webex_meetings_server:2.7', 'cpe:/a:cisco:webex_meetings_server:2.7:base', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7.1', 'cpe:/a:cisco:webex_meetings_server:2.8', 'cpe:/a:cisco:webex_meetings_server:2.8:base']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15410
+2018-11-21T12:19:25.337-05:00	:CVE-2018-15410 (Score:9.3)['cpe:/a:cisco:webex_business_suite_31:31.1', 'cpe:/a:cisco:webex_business_suite_31:31.2', 'cpe:/a:cisco:webex_business_suite_31:31.3', 'cpe:/a:cisco:webex_business_suite_31:31.4', 'cpe:/a:cisco:webex_business_suite_31:31.5', 'cpe:/a:cisco:webex_business_suite_31:31.5.20', 'cpe:/a:cisco:webex_business_suite_31:31.6', 'cpe:/a:cisco:webex_business_suite_31:31.7', 'cpe:/a:cisco:webex_business_suite_31:31.8', 'cpe:/a:cisco:webex_business_suite_31:31.9', 'cpe:/a:cisco:webex_business_suite_31:31.10', 'cpe:/a:cisco:webex_business_suite_31:31.11', 'cpe:/a:cisco:webex_business_suite_31:31.12', 'cpe:/a:cisco:webex_business_suite_31:31.13', 'cpe:/a:cisco:webex_business_suite_31:31.14', 'cpe:/a:cisco:webex_business_suite_31:31.15', 'cpe:/a:cisco:webex_business_suite_31:31.16', 'cpe:/a:cisco:webex_business_suite_31:31.17', 'cpe:/a:cisco:webex_business_suite_31:31.18', 'cpe:/a:cisco:webex_business_suite_31:31.19', 'cpe:/a:cisco:webex_business_suite_31:31.20', 'cpe:/a:cisco:webex_business_suite_31:31.21', 'cpe:/a:cisco:webex_business_suite_31:31.22', 'cpe:/a:cisco:webex_business_suite_31:31.23', 'cpe:/a:cisco:webex_business_suite_32:-', 'cpe:/a:cisco:webex_business_suite_33:33.0', 'cpe:/a:cisco:webex_business_suite_33:33.1', 'cpe:/a:cisco:webex_business_suite_33:33.2', 'cpe:/a:cisco:webex_business_suite_33:33.3', 'cpe:/a:cisco:webex_meetings_online:-', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release5_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch2', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch3', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch4', 'cpe:/a:cisco:webex_meetings_server:2.5.1.29', 'cpe:/a:cisco:webex_meetings_server:2.6', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch2', 'cpe:/a:cisco:webex_meetings_server:2.7', 'cpe:/a:cisco:webex_meetings_server:2.7:base', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7.1', 'cpe:/a:cisco:webex_meetings_server:2.8', 'cpe:/a:cisco:webex_meetings_server:2.8:base']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15411
+2018-11-21T11:11:49.917-05:00	:CVE-2018-15411 (Score:9.3)['cpe:/a:cisco:webex_business_suite_32:32.15.30', 'cpe:/a:cisco:webex_business_suite_33:33.0', 'cpe:/a:cisco:webex_business_suite_33:33.1', 'cpe:/a:cisco:webex_business_suite_33:33.2', 'cpe:/a:cisco:webex_business_suite_33:33.3', 'cpe:/a:cisco:webex_meetings_online:-', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release5_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch2', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch3', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch4', 'cpe:/a:cisco:webex_meetings_server:2.5.1.29', 'cpe:/a:cisco:webex_meetings_server:2.6', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch2', 'cpe:/a:cisco:webex_meetings_server:2.7', 'cpe:/a:cisco:webex_meetings_server:2.7:base', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7.1', 'cpe:/a:cisco:webex_meetings_server:2.8', 'cpe:/a:cisco:webex_meetings_server:2.8:base']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15412
+2018-11-21T12:20:59.227-05:00	:CVE-2018-15412 (Score:9.3)['cpe:/a:cisco:webex_business_suite_32:-', 'cpe:/a:cisco:webex_business_suite_32:32.15.10', 'cpe:/a:cisco:webex_business_suite_33:33.0', 'cpe:/a:cisco:webex_business_suite_33:33.1', 'cpe:/a:cisco:webex_business_suite_33:33.2', 'cpe:/a:cisco:webex_meetings_online:-', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release5_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch2', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch3', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch4', 'cpe:/a:cisco:webex_meetings_server:2.5.1.29', 'cpe:/a:cisco:webex_meetings_server:2.6', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch2', 'cpe:/a:cisco:webex_meetings_server:2.7', 'cpe:/a:cisco:webex_meetings_server:2.7:base', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7.1', 'cpe:/a:cisco:webex_meetings_server:2.8', 'cpe:/a:cisco:webex_meetings_server:2.8:base']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15413
+2018-11-21T12:22:02.120-05:00	:CVE-2018-15413 (Score:9.3)['cpe:/a:cisco:webex_business_suite_32:-', 'cpe:/a:cisco:webex_business_suite_32:32.15.10', 'cpe:/a:cisco:webex_business_suite_33:33.0', 'cpe:/a:cisco:webex_business_suite_33:33.1', 'cpe:/a:cisco:webex_business_suite_33:33.2', 'cpe:/a:cisco:webex_business_suite_33:33.3', 'cpe:/a:cisco:webex_meetings_online:-', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release5_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch2', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch3', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch4', 'cpe:/a:cisco:webex_meetings_server:2.5.1.29', 'cpe:/a:cisco:webex_meetings_server:2.6', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch2', 'cpe:/a:cisco:webex_meetings_server:2.7', 'cpe:/a:cisco:webex_meetings_server:2.7:base', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7.1', 'cpe:/a:cisco:webex_meetings_server:2.8', 'cpe:/a:cisco:webex_meetings_server:2.8:base']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15414
+2018-11-26T12:40:24.670-05:00	:CVE-2018-15414 (Score:9.3)['cpe:/a:cisco:webex_business_suite_32:-', 'cpe:/a:cisco:webex_business_suite_33:33.0', 'cpe:/a:cisco:webex_business_suite_33:33.1', 'cpe:/a:cisco:webex_business_suite_33:33.2', 'cpe:/a:cisco:webex_meetings_online:-', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release5_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch2', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch3', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch4', 'cpe:/a:cisco:webex_meetings_server:2.5.1.29', 'cpe:/a:cisco:webex_meetings_server:2.6', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch2', 'cpe:/a:cisco:webex_meetings_server:2.7', 'cpe:/a:cisco:webex_meetings_server:2.7:base', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7.1', 'cpe:/a:cisco:webex_meetings_server:2.8', 'cpe:/a:cisco:webex_meetings_server:2.8:base']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15415
+2018-11-26T12:40:08.360-05:00	:CVE-2018-15415 (Score:9.3)['cpe:/a:cisco:webex_business_suite_32:-', 'cpe:/a:cisco:webex_business_suite_33:33.0', 'cpe:/a:cisco:webex_business_suite_33:33.1', 'cpe:/a:cisco:webex_business_suite_33:33.2', 'cpe:/a:cisco:webex_business_suite_33:33.3', 'cpe:/a:cisco:webex_meetings_online:-', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release5_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch2', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch3', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch4', 'cpe:/a:cisco:webex_meetings_server:2.5.1.29', 'cpe:/a:cisco:webex_meetings_server:2.6', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch2', 'cpe:/a:cisco:webex_meetings_server:2.7', 'cpe:/a:cisco:webex_meetings_server:2.7:base', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7.1', 'cpe:/a:cisco:webex_meetings_server:2.8', 'cpe:/a:cisco:webex_meetings_server:2.8:base']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15416
+2018-11-26T12:39:44.280-05:00	:CVE-2018-15416 (Score:9.3)['cpe:/a:cisco:webex_business_suite_32:-', 'cpe:/a:cisco:webex_business_suite_33:33.0', 'cpe:/a:cisco:webex_business_suite_33:33.1', 'cpe:/a:cisco:webex_business_suite_33:33.2', 'cpe:/a:cisco:webex_meetings_online:-', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release5_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch2', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch3', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch4', 'cpe:/a:cisco:webex_meetings_server:2.5.1.29', 'cpe:/a:cisco:webex_meetings_server:2.6', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch2', 'cpe:/a:cisco:webex_meetings_server:2.7', 'cpe:/a:cisco:webex_meetings_server:2.7:base', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7.1', 'cpe:/a:cisco:webex_meetings_server:2.8', 'cpe:/a:cisco:webex_meetings_server:2.8:base']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15417
+2018-11-26T12:39:21.263-05:00	:CVE-2018-15417 (Score:9.3)['cpe:/a:cisco:webex_business_suite_32:-', 'cpe:/a:cisco:webex_business_suite_32:32.15.10', 'cpe:/a:cisco:webex_business_suite_33:33.0', 'cpe:/a:cisco:webex_business_suite_33:33.1', 'cpe:/a:cisco:webex_business_suite_33:33.2', 'cpe:/a:cisco:webex_business_suite_33:33.3', 'cpe:/a:cisco:webex_meetings_online:-', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release5_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch2', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch3', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch4', 'cpe:/a:cisco:webex_meetings_server:2.5.1.29', 'cpe:/a:cisco:webex_meetings_server:2.6', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch2', 'cpe:/a:cisco:webex_meetings_server:2.7', 'cpe:/a:cisco:webex_meetings_server:2.7:base', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7.1', 'cpe:/a:cisco:webex_meetings_server:2.8', 'cpe:/a:cisco:webex_meetings_server:2.8:base']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15421
+2018-11-21T15:40:26.823-05:00	:CVE-2018-15421 (Score:9.3)['cpe:/a:cisco:webex_business_suite_32:-', 'cpe:/a:cisco:webex_business_suite_33:33.0', 'cpe:/a:cisco:webex_business_suite_33:33.1', 'cpe:/a:cisco:webex_business_suite_33:33.2', 'cpe:/a:cisco:webex_meetings_online:-', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release5_patch1', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch2', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch3', 'cpe:/a:cisco:webex_meetings_server:2.5:maintenance_release6_patch4', 'cpe:/a:cisco:webex_meetings_server:2.5.1.29', 'cpe:/a:cisco:webex_meetings_server:2.6', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch1', 'cpe:/a:cisco:webex_meetings_server:2.6:maintenance_release3_patch2', 'cpe:/a:cisco:webex_meetings_server:2.7', 'cpe:/a:cisco:webex_meetings_server:2.7:base', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release1_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7:maintenance_release2_patch1', 'cpe:/a:cisco:webex_meetings_server:2.7.1', 'cpe:/a:cisco:webex_meetings_server:2.8', 'cpe:/a:cisco:webex_meetings_server:2.8:base']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16796
+2018-11-25T10:13:06.197-05:00	:CVE-2018-16796 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-3679
+2018-11-21T14:13:56.303-05:00	:CVE-2018-3679 (Score:8.3)['cpe:/a:intel:data_center_manager:5.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-7922
+2018-11-20T13:09:04.027-05:00	:CVE-2018-7922 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-7923
+2018-11-20T13:08:05.087-05:00	:CVE-2018-7923 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8265
+2018-11-26T10:17:25.100-05:00	:CVE-2018-8265 (Score:9.3)['cpe:/a:microsoft:exchange_server:2013:cumulative_update_21', 'cpe:/a:microsoft:exchange_server:2016:cumulative_update_10']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8392
+2018-11-20T15:57:53.367-05:00	:CVE-2018-8392 (Score:9.3)['cpe:/o:microsoft:windows_10:-', 'cpe:/o:microsoft:windows_10:1607', 'cpe:/o:microsoft:windows_10:1703', 'cpe:/o:microsoft:windows_10:1709', 'cpe:/o:microsoft:windows_10:1803', 'cpe:/o:microsoft:windows_7:-:sp1', 'cpe:/o:microsoft:windows_8.1:-', 'cpe:/o:microsoft:windows_8.1:-::~~rt~~~', 'cpe:/o:microsoft:windows_server_2008:r2:sp1', 'cpe:/o:microsoft:windows_server_2008:sp2', 'cpe:/o:microsoft:windows_server_2012:-', 'cpe:/o:microsoft:windows_server_2012:r2', 'cpe:/o:microsoft:windows_server_2016:-', 'cpe:/o:microsoft:windows_server_2016:1709', 'cpe:/o:microsoft:windows_server_2016:1803']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8393
+2018-11-20T16:01:08.870-05:00	:CVE-2018-8393 (Score:9.3)['cpe:/o:microsoft:windows_10:-', 'cpe:/o:microsoft:windows_10:1607', 'cpe:/o:microsoft:windows_10:1703', 'cpe:/o:microsoft:windows_10:1709', 'cpe:/o:microsoft:windows_10:1803', 'cpe:/o:microsoft:windows_7:-:sp1', 'cpe:/o:microsoft:windows_8.1:-', 'cpe:/o:microsoft:windows_8.1:-::~~rt~~~', 'cpe:/o:microsoft:windows_server_2008:r2:sp1', 'cpe:/o:microsoft:windows_server_2008:sp2', 'cpe:/o:microsoft:windows_server_2012:-', 'cpe:/o:microsoft:windows_server_2012:r2', 'cpe:/o:microsoft:windows_server_2016:-', 'cpe:/o:microsoft:windows_server_2016:1709', 'cpe:/o:microsoft:windows_server_2016:1803']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8420
+2018-11-19T09:20:30.183-05:00	:CVE-2018-8420 (Score:9.3)['cpe:/o:microsoft:windows_10:-', 'cpe:/o:microsoft:windows_10:1607', 'cpe:/o:microsoft:windows_10:1703', 'cpe:/o:microsoft:windows_10:1709', 'cpe:/o:microsoft:windows_10:1803', 'cpe:/o:microsoft:windows_7:-:sp1', 'cpe:/o:microsoft:windows_8.1:-', 'cpe:/o:microsoft:windows_8.1:-::~~rt~~~', 'cpe:/o:microsoft:windows_server:2008:r2:~sp1~~~itanium~', 'cpe:/o:microsoft:windows_server:2008:r2:~sp1~~~x64~', 'cpe:/o:microsoft:windows_server:2008:sp2', 'cpe:/o:microsoft:windows_server:2012', 'cpe:/o:microsoft:windows_server:2012:r2', 'cpe:/o:microsoft:windows_server:2016', 'cpe:/o:microsoft:windows_server:2016:1709', 'cpe:/o:microsoft:windows_server:2016:1803']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8464
+2018-11-20T13:49:05.087-05:00	:CVE-2018-8464 (Score:9.3)['cpe:/a:microsoft:edge:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8500
+2018-11-26T16:11:27.177-05:00	:CVE-2018-8500 (Score:10.0)['cpe:/a:microsoft:chakracore:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8501
+2018-11-26T16:22:15.857-05:00	:CVE-2018-8501 (Score:9.3)['cpe:/a:microsoft:office:2010:sp2', 'cpe:/a:microsoft:office:2013:sp1', 'cpe:/a:microsoft:office:2013:sp1:~~rt~~~', 'cpe:/a:microsoft:office:2016', 'cpe:/a:microsoft:office:2019', 'cpe:/a:microsoft:office_365_proplus:-', 'cpe:/a:microsoft:powerpoint:2010:sp2', 'cpe:/a:microsoft:powerpoint:2013:sp1', 'cpe:/a:microsoft:powerpoint:2013:sp1:~~rt~~~', 'cpe:/a:microsoft:powerpoint:2016', 'cpe:/a:microsoft:powerpoint_viewer:2012::~~~~x86~']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8502
+2018-11-26T16:19:56.497-05:00	:CVE-2018-8502 (Score:9.3)['cpe:/a:microsoft:excel:2010:sp2', 'cpe:/a:microsoft:excel:2013:sp1', 'cpe:/a:microsoft:excel:2013:sp1:~~rt~~~', 'cpe:/a:microsoft:excel:2016', 'cpe:/a:microsoft:office:2010:sp2', 'cpe:/a:microsoft:office:2013:sp1', 'cpe:/a:microsoft:office:2013:sp1:~~rt~~~', 'cpe:/a:microsoft:office:2016', 'cpe:/a:microsoft:office:2019', 'cpe:/a:microsoft:office_365_proplus:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-8504
+2018-11-26T16:14:55.557-05:00	:CVE-2018-8504 (Score:9.3)['cpe:/a:microsoft:office:2010:sp2', 'cpe:/a:microsoft:office:2013:sp1', 'cpe:/a:microsoft:office:2013:sp1:~~rt~~~', 'cpe:/a:microsoft:office:2016', 'cpe:/a:microsoft:office:2019', 'cpe:/a:microsoft:office_365_proplus:-', 'cpe:/a:microsoft:office_web_apps:2010:sp2', 'cpe:/a:microsoft:sharepoint_server:2010:sp2', 'cpe:/a:microsoft:word:2010:sp2', 'cpe:/a:microsoft:word:2013:sp1', 'cpe:/a:microsoft:word:2013:sp1:~~rt~~~', 'cpe:/a:microsoft:word:2016']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9496
+2018-11-20T14:27:09.930-05:00	:CVE-2018-9496 (Score:9.3)['cpe:/o:google:android:9.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9497
+2018-11-20T14:25:58.757-05:00	:CVE-2018-9497 (Score:9.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9498
+2018-11-20T14:24:12.720-05:00	:CVE-2018-9498 (Score:9.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9504
+2018-11-20T11:04:40.300-05:00	:CVE-2018-9504 (Score:8.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
