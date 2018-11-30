@@ -1,0 +1,228 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:726)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	 [access, facebook] http://www.securityweek.com/facebook-mulled-charging-access-user-data/
+	--
+
+[attack]
+	 https://www.scmagazine.com/home/security-news/time-to-make-the-data-breach-dunkin-donuts-perks-members-hit/
+	--
+	 [attack, breach] https://threatpost.com/hackers-breach-dunkin-donuts-accounts-in-credential-stuffing-attack/139472/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	 https://www.scmagazine.com/home/opinions/building-a-data-security-strategy-why-the-industry-needs-to-work-together/
+	--
+	 [industry, breach] https://www.scmagazine.com/home/security-news/dells-belated-data-breach-notification-angers-cybersecurity-industry-exec/
+	--
+
+[fraud]
+	 https://threatpost.com/fbi-sinkholes-38m-global-ad-fraud-operation/139444/
+	 https://www.welivesecurity.com/2018/11/27/3ve-online-ad-fraud-disrupted/
+	 https://www.scmagazine.com/home/security-news/fbi-swats-down-massive-botnet-fueled-ad-fraud-operation/
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 http://www.securityweek.com/cisco-patches-sql-injection-flaw-prime-license-manager/
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 https://www.trendmicro.com/vinfo/us/security/definition/distributed-denial-of-service-temp/
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 http://www.globalsecuritymag.com/Sophos-2019-Threat-Report,20181129,82465.html/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-572/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-573/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-579/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/sheryl-sandberg-facebook-l-erreur-de-trop-39877385.htm/
+	--
+	 [access, facebook] http://www.securityweek.com/facebook-mulled-charging-access-user-data/
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 https://www.scmagazine.com/home/security-news/midterm-election-hacking-incidents-lacking-typosquatting-tops-the-list/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://threatpost.com/microsoft-warns-of-two-apps-that-expose-private-keys/139457/
+	 http://www.zdnet.fr/actualites/microsoft-moderniser-les-icones-des-applications-office-39877381.htm/
+	--
+	--
+
+[breach]
+	 https://www.welivesecurity.com/2018/11/27/german-chat-site-faces-fine-gdpr/
+	 https://threatpost.com/dell-warns-of-attempted-breach-on-network/139464/
+	 http://www.securityweek.com/dell-resets-user-passwords-following-data-breach/
+	 https://www.scmagazine.com/home/security-news/database-breach-affects-2-6-million-atrium-health-patients/
+	--
+	 [attack, breach] https://threatpost.com/hackers-breach-dunkin-donuts-accounts-in-credential-stuffing-attack/139472/
+	 [industry, breach] https://www.scmagazine.com/home/security-news/dells-belated-data-breach-notification-angers-cybersecurity-industry-exec/
+	--
+
+[attacks]
+	 http://www.securityweek.com/zoom-conferencing-app-exposes-enterprises-attacks/
+	--
+	 [attacks, ransomware] https://www.welivesecurity.com/2018/11/29/us-indicts-samsam-ransomware-attacks/
+	--
+
+[ransomware]
+	 http://www.securityweek.com/colorado-agency-targeted-nationwide-ransomware-scheme/
+	 http://www.zdnet.fr/actualites/samsam-deux-citoyens-iraniens-accuses-d-etre-a-l-origine-du-ransomware-39877355.htm/
+	--
+	 [attacks, ransomware] https://www.welivesecurity.com/2018/11/29/us-indicts-samsam-ransomware-attacks/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://threatpost.com/threatlist-cryptominers-dominate-malware-growth-in-2018/139448/
+	 http://www.securityweek.com/brazilian-financial-malware-spreads-beyond-national-boundaries/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+32 [u'best']
+5 [u'dell', u'phones', u'office', u'report', u'newsmaker', u'x-force', u'ics', u'update', u'team', u'targets', u'ibm', u'60', u'business', u'gifts', u'network', u'information', u'scheme', u'most', u'incident', u'up', u'code', u'30', u'apple', u'app', u'cloud', u'attack', u'view', u'module', u'podcasts']
+6 [u'cnet', u'vulnerability', u'interview', u'after', u'hacking', u'conference', u'joomla', u'ne', u'avis', u'lindsey', u'critical', u'doug', u'seals', u'threats', u'phishing', u'hackers', u'odonnell', u'link', u'tara', u'bulletin', u'ccprojectzeromembers', u'email', u'subscribe', u'olenick', u'android']
+7 [u'dns', u'risk', u'over', u'advisory', u'sql', u'manager', u'trend', u'internet', u'million', u'black', u'cisco', u'two', u'micro', u'operation', u'research', u'vulnerabilities', u'threatlist', u'user', u'popular', u'our', u'apps']
+8 [u'securiteam', u'injection', u'dactualit\xe9', u'microsoft', u'facebook', u'web']
+9 [u's\xe9curit\xe9', u'product', u'cars', u'folt\xfdn', u'multiples', u'ad', u'iot', u'intelligence', u'tom\xe1\u0161']
+10 [u'cybersecurity', u'wordpress', u'blog', u'full', u'cet']
+11 [u'ransomware', u'fraud', u'breach']
+12 [u'vuln\xe9rabilit\xe9s', u'smart']
+13 [u'attacks', u'podcast', u'mobile', u'google', u'cybercrime']
+14 [u'new']
+16 [u'scripting']
+17 [u'veille', u'2018', u'privacy']
+24 [u'cross']
+29 [u'malware']
+62 [u'vigil@nce']
+
+
