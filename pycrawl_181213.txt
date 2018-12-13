@@ -1,0 +1,285 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:726)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/routers/
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	 https://threatpost.com/data-privacy-issues-trigger-soul-searching-in-tech-industry/139797/
+	--
+	--
+
+[fraud]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/author/josephcchen/
+	--
+	--
+
+[threats]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTEwNjkxNg==/
+	--
+	--
+
+[scams]
+	--
+	 [scams, users] https://www.scmagazine.com/home/security-news/android-trojan-scams-paypal-users-into-giving-up-2fa-credentials/
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	 https://securityintelligence.com/5-tips-for-uncovering-hidden-cyberthreats-with-dns-analytics/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/dns/
+	--
+	 [dns, windows] https://blog.trendmicro.com/trendlabs-security-intelligence/december-patch-tuesday-year-end-batch-addresses-win32k-elevation-of-privilege-and-windows-dns-server-vulnerabilities/
+	--
+
+[service]
+	--
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Juniper-MX-Series-denial,20181211,82691.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-F5-BIG-IP-denial-of,20181211,82713.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Juniper-EX4600-denial-of,20181211,82685.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-OS-denial-of,20181211,82707.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Juniper-MX-Series-denial,20181211,82688.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-OS-denial-of,20181211,82687.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-OS-denial-of,20181211,82694.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-OS-denial-of,20181211,82705.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-QEMU-denial-of-service,20181211,82670.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-OS-denial-of,20181211,82706.html/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://threatpost.com/podcast-breaking-down-the-magecart-threat-part-one/139292/
+	 https://threatpost.com/podcast-breaking-down-the-magecart-threat-part-two/139534/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/author/jaromirh/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/author/federicom/
+	--
+	--
+
+[users]
+	 https://www.welivesecurity.com/2018/12/11/google-plus-shut-earlier-new-bug-exposed-data/
+	 https://threatpost.com/android-trojan-targets-paypal-users/139872/
+	--
+	 [scams, users] https://www.scmagazine.com/home/security-news/android-trojan-scams-paypal-users-into-giving-up-2fa-credentials/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	 [hack, intelligence] http://www.securityweek.com/us-believes-chinese-intelligence-behind-marriott-hack/
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 https://threatpost.com/kubernetes-flaw-is-a-huge-deal-lays-open-cloud-deployments/139636/
+	--
+	--
+
+[scripting]
+	--
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-Space-Security,20181211,82677.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Juniper-ScreenOS-Cross,20181211,82695.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Drupal-NVP-Field-Cross,20181211,82668.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-Space-Cross-Site,20181211,82675.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Drupal-Lightbox2-Cross,20181211,82667.html/
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	 [services, microsoft] http://www.zdnet.fr/actualites/les-particuliers-aussi-auront-microsoft-365-un-forfait-de-services-39877995.htm/
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/windows-4-mois-et-4-failles-zero-day-corrigees-par-microsoft-39877937.htm/
+	 [windows, microsoft] http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-596/
+	 [windows, microsoft] http://www.zdnet.fr/actualites/apres-les-mauvais-correctifs-de-windows-10-microsoft-promet-plus-de-qualite-39877973.htm/
+	 [dns, windows] https://blog.trendmicro.com/trendlabs-security-intelligence/december-patch-tuesday-year-end-batch-addresses-win32k-elevation-of-privilege-and-windows-dns-server-vulnerabilities/
+	--
+
+[phishing]
+	 https://www.scmagazine.com/home/security-news/cybercriminal-phishing-campaign-spoofs-russian-critical-infrastructure-domains/
+	 https://securityintelligence.com/media/x-force-red-in-action-spotlight-on-phishing-awareness-with-chris-sethi/?src=widget/
+	--
+	--
+
+[facebook]
+	 https://threatpost.com/facebook-fined-privacy/139824/
+	 https://threatpost.com/facebook-defends-data-policies-on-heels-of-incriminating-internal-docs/139659/
+	 http://www.zdnet.fr/actualites/oculus-vr-facebook-et-zenimax-enterrent-la-hache-de-guerre-39877993.htm/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-pourrait-relocaliser-sa-production-d-iphone-en-cas-de-hausse-des-taxes-americaines-39877999.htm/
+	--
+	--
+
+[hacking]
+	 https://www.scmagazine.com/home/security-news/the-year-end-report-from-bugcrowd-found-the-top-three-reasons-for-bug-hunting-were-for-the-challenge-professional-development-and-education/
+	--
+	--
+
+[intelligence]
+	--
+	 [hack, intelligence] http://www.securityweek.com/us-believes-chinese-intelligence-behind-marriott-hack/
+	--
+
+[microsoft]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-593/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-595/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-597/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-598/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-594/
+	 https://www.scmagazine.com/home/security-news/microsoft-addressed-nearly-40-vulnerabilities-including-and-actively-exploited-zero-day-in-its-december-2018-patch-tuesday-release/
+	 https://threatpost.com/microsoft-calls-for-facial-recognition-tech-regulation/139672/
+	 https://threatpost.com/zero-day-microsoft-december-patch-tuesday/139826/
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/windows-4-mois-et-4-failles-zero-day-corrigees-par-microsoft-39877937.htm/
+	 [services, microsoft] http://www.zdnet.fr/actualites/les-particuliers-aussi-auront-microsoft-365-un-forfait-de-services-39877995.htm/
+	 [windows, microsoft] http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-596/
+	 [windows, microsoft] http://www.zdnet.fr/actualites/apres-les-mauvais-correctifs-de-windows-10-microsoft-promet-plus-de-qualite-39877973.htm/
+	--
+
+[breach]
+	 http://www.securityweek.com/us-house-report-blasts-equifax-over-poor-security-leading-massive-2017-breach/
+	 https://www.welivesecurity.com/2018/11/30/marriott-starwood-data-breach-response/
+	 https://www.scmagazine.com/home/security-news/the-house-oversight-and-government-reform-committee-released-a-scathing-report-monday-saying-the-equifax-data-breach-one-of-the-largest-in-u-s-history-was-entirely-preventable/
+	 https://threatpost.com/chris-vickery-on-the-marriott-breach-and-a-rash-of-recent-high-profile-hacks/139574/
+	--
+	--
+
+[attacks]
+	--
+	 [attacks, ransomware] https://www.scmagazine.com/home/opinions/how-to-deploy-cyber-hygiene-to-prevent-ransomware-attacks/
+	--
+
+[ransomware]
+	--
+	 [attacks, ransomware] https://www.scmagazine.com/home/opinions/how-to-deploy-cyber-hygiene-to-prevent-ransomware-attacks/
+	--
+
+[cybercrime]
+	--
+	 [cybercrime, malware] https://securityintelligence.com/the-simpler-the-better-looking-deeper-into-the-malware-used-in-brazilian-financial-cybercrime/
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 http://www.securityweek.com/new-variant-shamoon-malware-uploaded-virustotal/
+	--
+	 [cybercrime, malware] https://securityintelligence.com/the-simpler-the-better-looking-deeper-into-the-malware-used-in-brazilian-financial-cybercrime/
+	--
+
+[vigil@nce]
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Jenkins-Core-LTS,20181211,82669.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Drupal-Search-API-Solr,20181211,82666.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Wireshark-four,20181212,82764.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-OS-privilege,20181211,82692.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-tmux-NULL-pointer,20181211,82678.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Juniper-vSRX-privilege,20181211,82681.html/
+	 http://www.globalsecuritymag.com/Vigil-nce-Wireshark-four,20181212,82764.html/
+	--
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Juniper-MX-Series-denial,20181211,82691.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-Space-Security,20181211,82677.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-F5-BIG-IP-denial-of,20181211,82713.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Juniper-EX4600-denial-of,20181211,82685.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Juniper-ScreenOS-Cross,20181211,82695.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-OS-denial-of,20181211,82707.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Juniper-MX-Series-denial,20181211,82688.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-OS-denial-of,20181211,82687.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Drupal-NVP-Field-Cross,20181211,82668.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-OS-denial-of,20181211,82694.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-OS-denial-of,20181211,82705.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-Space-Cross-Site,20181211,82675.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Drupal-Lightbox2-Cross,20181211,82667.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-QEMU-denial-of-service,20181211,82670.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Junos-OS-denial-of,20181211,82706.html/
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'phones', u'interview', u'conference', u'global', u'team', u'organizations', u'mais', u'after', u'million', u'infrastructure', u'tous', u'laptops', u'money', u'fraud', u'gifts', u'seals', u'escalation', u'search', u'social', u'research', u'popular', u'tara', u'issues', u'2017', u'podcasts']
+6 [u's\xe9curit\xe9', u'cnet', u'over', u'adobe', u'patch', u'zero-day', u'avis', u'black', u'folt\xfdn', u'blog', u'google+', u'os', u'found', u'most', u'services', u'threatlist', u'linux', u'trojan', u'tom\xe1\u0161', u'bulletin', u'breach', u'cloud', u'view', u'email', u'subscribe', u'web']
+7 [u'vulnerability', u'hacking', u'ransomware', u'privilege', u'juniper', u'update', u'internet', u'lindsey', u'sites', u'chinese', u'threat', u'odonnell', u'link', u'users', u'facebook', u'30', u'ccprojectzeromembers', u'marriott', u'our', u'android']
+8 [u'dactualit\xe9', u'critical', u'micro', u'junos', u'threats', u'google', u'iot']
+9 [u'risk', u'cybersecurity', u'product', u'cars', u'phishing', u'windows', u'bug']
+10 [u'dns', u'attacks', u'multiples', u'full', u'cet']
+11 [u'scripting', u'mobile', u'intelligence']
+12 [u'podcast', u'denial', u'smart']
+13 [u'service', u'vuln\xe9rabilit\xe9s', u'cross']
+14 [u'2018']
+15 [u'cybercrime']
+17 [u'veille', u'microsoft']
+19 [u'vulnerabilities']
+20 [u'privacy']
+72 [u'vigil@nce']
+25 [u'new', u'malware']
+31 [u'best']
+
+
