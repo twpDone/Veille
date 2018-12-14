@@ -1,0 +1,212 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:726)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://threatpost.com/shamoon-new-wiper-attack/139881/
+	 https://www.scmagazine.com/home/security-news/shamoon-disk-wiper-attack-on-saipem-signals-new-affront-against-energy-sector-middle-east-interests/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTExMDU5Mg==/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://threatpost.com/bomb-threat-bitcoin-demands/139915/
+	 https://www.scmagazine.com/home/opinions/bots-are-an-existential-threat-to-our-economy/
+	 https://www.scmagazine.com/home/security-news/fbi-counterintelligence-division-head-e-w-bill-priestap-wednesday-said-chinese-cyberespionage-poses-the-most-severe-threat-to-american-security/
+	 https://www.scmagazine.com/home/security-news/email-bomb-threat-scam-hits-u-s/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	 [linux, microsoft] http://www.zdnet.fr/actualites/ms-linux-lindows-microsoft-pourrait-il-sortir-un-bureau-linux-39878069.htm/
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	 https://www.scmagazine.com/home/security-news/threat-actors-are-playing-by-the-rules-or-at-least-tricking-your-browser-into-thinking-they-are-in-order-to-deliver-more-effective-attacks/
+	--
+	 [phishing, attacks] http://www.securityweek.com/russia-linked-phishing-attacks-hit-government-agencies-four-continents/
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-va-investir-un-milliard-de-dollars-dans-un-nouveau-campus-au-texas-39878057.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	 [linux, microsoft] http://www.zdnet.fr/actualites/ms-linux-lindows-microsoft-pourrait-il-sortir-un-bureau-linux-39878069.htm/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	 [phishing, attacks] http://www.securityweek.com/russia-linked-phishing-attacks-hit-government-agencies-four-continents/
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://threatpost.com/google-android-key-security/139906/
+	--
+	--
+
+[malware]
+	 https://threatpost.com/cobalt-threadkit-malware/139800/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'phones', u'interview', u'top', u'tony', u'zero-day', u'team', u'trend', u'exclusive', u'black', u'tous', u'laptops', u'fraud', u'gifts', u'week', u'escalation', u'search', u'information', u'curtis', u'found', u'shamoon', u'targeted', u'hackers', u'trojan', u'dark', u'popular', u'up', u'users', u'holiday', u'podcasts', u'anscombe', u'conference', u'apps', u'shane']
+6 [u's\xe9curit\xe9', u'cnet', u'vulnerability', u'adobe', u'hacking', u'global', u'targets', u'avis', u'after', u'million', u'blog', u'os', u'research', u'threatlist', u'government', u'apple', u'bulletin', u'30', u'cloud', u'view', u'subscribe', u'web']
+7 [u'ransomware', u'privilege', u'juniper', u'cybersecurity', u'update', u'lindsey', u'sites', u'infrastructure', u'seals', u'micro', u'most', u'threats', u'odonnell', u'link', u'tara', u'ccprojectzeromembers', u'iot', u'bug']
+8 [u'attacks', u'internet', u'dactualit\xe9', u'junos', u'linux', u'our', u'email', u'android']
+9 [u'risk', u'dns', u'cars', u'multiples', u'critical', u'windows']
+10 [u'scripting', u'product', u'full', u'cet', u'intelligence', u'phishing']
+11 [u'threat', u'google', u'cross']
+12 [u'podcast', u'microsoft', u'vuln\xe9rabilit\xe9s', u'denial', u'smart']
+13 [u'service', u'mobile']
+15 [u'cybercrime']
+16 [u'2018']
+17 [u'veille']
+18 [u'privacy']
+19 [u'vulnerabilities']
+25 [u'new', u'malware']
+69 [u'vigil@nce']
+31 [u'best']
+
+
