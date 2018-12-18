@@ -1,0 +1,229 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:726)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 http://www.securityweek.com/twitter-warns-possible-state-sponsored-attack/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 https://www.scmagazine.com/home/security-news/hacker-forces-thousands-of-printers-to-churn-out-pewdiepie-support-message/
+	--
+	--
+
+[industry]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTEyODU1Nw==/
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-QEMU-denial-of-service,20181217,82914.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Cisco-Aironet-denial-of,20181218,82937.html/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 http://www.securityweek.com/czech-warning-over-huawei-zte-security-threat/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTEyNDc5Ng==/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://www.scmagazine.com/home/security-news/facebook-photo-api-bug-exposes-photos-of-6-8m-underscores-api-development-issues/
+	 http://www.zdnet.fr/actualites/suppression-de-l-historique-facebook-des-mois-de-retard-mais-promis-ce-sera-super-39878217.htm/
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/shamoon-3-attacks-targeted-several-sectors/
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTEyODU2OQ==/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	 http://www.globalsecuritymag.com/Vigil-nce-Audio-File-NULL-pointer,20181218,82965.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-libbfd-out-of-bounds,20181217,82886.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-libbfd-integer-overflow,20181217,82893.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-NSIS-file-corruption,20181218,82930.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-libbfd-out-of-bounds,20181217,82892.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Cisco-Prime,20181218,82938.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-GraphicsMagick-use-after,20181217,82900.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-libbfd-out-of-bounds,20181217,82888.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Audio-File-NULL-pointer,20181218,82965.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-libbfd-integer-overflow,20181217,82887.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Synology-DSM-information,20181217,82907.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-libbfd-out-of-bounds,20181217,82891.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-GraphicsMagick-out-of,20181217,82898.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-GraphicsMagick-use-after,20181217,82902.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Paramiko-privilege,20181217,82923.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-GraphicsMagick-out-of,20181217,82896.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-QEMU-integer-overflow,20181217,82895.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Apache-PDFBox-infinite,20181217,82904.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-VMware-ESXi-Workstation,20181217,82908.html/
+	--
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-QEMU-denial-of-service,20181217,82914.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Cisco-Aironet-denial-of,20181218,82937.html/
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'vulnerability', u'interview', u'doug', u'hacking', u'ransomware', u'dark', u'global', u'says', u'ibm', u'mais', u'internet', u'million', u'tous', u'folt\xfdn', u'critical', u'file', u'gifts', u'escalation', u'information', u'found', u'store', u'shamoon', u'hackers', u'tom\xe1\u0161', u'breach', u'30', u'holiday', u'attack', u'podcasts', u'cross', u'olenick', u'android', u'conference', u'software']
+6 [u's\xe9curit\xe9', u'cnet', u'phones', u'memory', u'reading', u'photos', u'blog', u'search', u'research', u'drupal', u'threatlist', u'targeted', u'nx-os', u'bulletin', u'defense', u'view', u'subscribe', u'audio']
+7 [u'privilege', u'trend', u'seals', u'threats', u'popular', u'link', u'tara', u'out-of-bounds', u'cloud', u'ccprojectzeromembers', u'libbfd', u'email', u'web']
+8 [u'risk', u'update', u'avis', u'dactualit\xe9', u'social', u'most', u'phishing', u'our']
+9 [u'dns', u'product', u'cars', u'multiples', u'flaw', u'intelligence', u'google', u'apps']
+10 [u'denial', u'after', u'full', u'cet', u'micro', u'windows', u'2019', u'iot']
+11 [u'service', u'mobile', u'microsoft', u'twitter', u'bug']
+12 [u'attacks', u'podcast', u'facebook']
+13 [u'cybersecurity', u'threat', u'vulnerabilities', u'vuln\xe9rabilit\xe9s', u'cybercrime', u'smart']
+15 [u'lan', u'controller']
+80 [u'vigil@nce']
+17 [u'wireless', u'veille']
+18 [u'2018']
+20 [u'new', u'privacy']
+24 [u'cisco']
+25 [u'malware']
+31 [u'best']
+
+
