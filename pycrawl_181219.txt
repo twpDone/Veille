@@ -1,0 +1,210 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:726)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 http://www.securityweek.com/ot-incident-response-it-mission-impossible/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	 [industry, breach] https://www.welivesecurity.com/2018/12/18/target-targeted-five-years-breach-shook-cybersecurity/
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	 [injection, malware] https://threatpost.com/wordpress-seo-injection-malware/140055/
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [service, cloud] https://scmagazine.icrowdnewswire.com/news.php?id=MTEyODkxMw==/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-603/
+	--
+	--
+
+[cloud]
+	--
+	 [service, cloud] https://scmagazine.icrowdnewswire.com/news.php?id=MTEyODkxMw==/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	 http://www.securityweek.com/nasa-notifies-employees-data-breach/
+	--
+	 [industry, breach] https://www.welivesecurity.com/2018/12/18/target-targeted-five-years-breach-shook-cybersecurity/
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTEyODk1Nw==/
+	--
+	--
+
+[malware]
+	 http://www.securityweek.com/backdoor-targeting-malaysian-government-mash-malware/
+	 https://threatpost.com/russia-linked-sofacy-debuts-fresh-zebrocy-malware-variant/140064/
+	 https://threatpost.com/hidden-code-in-memes-instruct-malware-via-twitter/140047/
+	--
+	 [injection, malware] https://threatpost.com/wordpress-seo-injection-malware/140055/
+	--
+
+[vigil@nce]
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-F5-BIG-IP-APM-privilege,20181218,82971.html/
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'phones', u'vulnerability', u'lan', u'hacking', u'newsmaker', u'ne', u'says', u'france', u'ibm', u'bradley', u'conference', u'tous', u'critical', u'search', u'flaw', u'threatlist', u'incident', u'dark', u'nasa', u'30', u'app', u'controller', u'podcasts', u'android', u'audio', u'page', u'barth']
+6 [u's\xe9curit\xe9', u'cnet', u'interview', u'top', u'global', u'avis', u'internet', u'10', u'blog', u'research', u'government', u'bulletin', u'huawei', u'products', u'view', u'subscribe']
+7 [u'wireless', u'update', u'trend', u'million', u'social', u'information', u'targeted', u'popular', u'google', u'link', u'breach', u'cloud', u'ccprojectzeromembers', u'2019', u'email', u'iot']
+8 [u'risk', u'scripting', u'service', u'attacks', u'denial', u'dactualit\xe9', u'escalation', u'threats', u'phishing', u'facebook', u'our', u'apps', u'web']
+9 [u'dns', u'product', u'cars', u'multiples', u'seals', u'f5', u'micro', u'most', u'microsoft', u'intelligence', u'tara', u'big-ip']
+10 [u'privilege', u'after', u'cisco', u'full', u'cet', u'threat', u'splunk', u'bug']
+75 [u'vigil@nce']
+12 [u'cybersecurity', u'podcast', u'windows', u'cross']
+13 [u'vuln\xe9rabilit\xe9s', u'cybercrime']
+14 [u'enterprise', u'vulnerabilities', u'mobile']
+11 [u'smart', u'twitter']
+17 [u'new', u'veille']
+21 [u'2018']
+22 [u'privacy']
+26 [u'best']
+29 [u'malware']
+
+
