@@ -1,0 +1,219 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:726)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 http://www.securityweek.com/servers-can-be-bricked-remotely-bmc-attack/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	 https://www.scmagazine.com/home/security-news/holiday-cyber-scams-abound-warns-fbi/
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [service, cloud] https://scmagazine.icrowdnewswire.com/news.php?id=MTEzMjg5MA==/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 http://www.securityweek.com/cybercriminals-host-malicious-payloads-google-cloud-storage/
+	 http://www.zdnet.fr/actualites/adieu-vie-privee-comment-le-machine-learning-dans-le-cloud-nous-mettra-a-nu-39878311.htm/
+	--
+	 [cloud, phishing] https://www.scmagazine.com/home/security-news/phishing-campaign-targets-finance-employees-with-rats-downloaded-from-google-cloud-storage/
+	 [service, cloud] https://scmagazine.icrowdnewswire.com/news.php?id=MTEzMjg5MA==/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTEzMjg4Nw==/
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	 [cloud, phishing] https://www.scmagazine.com/home/security-news/phishing-campaign-targets-finance-employees-with-rats-downloaded-from-google-cloud-storage/
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/facebook-poursuivi-aux-etats-unis-pour-le-scandale-cambridge-analytica-39878327.htm/
+	 https://threatpost.com/facebooks-rough-history-of-failed-user-revolts/140138/
+	 https://threatpost.com/facebook-defends-against-data-sharing-partnerships/140070/
+	 http://www.zdnet.fr/actualites/facebook-nouveaux-soupcons-de-fuite-de-donnees-pour-finir-2018-en-beaute-39878295.htm/
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 http://www.securityweek.com/us-sanctions-russians-hacking-election-interference/
+	--
+	--
+
+[intelligence]
+	 https://www.scmagazine.com/home/security-news/2019-cybersecurity-predictions-artificial-intelligence/
+	 http://www.securityweek.com/artificial-intelligence-cybersecurity-not-delivering-its-promise/
+	--
+	--
+
+[microsoft]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-606/
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/google-finds-internet-explorer-zero-day-exploited-targeted-attacks/
+	--
+	--
+
+[ransomware]
+	 http://www.securityweek.com/quarter-healthcare-organizations-hit-ransomware-past-year-study/
+	--
+	--
+
+[cybercrime]
+	 http://www.securityweek.com/greece-france-wins-new-round-russian-cybercrime-suspect/
+	--
+	--
+
+[mobile]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTEzMjkwNQ==/
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'phones', u'vulnerability', u'interview', u'lan', u'top', u'france', u'ibm', u'mais', u'bradley', u'after', u'conference', u'tous', u'fraud', u'ad', u'flaw', u'services', u'threatlist', u'trojan', u'russian', u'issues', u'huawei', u'30', u'app', u'afm', u'attack', u'employee', u'cybercriminals', u'controller', u'podcasts', u'barth']
+6 [u's\xe9curit\xe9', u'cnet', u'ransomware', u'update', u'avis', u'multiples', u'blog', u'seals', u'escalation', u'social', u'research', u'hackers', u'tara', u'bulletin', u'products', u'2019', u'view', u'subscribe']
+7 [u'risk', u'dns', u'hacking', u'privilege', u'wireless', u'trend', u'denial', u'lindsey', u'information', u'micro', u'microsoft', u'threats', u'odonnell', u'link', u'windows', u'splunk', u'breach', u'ccprojectzeromembers', u'email', u'android', u'iot', u'web', u'page']
+8 [u'attacks', u'dactualit\xe9', u'phishing', u'popular', u'nasa', u'our', u'bug']
+9 [u'service', u'wordpress', u'product', u'cars', u'most', u'targeted']
+10 [u'scripting', u'enterprise', u'internet', u'full', u'cet', u'intelligence', u'vuln\xe9rabilit\xe9s', u'apps', u'twitter']
+11 [u'cisco', u'f5', u'threat', u'cloud', u'big-ip', u'smart']
+12 [u'cybersecurity', u'podcast', u'vulnerabilities']
+13 [u'facebook']
+14 [u'mobile', u'google']
+15 [u'cross']
+16 [u'cybercrime']
+17 [u'new', u'veille']
+18 [u'2018']
+20 [u'privacy']
+26 [u'best']
+31 [u'malware']
+73 [u'vigil@nce']
+
+
