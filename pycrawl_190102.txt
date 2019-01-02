@@ -1,0 +1,255 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:726)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 https://securityintelligence.com/media/xforce-iris-kat-tasiopoulou-envisions-the-future-of-incident-response/?src=widget/
+	--
+	--
+
+[mirai]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/mirai/
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, malware] https://threatpost.com/malware-attack-crippled-delivery-of-major-u-s-newspapers/140461/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	 [scams, phishing] https://www.scmagazine.com/home/security-news/ftc-warns-of-netflix-phishing-scams/
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/cryptocurrency-mining-bot-targets-devices-with-running-ssh-service-via-potential-scam-site/
+	--
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Squid-cache-denial-of,20181231,83163.html/
+	 [service, users] https://www.welivesecurity.com/2018/12/21/google-policy-change-eset-android-anti-theft-service/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-libgit2-denial-of,20181226,83136.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-389-Directory-Server,20181225,83128.html/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.scmagazine.com/home/security-news/dark-overlord-rings-in-new-year-with-threat-to-release-9-11-related-docs-pilfered-from-law-firm/
+	--
+	 [threat, cybercrime] https://securityintelligence.com/ibm-x-force-security-predictions-for-the-2019-cybercrime-threat-landscape/
+	--
+
+[users]
+	--
+	 [service, users] https://www.welivesecurity.com/2018/12/21/google-policy-change-eset-android-anti-theft-service/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-608/
+	--
+	 [linux, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Linux-kernel-NULL,20181226,83133.html/
+	 [linux, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Linux-kernel-information,20181231,83169.html/
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Squid-cache-Cross-Site,20181231,83177.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WebSphere-AS-Cross-Site,20181226,83137.html/
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	 [phishing, attacks, malware] https://www.scmagazine.com/home/security-news/electrum-wallet-phishing-and-malware-attacks-net-more-than-750000-in-bitcoin/
+	 [phishing, malware] http://www.securityweek.com/evasive-malware-meet-evasive-phishing/
+	 [scams, phishing] https://www.scmagazine.com/home/security-news/ftc-warns-of-netflix-phishing-scams/
+	--
+
+[facebook]
+	 https://threatpost.com/how-facebooks-tracks-non-users-via-android-apps/140436/
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 http://www.securityweek.com/north-korea-defectors-details-leaked-hacking/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://www.welivesecurity.com/2018/12/20/microsoft-emergency-patch-internet-explorer-zero-day/
+	 http://www.cert.ssi.gouv.fr/alerte/CERTFR-2018-ALE-013/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/data-breach-hits-15000-bevmo-e-commerce-customers/
+	--
+	--
+
+[attacks]
+	 https://www.scmagazine.com/home/security-news/zscaler-threatlabz-researchers-identified-a-new-dos-bot-family-named-siren-that-uses-10-dos-methods-to-carry-out-attacks/
+	--
+	 [phishing, attacks, malware] https://www.scmagazine.com/home/security-news/electrum-wallet-phishing-and-malware-attacks-net-more-than-750000-in-bitcoin/
+	--
+
+[ransomware]
+	 https://www.welivesecurity.com/2018/12/31/ransomware-printing-press-newspapers/
+	--
+	--
+
+[cybercrime]
+	--
+	 [threat, cybercrime] https://securityintelligence.com/ibm-x-force-security-predictions-for-the-2019-cybercrime-threat-landscape/
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://threatpost.com/2019-malware-trends-to-watch/140344/
+	 https://www.scmagazine.com/home/security-news/cryptojacking-coin-mining-malware-new-smaller-dark-web-marketplaces-rise-in-2018/
+	--
+	 [phishing, attacks, malware] https://www.scmagazine.com/home/security-news/electrum-wallet-phishing-and-malware-attacks-net-more-than-750000-in-bitcoin/
+	 [phishing, malware] http://www.securityweek.com/evasive-malware-meet-evasive-phishing/
+	 [attack, malware] https://threatpost.com/malware-attack-crippled-delivery-of-major-u-s-newspapers/140461/
+	--
+
+[vigil@nce]
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Ruby-information,20181231,83170.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Ruby-code-execution-via,20181231,83172.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Centreon-Web-multiple,20181225,83132.html/
+	 http://www.globalsecuritymag.com/Vigil-nce-sos-collector-file,20181231,83179.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-sos-collector-file,20181231,83179.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-RHEL-7-privilege,20181231,83159.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-X-Org-Server-privilege,20181225,83130.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-LibRaw-NULL-pointer,20181231,83162.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Teeworlds-privilege,20181231,83166.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-LibRaw-memory-corruption,20181231,83178.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-QEMU-memory-leak-via,20181228,83152.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Jenkins-Plugin-privilege,20181231,83157.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-jhead-integer-overflow,20181226,83143.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Kubernetes-multiple,20181226,83141.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Intel-LLDP-Agent-code,20181231,83176.html/
+	--
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Squid-cache-denial-of,20181231,83163.html/
+	 [linux, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Linux-kernel-NULL,20181226,83133.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-libgit2-denial-of,20181226,83136.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Squid-cache-Cross-Site,20181231,83177.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WebSphere-AS-Cross-Site,20181226,83137.html/
+	 [linux, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Linux-kernel-information,20181231,83169.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-389-Directory-Server,20181225,83128.html/
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'interview', u'cameras', u'programs', u'ransomware', u'tony', u'linux', u'newspapers', u'devices', u'update', u'global', u'scada', u'explorer', u'mais', u'reading', u'tous', u'industry', u'fraud', u'escalation', u'social', u'services', u'incident', u'google', u'trends', u'cyberattack', u'disclosure', u'nasa', u'code', u'business', u'view', u'podcasts', u'anscombe', u'conference', u'overflow']
+6 [u'cnet', u'stop', u'privilege', u'avis', u'10', u'folt\xfdn', u'blog', u'threatlist', u'threats', u'hackers', u'tom\xe1\u0161', u'popular', u'windows', u'bulletin', u'30', u'cloud', u'subscribe', u'software', u'bug']
+7 [u's\xe9curit\xe9', u'vulnerability', u'dns', u'trend', u'after', u'multiples', u'micro', u'most', u'donn\xe9es', u'link', u'out-of-bounds', u'facebook', u'ccprojectzeromembers', u'our', u'email']
+8 [u'risk', u'free', u'memory', u'dactualit\xe9', u'dark', u'research', u'threat', u'intelligence', u'spring', u'twitter']
+9 [u'top', u'tom', u'attacks', u'product', u'cars', u'information', u'microsoft', u'hacking', u'libcurl', u'breach', u'apps']
+10 [u'full', u'cet', u'phishing', u'vuln\xe9rabilit\xe9s', u'iot', u'web']
+11 [u'android']
+12 [u'cybersecurity', u'mobile', u'smart']
+13 [u'podcast', u'vulnerabilities']
+14 [u'internet', u'f5', u'cybercrime', u'big-ip']
+15 [u'new', u'denial']
+16 [u'2019']
+17 [u'veille']
+18 [u'service']
+21 [u'privacy']
+22 [u'2018']
+27 [u'best']
+33 [u'malware']
+80 [u'vigil@nce']
+
+

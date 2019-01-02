@@ -1,0 +1,69 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18318
+2018-12-26T10:36:40.837-05:00	:CVE-2017-18318 (Score:10.0)['cpe:/o:qualcomm:msm8996au_firmware:-', 'cpe:/o:qualcomm:sd_410_firmware:-', 'cpe:/o:qualcomm:sd_412_firmware:-', 'cpe:/o:qualcomm:sd_425_firmware:-', 'cpe:/o:qualcomm:sd_430_firmware:-', 'cpe:/o:qualcomm:sd_450_firmware:-', 'cpe:/o:qualcomm:sd_625_firmware:-', 'cpe:/o:qualcomm:sd_650_firmware:-', 'cpe:/o:qualcomm:sd_652_firmware:-', 'cpe:/o:qualcomm:sd_810_firmware:-', 'cpe:/o:qualcomm:sd_820_firmware:-', 'cpe:/o:qualcomm:sd_820a_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-0721
+2018-12-27T12:31:34.627-05:00	:CVE-2018-0721 (Score:10.0)['cpe:/o:qnap:qts:4.2.6', 'cpe:/o:qnap:qts:4.3.3', 'cpe:/o:qnap:qts:4.3.4']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10143
+2018-12-31T14:26:13.070-05:00	:CVE-2018-10143 (Score:10.0)['cpe:/a:paloaltonetworks:expedition:1.0.107']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-14654
+2018-12-31T14:38:47.887-05:00	:CVE-2018-14654 (Score:8.5)['cpe:/a:redhat:gluster_storage:4.1.4', 'cpe:/o:redhat:enterprise_linux_server:6.0', 'cpe:/o:redhat:enterprise_linux_server:7.0', 'cpe:/o:redhat:enterprise_linux_virtualization:4.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-14746
+2018-12-27T12:30:07.907-05:00	:CVE-2018-14746 (Score:10.0)['cpe:/o:qnap:qts:4.2.6', 'cpe:/o:qnap:qts:4.3.3', 'cpe:/o:qnap:qts:4.3.4', 'cpe:/o:qnap:qts:4.3.5']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15981
+2018-12-28T15:00:15.030-05:00	:CVE-2018-15981 (Score:10.0)['cpe:/a:adobe:flash_player:31.0.0.148::~~~chrome~~', 'cpe:/a:adobe:flash_player:31.0.0.148::~~~edge~~', 'cpe:/a:adobe:flash_player:31.0.0.148::~~~internet_explorer_11~~', 'cpe:/a:adobe:flash_player_desktop_runtime:31.0.0.148', 'cpe:/o:redhat:enterprise_linux_desktop:6.0', 'cpe:/o:redhat:enterprise_linux_server:6.0', 'cpe:/o:redhat:enterprise_linux_workstation:6.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-1822
+2018-12-26T12:32:15.280-05:00	:CVE-2018-1822 (Score:10.0)['cpe:/o:ibm:flashsystem_840_firmware:1.4', 'cpe:/o:ibm:flashsystem_900_firmware:1.4']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-18563
+2018-12-28T09:15:19.070-05:00	:CVE-2018-18563 (Score:8.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-18850
+2018-12-31T14:03:01.227-05:00	:CVE-2018-18850 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-18864
+2018-12-31T14:43:30.467-05:00	:CVE-2018-18864 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-19537
+2018-12-28T09:59:38.383-05:00	:CVE-2018-19537 (Score:9.0)['cpe:/o:tp-link:archer_c5_firmware:2_160201_us']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-19560
+2018-12-31T16:16:43.163-05:00	:CVE-2018-19560 (Score:9.3)['cpe:/a:bagesoft:bagecms:3.1.3']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-19864
+2018-12-26T15:34:10.687-05:00	:CVE-2018-19864 (Score:10.0)['cpe:/o:nuuo:nvrmini2_firmware:3.9.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-20057
+2018-12-31T13:01:52.797-05:00	:CVE-2018-20057 (Score:9.0)['cpe:/o:d-link:dir-605l_firmware:2.12b1', 'cpe:/o:d-link:dir-619l_firmware:2.06b1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-20377
+2018-12-28T12:01:38.910-05:00	:CVE-2018-20377 (Score:10.0)['cpe:/o:orange:arv7519rw22_livebox_2.1_firmware:00.96.00.96.609es', 'cpe:/o:orange:arv7519rw22_livebox_2.1_firmware:00.96.00.96.613', 'cpe:/o:orange:arv7519rw22_livebox_2.1_firmware:00.96.217', 'cpe:/o:orange:arv7519rw22_livebox_2.1_firmware:00.96.321s']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-7114
+2018-12-29T21:47:30.277-05:00	:CVE-2018-7114 (Score:10.0)['cpe:/a:hp:intelligent_management_center:5.0', 'cpe:/a:hp:intelligent_management_center:5.0:e0101', 'cpe:/a:hp:intelligent_management_center:5.0:e0101h03', 'cpe:/a:hp:intelligent_management_center:5.0:e0101h04', 'cpe:/a:hp:intelligent_management_center:5.0:e0101l01', 'cpe:/a:hp:intelligent_management_center:5.0:e0101l02', 'cpe:/a:hp:intelligent_management_center:5.1', 'cpe:/a:hp:intelligent_management_center:5.1:e0101p01', 'cpe:/a:hp:intelligent_management_center:5.1:e0202', 'cpe:/a:hp:intelligent_management_center:5.1:e0202:enterprise', 'cpe:/a:hp:intelligent_management_center:5.2', 'cpe:/a:hp:intelligent_management_center:7.0', 'cpe:/a:hp:intelligent_management_center:7.0:e02020p03', 'cpe:/a:hp:intelligent_management_center:7.2:e0403', 'cpe:/a:hp:intelligent_management_center:7.2:e0403l01', 'cpe:/a:hp:intelligent_management_center:7.2:e0403l02', 'cpe:/a:hp:intelligent_management_center:7.2:e0403l09', 'cpe:/a:hp:intelligent_management_center:7.2:e0403p03', 'cpe:/a:hp:intelligent_management_center:7.2:e0403p04', 'cpe:/a:hp:intelligent_management_center:7.2:e0403p06', 'cpe:/a:hp:intelligent_management_center:7.2:e0403p10', 'cpe:/a:hp:intelligent_management_center:7.3:-', 'cpe:/a:hp:intelligent_management_center:7.3:e0503', 'cpe:/a:hp:intelligent_management_center:7.3:e0504', 'cpe:/a:hp:intelligent_management_center:7.3:e0504p02', 'cpe:/a:hp:intelligent_management_center:7.3:e0504p04', 'cpe:/a:hp:intelligent_management_center:7.3:e0506', 'cpe:/a:hp:intelligent_management_center:7.3:e0506p03', 'cpe:/a:hp:intelligent_management_center:7.3:e0506p07', 'cpe:/a:hp:intelligent_management_center:7.3:e0506p09', 'cpe:/a:hp:intelligent_management_center:7.3:e0605', 'cpe:/a:hp:intelligent_management_center:7.3:e0605h02', 'cpe:/a:hp:intelligent_management_center:7.3:e0605h05', 'cpe:/a:hp:intelligent_management_center:7.3:e0605p04']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-7799
+2018-12-27T13:11:03.473-05:00	:CVE-2018-7799 (Score:9.3)['cpe:/a:schneider-electric:software_update_utility:1.0', 'cpe:/a:schneider-electric:software_update_utility:1.0.13', 'cpe:/a:schneider-electric:software_update_utility:1.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9473
+2018-12-28T14:01:53.000-05:00	:CVE-2018-9473 (Score:9.3)['cpe:/o:google:android:8.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9476
+2018-12-28T14:07:37.900-05:00	:CVE-2018-9476 (Score:10.0)['cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9490
+2018-12-28T14:18:54.770-05:00	:CVE-2018-9490 (Score:9.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9491
+2018-12-28T14:25:42.627-05:00	:CVE-2018-9491 (Score:9.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9521
+2018-12-27T09:06:54.520-05:00	:CVE-2018-9521 (Score:9.3)['cpe:/o:google:android:9.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9537
+2018-12-27T09:41:33.980-05:00	:CVE-2018-9537 (Score:9.3)['cpe:/o:google:android:9.0']
