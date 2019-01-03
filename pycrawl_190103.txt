@@ -1,0 +1,210 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:726)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, ransomware] http://www.securityweek.com/ryuk-ransomware-suspected-us-newspaper-attack/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://threatpost.com/newsmaker-interview-bruce-schneier-on-physical-cyber-threats/140491/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.scmagazine.com/home/security-news/cybercrime/dark-overlord-rings-in-new-year-with-threat-to-release-9-11-related-docs-pilfered-from-law-firm/
+	--
+	 [threat, intelligence] http://www.securityweek.com/inside-polyswarms-decentralized-threat-intelligence-marketplace/
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/l-os-pc-le-plus-populaire-dans-le-monde-windows-10-et-plus-windows-7-39878617.htm/
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/android-des-applications-partagent-vos-donnees-a-facebook-que-vous-y-soyez-inscrit-ou-non-39878607.htm/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/iphone-xr-d-apple-mauvais-marketing-ou-sournoiserie-efficace-39878605.htm/
+	 http://www.zdnet.fr/actualites/apple-revoit-a-la-baisse-ses-previsions-de-revenus-39878633.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	 [threat, intelligence] http://www.securityweek.com/inside-polyswarms-decentralized-threat-intelligence-marketplace/
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/microsoft-edge-pourquoi-ca-a-mal-tourne-et-ce-qui-va-suivre-39877763.htm/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/town-of-salem-breach-affects-7-million-accounts/
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/attacks-against-critical-infrastructure-poise-reshape-cyber-landscape/
+	--
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware] http://www.securityweek.com/ryuk-ransomware-suspected-us-newspaper-attack/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'phones', u'tony', u'newsmaker', u'privilege', u'linux', u'update', u'global', u'scada', u'explorer', u'pointer', u'mais', u'tous', u'industry', u'social', u'null', u'services', u'libcurl', u'government', u'dereference', u'trends', u'nasa', u'out-of-bounds', u'business', u'view', u'podcasts', u'anscombe', u'conference']
+6 [u'cnet', u'interview', u'free', u'ransomware', u'stop', u'newspapers', u'devices', u'odonnell', u'memory', u'avis', u'lindsey', u'blog', u'threatlist', u'apple', u'popular', u'spring', u'bulletin', u'30', u'cloud', u'attack', u'subscribe']
+7 [u's\xe9curit\xe9', u'dns', u'tom', u'trend', u'10', u'folt\xfdn', u'multiples', u'micro', u'research', u'most', u'donn\xe9es', u'phishing', u'hackers', u'tom\xe1\u0161', u'google', u'link', u'ccprojectzeromembers', u'our', u'email', u'web', u'bug']
+8 [u'risk', u'vulnerability', u'attacks', u'after', u'dactualit\xe9', u'threats', u'hacking', u'breach', u'facebook']
+9 [u'top', u'product', u'cars', u'apps', u'iot', u'twitter']
+10 [u'full', u'internet', u'cet', u'threat', u'intelligence', u'disclosure', u'vuln\xe9rabilit\xe9s', u'windows']
+11 [u'microsoft']
+12 [u'information', u'mobile']
+13 [u'podcast']
+14 [u'cybersecurity', u'f5', u'vulnerabilities', u'cybercrime', u'big-ip', u'denial', u'android', u'smart']
+16 [u'2019']
+17 [u'new', u'service', u'veille']
+19 [u'2018']
+78 [u'vigil@nce']
+22 [u'privacy']
+26 [u'best']
+31 [u'malware']
+
+
