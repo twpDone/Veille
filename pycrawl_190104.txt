@@ -1,0 +1,209 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:726)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://threatpost.com/flaws-mac-clean-up-root/140551/
+	--
+	--
+
+[attack]
+	--
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/dental-center-of-nw-ohio-feels-bite-of-ransomware-attack-on-it-vendor/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	 http://www.zdnet.fr/actualites/faille-de-google-chrome-corrigee-trois-ans-apres-le-rapport-initial-39878645.htm/
+	--
+	--
+
+[threat]
+	 https://www.welivesecurity.com/2019/01/03/threat-cumulativity-digital-security/
+	--
+	--
+
+[users]
+	 http://www.securityweek.com/blur-exposes-information-24-million-users/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	 [exploit, attacks] http://www.securityweek.com/new-crypto-mining-attacks-leverage-nsa-linked-eternalblue-exploit/
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/mauvaise-nouvelle-pour-apple-mais-bonne-nouvelle-pour-les-acheteurs-39878669.htm/
+	--
+	--
+
+[hacking]
+	--
+	 [hacking, ransomware] https://www.scmagazine.com/home/security-news/hacking-for-the-holidays-healthcare-ransomware-edition/
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/blogs/securite-it/bali-l-outil-microsoft-qui-veut-redonner-aux-utilisateurs-le-controle-de-leurs-donnees-personnelles-39878683.htm/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/online-security-firm-abine-suffers-breach/
+	--
+	--
+
+[attacks]
+	--
+	 [exploit, attacks] http://www.securityweek.com/new-crypto-mining-attacks-leverage-nsa-linked-eternalblue-exploit/
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/dental-center-of-nw-ohio-feels-bite-of-ransomware-attack-on-it-vendor/
+	 [hacking, ransomware] https://www.scmagazine.com/home/security-news/hacking-for-the-holidays-healthcare-ransomware-edition/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'phones', u'adobe', u'stop', u'conference', u'chrome', u'experts', u'update', u'ibm', u'explorer', u'applications', u'after', u'10', u'tous', u'dark', u'tvs', u'talks', u'escalation', u'social', u'two', u'stephen', u'electric', u'services', u'trends', u'issues', u'products', u'cloud', u'view', u'podcasts', u'bug']
+6 [u'cnet', u'vulnerability', u'newsmaker', u'privilege', u'ics', u'scada', u'avis', u'blog', u'critical', u'most', u'threatlist', u'apple', u'windows', u'bulletin', u'breach', u'facebook', u'30', u'email', u'subscribe', u'twitter']
+7 [u's\xe9curit\xe9', u'dns', u'interview', u'attacks', u'trend', u'mais', u'nouvelle', u'folt\xfdn', u'multiples', u'seals', u'micro', u'research', u'intelligence', u'donn\xe9es', u'phishing', u'tom\xe1\u0161', u'popular', u'link', u'tara', u'ccprojectzeromembers', u'our', u'qemu', u'web']
+8 [u'top', u'ransomware', u'memory', u'dactualit\xe9', u'apps', u'hackers']
+9 [u'disclosure', u'cars', u'threats', u'hacking']
+10 [u'product', u'internet', u'full', u'cet', u'threat', u'vuln\xe9rabilit\xe9s']
+11 [u'iot']
+12 [u'microsoft', u'podcast']
+13 [u'cybersecurity', u'f5', u'mobile', u'big-ip', u'denial']
+14 [u'information', u'google']
+15 [u'new', u'vulnerabilities', u'cybercrime', u'smart']
+16 [u'service', u'android']
+17 [u'veille', u'2019', u'2018']
+20 [u'privacy']
+78 [u'vigil@nce']
+26 [u'best', u'malware']
+
+
