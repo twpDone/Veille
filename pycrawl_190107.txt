@@ -1,0 +1,250 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:726)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception ''>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 https://threatpost.com/wide-ranging-german-doxxing-incident-hits-hundreds-of-politicians/140560/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, ransomware] http://www.securityweek.com/ransomware-attack-against-hosting-provider-confirms-msps-are-prime-targets/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 https://www.scmagazine.com/home/security-news/cybercrime/fearing-backlash-iot-hacker-thehackergiraffe-no-longer-sticking-neck-out-for-pewdiepie/
+	--
+	--
+
+[industry]
+	 http://www.securityweek.com/industry-reactions-massive-data-leak-germany/
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 http://www.securityweek.com/latest-threats-atm-security/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Node-js-libnmap-code,20190107,83241.html/
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-IBM-WebSphere-MQ-denial,20190107,83270.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-MuPDF-denial-of-service,20190107,83259.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Cisco-ASA-denial-of,20190107,83252.html/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 http://www.securityweek.com/fewer-affected-marriott-hack-passports-red-flag/
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/windows-10-le-projet-de-microsoft-de-supprimer-les-mots-de-passe-progresse-39878727.htm/
+	--
+
+[phishing]
+	 https://threatpost.com/phishing-custom-fonts/140563/
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-et-samsung-reunis-autour-d-itunes-et-airplay-sur-tv-connectee-39878753.htm/
+	--
+	--
+
+[hacking]
+	 http://www.securityweek.com/german-it-security-agency-defends-response-hacking-case/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/windows-10-le-projet-de-microsoft-de-supprimer-les-mots-de-passe-progresse-39878727.htm/
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/several-german-politicians-journalists-and-entertainers-were-targeted-in-a-massive-data-breach-that-emerged-on-twitter-in-the-form-of-an-advent-calendar-last-month/
+	 https://www.scmagazine.com/home/security-news/5m-passports-accessed-in-marriott-breach-were-unecrypted/
+	 https://threatpost.com/marriott-breach-383m-records/140569/
+	 https://www.scmagazine.com/home/security-news/humana-says-bankers-life-breach-exposed-pii-on-insurance-policy-applicants/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware] http://www.securityweek.com/ransomware-attack-against-hosting-provider-confirms-msps-are-prime-targets/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-QEMU-memory-corruption,20190107,83248.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WebKitGTK-information,20190107,83295.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-SoundTouch-use-after,20190107,83265.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Dell-OpenManage-Network,20190107,83250.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-IBM-DB2-four,20190107,83296.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-nginx-infinite-loop-via,20190107,83299.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-SoundTouch-memory,20190107,83242.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-SoundTouch-assertion,20190107,83258.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-GlusterFS-multiple,20190107,83287.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-MuPDF-assertion-error,20190107,83272.html/
+	 http://www.globalsecuritymag.com/Vigil-nce-Drupal-Decoupled-Router,20190107,83297.html/
+	 http://www.globalsecuritymag.com/Vigil-nce-nginx-infinite-loop-via,20190107,83299.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Drupal-Paragraphs,20190107,83249.html/
+	 http://www.globalsecuritymag.com/Vigil-nce-WebKitGTK-information,20190107,83295.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-sharplibzip-directory,20190107,83244.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Node-js-apex-publish,20190107,83280.html/
+	 http://www.globalsecuritymag.com/Vigil-nce-GlusterFS-multiple,20190107,83287.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-IBM-Spectrum-Protect,20190107,83267.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-QEMU-memory-corruption,20190107,83278.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-FFmpeg-out-of-bounds,20190107,83275.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Ansible-Core-information,20190107,83246.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-gThumb-use-after-free,20190107,83274.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-IBM-DB2-privilege,20190107,83266.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Node-js-merge-privilege,20190107,83251.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Drupal-Decoupled-Router,20190107,83297.html/
+	 http://www.globalsecuritymag.com/Vigil-nce-IBM-DB2-four,20190107,83296.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-OpenSC-three,20190107,83263.html/
+	 http://www.globalsecuritymag.com/Vigil-nce-Node-js-apex-publish,20190107,83280.html/
+	--
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-IBM-WebSphere-MQ-denial,20190107,83270.html/
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Node-js-libnmap-code,20190107,83241.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-MuPDF-denial-of-service,20190107,83259.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Cisco-ASA-denial-of,20190107,83252.html/
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'phones', u'hundreds', u'interview', u'free', u'tony', u'conference', u'nodejs', u'ics', u'update', u'scada', u'mais', u'wollerton', u'tous', u'critical', u'industry', u'social', u'part', u'electric', u'services', u'threatlist', u'scams', u'apple', u'politicians', u'app', u'cloud', u'megan', u'view', u'podcasts', u'anscombe', u'twitter']
+6 [u'cnet', u'reader', u'acrobat', u'email', u'service', u'attacks', u'avis', u'after', u'spyware', u'blog', u'network', u'seals', u'talks', u'play', u'donn\xe9es', u'incident', u'tara', u'bulletin', u'issues', u'30', u'products', u'subscribe', u'web', u'apps']
+7 [u'dns', u'top', u'odonnell', u'trend', u'disclosure', u'lindsey', u'10', u'micro', u'research', u'drupal', u'most', u'popular', u'link', u'windows', u'ccprojectzeromembers', u'our', u'db2']
+8 [u'vulnerability', u'ransomware', u'dactualit\xe9', u'multiples', u'intelligence', u'hackers', u'marriott']
+9 [u's\xe9curit\xe9', u'adobe', u'product', u'cars', u'german', u'folt\xfdn', u'phishing', u'tom\xe1\u0161', u'breach']
+10 [u'full', u'cet', u'iot', u'threat', u'threats']
+11 [u'hacking', u'internet', u'escalation']
+12 [u'new', u'information', u'android', u'microsoft', u'podcast']
+13 [u'ibm', u'vuln\xe9rabilit\xe9s']
+14 [u'privilege', u'cybersecurity', u'mobile', u'2019', u'smart']
+15 [u'cybercrime']
+16 [u'google']
+17 [u'veille', u'2018']
+19 [u'vulnerabilities']
+20 [u'privacy']
+22 [u'malware']
+26 [u'best']
+80 [u'vigil@nce']
+
+
