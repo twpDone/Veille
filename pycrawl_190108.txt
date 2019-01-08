@@ -1,0 +1,219 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	 [kit, phishing] https://www.scmagazine.com/home/security-news/phishing-kit-leverages-web-fonts-to-obfuscate-source-code/
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTE5MzM2Mw==/
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://threatpost.com/podcast-beware-these-top-security-threats-in-2019/140573/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.zdnet.fr/actualites/du-linux-pour-la-plupart-des-routeurs-domestiques-mais-sans-toute-la-securite-39878777.htm/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 http://www.zdnet.fr/actualites/htc-s-associe-a-mozilla-et-amazon-web-services-pour-les-applications-de-realite-virtuelle-en-entreprise-39878857.htm/
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	 http://www.securityweek.com/latest-phishing-technique-uses-fake-fonts-evade-detection/
+	--
+	 [kit, phishing] https://www.scmagazine.com/home/security-news/phishing-kit-leverages-web-fonts-to-obfuscate-source-code/
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/avec-office-2010-microsoft-manque-son-entree-dans-une-nouvelle-ere-39878859.htm/
+	--
+	--
+
+[breach]
+	 http://www.securityweek.com/managed-healthcare-provider-humana-discloses-data-breach/
+	--
+	--
+
+[attacks]
+	 https://www.scmagazine.com/home/security-news/ransomware/cybercriminals-double-up-using-vidar-and-gandcrab-in-single-attacks/
+	--
+	--
+
+[ransomware]
+	 https://www.scmagazine.com/home/security-news/ransomware/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/home/security-news/nsa-will-demonstrate-a-free-and-open-source-tool-for-reverse-engineering-malware-with-the-hopes-of-improving-security-rather-than-undermining-it/
+	--
+	--
+
+[vigil@nce]
+	 http://www.globalsecuritymag.com/Vigil-nce-Node-js-pem-information,20190107,83324.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-LibreOffice,20190107,83334.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-QEMU-memory-corruption,20190107,83302.html/
+	 http://www.globalsecuritymag.com/Vigil-nce-Zope-2-vulnerability,20190107,83318.html/
+	 http://www.globalsecuritymag.com/Vigil-nce-LibreOffice,20190107,83334.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Cisco-Meraki-privilege,20190107,83329.html/
+	 http://www.globalsecuritymag.com/Vigil-nce-Cisco-Meraki-privilege,20190107,83329.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Zope-2-vulnerability,20190107,83318.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Node-js-pem-information,20190107,83324.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-ppp-privilege-escalation,20190107,83303.html/
+	--
+	--
+
+
+ KeyWords : 
+5 [u'interview', u'nouvelle', u'personal', u'cameras', u'advisory', u'tony', u'chrome', u'attorney', u'ics', u'update', u'scada', u'mais', u'offers', u'million', u'tous', u'tvs', u'hacks', u'social', u'electric', u'scams', u'windows', u'products', u'cloud', u'system', u'podcasts', u'anscombe', u'twitter', u'linux', u'apps', u'bug']
+6 [u'cnet', u'adobe', u'ransomware', u'conference', u'avis', u'10', u'german', u'industry', u'seals', u'part', u'most', u'threatlist', u'donn\xe9es', u'tara', u'bulletin', u'30', u'united', u'view', u'subscribe']
+7 [u'voir', u'dns', u'after', u'free', u'email', u'hacking', u'attacks', u'odonnell', u'trend', u'lindsey', u'micro', u'research', u'services', u'link', u'ccprojectzeromembers']
+8 [u'top', u'disclosure', u'wollerton', u'dactualit\xe9', u'multiples', u'blog', u'execution', u'intelligence', u'popular', u'our', u'megan', u'web']
+9 [u'ibm', u'product', u'cars', u'folt\xfdn', u'hackers', u'tom\xe1\u0161', u'breach']
+10 [u's\xe9curit\xe9', u'internet', u'cisco', u'escalation', u'full', u'ces', u'threat', u'threats', u'phishing', u'code']
+11 [u'privilege', u'cet', u'microsoft']
+12 [u'new', u'android', u'google', u'podcast', u'iot']
+13 [u'vulnerability', u'information', u'vulnerabilities', u'vuln\xe9rabilit\xe9s']
+14 [u'mobile', u'smart']
+15 [u'cybersecurity', u'cybercrime']
+17 [u'veille', u'2018']
+75 [u'vigil@nce']
+22 [u'privacy']
+24 [u'malware']
+25 [u'2019']
+26 [u'best']
+
+
