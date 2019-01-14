@@ -1,0 +1,260 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	 http://www.zdnet.fr/actualites/le-pirate-bestbuy-condamne-a-la-prison-pour-avoir-exploite-le-botnet-mirai-39879235.htm/
+	--
+	--
+
+[access]
+	 https://www.scmagazine.com/home/security-news/amazons-ring-reportedly-granted-some-of-its-employees-virtually-unfettered-round-the-clock-access-to-live-feeds-from-some-customers-cameras/
+	--
+	 [access, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-F5-BIG-IP-information,20190114,83486.html/
+	--
+
+[attack]
+	 https://threatpost.com/biometrics-in-2019-increased-security-or-new-attack-vector/140683/
+	--
+	 [attack, hacker] http://www.securityweek.com/uk-hacker-jailed-attack-liberian-telecoms-firm/
+	 [attack, dns] https://www.scmagazine.com/home/security-news/apts-cyberespionage/iranian-actors-possibly-behind-dns-attack-fireeye/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 https://www.scmagazine.com/home/security-news/unhappily-ever-after-hospital-hacker-rescued-by-disney-cruise-ship-sentenced-to-10-years/
+	 https://www.scmagazine.com/home/security-news/the-man-accused-of-hacking-into-pippa-middletons-icloud-account-is-now-wanted-by-u-s-authorities-for-allegedly-blackmailing-healthcare-companies/
+	 http://www.zdnet.fr/actualites/10-ans-de-prison-pour-un-hacker-suite-a-un-ddos-contre-des-hopitaux-pour-enfants-39879155.htm/
+	--
+	 [attack, hacker] http://www.securityweek.com/uk-hacker-jailed-attack-liberian-telecoms-firm/
+	 [hacker, attacks] http://www.securityweek.com/schneider-electric-vehicle-charging-stations-exposed-hacker-attacks/
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTIwODUyNQ==/
+	 https://www.scmagazine.com/home/security-news/cybersecurity-students-from-norwich-university-teamed-up-with-respond-software-to-monitor-cyber-attacks-during-the-ncaa-college-football-playoff-championship/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-WP-User,20190114,83472.html/
+	--
+
+[dns]
+	--
+	 [dns, attacks] https://threatpost.com/unprecedented-dns-hijacking-attacks-linked-to-iran/140737/
+	 [attack, dns] https://www.scmagazine.com/home/security-news/apts-cyberespionage/iranian-actors-possibly-behind-dns-attack-fireeye/
+	--
+
+[service]
+	 http://www.zdnet.fr/actualites/mongodb-aws-lance-un-service-de-base-de-donnees-de-documents-entierement-manage-39879169.htm/
+	--
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-OpenJPEG-denial-of,20190111,83457.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Node-js-ircdkit-denial,20190109,83420.html/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/adware-disguised-as-game-tv-remote-control-apps-infect-9-million-google-play-users/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	 [linux, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Linux-kernel-privilege,20190114,83519.html/
+	 [linux, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-Linux-kernel-privilege,20190114,83519.html/
+	 [linux, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Linux-kernel-information,20190114,83475.html/
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WebSphere-AS-Cross-Site,20190114,83476.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-PeepSo-Cross,20190114,83480.html/
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [windows, microsoft] https://www.scmagazine.com/home/network-security/microsoft-updates-brick-windows-7-devices/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-debut-de-la-fin-ou-nouveau-depart-39878731.htm/
+	 http://www.zdnet.fr/actualites/declin-de-la-production-de-smartphones-coup-de-pouce-a-huawei-face-apple-39879243.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/january-patch-tuesday-first-bulletin-of-2019-has-fixes-for-dhcp-and-microsoft-exchange-vulnerabilities/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-011/
+	--
+	 [microsoft, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Microsoft-NET-Core-2-1,20190114,83508.html/
+	 [windows, microsoft] https://www.scmagazine.com/home/network-security/microsoft-updates-brick-windows-7-devices/
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/government-and-defense/massachusetts-rolls-out-free-credit-monitoring-for-breach-victims/
+	--
+	--
+
+[attacks]
+	 https://www.scmagazine.com/home/security-news/modlishka-pen-testing-tool-could-be-used-for-real-attacks/
+	--
+	 [dns, attacks] https://threatpost.com/unprecedented-dns-hijacking-attacks-linked-to-iran/140737/
+	 [hacker, attacks] http://www.securityweek.com/schneider-electric-vehicle-charging-stations-exposed-hacker-attacks/
+	--
+
+[ransomware]
+	 https://www.scmagazine.com/home/security-news/financially-motivated-threat-actorsreferred-to-as-temp-mixmaster-are-infecting-victims-with-trickbot-malware-before-deploying-the-infamous-ryuk-ransomware/
+	 http://www.securityweek.com/was-north-korea-wrongly-accused-ransomware-attacks/
+	 https://www.scmagazine.com/home/security-news/ryuk-ransomware-linked-to-emotet-and-trickbot-trojans-suspicions-shift-to-cybercriminal-group/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Node-js-morgan-code,20190114,83481.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-ImageMagick-out-of,20190114,83478.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Adobe-Acrobat-Reader,20190114,83503.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-LibTIFF-NULL-pointer,20190114,83493.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-OpenJPEG-infinite-loop,20190111,83458.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Chrome-out-of-bounds,20190114,83482.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-libarchive-infinite-loop,20190114,83484.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-GNU-gettext-use-after,20190114,83499.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-F5-BIG-IP-privilege,20190111,83462.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-systemd-privilege,20190114,83492.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-IBM-MQ-privilege,20190114,83474.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-systemd-privilege,20190114,83479.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Adobe-Flash-Player-out,20190114,83507.html/
+	--
+	 [linux, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Linux-kernel-privilege,20190114,83519.html/
+	 [linux, vigil@nce] http://www.globalsecuritymag.com/Vigil-nce-Linux-kernel-privilege,20190114,83519.html/
+	 [access, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-F5-BIG-IP-information,20190114,83486.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-OpenJPEG-denial-of,20190111,83457.html/
+	 [microsoft, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Microsoft-NET-Core-2-1,20190114,83508.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WebSphere-AS-Cross-Site,20190114,83476.html/
+	 [scripting, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-PeepSo-Cross,20190114,83480.html/
+	 [linux, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Linux-kernel-information,20190114,83475.html/
+	 [injection, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WordPress-WP-User,20190114,83472.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Node-js-ircdkit-denial,20190109,83420.html/
+	--
+
+
+ KeyWords : 
+5 [u'risk', u'voir', u'phones', u'vulnerability', u'cameras', u'tool', u'stop', u'tony', u'newsmaker', u'conference', u'chiffres', u'prison', u'attorney', u'abel', u'mais', u'tous', u'critical', u'emotet', u'search', u'20', u'botnet', u'robert', u'donn\xe9es', u'hackers', u'facebook', u'mirai', u'products', u'this', u'view', u'cl\xe9s', u'podcasts', u'anscombe', u'bug']
+6 [u'cnet', u'interview', u'free', u'hacking', u'digital', u'hmi/wincc', u'avis', u'million', u'blog', u'seals', u'information', u'part', u'threatlist', u'popular', u'windows', u'tara', u'huawei', u'30', u'face', u'subscribe', u'web', u'government']
+7 [u'wordpress', u'trend', u'ibm', u'business', u'micro', u'research', u'most', u'intelligence', u'linux', u'firm', u'link', u'ccprojectzeromembers', u'our', u'denial', u'apps']
+8 [u's\xe9curit\xe9', u'top', u'ransomware', u'10', u'dactualit\xe9', u'threat', u'bulletin', u'email', u'hacker']
+9 [u'adobe', u'service', u'product', u'cars', u'lindsey', u'folt\xfdn', u'multiples', u'phishing', u'tom\xe1\u0161', u'odonnell']
+10 [u'dns', u'attacks', u'internet', u'full', u'cet']
+11 [u'google', u'iot']
+12 [u'simatic', u'podcast', u'ces', u'siemens']
+13 [u'threats', u'vuln\xe9rabilit\xe9s', u'cybercrime', u'android']
+14 [u'new', u'2018']
+15 [u'mobile', u'smart']
+16 [u'microsoft']
+17 [u'cybersecurity', u'veille', u'vulnerabilities']
+18 [u'escalation']
+19 [u'privilege', u'privacy']
+21 [u'malware', u'2019']
+26 [u'best']
+79 [u'vigil@nce']
+
+
