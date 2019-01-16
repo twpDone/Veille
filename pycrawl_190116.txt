@@ -1,0 +1,228 @@
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://www.scmagazine.com/home/security-news/report-flaws-in-premisys-access-system-could-literally-open-door-for-physical-intruders/
+	 https://threatpost.com/identicard-zero-days-allow-corporate-building-access-location-recon/140891/
+	--
+	--
+
+[attack]
+	 http://www.securityweek.com/researchers-link-chilean-interbank-attack-north-korea/
+	 https://threatpost.com/ryuk-earnings-trickbot/140823/
+	--
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/ransomware/ransomware-attack-comes-with-malicious-ransom-note/
+	 [attack, hacker] https://www.scmagazine.com/home/security-news/cybercrime/u-k-court-sentences-hacker-for-mirai-based-ddos-attack-against-liberian-telecom-firm/
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/another-city-was-hit-with-a-ransomware-attack-which-knocked-daily-services-back-into-the-era-of-the-pen-and-pad/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	 [hacker, attacks] http://www.securityweek.com/old-rf-protocols-expose-cranes-remote-hacker-attacks/
+	 [attack, hacker] https://www.scmagazine.com/home/security-news/cybercrime/u-k-court-sentences-hacker-for-mirai-based-ddos-attack-against-liberian-telecom-firm/
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-LibRaw-denial-of-service,20190115,83553.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-LibRaw-denial-of-service,20190115,83551.html/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://threatpost.com/hack-allows-escape-of-play-with-docker-containers/140831/
+	--
+	--
+
+[linux]
+	--
+	 [linux, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Linux-kernel-out-of,20190115,83556.html/
+	--
+
+[cloud]
+	 http://www.zdnet.fr/actualites/cloud-computing-aws-acquiert-tso-logic-39879331.htm/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/applications-windows-7-clients-ayez-confiance-grace-a-desktop-app-assure-39879347.htm/
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 http://www.securityweek.com/us-charges-8-securities-hacking-scheme/
+	--
+	 [hacking, malware] http://www.securityweek.com/researchers-create-poc-malware-hacking-smart-buildings/
+	--
+
+[intelligence]
+	 https://www.scmagazine.com/home/opinion/artifical-intelligence-in-cybersecurity-is-vulnerable/
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	 https://threatpost.com/data-breach-healthcare-cryptopia-singhealth/140886/
+	--
+	--
+
+[attacks]
+	--
+	 [hacker, attacks] http://www.securityweek.com/old-rf-protocols-expose-cranes-remote-hacker-attacks/
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/ransomware/ransomware-attack-comes-with-malicious-ransom-note/
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/another-city-was-hit-with-a-ransomware-attack-which-knocked-daily-services-back-into-the-era-of-the-pen-and-pad/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/home/security-news/researchers-develop-proof-of-concept-malware-for-attacking-building-automation-systems/
+	--
+	 [hacking, malware] http://www.securityweek.com/researchers-create-poc-malware-hacking-smart-buildings/
+	--
+
+[vigil@nce]
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Leptonica-file,20190115,83562.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-WebSphere-AS-directory,20190115,83557.html/
+	 http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Poppler-memory-leak-via,20190115,83561.html/
+	--
+	 [linux, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-Linux-kernel-out-of,20190115,83556.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-LibRaw-denial-of-service,20190115,83553.html/
+	 [service, vigil@nce] http://www.globalsecuritymag.fr/-Security-Vulnerability-.html/Vigil-nce-LibRaw-denial-of-service,20190115,83551.html/
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'phones', u'vulnerability', u'scripting', u'stop', u'tony', u'newsmaker', u'conference', u'abel', u'wordpress', u'digital', u'says', u'mais', u'million', u'10', u'tous', u'researchers', u'business', u'remote', u'two', u'information', u'robert', u'part', u'most', u'services', u'user', u'recent', u'into', u'facebook', u'apple', u'app', u'cloud', u'view', u'podcasts', u'anscombe', u'center', u'software']
+6 [u'risk', u'cnet', u'interview', u'hat', u'sql', u'ibm', u'avis', u'powerdns', u'sites', u'blog', u'threatlist', u'google', u'huawei', u'30', u'apps', u'subscribe', u'hacker']
+7 [u'dns', u'attacks', u'trend', u'flaws', u'micro', u'research', u'ccprojectzeromembers', u'our', u'email', u'cross']
+8 [u's\xe9curit\xe9', u'top', u'ransomware', u'injection', u'dactualit\xe9', u'folt\xfdn', u'threat', u'bulletin', u'intelligence', u'phishing', u'tom\xe1\u0161', u'windows', u'web']
+9 [u'hacking', u'privilege', u'product', u'internet', u'cars', u'multiples', u'escalation', u'popular', u'link', u'attack', u'centreon', u'android']
+10 [u'seals', u'cet', u'ces', u'tara']
+11 [u'adobe', u'podcast', u'full', u'threats', u'2018', u'iot']
+12 [u'microsoft']
+13 [u'vuln\xe9rabilit\xe9s', u'denial']
+14 [u'new', u'cybersecurity', u'mobile']
+15 [u'service', u'cybercrime']
+16 [u'smart']
+17 [u'veille', u'vulnerabilities']
+18 [u'2019']
+19 [u'privacy']
+22 [u'malware']
+26 [u'best']
+77 [u'vigil@nce']
+
+
