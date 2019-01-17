@@ -1,0 +1,315 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :http://www.globalsecuritymag.fr/-Security-Vulnerability-.html
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 https://www.cybersecurity-insiders.com/5-best-practices-for-creating-an-effective-computer-security-incident-response-team-csirt/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://www.sec.gov/news/press-release/2018-210/
+	--
+	 [access, cloud, mobile] https://www.cybersecurity-insiders.com//
+	--
+
+[attack]
+	 https://www.cybersecurity-insiders.com/category/cyber-threats/cyber-attack/
+	 https://www.cybersecurity-insiders.com/radware-suggests-that-the-average-cost-of-cyber-attack-has-surged-to-1-1-million/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/new-magecart-attack-delivered-through-compromised-advertising-supply-chain/
+	 https://www.cybersecurity-insiders.com/cyber-attack-news-trending-on-google-for-this-day/
+	 https://www.silicon.co.uk/workspace/decades-old-flaws-leave-scp-clients-vulnerable-to-attack-240519/
+	 https://www.cybersecurity-insiders.com/mondelez-files-100m-claim-from-zurich-insurance-for-notpetya-cyber-attack/
+	 http://www.securityweek.com/singapore-imposes-740000-fines-over-major-cyber-attack/
+	 https://www.scmagazine.com/home/security-news/west-african-banks-targeted-in-multi-wave-attack/
+	--
+	 [attack, phishing] https://www.cybersecurity-insiders.com/phishing-the-most-common-attack-on-australian-organizations-in-q3-2018-finds-oaic/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	 https://www.sec.gov/opa/Article/mediakit.html/
+	--
+	--
+
+[hacker]
+	 https://blog.hackenproof.com/interviews/hacker-qa-with-yassine-aboukir/
+	 https://blog.hackenproof.com/interviews/hacker-qa-sam-eizad/
+	 https://blog.hackenproof.com/interviews/hacker-qa-with-ebrahim-hegazy/
+	--
+	--
+
+[industry]
+	 https://blog.hackenproof.com/industry-news/
+	--
+	--
+
+[fraud]
+	 https://www.sec.gov/news/press-release/2018-252/
+	 https://www.sec.gov/news/press-release/2018-241/
+	 https://www.sec.gov/news/press-release/2018-228/
+	 https://www.sec.gov/news/press-release/2018-263/
+	 https://www.sec.gov/news/press-release/2018-219/
+	 https://www.sec.gov/news/press-release/2018-229/
+	 https://www.sec.gov/news/press-release/2018-276/
+	 https://www.sec.gov/news/press-release/2018-226/
+	--
+	--
+
+[threats]
+	 https://www.cybersecurity-insiders.com/av-cant-protect-your-endpoints-against-all-threats-but-dont-uninstall/
+	 https://www.cybersecurity-insiders.com/internal-threats-and-election-security/
+	 https://www.cybersecurity-insiders.com/most-dangerous-cyber-security-threats-of-2017/
+	 https://www.cybersecurity-insiders.com/category/cyber-threats/
+	 https://www.sec.gov/news/press-release/2018-236/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/code-injection/
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 http://www.zdnet.fr/actualites/l-arcep-somme-orange-d-ameliorer-la-qualite-de-service-de-ses-offres-de-gros-fixes-39879421.htm/
+	 https://www.sec.gov/news/press-release/2018-286/
+	 https://www.sec.gov/news/press-release/2018-271/
+	 https://www.cybersecurity-insiders.com/terms-of-service/
+	 https://www.sec.gov/news/press-release/2018-267/
+	 https://www.silicon.co.uk/news/projects/service-provider/
+	 https://www.safetydetective.com/terms-of-service/
+	 https://www.sec.gov/news/press-release/2018-254/
+	 https://www.sec.gov/news/press-release/2018-270/
+	 https://www.sec.gov/news/press-release/2018-281/
+	 https://www.flashpoint-intel.com/terms-of-service/
+	--
+	 [service, hacking] https://www.cybersecurity-insiders.com/oculeus-aims-to-protect-enterprises-against-pbx-hacking-with-new-service/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.scmagazine.com/home/opinion/how-to-stop-the-insider-threat-from-switching-off-your-security-lights/
+	 https://www.cybersecurity-insiders.com/dpi-sensors-get-the-edge-in-threat-hunting/
+	 https://www.cybersecurity-insiders.com/category/cyber-threats/insider-threat/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.cybersecurity-insiders.com/dare-to-hack-1-million-tesla-model-3-electric-car/
+	 https://threatpost.com/u-s-issues-multiple-charges-for-2016-sec-hack/140903/
+	--
+	--
+
+[linux]
+	 https://www.safetydetective.com/blog/best-really-free-antivirus-for-linux/
+	 https://www.safetydetective.com/best-antivirus/linux/
+	--
+	--
+
+[cloud]
+	 https://www.silicon.co.uk/news/cloud/
+	 https://www.silicon.co.uk/workspace/enterprise-cloud-spending-boom-crowds-out-non-cloud-tech-budgets-240495/
+	 https://blog.hackenproof.com/industry-news/new-discovery-nokia-left-its-cloud-environment-open/
+	 https://webscan.upguard.com/
+	 https://www.silicon.co.uk/news/cloud/cloud-management/
+	 https://www.cybersecurity-insiders.com/cloud-security-startup-avid-secure-acquired-by-sophos/
+	 https://www.silicon.co.uk/partnerzone/silicon-360-breaking-final-barriers-cloud/
+	 https://www.cybersecurity-insiders.com/cloud-startup-gains-100-m-funding-to-build-secure-data-centers-in-satellites/
+	--
+	 [access, cloud, mobile] https://www.cybersecurity-insiders.com//
+	 [cloud, malware] https://threatpost.com/cryptomining-malware-uninstalls-cloud-security-products/140959/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 https://www.flashpoint-intel.com/training-services/
+	 https://www.silicon.co.uk/workspace/china-tightens-grip-on-blockchain-based-services-240447/
+	 https://www.safetydetective.com/best-antivirus/
+	 https://www.flashpoint-intel.com/professional-services/
+	--
+	--
+
+[windows]
+	 https://www.safetydetective.com/blog/best-really-free-antivirus-for-windows/
+	 https://www.safetydetective.com/blog/how-to-do-a-virus-scan-for-windows/
+	 https://www.safetydetective.com/best-antivirus/windows/
+	 http://www.zdnet.fr/actualites/un-poc-de-zero-day-touchant-les-vcf-de-windows-publie-en-ligne-39879369.htm/
+	 https://www.safetydetective.com/blog/windows-defender-vs-antiviruses-is-defender-enough-for-you/
+	 http://www.zdnet.fr/actualites/la-data-du-jour-windows-10-largement-plebiscite-par-les-lecteurs-de-zdnetfr-39879383.htm/
+	--
+	--
+
+[phishing]
+	--
+	 [phishing, ransomware] https://www.cybersecurity-insiders.com/cryptomix-ransomware-masquerades-in-phishing-childrens-charity-program/
+	 [attack, phishing] https://www.cybersecurity-insiders.com/phishing-the-most-common-attack-on-australian-organizations-in-q3-2018-finds-oaic/
+	--
+
+[facebook]
+	 https://www.facebook.com/flashpointintel/
+	 http://www.facebook.com/pages/Eweek-Europe-UK/125666307488181/
+	 https://www.silicon.co.uk/workspace/germany-may-order-facebook-to-halt-some-data-collection-240457/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/proces-facetime-apple-perd-appel-et-doit-payer-440-millions-de-dollars-a-virnetx-39879423.htm/
+	--
+	--
+
+[hacking]
+	 https://www.sec.gov/news/press-release/2019-1/
+	 https://www.scmagazine.com/home/security-news/ukrainian-nationals-charged-with-hacking-sec-docs-in-4-1-million-scam/
+	--
+	 [service, hacking] https://www.cybersecurity-insiders.com/oculeus-aims-to-protect-enterprises-against-pbx-hacking-with-new-service/
+	--
+
+[intelligence]
+	 https://www.flashpoint-intel.com/platform/
+	 https://www.silicon.co.uk/?s=artificial+intelligence/
+	 https://www.silicon.co.uk/news/data-storage/business-intelligence/
+	--
+	--
+
+[microsoft]
+	--
+	 [microsoft, mobile] http://www.zdnet.fr/actualites/microsoft-pourrait-il-presenter-hololens-v2-au-mobile-world-congress-2019-39879403.htm/
+	--
+
+[breach]
+	 https://www.safetydetective.com/blog/major-security-breach-discovered-affecting-nearly-half-of-all-airline-travelers-worldwide/
+	 https://blog.hackenproof.com/industry-news/new-report-unknown-data-scraper-breach/
+	 https://www.scmagazine.com/home/security-news/click2gov-breach-threatens-credit-card-data-of-hanover-county-residents/
+	 https://www.scmagazine.com/home/security-news/collection-1-breach-exposes-773m-unique-emails-21m-passwords/
+	--
+	--
+
+[attacks]
+	 https://www.cybersecurity-insiders.com/blockchain-technology-to-help-nasa-curb-cyber-attacks-on-airport-control-stations/
+	 https://www.cybersecurity-insiders.com/gchq-says-cyberfirstgirls-to-prevent-cyber-attacks/
+	 https://www.cybersecurity-insiders.com/list-of-countries-which-are-most-vulnerable-to-cyber-attacks/
+	--
+	--
+
+[ransomware]
+	 https://www.cybersecurity-insiders.com/category/cyber-threats/ransomware/
+	--
+	 [phishing, ransomware] https://www.cybersecurity-insiders.com/cryptomix-ransomware-masquerades-in-phishing-childrens-charity-program/
+	--
+
+[cybercrime]
+	 https://www.silicon.co.uk/news/security/cyberwar/
+	--
+	--
+
+[mobile]
+	 https://www.silicon.co.uk/news/mobility/mobile-os/
+	 https://www.silicon.co.uk/workspace/#kmm_title/
+	 https://www.safetydetective.com/blog/tag/mobile-security/
+	 https://www.silicon.co.uk/news/mobility/mobile-apps/
+	--
+	 [microsoft, mobile] http://www.zdnet.fr/actualites/microsoft-pourrait-il-presenter-hololens-v2-au-mobile-world-congress-2019-39879403.htm/
+	 [access, cloud, mobile] https://www.cybersecurity-insiders.com//
+	--
+
+[malware]
+	 https://www.infosecurity-magazine.com:443/news/ms-word-documents-spreading-net/
+	 https://www.silicon.co.uk/workspace/multi-purpose-malware-surge-strikes-enterprises-240525/
+	 https://www.cybersecurity-insiders.com/category/cyber-threats/malware/
+	--
+	 [cloud, malware] https://threatpost.com/cryptomining-malware-uninstalls-cloud-security-products/140959/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'voir', u'effective', u'feedback', u'project', u'enterprise', u'protect', u'conference', u'programs', u'misleading', u'statements', u'wordpress', u'digital', u'market', u'car', u'newsletters', u'magazine', u'mais', u'fortnite', u'sites', u'espa\xf1ol', u'tous', u'laptops', u'update', u'act', u'program', u'will', u'markets', u'flaw', u'dec', u'security-based', u'breaking', u'help', u'ceo', u'week', u'regulation', u'play', u'electric', u'creating', u'survey', u'recent', u'disclosure', u'info', u'meet', u'apple', u'blockchain', u'account', u'system', u'final', u'jan', u'phones', u'linkedin', u'testimony', u'does', u'bug']
+6 [u'cnet', u'china', u'dns', u'interview', u'adobe', u'features', u'practices', u'centreon', u'hat', u'test', u'ibm', u'magecart', u'tablets', u'avis', u'main', u'hack', u'jobs', u'awards', u'antivirus', u'careers', u'server', u'exposed', u'company', u'response', u'pay', u'20', u'interviews', u'scheme', u'threatlist', u'hackers', u'linux', u'handling', u'#kmm_items', u'files', u'uk', u'application', u'access', u'huawei', u'exchange', u'30', u'control', u'2016', u'announces', u'#kmm_articles', u'enforcement', u'view', u'career', u'subscribe', u'podcasts', u'cross', u'twitter', u'education']
+7 [u's\xe9curit\xe9', u'companies', u'secure', u'law', u'acquisition', u'advisory', u'stop', u'report', u'focus', u'leave', u'says', u'trend', u'insider', u'lindsey', u'through', u'technology', u'world', u'micro', u'financial', u'seals', u'flaws', u'information', u'ces', u'virus', u'odonnell', u'link', u'injection', u'tara', u'oracle', u'issues', u'resources', u'ccprojectzeromembers', u'investor', u'hacker', u'4g']
+8 [u'after', u'trading', u'free', u'internet', u'dactualit\xe9', u'rules', u'investment', u'advertising', u'major', u'most', u'bulletin', u'incident', u'big', u'popular', u'breach', u'products', u'our', u'adopts', u'agency', u'computer', u'government']
+9 [u'risk', u'reports', u'hacking', u'privilege', u'team', u'hacken', u'cars', u'director', u'charged', u'escalation', u'public', u'compliance', u'phishing', u'firm', u'facebook', u'software', u'web', u'ecosystem']
+10 [u'vulnerability', u'releases', u'terms', u'investors', u'folt\xfdn', u'multiples', u'industry', u'full', u'search', u'social', u'tom\xe1\u0161', u'microsoft', u'this', u'broersma', u'email', u'matthew', u'android', u'apps']
+11 [u'top', u'ransomware', u'former', u'podcast', u'two', u'intelligence', u'millions', u'windows', u'business', u'denial', u'press']
+12 [u'office', u'attacks', u'product', u'10', u'fraud', u'cet', u'threat']
+13 [u'securities', u'blog', u'research', u'services', u'google', u'smart']
+14 [u'vuln\xe9rabilit\xe9s']
+16 [u'infosecurity', u'vulnerabilities', u'cybercrime']
+17 [u'veille']
+18 [u'million', u'threats', u'cloud']
+21 [u'iot', u'mobile', u'2018']
+24 [u'service']
+26 [u'attack']
+29 [u'privacy']
+30 [u'malware']
+31 [u'new']
+33 [u'cybersecurity', u'charges']
+37 [u'2019']
+43 [u'best']
+71 [u'vigil@nce']
+86 [u'sec']
+
+
