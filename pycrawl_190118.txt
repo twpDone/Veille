@@ -1,0 +1,230 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://www.cybersecurity-insiders.com/canadas-coast-capital-savings-becomes-a-victim-of-cyber-attack/
+	 https://www.cybersecurity-insiders.com/simulated-cyber-attack-on-uk-bike-manufacturer-by-hiscox/
+	 https://www.infosecurity-magazine.com:443/news/attackers-leverage-open-source-in/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTIxNjc3Mw==/
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.scmagazine.com/home/security-news/cybercrime/tampa-bay-credit-union-members-had-their-debit-card-information-spoofed-after-threat-actors-generated-false-cards-using-the-banks-bin-numbers/
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 https://www.cybersecurity-insiders.com/using-encryption-key-management-to-navigate-the-digital-cloud-transformation/
+	 https://www.cybersecurity-insiders.com/data-protection-on-demand-helps-orgs-with-cloud-hsm-encryption-key-management-finds-test/
+	--
+	 [cloud, malware] https://www.scmagazine.com/home/security-news/cybercrime/a-new-linux-cryptocurrency-mining-malware-used-by-the-rocke-group-can-evade-detection-from-cloud-security-protocols-by-disabling-them/
+	 [cloud, malware] https://www.cybersecurity-insiders.com/chinese-crypto-mining-malware-found-uninstalling-cloud-security-tools/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/proces-facetime-apple-perd-en-appel-et-doit-payer-440-millions-de-dollars-a-virnetx-39879423.htm/
+	 https://threatpost.com/apple-ceo-demands-federal-data-privacy-legislation/140978/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	 https://www.cybersecurity-insiders.com/category/technology/artificial-intelligence/
+	--
+	--
+
+[microsoft]
+	 https://threatpost.com/microsoft-launches-azure-devops-bug-bounty-program/140984/
+	 http://www.zdnet.fr/actualites/microsoft-et-verizon-media-etendent-leur-partenariat-publicitaire-39879455.htm/
+	--
+	--
+
+[breach]
+	 http://www.securityweek.com/773-million-records-amassed-massive-data-breach-collection/
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/ongoing-attacks-hit-west-african-financial-institutions-mid-2017/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	 [cloud, malware] https://www.scmagazine.com/home/security-news/cybercrime/a-new-linux-cryptocurrency-mining-malware-used-by-the-rocke-group-can-evade-detection-from-cloud-security-protocols-by-disabling-them/
+	 [cloud, malware] https://www.cybersecurity-insiders.com/chinese-crypto-mining-malware-found-uninstalling-cloud-security-tools/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'chinese', u'leaks', u'law', u'personal', u'series', u'magazine', u'enterprise', u'patch', u'protect', u'conference', u'things', u'programs', u'misleading', u'statements', u'no', u'ng', u'newsletters', u'mais', u'alfred', u'sites', u'espa\xf1ol', u'encryption', u'laptops', u'technology', u'act', u'program', u'flaws', u'markets', u'dec', u'security-based', u'breaking', u'week', u'interviews', u'regulation', u'scheme', u'recent', u'apple', u'source', u'into', u'oracle', u'access', u'tools', u'testimony', u'announces', u'final', u'jan', u'computer', u'podcasts', u'linkedin', u'does']
+6 [u's\xe9curit\xe9', u'cnet', u'vulnerability', u'interview', u'passwords', u'free', u'features', u'ransomware', u'stop', u'digital', u'test', u'market', u'ibm', u'tablets', u'avis', u'main', u'oklahoma', u'mining', u'through', u'awards', u'antivirus', u'pay', u'careers', u'company', u'information', u'20', u'ceo', u'play', u'threatlist', u'incident', u'handling', u'big', u'#kmm_items', u'files', u'application', u'issues', u'exchange', u'2016', u'our', u'#kmm_articles', u'enforcement', u'view', u'career', u'hackers', u'education']
+7 [u'companies', u'dns', u'after', u'acquisition', u'advisory', u'report', u'focus', u'leave', u'says', u'insider', u'micro', u'ces', u'major', u'virus', u'popular', u'uk', u'breach', u'resources', u'capital', u'ccprojectzeromembers', u'this', u'investor', u'adopts', u'4g']
+8 [u'reports', u'trading', u'hacking', u'team', u'trend', u'dactualit\xe9', u'charged', u'rules', u'investment', u'advertising', u'part', u'most', u'phishing', u'link', u'bulletin', u'products', u'software', u'web', u'government', u'twitter', u'bug']
+9 [u'risk', u'magecart', u'hacken', u'cars', u'director', u'server', u'financial', u'podcast', u'public', u'compliance', u'microsoft', u'business', u'agency', u'ecosystem']
+10 [u'releases', u'terms', u'lindsey', u'investors', u'folt\xfdn', u'multiples', u'exposed', u'industry', u'full', u'two', u'millions', u'firm', u'tom\xe1\u0161', u'odonnell', u'facebook', u'broersma', u'matthew', u'apps', u'hacker']
+11 [u'top', u'product', u'internet', u'10', u'former', u'fraud', u'social', u'cet', u'windows', u'email', u'press']
+12 [u'office', u'service', u'attacks', u'search', u'services', u'intelligence', u'android']
+13 [u'blog', u'research', u'threat', u'smart']
+14 [u'securities', u'vuln\xe9rabilit\xe9s']
+16 [u'infosecurity', u'vulnerabilities']
+17 [u'iot', u'veille', u'google']
+19 [u'mobile', u'cybercrime']
+20 [u'million']
+21 [u'threats']
+23 [u'2018']
+24 [u'attack']
+25 [u'cloud']
+28 [u'privacy']
+32 [u'charges']
+33 [u'new', u'2019']
+34 [u'malware']
+35 [u'cybersecurity']
+41 [u'best']
+85 [u'sec']
+
+
