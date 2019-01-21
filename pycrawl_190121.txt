@@ -1,0 +1,240 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 http://www.securityweek.com/barracuda-adds-incident-response-email-security-offering/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://www.cybersecurity-insiders.com/russian-cyber-attack-on-dnc-after-2018-midterm-elections/
+	--
+	 [attack, services] https://www.cybersecurity-insiders.com/british-cyber-attack-disrupts-entire-telecom-services-in-liberia/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	 [kit, exploit] http://www.securityweek.com/exploit-recent-flash-zero-day-added-fallout-exploit-kit/
+	--
+
+[hacker]
+	 http://www.securityweek.com/bulgaria-extradites-russian-hacker-us-embassy/
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.cybersecurity-insiders.com/threat-hunting-blog-updates-news-discussions-events-and-new-resources/
+	--
+	--
+
+[users]
+	--
+	 [users, windows, microsoft, mobile] https://www.cybersecurity-insiders.com/mobile-security-for-microsoft-windows-phone-users-ends-so-whats-next/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 https://www.silicon.co.uk/workspace/it-life-justin-day-6point6-cloud-gateway-240399/
+	--
+	 [cloud, malware] http://www.securityweek.com/xbash-malware-uninstalls-cloud-security-products/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	 [kit, exploit] http://www.securityweek.com/exploit-recent-flash-zero-day-added-fallout-exploit-kit/
+	--
+
+[services]
+	--
+	 [attack, services] https://www.cybersecurity-insiders.com/british-cyber-attack-disrupts-entire-telecom-services-in-liberia/
+	--
+
+[windows]
+	--
+	 [windows, malware] https://www.scmagazine.com/home/security-news/researchers-find-telegram-bot-chatter-is-actually-windows-malware-commands/
+	 [users, windows, microsoft, mobile] https://www.cybersecurity-insiders.com/mobile-security-for-microsoft-windows-phone-users-ends-so-whats-next/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://www.cybersecurity-insiders.com/facebook-to-face-22-5-million-penalties-for-data-privacy-violations/
+	 https://www.cybersecurity-insiders.com/bitglass-security-spotlight-dod-facebook-nasa/
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	 https://www.welivesecurity.com/2019/01/18/two-men-charged-hacking-sec/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.securityweek.com/microsoft-launches-azure-devops-bug-bounty-program/
+	--
+	 [users, windows, microsoft, mobile] https://www.cybersecurity-insiders.com/mobile-security-for-microsoft-windows-phone-users-ends-so-whats-next/
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/data-breach/collection-1-breach-prompts-calls-for-security-updates-investment/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	 https://www.infosecurity-magazine.com:443/news/global-firms-face-5tr-in/
+	--
+	--
+
+[mobile]
+	 https://www.cybersecurity-insiders.com/category/technology/mobile/
+	--
+	 [users, windows, microsoft, mobile] https://www.cybersecurity-insiders.com/mobile-security-for-microsoft-windows-phone-users-ends-so-whats-next/
+	--
+
+[malware]
+	 https://www.safetydetective.com/blog/mac-malware-mshelper/
+	 https://www.scmagazine.com/home/security-news/google-play-boots-fake-apps-that-spy-on-devices-motion-sensor-data-before-dropping-anubis-malware/
+	--
+	 [cloud, malware] http://www.securityweek.com/xbash-malware-uninstalls-cloud-security-products/
+	 [windows, malware] https://www.scmagazine.com/home/security-news/researchers-find-telegram-bot-chatter-is-actually-windows-malware-commands/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'updates', u'companies', u'secure', u'law', u'effective', u'project', u'stop', u'conference', u'launches', u'things', u'proposes', u'misleading', u'flash', u'france', u'ibm', u'newsletters', u'statements', u'mais', u'bounty', u'sites', u'espa\xf1ol', u'case', u'act', u'markets', u'dec', u'security-based', u'breaking', u'major', u'interviews', u'regulation', u'part', u'773', u'creating', u'linux', u'elections', u'uk', u'oracle', u'breaches', u'midterm', u'united', u'testimony', u'out', u'announces', u'final', u'podcasts', u'linkedin', u'education', u'eric']
+6 [u's\xe9curit\xe9', u'cnet', u'dns', u'interview', u'free', u'practices', u'enterprise', u'ransomware', u'violations', u'programs', u'digital', u'test', u'magazine', u'tablets', u'main', u'than', u'18', u'through', u'awards', u'spotlight', u'pay', u'careers', u'exposed', u'program', u'company', u'information', u'threatlist', u'handling', u'#kmm_items', u'into', u'users', u'capital', u'exchange', u'our', u'#kmm_articles', u'enforcement', u'view', u'career', u'avis', u'smartphones']
+7 [u'dnc', u'passwords', u'features', u'acquisition', u'advisory', u'focus', u'leave', u'insider', u'magecart', u'laptops', u'micro', u'advertising', u'response', u'20', u'ceo', u'ces', u'week', u'scheme', u'most', u'recent', u'big', u'popular', u'application', u'ccprojectzeromembers', u'this', u'investor', u'adopts', u'face', u'computer', u'government', u'4g']
+8 [u'risk', u'vulnerability', u'reports', u'trading', u'report', u'team', u'trend', u'internet', u'dactualit\xe9', u'antivirus', u'rules', u'financial', u'compliance', u'phishing', u'firm', u'link', u'bulletin', u'resources', u'agency', u'jan', u'web']
+9 [u'hacken', u'cars', u'director', u'charged', u'multiples', u'industry', u'investment', u'public', u'incident', u'russian', u'breach', u'products', u'twitter', u'ecosystem']
+10 [u'terms', u'attacks', u'10', u'investors', u'podcast', u'full', u'search', u'social', u'two', u'play', u'microsoft', u'intelligence', u'business', u'software', u'broersma', u'matthew', u'hackers', u'bug', u'hacker']
+11 [u'office', u'top', u'hacking', u'releases', u'says', u'lindsey', u'former', u'folt\xfdn', u'fraud', u'cet', u'tom\xe1\u0161', u'odonnell', u'press']
+12 [u'service', u'securities', u'services', u'windows']
+13 [u'product', u'email', u'android']
+14 [u'after', u'blog', u'research', u'iot', u'threat', u'vulnerabilities', u'vuln\xe9rabilit\xe9s', u'facebook', u'smart', u'apps']
+15 [u'google']
+16 [u'infosecurity']
+17 [u'veille']
+18 [u'attack']
+20 [u'cybercrime']
+21 [u'threats']
+22 [u'cloud', u'2018']
+23 [u'million']
+25 [u'mobile']
+29 [u'cybersecurity']
+31 [u'charges']
+32 [u'privacy']
+33 [u'malware']
+35 [u'new']
+36 [u'2019']
+43 [u'best']
+85 [u'sec']
+
+
