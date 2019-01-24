@@ -1,0 +1,262 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 https://www.cybersecurity-insiders.com/incident-response-steps-comparison-guide/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://threatpost.com/chaos-iphone-x-jailbreak/141104/
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-salisbury-police-department/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/belgium-metal-producer-nyrstar-hit-by-a-ransomware-attack/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 https://www.infosecurity-magazine.com:443/news/hacker-demos-jailbreak-of-ios-on/
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://www.scmagazine.com/home/security-news/insider-threats/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	 https://www.scmagazine.com/home/security-news/government-and-defense/dhs-issues-emergency-directive-to-protect-federal-domains-from-dns-hijacking-campaign/
+	--
+	 [dns, attacks] https://threatpost.com/gov-warning-dns-hijacking/141088/
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://threatpost.com/6-signs-of-successful-threat-hunting/141102/
+	--
+	 [threat, intelligence] http://www.securityweek.com/recorded-future-adds-third-party-risk-threat-intelligence-platform/
+	--
+
+[users]
+	 https://www.welivesecurity.com/2019/01/21/twitter-bug-may-exposed-private-tweets-android-users-years/
+	--
+	 [users, phishing, attacks] http://www.securityweek.com/alphabets-jigsaw-helps-users-identify-phishing-attacks/
+	 [users, malware] https://threatpost.com/malware-in-ad-based-images-targets-mac-users/141115/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.welivesecurity.com/2019/01/23/former-employee-blamed-hack-wordpress-plugin/
+	--
+	--
+
+[linux]
+	 http://www.securityweek.com/code-execution-vulnerability-impacts-linux-package-manager/
+	 http://www.zdnet.fr/actualites/un-mechant-bug-de-securite-identifie-et-corrige-dans-linux-apt-39879689.htm/
+	--
+	--
+
+[cloud]
+	--
+	 [cloud, services] https://scmagazine.icrowdnewswire.com/news.php?id=MTIyODk5NQ==/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	 [cloud, services] https://scmagazine.icrowdnewswire.com/news.php?id=MTIyODk5NQ==/
+	--
+
+[windows]
+	--
+	 [windows, microsoft] https://www.silicon.co.uk/mobility/smartphones/microsoft-end-windows-phone-240643/
+	 [windows, microsoft] https://threatpost.com/microsoft-windows-rce-flaw-gets-temporary-micropatch/141067/
+	--
+
+[phishing]
+	--
+	 [users, phishing, attacks] http://www.securityweek.com/alphabets-jigsaw-helps-users-identify-phishing-attacks/
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 https://www.scmagazine.com/home/security-news/apple-tuesday-released-updates-to-address-vulnerabilities-in-several-of-its-products-including-its-macos-and-ios-operating-systems/
+	 http://www.securityweek.com/apple-patches-dozens-vulnerabilities-ios-macos/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-032/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	 https://www.scmagazine.com/home/opinion/balancing-ai-with-human-intelligence-in-cybersecurity/
+	--
+	 [intelligence, malware] http://www.securityweek.com/webinar-today-virustotal-intelligence-powered-malware-hunting/
+	 [threat, intelligence] http://www.securityweek.com/recorded-future-adds-third-party-risk-threat-intelligence-platform/
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/bing-le-moteur-de-recherche-de-microsoft-inaccessible-en-chine-39879709.htm/
+	--
+	 [windows, microsoft] https://www.silicon.co.uk/mobility/smartphones/microsoft-end-windows-phone-240643/
+	 [windows, microsoft] https://threatpost.com/microsoft-windows-rce-flaw-gets-temporary-micropatch/141067/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/analyzing-2018-attacks-prepare-those-2019/
+	 https://www.scmagazine.com/home/opinion/making-office-iot-attacks-doa/
+	 https://www.infosecurity-magazine.com:443/news/2018-the-year-of-next-generation/
+	 http://www.securityweek.com/flaws-moxa-iiot-product-expose-ics-remote-attacks/
+	--
+	 [users, phishing, attacks] http://www.securityweek.com/alphabets-jigsaw-helps-users-identify-phishing-attacks/
+	 [dns, attacks] https://threatpost.com/gov-warning-dns-hijacking/141088/
+	 [attacks, ransomware] https://www.scmagazine.com/home/security-news/malware/ai-use-in-ransomware-attacks-and-sextortion-schemes-top-malwarebytes-2018-report/
+	--
+
+[ransomware]
+	 https://www.scmagazine.com/home/security-news/fresh-faced-anatova-ransomware-created-by-skilled-developers-researchers-warn/
+	 https://www.scmagazine.com/home/security-news/downloads-of-cracked-software-distribute-ransomware-via-adware-bundles/
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-salisbury-police-department/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/belgium-metal-producer-nyrstar-hit-by-a-ransomware-attack/
+	 [attacks, ransomware] https://www.scmagazine.com/home/security-news/malware/ai-use-in-ransomware-attacks-and-sextortion-schemes-top-malwarebytes-2018-report/
+	--
+
+[cybercrime]
+	--
+	 [cybercrime, malware] https://threatpost.com/monero-cybercrime-mining-malware/141116/
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/home/security-news/cybercrime/swiss-non-profit-cybersecurity-firm-abuse-ch-announced-it-has-taken-down-100000-malware-distribution-sites-in-10-months/
+	 https://threatpost.com/roguerobin-google-drive-c2/141079/
+	--
+	 [cybercrime, malware] https://threatpost.com/monero-cybercrime-mining-malware/141116/
+	 [intelligence, malware] http://www.securityweek.com/webinar-today-virustotal-intelligence-powered-malware-hunting/
+	 [users, malware] https://threatpost.com/malware-in-ad-based-images-targets-mac-users/141115/
+	--
+
+[vigil@nce]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'updates', u'companies', u'law', u'network', u'apt', u'acquisition', u'enterprise', u'amazon', u'conference', u'steps', u'ics', u'misleading', u'statements', u'environment', u'market', u'france', u'ibm', u'newsletters', u'mac', u'platform', u'than', u'espa\xf1ol', u'laptops', u'case', u'week', u'critical', u'program', u'markets', u'flaw', u'dec', u'security-based', u'breaking', u'fined', u'interviews', u'regulation', u'scheme', u'headlines', u'banking', u'innovation', u'uk', u'users', u'capital', u'testimony', u'out', u'announces', u'final', u'jan', u'plugin', u'career', u'phones', u'podcasts', u'linkedin', u'hackers', u'eric']
+6 [u'cnet', u'interview', u'fic', u'free', u'features', u'practices', u'protect', u'launches', u'digital', u'test', u'says', u'tablets', u'mais', u'main', u'through', u'awards', u'technology', u'pay', u'careers', u'advertising', u'company', u'response', u'20', u'ceo', u'threatlist', u'firm', u'handling', u'recent', u'big', u'#kmm_items', u'into', u'link', u'application', u'exchange', u'ccprojectzeromembers', u'this', u'our', u'#kmm_articles', u'enforcement', u'view', u'computer', u'avis', u'education']
+7 [u'secure', u'advisory', u'programs', u'focus', u'insider', u'magecart', u'internet', u'antivirus', u'multiples', u'exposed', u'micro', u'financial', u'information', u'ces', u'most', u'popular', u'breach', u'resources', u'huawei', u'investor', u'adopts', u'web', u'4g']
+8 [u'vulnerability', u'reports', u'trading', u'report', u'leave', u'team', u'dactualit\xe9', u'charged', u'remote', u'investment', u'compliance', u'creating', u'incident', u'linux', u'bulletin', u'issues', u'apple', u'agency', u'ios', u'does', u'bug']
+9 [u's\xe9curit\xe9', u'seals', u'dns', u'after', u'hacking', u'two', u'trend', u'hacken', u'cars', u'director', u'industry', u'podcast', u'public', u'phishing', u'tara', u'facebook', u'broersma', u'matthew', u'twitter', u'ecosystem', u'hacker']
+10 [u'risk', u'terms', u'investors', u'rules', u'fraud', u'full', u'microsoft', u'products', u'android', u'apps']
+11 [u'securities', u'social', u'cet', u'vuln\xe9rabilit\xe9s', u'press']
+12 [u'office', u'service', u'releases', u'product', u'folt\xfdn', u'business', u'search', u'research', u'services', u'windows', u'tom\xe1\u0161', u'email']
+13 [u'former', u'blog', u'iot', u'software', u'smart']
+14 [u'threat', u'intelligence']
+15 [u'10']
+16 [u'top', u'infosecurity']
+17 [u'attacks', u'veille']
+18 [u'ransomware', u'million', u'vulnerabilities', u'attack']
+19 [u'cloud', u'cybercrime']
+20 [u'mobile']
+21 [u'2018']
+23 [u'threats']
+24 [u'google']
+27 [u'new']
+30 [u'charges']
+31 [u'privacy']
+32 [u'malware']
+33 [u'cybersecurity']
+36 [u'2019']
+41 [u'best']
+84 [u'sec']
+
+
