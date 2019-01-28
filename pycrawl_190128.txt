@@ -1,0 +1,240 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://www.scmagazine.com/home/security-news/wordpress-wosd-protection-feature-could-make-sites-vulnerable-to-attack/
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-akron-city-of-ohio/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	 https://www.sec.gov/news/press-release/2019-2/
+	--
+	--
+
+[threats]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTIyODc4Nw==/
+	 https://www.scmagazine.com/home/opinion/amid-government-shutdown-cybersecurity-threats-loom-putting-america-at-risk/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	 [users, apple, malware] https://www.infosecurity-magazine.com:443/news/sneaky-malvertisers-target-apple/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 https://www.cybersecurity-insiders.com/category/technology/cloud/
+	--
+	 [cloud, attacks] https://www.infosecurity-magazine.com:443/news/targeted-attacks-abusing-google/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	 [phishing, ransomware] https://threatpost.com/phishing-gandcrab-ursnif/141182/
+	 [phishing, attacks] https://www.scmagazine.com/home/security-news/threat-actors-are-sending-out-a-wave-of-phishing-emails-disguised-as-missed-voicemail-notifications-in-an-attempt-to-bypass-both-email-scanners-and-user-suspicions/
+	--
+
+[facebook]
+	 https://www.scmagazine.com/home/security-news/the-electronic-privacy-information-center-announced-it-has-joined-a-coalition-of-groups-urging-the-ftc-in-a-letter-to-break-up-facebook-as-well-as-issue-strong-penalties-against-the-social-media-gian/
+	--
+	--
+
+[apple]
+	--
+	 [users, apple, malware] https://www.infosecurity-magazine.com:443/news/sneaky-malvertisers-target-apple/
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/multicloud-de-plus-en-plus-de-clients-associent-aws-et-microsoft-azure-39879805.htm/
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/flaws-expose-phoenix-contact-industrial-switches-attacks/
+	 https://www.cybersecurity-insiders.com/ukraine-blames-russia-for-cyber-attacks-targeting-elections/
+	 http://www.securityweek.com/cobalt-hackers-use-google-app-engine-recent-attacks/
+	--
+	 [cloud, attacks] https://www.infosecurity-magazine.com:443/news/targeted-attacks-abusing-google/
+	 [attacks, malware] https://threatpost.com/razy-browser-extensions-theft/141181/
+	 [phishing, attacks] https://www.scmagazine.com/home/security-news/threat-actors-are-sending-out-a-wave-of-phishing-emails-disguised-as-missed-voicemail-notifications-in-an-attempt-to-bypass-both-email-scanners-and-user-suspicions/
+	--
+
+[ransomware]
+	--
+	 [phishing, ransomware] https://threatpost.com/phishing-gandcrab-ursnif/141182/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-akron-city-of-ohio/
+	--
+
+[cybercrime]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTIyODc5OA==/
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/home/security-news/russians-targeted-in-redaman-banking-malware-operation/
+	--
+	 [attacks, malware] https://threatpost.com/razy-browser-extensions-theft/141181/
+	 [users, apple, malware] https://www.infosecurity-magazine.com:443/news/sneaky-malvertisers-target-apple/
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'protection', u'financial', u'materials', u'conference', u'misleading', u'wordpress', u'says', u'newsletters', u'magazine', u'statements', u'mais', u'botnets', u'than', u'russia', u'espa\xf1ol', u'sites', u'case', u'technology', u'act', u'vid\xe9o', u'dec', u'security-based', u'breaking', u'response', u'ceo', u'avec', u'interviews', u'regulation', u'scheme', u'virus', u'impact', u'linux', u'firm', u'users', u'breach', u'download', u'huawei', u'capital', u'exchange', u'apple', u'testimony', u'announces', u'final', u'enforcement', u'cryptocurrency', u'computer', u'career', u'podcasts', u'linkedin', u'education', u'eric', u'hacker']
+6 [u'cnet', u'interview', u'law', u'free', u'features', u'report', u'ibm', u'magecart', u'tablets', u'main', u'webcasts', u'through', u'awards', u'laptops', u'spotlight', u'pay', u'careers', u'exposed', u'critical', u'advertising', u'markets', u'company', u'20', u'banking', u'creating', u'handling', u'recent', u'big', u'#kmm_items', u'into', u'application', u'microsoft', u'ccprojectzeromembers', u'investor', u'our', u'#kmm_articles', u'view', u'avis', u'hackers', u'bug']
+7 [u's\xe9curit\xe9', u'vulnerability', u'network', u'advisory', u'programs', u'leave', u'trend', u'antivirus', u'week', u'multiples', u'micro', u'information', u'ces', u'most', u'bulletin', u'threatlist', u'incident', u'popular', u'link', u'uk', u'resources', u'products', u'adopts', u'agency', u'twitter', u'does', u'4g']
+8 [u'companies', u'reports', u'secure', u'work', u'after', u'trading', u'acquisition', u'test', u'focus', u'team', u'insider', u'internet', u'dactualit\xe9', u'investment', u'compliance', u'issues', u'this', u'jan', u'android', u'web']
+9 [u'hacking', u'two', u'hacken', u'cars', u'director', u'rules', u'podcast', u'seals', u'windows', u'tara', u'broersma', u'matthew', u'ecosystem']
+10 [u'risk', u'dns', u'releases', u'terms', u'securities', u'investors', u'charged', u'fraud', u'public', u'full', u'social', u'services', u'facebook', u'apps']
+11 [u'office', u'product', u'folt\xfdn', u'industry', u'search', u'cet', u'threat', u'tom\xe1\u0161', u'email', u'press']
+12 [u'service', u'ransomware', u'intelligence']
+13 [u'former', u'blog', u'research', u'vuln\xe9rabilit\xe9s', u'smart']
+14 [u'iot', u'software', u'attack']
+15 [u'top', u'10', u'phishing', u'business', u'cybercrime']
+16 [u'infosecurity', u'vulnerabilities']
+17 [u'million', u'veille']
+18 [u'google']
+20 [u'cloud']
+21 [u'mobile']
+22 [u'2018']
+23 [u'new']
+28 [u'attacks', u'threats']
+30 [u'charges']
+33 [u'malware', u'2019', u'privacy']
+37 [u'cybersecurity']
+40 [u'best']
+84 [u'sec']
+
+
