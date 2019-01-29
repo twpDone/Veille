@@ -1,0 +1,243 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://threatpost.com/dailymotion-credential-stuffing/141223/
+	--
+	 [attack, ransomware, altran] https://www.cybersecurity-insiders.com/altran-hit-by-a-cyber-attack-and-ransomware-is-suspect/
+	--
+
+[routers]
+	 https://threatpost.com/scans-cisco-routers-code-execution/141218/
+	--
+	 [routers, exploit] https://www.scmagazine.com/home/security-news/vulnerabilities/attackers-scanning-unpatched-cisco-small-business-routers-after-exploit-code-published/
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 http://www.zdnet.fr/actualites/le-japon-pret-a-hacker-les-terminaux-iot-des-citoyens-39879905.htm/
+	--
+	--
+
+[industry]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTIzODM3NA==/
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://threatpost.com/wordpress-users-urged-to-delete-zero-day-ridden-plugin/141209/
+	--
+	 [users, services] http://www.securityweek.com/authorities-track-down-users-ddos-services/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.scmagazine.com/home/security-news/japanese-govt-to-hack-civilian-iot-devices-in-security-push-before-olympics/
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 https://www.silicon.co.uk/workspace/gartner-cloud-spending-fuels-enterprise-software-spending-surge-240919/
+	 https://www.cybersecurity-insiders.com/healthcare-a-cloud-security-investigation-csi/
+	 https://securityintelligence.com/succeed-in-your-digital-transformation-with-a-secure-hybrid-cloud-strategy/?src=widget/
+	 https://www.cybersecurity-insiders.com/education-a-cloud-security-investigation-csi/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	 [routers, exploit] https://www.scmagazine.com/home/security-news/vulnerabilities/attackers-scanning-unpatched-cisco-small-business-routers-after-exploit-code-published/
+	--
+
+[services]
+	--
+	 [users, services] http://www.securityweek.com/authorities-track-down-users-ddos-services/
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	 [phishing, ransomware] https://www.scmagazine.com/home/security-news/phishing-campaign-throws-shade-ransomware-at-russians/
+	--
+
+[facebook]
+	 https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/facebook-readying-for-upcoming-election-cycles/
+	 http://www.securityweek.com/privacy-fears-raised-over-facebook-messaging-apps-integration/
+	--
+	--
+
+[apple]
+	 http://www.securityweek.com/apple-working-patch-prevent-facetime-spying/
+	 http://www.zdnet.fr/actualites/la-strategie-manquee-d-apple-sur-le-haut-de-gamme-en-inde-39879909.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	 https://www.cybersecurity-insiders.com/irish-data-watchdog-starts-an-investigation-on-twitters-data-breach-concerns/
+	--
+	--
+
+[attacks]
+	 https://www.cybersecurity-insiders.com/enterprises-around-the-globe-must-be-ready-for-mega-cyber-attacks/
+	--
+	--
+
+[ransomware]
+	 https://www.welivesecurity.com/2019/01/28/russia-hit-new-wave-ransomware-spam/
+	--
+	 [phishing, ransomware] https://www.scmagazine.com/home/security-news/phishing-campaign-throws-shade-ransomware-at-russians/
+	 [attack, ransomware, altran] https://www.cybersecurity-insiders.com/altran-hit-by-a-cyber-attack-and-ransomware-is-suspect/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 http://www.securityweek.com/netcraft-launches-anti-phishing-mobile-app/
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	 [attack, ransomware, altran] https://www.cybersecurity-insiders.com/altran-hit-by-a-cyber-attack-and-ransomware-is-suspect/
+	--
+
+
+ KeyWords : 
+5 [u'regional', u'protection', u'over', u'financial', u'medical', u'enterprise', u'solutions', u'conference', u'misleading', u'no', u'altran', u'newsletters', u'magecart', u'mac', u'statements', u'teri', u'webcasts', u'lindsey', u'millions', u'espa\xf1ol', u'sites', u'awards', u'laptops', u'spotlight', u'exposed', u'act', u'small', u'gdpr', u'markets', u'security-based', u'robinson', u'court', u'breaking', u'response', u'ceo', u'regulation', u'virus', u'impact', u'hit', u'linux', u'recent', u'big', u'popular', u'odonnell', u'up', u'capital', u'exchange', u'testimony', u'announces', u'retail', u'final', u'enforcement', u'cryptocurrency', u'computer', u'podcasts', u'linkedin', u'government', u'eric']
+6 [u'cnet', u'secure', u'work', u'network', u'features', u'report', u'wordpress', u'happy', u'leave', u'ibm', u'tablets', u'avis', u'main', u'through', u'20', u'case', u'pay', u'careers', u'cisco', u'seals', u'advertising', u'company', u'ces', u'interviews', u'scheme', u'threatlist', u'banking', u'handling', u'#kmm_items', u'uk', u'tara', u'application', u'breaches', u'ccprojectzeromembers', u'investor', u'our', u'#kmm_articles', u'view', u'career', u'phones', u'twitter', u'education']
+7 [u's\xe9curit\xe9', u'companies', u'vulnerability', u'interview', u'free', u'programs', u'down', u'focus', u'trend', u'hacker', u'antivirus', u'week', u'multiples', u'micro', u'investment', u'information', u'most', u'incident', u'firm', u'violations', u'link', u'bulletin', u'breach', u'resources', u'adopts', u'4g']
+8 [u'reports', u'dns', u'trading', u'acquisition', u'advisory', u'team', u'insider', u'internet', u'dactualit\xe9', u'technology', u'windows', u'issues', u'huawei', u'products', u'this', u'agency', u'android', u'web']
+9 [u'risk', u'hacking', u'facetime', u'two', u'test', u'hacken', u'cars', u'charged', u'rules', u'podcast', u'public', u'compliance', u'facebook', u'broersma', u'matthew', u'ecosystem']
+10 [u'releases', u'terms', u'securities', u'product', u'folt\xfdn', u'director', u'fraud', u'full', u'search', u'social', u'cet', u'threat', u'tom\xe1\u0161', u'jan', u'email', u'bug']
+11 [u'after', u'10', u'investors', u'industry', u'apple', u'press', u'apps']
+12 [u'service', u'top', u'former', u'intelligence', u'phishing', u'software']
+13 [u'office', u'blog', u'research', u'google', u'vuln\xe9rabilit\xe9s', u'smart']
+14 [u'services']
+15 [u'million', u'business', u'cybercrime', u'attack']
+16 [u'infosecurity', u'vulnerabilities']
+17 [u'veille']
+18 [u'iot']
+19 [u'ransomware', u'attacks', u'2018']
+21 [u'mobile']
+22 [u'cloud']
+23 [u'threats']
+26 [u'new']
+29 [u'malware']
+32 [u'cybersecurity', u'charges']
+35 [u'2019']
+39 [u'privacy']
+41 [u'best']
+82 [u'sec']
+
+
