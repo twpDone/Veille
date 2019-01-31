@@ -1,0 +1,253 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	 [access, cloud] https://www.scmagazine.com/home/opinion/cloud-access-governance-because-the-best-defense-is-a-good-offense/
+	 [access, service] https://scmagazine.icrowdnewswire.com/news.php?id=MTI0MjkwMw==/
+	--
+
+[attack]
+	 https://www.welivesecurity.com/2019/01/30/were-coming-global-police-tell-ddos-attack-buyers/
+	--
+	 [attack, ransomware, altran] https://www.scmagazine.com/home/security-news/possible-ransomware-attack-disturbs-altran-technologies-european-operations/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	 https://www.cybersecurity-insiders.com/planning-to-take-an-isc%c2%b2-certification-exam-get-your-free-certification-prep-kit-2/
+	 https://www.cybersecurity-insiders.com/planning-to-take-an-isc%c2%b2-certification-exam-get-your-free-certification-prep-kit/
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	 https://www.infosecurity-magazine.com:443/news/new-uk-fraud-rules-set-to-empower/
+	--
+	--
+
+[threats]
+	--
+	 [threats, mobile] https://blog.trendmicro.com/trendlabs-security-intelligence/author/lorinw/
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [access, service] https://scmagazine.icrowdnewswire.com/news.php?id=MTI0MjkwMw==/
+	--
+
+[faille]
+	 http://www.zdnet.fr/actualites/facetime-la-faille-a-ete-trouvee-par-un-ado-qui-jouait-a-fortnite-39879973.htm/
+	--
+	--
+
+[threat]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI0MjkwNg==/
+	 https://www.scmagazine.com/home/security-news/kaspersky-researchers-have-discovered-overlap-between-the-greyenergy-threat-group-considered-the-successor-to-blackenergy-and-the-sofacy-subset-zebrocy/
+	--
+	--
+
+[users]
+	--
+	 [users, facebook] http://www.securityweek.com/facebook-paid-users-track-smartphone-use-report/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-035/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-038/
+	--
+	--
+
+[cloud]
+	 http://www.zdnet.fr/actualites/microsoft-l-amour-du-cloud-au-2e-trimestre-39880011.htm/
+	 http://www.securityweek.com/mimecast-acquires-cloud-migration-firm-simply-migrate/
+	 https://www.cybersecurity-insiders.com/intel-invests-in-cloud-security-and-data-storage-startups/
+	 https://www.cybersecurity-insiders.com/finance-a-cloud-security-investigation-csi/
+	--
+	 [access, cloud] https://www.scmagazine.com/home/opinion/cloud-access-governance-because-the-best-defense-is-a-good-offense/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://www.cybersecurity-insiders.com/facebook-research-app-data-scandal/
+	 http://www.zdnet.fr/actualites/respect-des-donnees-personnelles-sur-ios-google-facebook-meme-combat-39880025.htm/
+	--
+	 [users, facebook] http://www.securityweek.com/facebook-paid-users-track-smartphone-use-report/
+	 [facebook, apple] https://threatpost.com/apple-blasts-facebook-over-data-sucking-research-app/141311/
+	--
+
+[apple]
+	 https://www.scmagazine.com/home/security-news/houston-attorney-larry-williams-is-suing-apple-over-the-recently-disclosed-facetime-bug-which-allows-callers-to-listen-to-the-audio-of-the-recipient-before-they-answer-the-phone/
+	 http://www.zdnet.fr/actualites/apple-et-facebook-a-couteaux-tires-sur-la-question-des-donnees-39879989.htm/
+	 https://threatpost.com/apple-disables-group-facetime-following-major-privacy-glitch/141268/
+	 https://www.welivesecurity.com/2019/01/29/apple-takes-group-facetime-offline-discovery-spying-bug/
+	--
+	 [facebook, apple] https://threatpost.com/apple-blasts-facebook-over-data-sucking-research-app/141311/
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/firefox-doit-il-rejoindre-le-navire-chrome-comme-le-soutient-un-cadre-de-microsoft-39879925.htm/
+	--
+	--
+
+[breach]
+	 http://www.securityweek.com/employee-data-compromised-airbus-breach/
+	 https://www.scmagazine.com/home/security-news/u-s-district-judge-lucy-koh-in-san-jose-california-rejected-yahoos-proposed-data-breach-settlement-offer-faulting-yahoos-lack-of-transparency/
+	 https://www.cybersecurity-insiders.com/ways-to-respond-to-a-breach/
+	 https://www.infosecurity-magazine.com:443/news/airbus-staff-caught-in-data-breach/
+	 http://www.securityweek.com/yahoo-breach-settlement-rejected-judge/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware, altran] https://www.scmagazine.com/home/security-news/possible-ransomware-attack-disturbs-altran-technologies-european-operations/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/mobile/
+	--
+	 [threats, mobile] https://blog.trendmicro.com/trendlabs-security-intelligence/author/lorinw/
+	--
+
+[malware]
+	 https://threatpost.com/malware-wordpress-license-key/141315/
+	 https://www.scmagazine.com/home/security-news/mobile-security/beauty-camera-apps-malware-not-so-pretty/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	 [attack, ransomware, altran] https://www.scmagazine.com/home/security-news/possible-ransomware-attack-disturbs-altran-technologies-european-operations/
+	--
+
+
+ KeyWords : 
+5 [u'regional', u'secure', u'brings', u'financial', u'acquisition', u'enterprise', u'tips', u'conference', u'misleading', u'happy', u'ddos', u'ng', u'global', u'newsletters', u'magecart', u'statements', u'hacker', u'alfred', u'channel', u'espa\xf1ol', u'black', u'awards', u'laptops', u'case', u'exposed', u'talks', u'program', u'markets', u'company', u'security-based', u'breaking', u'regulation', u'play', u'microsoft', u'threatlist', u'donn\xe9es', u'handling', u'dark', u'big', u'into', u'info', u'breaches', u'capital', u'exchange', u'30', u'firefox', u'testimony', u'announces', u'2019?', u'retail', u'final', u'enforcement', u'have', u'computer', u'podcasts', u'linkedin', u'hearted', u'storage', u'executive', u'education', u'eric', u'phish']
+6 [u's\xe9curit\xe9', u'over', u'network', u'features', u'down', u'leave', u'says', u'trend', u'insider', u'tablets', u'avis', u'main', u'lindsey', u'18', u'through', u'technology', u'pay', u'careers', u'settlement', u'advertising', u'information', u'20', u'micro', u'major', u'interviews', u'startup', u'incident', u'linux', u'popular', u'odonnell', u'#kmm_items', u'link', u'uk', u'application', u'users', u'ccprojectzeromembers', u'investor', u'our', u'#kmm_articles', u'cryptocurrency', u'career']
+7 [u'cnet', u'companies', u'interview', u'chrome', u'things', u'programs', u'test', u'focus', u'ibm', u'certification', u'seals', u'investment', u'impact', u'firm', u'twitter', u'windows', u'tara', u'bulletin', u'resources', u'products', u'software', u'adopts', u'view', u'4g']
+8 [u'launches', u'vulnerability', u'reports', u'dns', u'trading', u'advisory', u'compliance', u'dactualit\xe9', u'antivirus', u'charged', u'multiples', u'podcast', u'scheme', u'most', u'issues', u'huawei', u'agency', u'android', u'ios']
+9 [u'free', u'hacking', u'ransomware', u'securities', u'team', u'internet', u'hacken', u'cars', u'10', u'two', u'week', u'this', u'email', u'web', u'ecosystem']
+10 [u'top', u'releases', u'terms', u'facetime', u'product', u'director', u'rules', u'industry', u'public', u'full', u'social', u'cet', u'phishing', u'app', u'broersma', u'jan', u'matthew', u'bug']
+11 [u'risk', u'after', u'report', u'investors', u'former', u'search', u'intelligence', u'business', u'smart', u'press']
+12 [u'office', u'attacks', u'folt\xfdn', u'fraud', u'threat', u'tom\xe1\u0161']
+13 [u'service', u'million', u'blog', u'breach', u'apps']
+14 [u'vulnerabilities', u'services', u'vuln\xe9rabilit\xe9s', u'apple', u'cybercrime', u'attack']
+16 [u'infosecurity']
+17 [u'iot', u'veille']
+19 [u'research', u'facebook', u'2018']
+22 [u'google']
+25 [u'mobile']
+26 [u'threats', u'cloud', u'malware']
+27 [u'new', u'cybersecurity']
+33 [u'charges']
+36 [u'2019']
+41 [u'best', u'privacy']
+83 [u'sec']
+
+
