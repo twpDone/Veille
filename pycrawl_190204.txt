@@ -1,0 +1,249 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://www.cybersecurity-insiders.com/us85-billion-to-us193-billion-global-cyber-attack-loss/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	 http://www.zdnet.fr/actualites/5g-4g-et-3g-une-nouvelles-faille-de-securite-mise-a-jour-39880077.htm/
+	--
+	--
+
+[threat]
+	 https://threatpost.com/themoon-botnet-as-a-service/141393/
+	--
+	--
+
+[users]
+	 https://www.infosecurity-magazine.com:443/news/why-all-users-should-change/
+	--
+	 [users, breach] http://www.securityweek.com/home-design-website-houzz-alerts-users-data-breach/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-041/
+	--
+	--
+
+[cloud]
+	 https://www.cybersecurity-insiders.com/tsn-acquires-aws-cloud-security-partner-cloudten-for-8-6-million/
+	 https://www.cybersecurity-insiders.com/top-5-benefits-of-public-cloud-computing-versus-traditional-it-2/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	 [services, cybercrime] https://www.welivesecurity.com/2019/01/31/cybercrime-black-markets-dark-web-services-and-prices/
+	 [services, breach] http://www.securityweek.com/minnesota-department-human-services-reports-data-breach/
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	 [phishing, attacks] https://www.scmagazine.com/home/opinion/even-as-the-government-shutdown-ends-expect-a-spike-in-irs-phishing-attacks/
+	--
+
+[facebook]
+	 https://threatpost.com/facebook-boots-hundreds-of-iran-linked-accounts-for-spreading-misinformation/141389/
+	 http://www.securityweek.com/facebook-takes-down-vast-iran-led-manipulation-campaign/
+	--
+	--
+
+[apple]
+	 https://www.welivesecurity.com/category/apple/
+	 http://www.securityweek.com/apple-partially-fixes-facetime-spying-bug/
+	--
+	--
+
+[hacking]
+	 https://www.scmagazine.com/home/security-news/cybercrime/hacking-back/
+	 https://www.scmagazine.com/home/security-news/who-dat-talkin-about-hacking-the-super-bowl/
+	--
+	--
+
+[intelligence]
+	 https://www.cybersecurity-insiders.com/beer-brewed-by-artificial-intelligence/
+	--
+	--
+
+[microsoft]
+	 https://www.silicon.co.uk/cloud/cloud-management/microsoft-azure-growth-slows-240999/
+	 http://www.cert.ssi.gouv.fr/alerte/CERTFR-2019-ALE-002/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/cybercrime/we-must-protect-this-houzz-home-improvement-website-discloses-breach/
+	 https://threatpost.com/houzz-data-breach/141426/
+	--
+	 [services, breach] http://www.securityweek.com/minnesota-department-human-services-reports-data-breach/
+	 [users, breach] http://www.securityweek.com/home-design-website-houzz-alerts-users-data-breach/
+	--
+
+[attacks]
+	--
+	 [phishing, attacks] https://www.scmagazine.com/home/opinion/even-as-the-government-shutdown-ends-expect-a-spike-in-irs-phishing-attacks/
+	--
+
+[ransomware]
+	 https://www.scmagazine.com/home/security-news/true-crime-samsam-ransomware-i-am/
+	--
+	--
+
+[cybercrime]
+	 https://www.scmagazine.com/home/opinion/cybercrime-pays-on-both-sides/
+	 https://www.scmagazine.com/home/security-news/cybercrime/bullish-on-cybercrime/
+	--
+	 [services, cybercrime] https://www.welivesecurity.com/2019/01/31/cybercrime-black-markets-dark-web-services-and-prices/
+	--
+
+[mobile]
+	 https://www.cybersecurity-insiders.com/security-in-our-mobile-phones-is-extremely-weak-say-checkpoint-experts/
+	--
+	--
+
+[malware]
+	 https://securityintelligence.com/hey-siri-get-my-coffee-hold-the-malware/?src=widget/
+	 https://threatpost.com/chafer-iran-apt-malware/141420/
+	 https://www.scmagazine.com/home/security-news/cryptocurrency/mac-and-chrome-info-stealer-and-cryptomining-malware-in-the-wild/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'regional', u'tips', u'protection', u'secure', u'my', u'financial', u'cameras', u'cookies', u'acquisition', u'conference', u'chrome', u'experts', u'misleading', u'down', u'devices', u'newsletters', u'magazine', u'statements', u'espa\xf1ol', u'black', u'awards', u'laptops', u'case', u'technology', u'exposed', u'talks', u'tv', u'takes', u'company', u'security-based', u'response', u'regulation', u'threatlist', u'firm', u'handling', u'into', u'spam', u'info', u'up', u'users', u'huawei', u'capital', u'30', u'firefox', u'app', u'testimony', u'retail', u'final', u'enforcement', u'computer', u'attaques', u'career', u'linkedin', u'ios', u'executive', u'hackers', u'education', u'eric']
+6 [u's\xe9curit\xe9', u'companies', u'over', u'network', u'free', u'features', u'report', u'things', u'happy', u'leave', u'trend', u'france', u'mac', u'tablets', u'avis', u'main', u'russia', u'through', u'spotlight', u'pay', u'careers', u'dark', u'micro', u'critical', u'seals', u'advertising', u'markets', u'information', u'20', u'play', u'microsoft', u'incident', u'linux', u'big', u'popular', u'#kmm_items', u'tara', u'exchange', u'ccprojectzeromembers', u'investor', u'announces', u'#kmm_articles']
+7 [u'cnet', u'dns', u'interview', u'advisory', u'programs', u'facetime', u'test', u'focus', u'team', u'hacker', u'lindsey', u'charged', u'investment', u'interviews', u'scheme', u'odonnell', u'link', u'windows', u'uk', u'application', u'bulletin', u'issues', u'resources', u'products', u'adopts', u'view', u'phones', u'podcasts', u'twitter']
+8 [u'vulnerability', u'trading', u'compliance', u'insider', u'ibm', u'dactualit\xe9', u'antivirus', u'most', u'our', u'agency', u'jan', u'android', u'4g']
+9 [u'reports', u'securities', u'internet', u'hacken', u'cars', u'multiples', u'rules', u'industry', u'podcast', u'social', u'week', u'this', u'software', u'broersma', u'email', u'matthew', u'bug', u'ecosystem']
+10 [u'releases', u'terms', u'product', u'10', u'director', u'fraud', u'full', u'search', u'two', u'cet', u'threat']
+11 [u'risk', u'hacking', u'investors', u'former', u'phishing', u'web', u'smart', u'press']
+12 [u'after', u'office', u'service', u'attacks', u'folt\xfdn', u'public', u'vulnerabilities', u'intelligence', u'tom\xe1\u0161']
+13 [u'ransomware', u'million', u'blog', u'services', u'breach']
+14 [u'business', u'research', u'vuln\xe9rabilit\xe9s', u'facebook', u'apps']
+15 [u'top', u'apple']
+16 [u'infosecurity', u'iot', u'attack']
+17 [u'veille']
+18 [u'google', u'2018']
+20 [u'cloud']
+22 [u'cybercrime']
+25 [u'mobile']
+26 [u'threats']
+27 [u'new']
+28 [u'cybersecurity', u'malware']
+32 [u'charges']
+37 [u'2019']
+40 [u'privacy']
+41 [u'best']
+83 [u'sec']
+
+

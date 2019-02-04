@@ -1,0 +1,87 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2016-5402
+2019-01-28T12:41:50.757-05:00	:CVE-2016-5402 (Score:9.0)['cpe:/a:redhat:cloudforms:4.1', 'cpe:/a:redhat:cloudforms_management_engine:5.6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18160
+2019-01-28T14:30:52.243-05:00	:CVE-2017-18160 (Score:10.0)['cpe:/o:qualcomm:mdm9635m_firmware:-', 'cpe:/o:qualcomm:mdm9645_firmware:-', 'cpe:/o:qualcomm:mdm9650_firmware:-', 'cpe:/o:qualcomm:mdm9655_firmware:-', 'cpe:/o:qualcomm:msm8909w_firmware:-', 'cpe:/o:qualcomm:sd_835_firmware:-', 'cpe:/o:qualcomm:sd_845_firmware:-', 'cpe:/o:qualcomm:sd_850_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2017-18349
+2019-01-28T15:57:39.457-05:00	:CVE-2017-18349 (Score:10.0)['cpe:/a:pippo:pippo:1.11.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-1000832
+2019-02-01T15:34:23.970-05:00	:CVE-2018-1000832 (Score:10.0)['cpe:/a:zoneminder:zoneminder:1.32.2']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-1000861
+2019-02-01T15:18:21.307-05:00	:CVE-2018-1000861 (Score:10.0)['cpe:/a:jenkins:jenkins:2.138.3::~~lts~~~', 'cpe:/a:jenkins:jenkins:2.153']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10532
+2019-01-30T13:35:32.157-05:00	:CVE-2018-10532 (Score:8.3)['cpe:/o:ee:4gee_firmware:hh70_e1_02.00_19']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11062
+2019-01-30T08:35:26.113-05:00	:CVE-2018-11062 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-11284
+2019-01-30T13:06:34.483-05:00	:CVE-2018-11284 (Score:8.5)['cpe:/o:qualcomm:mdm9206_firmware:-', 'cpe:/o:qualcomm:mdm9607_firmware:-', 'cpe:/o:qualcomm:mdm9650_firmware:-', 'cpe:/o:qualcomm:sd_205_firmware:-', 'cpe:/o:qualcomm:sd_210_firmware:-', 'cpe:/o:qualcomm:sd_212_firmware:-', 'cpe:/o:qualcomm:sd_625_firmware:-', 'cpe:/o:qualcomm:sd_636_firmware:-', 'cpe:/o:qualcomm:sda660_firmware:-', 'cpe:/o:qualcomm:sdm630_firmware:-', 'cpe:/o:qualcomm:sdm660_firmware:-', 'cpe:/o:qualcomm:sdx20_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-14558
+2019-01-29T12:03:12.300-05:00	:CVE-2018-14558 (Score:10.0)['cpe:/o:tenda:ac10_firmware:15.03.06.23_cn', 'cpe:/o:tenda:ac7_firmware:15.03.06.44_cn', 'cpe:/o:tenda:ac9_firmware:15.03.05.19%5c%286318%5c%29_cn']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-14893
+2019-01-31T10:55:38.640-05:00	:CVE-2018-14893 (Score:9.0)['cpe:/o:zyxel:nsa325_v2_firmware:4.81']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15381
+2019-01-29T13:05:01.677-05:00	:CVE-2018-15381 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15722
+2019-02-01T09:18:59.997-05:00	:CVE-2018-15722 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15982
+2019-01-29T14:24:27.440-05:00	:CVE-2018-15982 (Score:10.0)['cpe:/a:adobe:flash_player:31.0.0.153', 'cpe:/a:adobe:flash_player:31.0.0.153::~~~chrome~~', 'cpe:/a:adobe:flash_player:31.0.0.153::~~~edge~~', 'cpe:/a:adobe:flash_player:31.0.0.153::~~~internet_explorer_11~~', 'cpe:/a:adobe:flash_player_installer:31.0.0.108', 'cpe:/o:redhat:enterprise_linux_desktop:6.0', 'cpe:/o:redhat:enterprise_linux_server:6.0', 'cpe:/o:redhat:enterprise_linux_workstation:6.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16462
+2019-01-28T13:16:54.567-05:00	:CVE-2018-16462 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16803
+2019-01-29T10:09:31.707-05:00	:CVE-2018-16803 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-18628
+2019-01-28T16:13:16.807-05:00	:CVE-2018-18628 (Score:10.0)['cpe:/a:pippo:pippo:1.11.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-18748
+2019-01-28T13:25:20.340-05:00	:CVE-2018-18748 (Score:10.0)['cpe:/a:sandboxie:sandboxie:5.26']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-18753
+2019-01-28T08:22:41.553-05:00	:CVE-2018-18753 (Score:10.0)['cpe:/a:typecho:typecho:1.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-19204
+2019-02-01T10:28:13.767-05:00	:CVE-2018-19204 (Score:9.0)['cpe:/a:paessler:network_monitor:17.4.35', 'cpe:/a:paessler:network_monitor:17.4.35.3441', 'cpe:/a:paessler:network_monitor:17.4.36', 'cpe:/a:paessler:network_monitor:17.4.36.3595', 'cpe:/a:paessler:network_monitor:17.4.36.3670', 'cpe:/a:paessler:network_monitor:18.1.36', 'cpe:/a:paessler:network_monitor:18.1.36.3728', 'cpe:/a:paessler:network_monitor:18.1.36.3733', 'cpe:/a:paessler:network_monitor:18.1.37', 'cpe:/a:paessler:network_monitor:18.1.37.12158', 'cpe:/a:paessler:network_monitor:18.1.37.13946', 'cpe:/a:paessler:network_monitor:18.1.38', 'cpe:/a:paessler:network_monitor:18.1.38.11934', 'cpe:/a:paessler:network_monitor:18.1.38.11958', 'cpe:/a:paessler:network_monitor:18.2.39', 'cpe:/a:paessler:network_monitor:18.2.39.1661', 'cpe:/a:paessler:network_monitor:18.2.40', 'cpe:/a:paessler:network_monitor:18.2.40.1683', 'cpe:/a:paessler:network_monitor:18.2.41.1652', 'cpe:/a:paessler:network_monitor:18.3.42.1727', 'cpe:/a:paessler:network_monitor:18.3.42.1748', 'cpe:/a:paessler:network_monitor:18.3.43.2317', 'cpe:/a:paessler:network_monitor:18.3.43.2323']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-19659
+2019-01-30T13:47:58.563-05:00	:CVE-2018-19659 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-19660
+2019-01-30T13:47:10.437-05:00	:CVE-2018-19660 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-20718
+2019-01-28T14:57:58.427-05:00	:CVE-2018-20718 (Score:10.0)['cpe:/a:pydio:pydio:5.0.3', 'cpe:/a:pydio:pydio:6.0.6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-6444
+2019-01-30T13:47:38.877-05:00	:CVE-2018-6444 (Score:10.0)['cpe:/a:brocade:network_advisor:11.0.0.0', 'cpe:/a:brocade:network_advisor:11.0.2.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1637
+2019-01-28T16:27:30.303-05:00	:CVE-2019-1637 (Score:9.3)['cpe:/a:cisco:webex_meetings_online:1.3.33', 'cpe:/a:cisco:webex_meetings_online:1.3.39', 'cpe:/a:cisco:webex_meetings_online:t32.9', 'cpe:/a:cisco:webex_meetings_online:t33.3.5', 'cpe:/a:cisco:webex_meetings_online:t33.5.1', 'cpe:/a:cisco:webex_meetings_server:3.0mr2:p1', 'cpe:/a:cisco:webex_meetings_server:t31:sp3']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1638
+2019-01-28T16:27:13.677-05:00	:CVE-2019-1638 (Score:9.3)['cpe:/a:cisco:webex_meetings_online:1.3.33', 'cpe:/a:cisco:webex_meetings_online:1.3.39', 'cpe:/a:cisco:webex_meetings_online:t32.9', 'cpe:/a:cisco:webex_meetings_online:t33.3.5', 'cpe:/a:cisco:webex_meetings_online:t33.5.1', 'cpe:/a:cisco:webex_meetings_server:3.0mr2:p1', 'cpe:/a:cisco:webex_meetings_server:t31:sp3']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1639
+2019-01-28T16:26:51.987-05:00	:CVE-2019-1639 (Score:9.3)['cpe:/a:cisco:webex_meetings_online:1.3.33', 'cpe:/a:cisco:webex_meetings_online:1.3.39', 'cpe:/a:cisco:webex_meetings_online:t32.9', 'cpe:/a:cisco:webex_meetings_online:t33.3.5', 'cpe:/a:cisco:webex_meetings_online:t33.5.1', 'cpe:/a:cisco:webex_meetings_server:3.0mr2:p1', 'cpe:/a:cisco:webex_meetings_server:t31:sp3']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1640
+2019-01-28T16:26:29.780-05:00	:CVE-2019-1640 (Score:9.3)['cpe:/a:cisco:webex_meetings_online:1.3.33', 'cpe:/a:cisco:webex_meetings_online:1.3.39', 'cpe:/a:cisco:webex_meetings_online:t32.9', 'cpe:/a:cisco:webex_meetings_online:t33.3.5', 'cpe:/a:cisco:webex_meetings_online:t33.5.1', 'cpe:/a:cisco:webex_meetings_server:3.0mr2:p1', 'cpe:/a:cisco:webex_meetings_server:t31:sp3']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1641
+2019-01-28T16:25:55.747-05:00	:CVE-2019-1641 (Score:9.3)['cpe:/a:cisco:webex_meetings_online:1.3.33', 'cpe:/a:cisco:webex_meetings_online:1.3.39', 'cpe:/a:cisco:webex_meetings_online:t32.9', 'cpe:/a:cisco:webex_meetings_online:t33.3.5', 'cpe:/a:cisco:webex_meetings_online:t33.5.1', 'cpe:/a:cisco:webex_meetings_server:3.0mr2:p1', 'cpe:/a:cisco:webex_meetings_server:t31:sp3']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-3910
+2019-01-28T13:30:03.880-05:00	:CVE-2019-3910 (Score:8.5)
