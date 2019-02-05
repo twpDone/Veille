@@ -1,0 +1,240 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 http://www.securityweek.com/senators-reintroduce-dhs-cyber-hunt-and-incident-response-teams-act/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, linux] https://threatpost.com/speakup-linux-backdoor/141431/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/google-trending-ransomware-and-cyber-attack-news-of-the-day/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 https://threatpost.com/collection-1-data-dump-hacker-identified/141447/
+	--
+	 [hacker, breach] http://www.securityweek.com/researchers-identify-hacker-behind-massive-data-breach-collection/
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	 http://www.securityweek.com/why-fighting-card-not-present-fraud-remains-ongoing-challenge/
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://www.cybersecurity-insiders.com/all-you-google-users-out-there-better-backup-your-data/
+	--
+	 [users, breach] https://www.welivesecurity.com/2019/02/04/houzz-discloses-data-breach-asks-some-users-to-reset-passwords/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.securityweek.com/new-backdoor-targets-linux-servers/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-042/
+	--
+	 [linux, malware] https://www.infosecurity-magazine.com:443/news/speak-up-malware-targets-linux-mac/
+	 [attack, linux] https://threatpost.com/speakup-linux-backdoor/141431/
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/blockchain-facebook-met-la-main-sur-chainspace-39880179.htm/
+	--
+	--
+
+[apple]
+	 https://www.scmagazine.com/home/security-news/apples-siri-shortcuts-feature-vulnerable-to-abuse-researchers-warn/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	 https://www.infosecurity-magazine.com:443/news/home-improvement-site-houzz/
+	 https://www.welivesecurity.com/category/data-breach/
+	 https://www.scmagazine.com/home/security-news/data-breach/huddle-house-hit-with-point-of-sale-data-breach/
+	--
+	 [hacker, breach] http://www.securityweek.com/researchers-identify-hacker-behind-massive-data-breach-collection/
+	 [users, breach] https://www.welivesecurity.com/2019/02/04/houzz-discloses-data-breach-asks-some-users-to-reset-passwords/
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	 https://www.cybersecurity-insiders.com/russia-hit-by-a-new-kind-of-ransomware/
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/google-trending-ransomware-and-cyber-attack-news-of-the-day/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/home/security-news/a-new-stealer-written-in-golang-go-programming-language-has-been-detected-as-part-of-a-new-trend-in-cybercriminals-writing-malware-in-go/
+	 https://www.infosecurity-magazine.com:443/news/alexa-500-sites-targeted-with/
+	--
+	 [linux, malware] https://www.infosecurity-magazine.com:443/news/speak-up-malware-targets-linux-mac/
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'regional', u'tips', u'campaign', u'my', u'financial', u'cameras', u'content', u'enterprise', u'siem', u'conference', u'chrome', u'misleading', u'billion', u'settle', u'targets', u'france', u'newsletters', u'magazine', u'statements', u'sites', u'espa\xf1ol', u'black', u'awards', u'laptops', u'bowl', u'researchers', u'dark', u'exposed', u'critical', u'act', u'accounts', u'security-based', u'response', u'ceo', u'regulation', u'threatlist', u'startup', u'collection', u'handling', u'named', u'spam', u'uk', u'capital', u'30', u'testimony', u'announces', u'retail', u'final', u'enforcement', u'cryptocurrency', u'computer', u'career', u'phones', u'podcasts', u'linkedin', u'executive', u'hackers', u'education', u'eric']
+6 [u's\xe9curit\xe9', u'companies', u'protection', u'dns', u'over', u'network', u'houzz', u'free', u'cookies', u'acquisition', u'report', u'we', u'launches', u'super', u'devices', u'leave', u'says', u'trend', u'insider', u'tablets', u'avis', u'russia', u'through', u'pay', u'careers', u'micro', u'seals', u'talks', u'advertising', u'markets', u'flaw', u'company', u'information', u'20', u'part', u'play', u'microsoft', u'networks', u'hit', u'firm', u'big', u'#kmm_items', u'link', u'info', u'up', u'tara', u'issues', u'exchange', u'ccprojectzeromembers', u'investor', u'out', u'#kmm_articles', u'need', u'printers', u'ce', u'ios']
+7 [u'cnet', u'vulnerability', u'interview', u'advisory', u'programs', u'test', u'focus', u'team', u'ibm', u'main', u'internet', u'week', u'charged', u'investment', u'interviews', u'scheme', u'incident', u'popular', u'windows', u'application', u'bulletin', u'resources', u'products', u'this', u'our', u'adopts', u'view', u'twitter', u'bug']
+8 [u'reports', u'trading', u'features', u'compliance', u'mac', u'dactualit\xe9', u'antivirus', u'multiples', u'agency', u'jan', u'email', u'android', u'4g']
+9 [u'securities', u'attacks', u'hacken', u'cars', u'lindsey', u'rules', u'odonnell', u'users', u'broersma', u'matthew', u'web', u'ecosystem']
+10 [u'hacking', u'releases', u'terms', u'product', u'hacker', u'10', u'director', u'podcast', u'full', u'search', u'social', u'two', u'cet', u'threat', u'most', u'intelligence', u'phishing', u'linux']
+11 [u'risk', u'ransomware', u'investors', u'former', u'industry', u'public', u'facebook', u'apple', u'press']
+12 [u'after', u'office', u'service', u'top', u'folt\xfdn', u'business', u'vulnerabilities', u'services', u'tom\xe1\u0161', u'software', u'smart']
+13 [u'blog', u'fraud', u'research', u'vuln\xe9rabilit\xe9s']
+14 [u'million', u'apps']
+16 [u'infosecurity']
+17 [u'iot', u'veille', u'cybercrime']
+18 [u'breach', u'attack']
+19 [u'google']
+20 [u'2018']
+21 [u'cloud']
+22 [u'threats']
+23 [u'mobile']
+24 [u'cybersecurity']
+30 [u'charges']
+33 [u'2019']
+34 [u'malware']
+35 [u'new', u'privacy']
+41 [u'best']
+82 [u'sec']
+
+
