@@ -1,0 +1,264 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	 [access, cloud] https://www.cybersecurity-insiders.com/cloud-access-security-brokers-2020/
+	--
+
+[attack]
+	 https://www.scmagazine.com/home/network-security/remote-desktop-protocol-flaws-could-be-exploited-to-attack-rdp-clients/
+	 https://www.cybersecurity-insiders.com/cyber-attack-on-the-australian-parliament-and-china-suspected/
+	 https://www.cybersecurity-insiders.com/russia-alleges-cyber-attack-on-its-presidential-elections-from-west/
+	 https://www.scmagazine.com/home/security-news/vulnerabilities/marvell-avastar-socs-vulnerable-to-wi-fi-attack/
+	--
+	 [attack, phishing] https://threatpost.com/clever-phishing-attack-enlists-google-translate-to-spoof-facebook-login-page/141571/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	 https://securityintelligence.com/how-secure-are-medical-iot-devices-catherine-norcom-has-her-finger-on-the-pulse-of-the-industry/?src=widget/
+	--
+	--
+
+[fraud]
+	 http://www.securityweek.com/20-indicted-multimillion-dollar-online-fraud-scheme/
+	 https://www.infosecurity-magazine.com:443/news/scammers-gmail-dot-account-feature/
+	--
+	--
+
+[threats]
+	--
+	 [threats, attacks] https://scmagazine.icrowdnewswire.com/news.php?id=MTI1OTYwMQ==/
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 https://securityintelligence.com/icedid-operators-using-atsengine-injection-panel-to-hit-e-commerce-sites/
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 https://threatpost.com/iot-scale-flaws-enable-denial-of-service-privacy-issues/141537/
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI1OTU5NQ==/
+	--
+	 [service, users, mobile] https://scmagazine.icrowdnewswire.com/news.php?id=MTI1OTYwNw==/
+	 [service, breach] https://www.scmagazine.com/home/security-news/movie-and-tv-tracking-service-trakt-belatedly-discovers-2014-breach/
+	--
+
+[faille]
+	 http://www.zdnet.fr/actualites/une-faille-0-day-sur-le-nouveau-macos-permet-de-voler-les-mots-de-passe-des-utilisateurs-39880337.htm/
+	--
+	--
+
+[threat]
+	 https://www.safetydetective.com/blog/what-is-social-engineering-and-why-is-it-so-dangerous/
+	 https://www.cybersecurity-insiders.com/cyber-threat-looming-on-connected-cars/
+	 https://threatpost.com/the-apt-name-game-how-grim-threat-actors-get-goofy-monikers/141445/
+	--
+	 [threat, intelligence] https://securityintelligence.com/its-time-to-modernize-traditional-threat-intelligence-models-for-cyber-warfare/
+	--
+
+[users]
+	--
+	 [service, users, mobile] https://scmagazine.icrowdnewswire.com/news.php?id=MTI1OTYwNw==/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.silicon.co.uk/workspace/researchers-say-chinese-government-hackers-breached-norwegian-software-company-241215/
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-044/
+	--
+	--
+
+[cloud]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI1OTU4NQ==/
+	--
+	 [access, cloud] https://www.cybersecurity-insiders.com/cloud-access-security-brokers-2020/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	 https://www.scmagazine.com/home/security-news/phishing-emails-imitate-north-american-banks-to-infect-recipients-with-trickbot/
+	--
+	 [attack, phishing] https://threatpost.com/clever-phishing-attack-enlists-google-translate-to-spoof-facebook-login-page/141571/
+	--
+
+[facebook]
+	 http://www.zdnet.fr/blogs/watch-it/les-americains-et-facebook-39880345.htm/
+	 https://www.scmagazine.com/home/network-security/germany-bans-facebook-from-combining-user-data-without-permission/
+	 https://www.cybersecurity-insiders.com/facebook-rejects-a-new-data-security-policy-of-germany/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/he-apple-ou-est-la-mise-a-jour-ios-1214-39880325.htm/
+	 http://www.securityweek.com/apple-patches-facetime-spying-vulnerability/
+	 https://threatpost.com/macos-zero-day-exposes-apple-keychain-passwords/141584/
+	 https://www.cybersecurity-insiders.com/travel-apps-on-apple-iphones-triggering-data-privacy-concerns/
+	 https://threatpost.com/apple-fixes-pesky-facetime-bug-in-ios-12-1-4-update/141621/
+	 http://www.zdnet.fr/actualites/ios-1214-trois-raisons-urgentes-d-installer-les-correctifs-apple-39880351.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	 [threat, intelligence] https://securityintelligence.com/its-time-to-modernize-traditional-threat-intelligence-models-for-cyber-warfare/
+	--
+
+[microsoft]
+	 https://threatpost.com/microsoft-confirms-serious-privexchange-vulnerability/141553/
+	--
+	--
+
+[breach]
+	--
+	 [service, breach] https://www.scmagazine.com/home/security-news/movie-and-tv-tracking-service-trakt-belatedly-discovers-2014-breach/
+	--
+
+[attacks]
+	 https://threatpost.com/what-is-a-data-manipulation-attack-and-how-to-mitigate-against-them/141563/
+	--
+	 [threats, attacks] https://scmagazine.icrowdnewswire.com/news.php?id=MTI1OTYwMQ==/
+	--
+
+[ransomware]
+	 https://www.infosecurity-magazine.com:443/news/ransomware-decline-banking-trojan/
+	 https://www.safetydetective.com/blog/what-is-the-cryptolocker-ransomware-virus-how-to-easily-avoid-it/
+	--
+	--
+
+[cybercrime]
+	 https://threatpost.com/modern-cybercrime-it-takes-a-village/141548/
+	--
+	--
+
+[mobile]
+	--
+	 [service, users, mobile] https://scmagazine.icrowdnewswire.com/news.php?id=MTI1OTYwNw==/
+	--
+
+[malware]
+	 https://www.safetydetective.com/blog/ccleaner-malware-removal-the-ultimate-tested-guide/
+	 https://threatpost.com/mac-cookieminer-malware-crypto/141334/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u's\xe9curit\xe9', u'regional', u'protection', u'china', u'my', u'financial', u'content', u'cookies', u'conference', u'commission', u'misleading', u'statements', u'ddos', u'digital', u'settle', u'says', u'australian', u'newsletters', u'bradley', u'hacker', u'espa\xf1ol', u'black', u'review', u'awards', u'laptops', u'critical', u'update', u'talks', u'barth', u'flaws', u'takes', u'markets', u'stephen', u'regulation', u'jour', u'targets', u'impact', u'startup', u'handling', u'named', u'big', u'disclosure', u'france', u'spam', u'capital', u'exchange', u'30', u'parliament', u'announces', u'final', u'enforcement', u'doug', u'career', u'phones', u'podcasts', u'linkedin', u'security-based', u'olenick', u'executive', u'testimony', u'twitter', u'extension', u'education']
+6 [u'cnet', u'campaign', u'dns', u'over', u'free', u'features', u'hacking', u'germany', u'login', u'facetime', u'leave', u'trend', u'mac', u'tablets', u'avis', u'main', u'through', u'pay', u'charged', u'careers', u'micro', u'advertising', u'information', u'really', u'threatlist', u'incident', u'firm', u'orders', u'popular', u'#kmm_items', u'link', u'up', u'windows', u'uk', u'users', u'bulletin', u'issues', u'ccprojectzeromembers', u'account', u'investor', u'our', u'out', u'#kmm_articles']
+7 [u'companies', u'interview', u'advisory', u'programs', u'test', u'focus', u'team', u'10', u'multiples', u'interviews', u'play', u'microsoft', u'banking', u'linux', u'application', u'resources', u'products', u'adopts', u'agency', u'view', u'computer', u'web', u'hackers', u'bug']
+8 [u'reports', u'after', u'trading', u'top', u'acquisition', u'chrome', u'insider', u'internet', u'dactualit\xe9', u'20', u'1214', u'antivirus', u'podcast', u'investment', u'two', u'company', u'scheme', u'most', u'software', u'jan', u'email', u'4g']
+9 [u'network', u'report', u'securities', u'hacken', u'lindsey', u'rules', u'odonnell', u'broersma', u'matthew', u'ecosystem']
+10 [u'risk', u'releases', u'ransomware', u'terms', u'compliance', u'product', u'director', u'public', u'full', u'search', u'cet', u'breach', u'business', u'smart']
+11 [u'vulnerability', u'attacks', u'former', u'social', u'vulnerabilities', u'services', u'android', u'press']
+12 [u'office', u'cars', u'million', u'investors', u'folt\xfdn', u'industry', u'tom\xe1\u0161', u'vuln\xe9rabilit\xe9s']
+13 [u'blog', u'phishing', u'ios']
+14 [u'research', u'threat', u'intelligence']
+15 [u'service', u'fraud', u'facebook', u'apps']
+16 [u'infosecurity', u'iot']
+17 [u'veille']
+18 [u'apple', u'cybercrime', u'2018']
+20 [u'attack']
+21 [u'cybersecurity']
+22 [u'threats', u'cloud']
+23 [u'mobile']
+26 [u'google']
+29 [u'2019']
+30 [u'malware']
+31 [u'charges']
+33 [u'new']
+35 [u'privacy']
+41 [u'best']
+81 [u'sec']
+
+
