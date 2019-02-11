@@ -1,0 +1,236 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI1OTUxOA==/
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 https://threatpost.com/fireos-flaw-allowed-limited-content-injection-in-amazon-tablets/141607/
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.scmagazine.com/home/network-security/national-enquirer-threat-to-reveal-intimate-bezos-pics-trains-focus-on-privacy-protection/
+	--
+	--
+
+[users]
+	--
+	 [users, cloud] https://www.scmagazine.com/home/security-news/mumsnet-shift-to-cloud-exposes-users-account-info/
+	 [users, apple] https://www.scmagazine.com/home/security-news/report-apple-demands-companies-obtain-consent-before-recording-users-app-sessions/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://threatpost.com/theory-simple-hack-behind-bezos-alleged-compromising-images/141651/
+	--
+	--
+
+[linux]
+	--
+	 [linux, malware] https://blog.trendmicro.com/trendlabs-security-intelligence/linux-coin-miner-copied-scripts-from-korkerds-removes-all-other-malware-and-miners/
+	--
+
+[cloud]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI1OTUxNQ==/
+	 https://www.cybersecurity-insiders.com/secure-your-azure-deployments-with-cloud-secure-2/
+	--
+	 [users, cloud] https://www.scmagazine.com/home/security-news/mumsnet-shift-to-cloud-exposes-users-account-info/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/facebook-investit-dans-la-recherche-visuelle-avec-l-acquisition-de-grokstyle-39880429.htm/
+	 https://www.cybersecurity-insiders.com/facebook-acquires-ai-startup-grokstyle/
+	 https://www.silicon.co.uk/workspace/facebook-to-appeal-german-competition-watchdogs-data-ruling-241283/
+	--
+	--
+
+[apple]
+	 https://www.silicon.co.uk/workspace/apple-faces-facetime-security-questions-as-it-releases-bug-fix-241295/
+	 https://www.scmagazine.com/home/security-news/apple-patches-two-flaws-reportedly-exploited-in-zero-day-attacks-also-nixes-facetime-eavesdropping-bug/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-048/
+	--
+	 [users, apple] https://www.scmagazine.com/home/security-news/report-apple-demands-companies-obtain-consent-before-recording-users-app-sessions/
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	 https://www.safetydetective.com/blog/rdm-report/
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.cybersecurity-insiders.com/google-offers-adiantum-mobile-security-to-entry-level-android-smartphones/
+	--
+	--
+
+[malware]
+	 https://www.welivesecurity.com/2019/02/08/first-clipper-malware-google-play/
+	--
+	 [linux, malware] https://blog.trendmicro.com/trendlabs-security-intelligence/linux-coin-miner-copied-scripts-from-korkerds-removes-all-other-malware-and-miners/
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'regional', u'tips', u'protection', u'my', u'enterprise', u'login', u'conference', u'chrome', u'commission', u'launches', u'left', u'misleading', u'statements', u'ddos', u'newsletters', u'bezos', u'teri', u'bradley', u'hacker', u'massive', u'russia', u'speakers', u'certification', u'espa\xf1ol', u'black', u'through', u'awards', u'1214', u'laptops', u'case', u'critical', u'update', u'storage', u'talks', u'program', u'barth', u'advertising', u'markets', u'robinson', u'stephen', u'avec', u'regulation', u'tom', u'microsoft', u'firm', u'handling', u'named', u'big', u'popular', u'translate', u'info', u'up', u'uk', u'exchange', u'meet', u'30', u'app', u'control', u'votre', u'announces', u'final', u'enforcement', u'computer', u'career', u'comment', u'ce', u'podcasts', u'linkedin', u'security-based', u'executive', u'testimony', u'twitter', u'education']
+6 [u'secure', u'dns', u'over', u'financial', u'content', u'millions', u'features', u'hacking', u'facetime', u'devices', u'team', u'trend', u'insider', u'avis', u'main', u'10', u'pay', u'charged', u'careers', u'spy', u'micro', u'major', u'threatlist', u'startup', u'incident', u'orders', u'#kmm_items', u'link', u'windows', u'bulletin', u'ccprojectzeromembers', u'this', u'software', u'investor', u'our', u'out', u'#kmm_articles', u'concerns', u'phones']
+7 [u'cnet', u'after', u'network', u'free', u'advisory', u'things', u'programs', u'test', u'leave', u'tablets', u'20', u'exposed', u'investment', u'information', u'systems', u'interviews', u'scheme', u'hackers', u'application', u'users', u'resources', u'products', u'adopts', u'view', u'email', u'web', u'4g']
+8 [u'companies', u'reports', u'interview', u'trading', u'report', u'focus', u'dactualit\xe9', u'antivirus', u'rules', u'exposes', u'podcast', u'company', u'play', u'most', u'need', u'jan']
+9 [u'acquisition', u'ransomware', u'securities', u'hacken', u'cars', u'million', u'vuln\xe9rabilit\xe9s', u'week', u'compliance', u'social', u'two', u'broersma', u'agency', u'ecosystem', u'matthew', u'ios']
+10 [u'terms', u'product', u'director', u'public', u'full', u'cet', u'vulnerabilities', u'attack']
+11 [u'vulnerability', u'releases', u'attacks', u'internet', u'lindsey', u'former', u'intelligence', u'odonnell', u'breach', u'smart', u'press', u'bug']
+12 [u'office', u'service', u'investors', u'folt\xfdn', u'industry', u'threat', u'services', u'linux', u'tom\xe1\u0161']
+13 [u'blog', u'fraud', u'search', u'phishing', u'android']
+14 [u'risk', u'top', u'business', u'research', u'iot', u'facebook', u'apps']
+15 [u'cybercrime']
+16 [u'infosecurity']
+17 [u'veille', u'apple']
+18 [u'2018']
+19 [u'cloud']
+23 [u'cybersecurity', u'mobile']
+26 [u'threats']
+28 [u'new']
+31 [u'charges']
+32 [u'malware']
+33 [u'google', u'privacy']
+39 [u'2019']
+40 [u'best']
+81 [u'sec']
+
+
