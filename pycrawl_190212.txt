@@ -1,0 +1,231 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-crosby-international-school-district-it-systems/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://www.scmagazine.com/home/security-news/chip-and-pin-protections-may-fall-short-as-future-threats-materialize/
+	--
+	--
+
+[scams]
+	 http://www.zdnet.fr/actualites/arnaque-sexcam-c-est-dans-les-vieux-pots-qu-on-fait-les-meilleurs-scams-39880475.htm/
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	 [linux, cloud] http://www.securityweek.com/container-escape-flaw-hits-aws-google-cloud-linux-distros/
+	--
+
+[cloud]
+	--
+	 [linux, cloud] http://www.securityweek.com/container-escape-flaw-hits-aws-google-cloud-linux-distros/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI2Nzk0OA==/
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 https://www.welivesecurity.com/2019/02/12/apple-to-pay-teenager-facetime-bug/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	 http://www.zdnet.fr/actualites/trump-veut-de-l-intelligence-artificielle-made-in-usa-39880497.htm/
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 https://www.cybersecurity-insiders.com/us-government-shutdown-made-nasa-vulnerable-to-cyber-attacks/
+	--
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-crosby-international-school-district-it-systems/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.infosecurity-magazine.com:443/news/ico-helps-secure-bans-for-mobile/
+	 https://threatpost.com/threatpost-poll-is-it-impossible-to-secure-mobile-devices/141694/
+	--
+	--
+
+[malware]
+	 https://threatpost.com/clipper-malware-google-play/141669/
+	 https://www.silicon.co.uk/workspace/surveillance-malware-poses-as-privacy-tool-241331/
+	 http://www.securityweek.com/clipper-malware-slips-google-play/
+	 https://www.scmagazine.com/home/security-news/clipper-malware-that-alters-crypto-wallet-addresses-slips-into-play-store/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'regional', u'my', u'financial', u'login', u'conference', u'launches', u'misleading', u'statements', u'down', u'says', u'trump', u'newsletters', u'bradley', u'russia', u'espa\xf1ol', u'black', u'awards', u'laptops', u'downloads', u'barth', u'will', u'advertising', u'markets', u'ceo', u'found', u'major', u'regulation', u'threatlist', u'networks', u'handling', u'bill', u'orders', u'named', u'popular', u'innovation', u'exchange', u'30', u'this', u'out', u'announces', u'final', u'enforcement', u'need', u'computer', u'career', u'ce', u'phones', u'podcasts', u'linkedin', u'security-based', u'executive', u'clipper', u'testimony', u'twitter', u'education']
+6 [u'dns', u'free', u'features', u'hacking', u'enterprise', u'amazon', u'chiffres', u'facetime', u'leave', u'team', u'trend', u'mac', u'avis', u'main', u'technology', u'charged', u'careers', u'micro', u'week', u'scheme', u'part', u'incident', u'hackers', u'big', u'trends', u'#kmm_items', u'link', u'users', u'bulletin', u'breaches', u'breach', u'app', u'ccprojectzeromembers', u'software', u'investor', u'our', u'#kmm_articles', u'cl\xe9s']
+7 [u'cnet', u'secure', u'interview', u'over', u'zero-day', u'network', u'content', u'advisory', u'solutions', u'10', u'chrome', u'programs', u'lindsey', u'20', u'program', u'investment', u'flaw', u'information', u'interviews', u'firm', u'odonnell', u'spam', u'info', u'resources', u'products', u'adopts', u'view', u'email', u'bug', u'4g']
+8 [u'companies', u'top', u'report', u'devices', u'test', u'focus', u'insider', u'tablets', u'through', u'dactualit\xe9', u'antivirus', u'pay', u'rules', u'podcast', u'compliance', u'most', u'uk', u'application', u'agency', u'jan', u'ios', u'web']
+9 [u'risk', u'reports', u'after', u'acquisition', u'securities', u'hacken', u'cars', u'social', u'two', u'vuln\xe9rabilit\xe9s', u'windows', u'facebook', u'attack', u'ecosystem']
+10 [u'protection', u'trading', u'ransomware', u'terms', u'product', u'former', u'director', u'business', u'full', u'search', u'company', u'cet', u'vulnerabilities', u'play', u'broersma', u'matthew']
+11 [u'service', u'releases', u'attacks', u'folt\xfdn', u'industry', u'public', u'threat', u'tom\xe1\u0161', u'press', u'apps']
+12 [u'office', u'investors', u'services', u'phishing', u'linux', u'smart']
+13 [u'million', u'blog', u'fraud', u'research', u'intelligence']
+14 [u'iot', u'android']
+15 [u'apple', u'cybercrime']
+16 [u'internet', u'infosecurity']
+17 [u'veille']
+18 [u'vulnerability']
+19 [u'cloud']
+20 [u'2018']
+21 [u'threats']
+22 [u'mobile']
+27 [u'new', u'cybersecurity']
+30 [u'charges']
+32 [u'google', u'2019', u'privacy']
+37 [u'malware']
+41 [u'best']
+81 [u'sec']
+
+
