@@ -1,0 +1,235 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://threatpost.com/dunkin-credential-stuffing/141754/
+	 https://www.cybersecurity-insiders.com/china-denies-cyber-attack-on-the-australian-parliament/
+	 https://www.scmagazine.com/home/security-news/milwaukee-based-email-provider-vfemail-has-suffered-what-it-has-described-as-a-catastrophic-attack/
+	--
+	 [attack, hacker] https://www.cybersecurity-insiders.com/hacker-destroys-18-years-old-data-of-vfemail-via-cyber-attack/
+	 [attack, microsoft] https://threatpost.com/microsoft-patches-zero-day-browser-bug-under-active-attack/141755/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	 [attack, hacker] https://www.cybersecurity-insiders.com/hacker-destroys-18-years-old-data-of-vfemail-via-cyber-attack/
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 http://www.securityweek.com/indictment-hackers-charged-making-threats-schools/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	 http://www.zdnet.fr/actualites/cette-faille-d-un-plugin-wordpress-vous-permet-de-prendre-le-controle-sur-des-sites-39880571.htm/
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-051/
+	--
+	--
+
+[cloud]
+	 https://www.cybersecurity-insiders.com/symantec-acquires-cloud-security-startup-luminate/
+	 http://www.securityweek.com/symantec-acquires-zero-trust-cloud-security-startup-luminate-security/
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI2ODA1Nw==/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/realite-augmentee-apple-nomme-un-responsable-marketing-39880559.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	 http://www.securityweek.com/uk-data-intelligence-firm-acquire-idology-300-million/
+	--
+	--
+
+[microsoft]
+	 https://www.scmagazine.com/home/security-news/microsoft-released-77-updates-20-of-which-were-classified-as-critical-in-this-months-patch-tuesday-announcement/
+	 http://www.securityweek.com/microsoft-patches-internet-explorer-zero-day-reported-google/
+	--
+	 [attack, microsoft] https://threatpost.com/microsoft-patches-zero-day-browser-bug-under-active-attack/141755/
+	--
+
+[breach]
+	 https://www.infosecurity-magazine.com:443/news/millions-affected-by-500px-data-1/
+	--
+	--
+
+[attacks]
+	 https://threatpost.com/container-security-flaw-runc/141737/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 http://www.securityweek.com/intel-sgx-can-be-abused-hide-advanced-malware-researchers/
+	 http://www.securityweek.com/extensive-living-land-hides-stealthy-malware-campaign/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'regional', u'tips', u'campaign', u'chiffres', u'zero-day', u'enterprise', u'chrome', u'has', u'ics', u'misleading', u'statements', u'newsletters', u'mac', u'kane', u'espa\xf1ol', u'black', u'awards', u'laptops', u'technology', u'downloads', u'intel', u'server', u'financial', u'program', u'advertising', u'flaws', u'markets', u'major', u'regulation', u'threatlist', u'networks', u'hit', u'handling', u'orders', u'popular', u'innovation', u'link', u'up', u'breaches', u'meet', u'30', u'opinion', u'ccprojectzeromembers', u'this', u'software', u'announces', u'final', u'enforcement', u'career', u'cl\xe9s', u'tuesday', u'podcasts', u'linkedin', u'security-based', u'executive', u'paul', u'testimony', u'twitter', u'education', u'other']
+6 [u'protection', u'secure', u'dns', u'network', u'content', u'free', u'features', u'hacking', u'10', u'patch', u'conference', u'magazine', u'wordpress', u'digital', u'leave', u'team', u'says', u'trend', u'insider', u'vous', u'explorer', u'avis', u'main', u'week', u'multiples', u'careers', u'critical', u'seals', u'micro', u'scheme', u'vfemail', u'incident', u'named', u'big', u'#kmm_items', u'spam', u'tara', u'bulletin', u'app', u'investor', u'our', u'#kmm_articles', u'computer', u'phones']
+7 [u'updates', u'cnet', u'companies', u'china', u'interview', u'over', u'adobe', u'advisory', u'solutions', u'programs', u'devices', u'focus', u'tablets', u'sites', u'tous', u'investment', u'flaw', u'information', u'20', u'interviews', u'play', u'electric', u'startup', u'firm', u'info', u'breach', u'resources', u'products', u'adopts', u'view', u'ios', u'4g']
+8 [u's\xe9curit\xe9', u'risk', u'after', u'ransomware', u'report', u'test', u'ibm', u'hacker', u'lindsey', u'through', u'dactualit\xe9', u'antivirus', u'pay', u'charged', u'rules', u'podcast', u'compliance', u'company', u'hackers', u'odonnell', u'windows', u'uk', u'exchange', u'agency', u'jan', u'web', u'bug']
+9 [u'reports', u'securities', u'hacken', u'cars', u'social', u'most', u'linux', u'ecosystem']
+10 [u'vulnerability', u'acquisition', u'terms', u'product', u'former', u'folt\xfdn', u'director', u'industry', u'public', u'full', u'search', u'two', u'cet', u'threat', u'tom\xe1\u0161', u'application', u'facebook', u'broersma', u'email', u'matthew']
+11 [u'trading', u'top', u'attacks', u'vulnerabilities', u'services', u'phishing', u'vuln\xe9rabilit\xe9s', u'android', u'press', u'apps']
+12 [u'office', u'service', u'releases', u'investors', u'business', u'microsoft', u'smart']
+13 [u'blog', u'fraud', u'research', u'intelligence']
+14 [u'million', u'apple']
+15 [u'cybercrime']
+16 [u'infosecurity', u'iot']
+17 [u'internet', u'veille']
+19 [u'2018', u'attack']
+22 [u'cybersecurity', u'mobile', u'threats', u'google']
+23 [u'cloud']
+25 [u'new']
+30 [u'charges']
+32 [u'privacy']
+34 [u'2019']
+37 [u'malware']
+42 [u'best']
+81 [u'sec']
+
+
