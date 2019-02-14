@@ -1,0 +1,240 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[-] Crawling Exception <urlopen error [Errno 22] Invalid argument>>
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://www.scmagazine.com/home/security-news/trickbot-variant-steals-credentials-for-remote-computer-access/
+	--
+	 [access, linux] https://threatpost.com/dirty-sock-snapd-linux/141779/
+	--
+
+[attack]
+	 https://www.safetydetective.com/blog/what-is-a-ddos-attack-and-how-to-prevent-one-in/
+	 https://www.cybersecurity-insiders.com/cyber-attack-news-currently-trending-on-google/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [service, apple] http://www.zdnet.fr/actualites/apple-lancerait-son-service-vod-en-avril-39880619.htm/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://www.cybersecurity-insiders.com/data-of-14-8-million-500px-users-leaked-in-2018/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	 [access, linux] https://threatpost.com/dirty-sock-snapd-linux/141779/
+	--
+
+[cloud]
+	 https://www.cybersecurity-insiders.com/cloud-on-premises-or-hybrid-what-is-the-best-hsm-solution-for-you/
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI3MDcxMw==/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-062/
+	 [windows, malware] http://www.securityweek.com/windows-app-caught-running-mac-installing-malware/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 https://www.sec.gov/news/press-release/2019-10/
+	 https://threatpost.com/apple-macos-safari-spy/141775/
+	--
+	 [service, apple] http://www.zdnet.fr/actualites/apple-lancerait-son-service-vod-en-avril-39880619.htm/
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-065/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-064/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-059/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-060/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-063/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-061/
+	--
+	 [windows, microsoft] http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-062/
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/image-i-nation-supply-chain-breach-exposes-data-of-major-credit-agencies-customers/
+	 https://www.infosecurity-magazine.com:443/news/two-in-three-orgs-not-convinced/
+	--
+	--
+
+[attacks]
+	 https://www.infosecurity-magazine.com:443/news/doj-charges-hackers-with-staging-1/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	 [windows, malware] http://www.securityweek.com/windows-app-caught-running-mac-installing-malware/
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'regional', u'handling', u'tips', u'protection', u'content', u'conference', u'three', u'has', u'ics', u'statements', u'happy', u'ddos', u'update', u'explorer', u'main', u'13', u'espa\xf1ol', u'black', u'sites', u'awards', u'technology', u'week', u'exposed', u'program', u'systems', u'major', u'scheme', u'tom', u'vfemail', u'access', u'hit', u'startup', u'orders', u'named', u'popular', u'link', u'uk', u'30', u'app', u'ccprojectzeromembers', u'announces', u'acquire', u'career', u'podcasts', u'security-based', u'executive', u'testimony', u'education', u'hacker']
+6 [u'cnet', u'companies', u'dns', u'over', u'free', u'features', u'hacking', u'10', u'report', u'magazine', u'son', u'leave', u'team', u'says', u'trend', u'mac', u'avis', u'kane', u'careers', u'critical', u'20', u'micro', u'threatlist', u'incident', u'hackers', u'firm', u'spam', u'info', u'users', u'bulletin', u'facebook', u'investor', u'enforcement', u'paul', u'bug']
+7 [u'updates', u'china', u'interview', u'advisory', u'patch', u'programs', u'insider', u'view', u'through', u'antivirus', u'charged', u'seals', u'investment', u'information', u'interviews', u'tara', u'resources', u'products', u'adopts', u'web']
+8 [u'risk', u'reports', u'secure', u'after', u'ransomware', u'dactualit\xe9', u'pay', u'multiples', u'podcast', u'compliance', u'company', u'play', u'most', u'breach', u'agency', u'jan', u'computer', u'android']
+9 [u'acquisition', u'terms', u'securities', u'hacken', u'business', u'social', u'exchange', u'ecosystem']
+10 [u's\xe9curit\xe9', u'top', u'attacks', u'product', u'cars', u'investors', u'folt\xfdn', u'director', u'rules', u'industry', u'public', u'full', u'search', u'two', u'flaw', u'cet', u'linux', u'tom\xe1\u0161', u'our', u'iot', u'smart']
+11 [u'vulnerability', u'trading', u'former', u'research', u'services', u'intelligence', u'phishing', u'windows', u'email', u'press', u'apps']
+12 [u'office', u'releases', u'fraud', u'threat', u'vulnerabilities']
+13 [u'service', u'blog', u'vuln\xe9rabilit\xe9s', u'cybercrime']
+14 [u'cloud']
+16 [u'million', u'infosecurity', u'apple']
+17 [u'internet', u'veille', u'microsoft']
+18 [u'cybersecurity']
+20 [u'mobile', u'threats']
+21 [u'attack']
+22 [u'google', u'2018']
+25 [u'new']
+32 [u'charges']
+33 [u'2019']
+35 [u'privacy']
+36 [u'malware']
+43 [u'best']
+81 [u'sec']
+
+
