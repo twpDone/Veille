@@ -1,0 +1,72 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2009-5154
+2019-02-13T11:10:06.227-05:00	:CVE-2009-5154 (Score:10.0)['cpe:/o:mobotix:s14_firmware:mx-v4.2.1.61']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-12237
+2019-02-11T14:23:46.727-05:00	:CVE-2018-12237 (Score:9.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-13804
+2019-02-13T12:56:35.283-05:00	:CVE-2018-13804 (Score:9.3)['cpe:/a:siemens:simatic_it_line_monitoring_system', 'cpe:/a:siemens:simatic_it_production_suite:v7.1', 'cpe:/a:siemens:simatic_it_ua_discrete_manufacturing:v1.2', 'cpe:/a:siemens:simatic_it_ua_discrete_manufacturing:v1.3', 'cpe:/a:siemens:simatic_it_ua_discrete_manufacturing:v2.3', 'cpe:/a:siemens:simatic_it_ua_discrete_manufacturing:v2.4']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-14649
+2019-02-14T11:38:24.577-05:00	:CVE-2018-14649 (Score:10.0)['cpe:/a:redhat:ceph-iscsi-cli:-', 'cpe:/a:redhat:ceph_storage:2.0', 'cpe:/a:redhat:ceph_storage:3.0', 'cpe:/o:redhat:enterprise_linux_desktop:7.0', 'cpe:/o:redhat:enterprise_linux_server:7.0', 'cpe:/o:redhat:enterprise_linux_workstation:7.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-19323
+2019-02-14T14:06:35.500-05:00	:CVE-2018-19323 (Score:9.0)['cpe:/a:gigabyte:aorus_graphics_engine:1.33', 'cpe:/a:gigabyte:gigabyte_app_center:1.05.21', 'cpe:/a:gigabyte:oc_guru_ii:2.08', 'cpe:/a:gigabyte:xtreme_gaming_engine:1.25']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-6267
+2019-02-14T15:10:29.637-05:00	:CVE-2018-6267 (Score:9.3)['cpe:/o:google:android:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-6268
+2019-02-14T15:10:05.417-05:00	:CVE-2018-6268 (Score:9.3)['cpe:/o:google:android:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-6271
+2019-02-14T15:08:02.463-05:00	:CVE-2018-6271 (Score:9.3)['cpe:/o:google:android:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-6342
+2019-02-14T14:17:25.750-05:00	:CVE-2018-6342 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-9583
+2019-02-14T15:50:37.540-05:00	:CVE-2018-9583 (Score:10.0)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1636
+2019-02-14T11:53:24.550-05:00	:CVE-2019-1636 (Score:9.3)['cpe:/a:cisco:webex_teams:3.0.4533']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1650
+2019-02-15T14:12:26.673-05:00	:CVE-2019-1650 (Score:9.0)['cpe:/a:cisco:vbond_orchestrator:-', 'cpe:/a:cisco:vmanage_network_management:-', 'cpe:/a:cisco:vsmart_controller:-', 'cpe:/o:cisco:vedge_1000_firmware', 'cpe:/o:cisco:vedge_100_firmware', 'cpe:/o:cisco:vedge_2000_firmware', 'cpe:/o:cisco:vedge_5000_firmware']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1652
+2019-02-15T13:53:33.930-05:00	:CVE-2019-1652 (Score:9.0)['cpe:/o:cisco:rv320_firmware:1.4.2.15', 'cpe:/o:cisco:rv325_firmware:1.4.2.15']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-6496
+2019-02-15T15:14:01.720-05:00	:CVE-2019-6496 (Score:8.3)['cpe:/o:marvell:88w8787_firmware:-', 'cpe:/o:marvell:88w8797_firmware:-', 'cpe:/o:marvell:88w8801_firmware:-', 'cpe:/o:marvell:88w8897_firmware:-', 'cpe:/o:marvell:88w8997_firmware:-']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-6539
+2019-02-14T09:12:54.290-05:00	:CVE-2019-6539 (Score:9.3)['cpe:/a:we-con:levistudiou:1.8.56']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-6543
+2019-02-14T10:59:29.307-05:00	:CVE-2019-6543 (Score:10.0)['cpe:/a:aveva:indusoft_web_studio:6.1:sp5', 'cpe:/a:aveva:indusoft_web_studio:6.1:sp6_p3', 'cpe:/a:aveva:indusoft_web_studio:7.1', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp1', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp2', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p1', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p2', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p3', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p4', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p5', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p6', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p7', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p8', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p9', 'cpe:/a:aveva:indusoft_web_studio:8.0', 'cpe:/a:aveva:indusoft_web_studio:8.0:p1', 'cpe:/a:aveva:indusoft_web_studio:8.0:p2', 'cpe:/a:aveva:indusoft_web_studio:8.0:p3', 'cpe:/a:aveva:indusoft_web_studio:8.0:sp1', 'cpe:/a:aveva:indusoft_web_studio:8.0:sp1_p1', 'cpe:/a:aveva:indusoft_web_studio:8.0:sp2', 'cpe:/a:aveva:indusoft_web_studio:8.0:sp2_p1', 'cpe:/a:aveva:indusoft_web_studio:8.1', 'cpe:/a:aveva:indusoft_web_studio:8.1:p1', 'cpe:/a:aveva:indusoft_web_studio:8.1:sp1', 'cpe:/a:aveva:indusoft_web_studio:8.1:sp1_p1', 'cpe:/a:aveva:indusoft_web_studio:8.1:sp2', 'cpe:/a:aveva:intouch_machine_edition_2014:r2']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-6545
+2019-02-14T08:45:40.113-05:00	:CVE-2019-6545 (Score:10.0)['cpe:/a:aveva:indusoft_web_studio:6.1:sp5', 'cpe:/a:aveva:indusoft_web_studio:6.1:sp6_p3', 'cpe:/a:aveva:indusoft_web_studio:7.1', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp1', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp2', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p1', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p2', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p3', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p4', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p5', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p6', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p7', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p8', 'cpe:/a:aveva:indusoft_web_studio:7.1:sp3_p9', 'cpe:/a:aveva:indusoft_web_studio:8.0', 'cpe:/a:aveva:indusoft_web_studio:8.0:p1', 'cpe:/a:aveva:indusoft_web_studio:8.0:p2', 'cpe:/a:aveva:indusoft_web_studio:8.0:p3', 'cpe:/a:aveva:indusoft_web_studio:8.0:sp1', 'cpe:/a:aveva:indusoft_web_studio:8.0:sp1_p1', 'cpe:/a:aveva:indusoft_web_studio:8.0:sp2', 'cpe:/a:aveva:indusoft_web_studio:8.0:sp2_p1', 'cpe:/a:aveva:indusoft_web_studio:8.1', 'cpe:/a:aveva:indusoft_web_studio:8.1:p1', 'cpe:/a:aveva:indusoft_web_studio:8.1:sp1', 'cpe:/a:aveva:indusoft_web_studio:8.1:sp1_p1', 'cpe:/a:aveva:indusoft_web_studio:8.1:sp2', 'cpe:/a:aveva:intouch_machine_edition_2014:r2']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-8312
+2019-02-15T16:43:35.457-05:00	:CVE-2019-8312 (Score:9.0)['cpe:/o:dlink:dir-878_firmware:1.12a1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-8313
+2019-02-13T10:39:31.480-05:00	:CVE-2019-8313 (Score:9.0)['cpe:/o:dlink:dir-878_firmware:1.12a1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-8314
+2019-02-15T16:27:52.687-05:00	:CVE-2019-8314 (Score:9.0)['cpe:/o:dlink:dir-878_firmware:1.12a1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-8315
+2019-02-15T16:43:14.973-05:00	:CVE-2019-8315 (Score:9.0)['cpe:/o:dlink:dir-878_firmware:1.12a1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-8316
+2019-02-15T16:42:45.487-05:00	:CVE-2019-8316 (Score:9.0)['cpe:/o:dlink:dir-878_firmware:1.12a1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-8318
+2019-02-13T11:27:04.450-05:00	:CVE-2019-8318 (Score:9.0)['cpe:/o:dlink:dir-878_firmware:1.12a1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-8319
+2019-02-15T16:30:03.613-05:00	:CVE-2019-8319 (Score:9.0)['cpe:/o:dlink:dir-878_firmware:1.12a1']

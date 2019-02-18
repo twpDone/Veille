@@ -1,0 +1,254 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	 [access, attacks] https://www.cybersecurity-insiders.com/fic-2019-protecting-is-attacks-starts-with-secure-access-management/
+	--
+
+[attack]
+	 https://www.welivesecurity.com/2019/02/14/attack-email-provider-wipes-almost-two-decades-data/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	 https://www.sec.gov/news/press-release/2019-13/
+	--
+	--
+
+[threats]
+	 https://www.cybersecurity-insiders.com/greatest-cyber-threats-which-trended-on-the-valentines-day/
+	--
+	 [threats, facebook] http://www.securityweek.com/facebook-taps-user-data-defend-workers-threat/
+	--
+
+[scams]
+	 https://www.welivesecurity.com/2019/02/14/love-becomes-nightmare-scams-apps-online-dating-sites/
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	 [dns, attacks] https://threatpost.com/dns-spoofing-attacks/141880/
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	 [threat, intelligence] https://www.infosecurity-magazine.com:443/opinions/level-threat-intelligence-1-1/
+	 [threat, cloud, intelligence] https://scmagazine.icrowdnewswire.com/news.php?id=MTI3Mjc4OA==/
+	--
+
+[users]
+	--
+	 [users, breach] https://threatpost.com/coffee-meets-bagel-breach/141850/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 http://www.zdnet.fr/actualites/yes-we-hack-leve-4-millions-d-euros-39880731.htm/
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	 [threat, cloud, intelligence] https://scmagazine.icrowdnewswire.com/news.php?id=MTI3Mjc4OA==/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	 [exploit, microsoft] https://www.scmagazine.com/home/security-news/old-phantom-crypter-supplants-older-microsoft-office-exploit-builder-tools/
+	 [exploit, ransomware] https://www.scmagazine.com/home/security-news/ransomware-attackers-exploit-old-plug-in-flaw-to-infect-msps-and-their-clients/
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	 [phishing, facebook] https://threatpost.com/sneaky-phishing-scam-facebook/141869/
+	--
+
+[facebook]
+	 http://www.securityweek.com/us-facebook-fine-over-privacy-could-be-billions-reports/
+	 http://www.securityweek.com/csrf-vulnerability-facebook-earns-researcher-25000/
+	--
+	 [threats, facebook] http://www.securityweek.com/facebook-taps-user-data-defend-workers-threat/
+	 [phishing, facebook] https://threatpost.com/sneaky-phishing-scam-facebook/141869/
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/assistant-vocal-apple-acquiert-pullstring-pour-renforcer-siri-39880757.htm/
+	 https://www.cybersecurity-insiders.com/apple-acquires-ai-startup-pullstring/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	 [threat, intelligence] https://www.infosecurity-magazine.com:443/opinions/level-threat-intelligence-1-1/
+	 [threat, cloud, intelligence] https://scmagazine.icrowdnewswire.com/news.php?id=MTI3Mjc4OA==/
+	--
+
+[microsoft]
+	 http://www.securityweek.com/cryptojacking-applications-land-microsoft-store/
+	 https://threatpost.com/eight-cryptojacking-apps-booted-from-microsoft-store/141896/
+	--
+	 [exploit, microsoft] https://www.scmagazine.com/home/security-news/old-phantom-crypter-supplants-older-microsoft-office-exploit-builder-tools/
+	--
+
+[breach]
+	 https://threatpost.com/data-breach-equifax-credential-dumps/141925/
+	--
+	 [users, breach] https://threatpost.com/coffee-meets-bagel-breach/141850/
+	--
+
+[attacks]
+	 https://www.cybersecurity-insiders.com/diligent-employees-make-firms-vulnerable-to-cyber-attacks/
+	--
+	 [attacks, ransomware] http://www.securityweek.com/legislation-would-stiffen-penalties-ransomware-attacks/
+	 [dns, attacks] https://threatpost.com/dns-spoofing-attacks/141880/
+	 [access, attacks] https://www.cybersecurity-insiders.com/fic-2019-protecting-is-attacks-starts-with-secure-access-management/
+	--
+
+[ransomware]
+	 https://www.safetydetective.com/blog/what-is-ransomware-and-how-can-i-protect-my-computer-against-it/
+	--
+	 [attacks, ransomware] http://www.securityweek.com/legislation-would-stiffen-penalties-ransomware-attacks/
+	 [exploit, ransomware] https://www.scmagazine.com/home/security-news/ransomware-attackers-exploit-old-plug-in-flaw-to-infect-msps-and-their-clients/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://threatpost.com/threatpost-poll-over-half-of-firms-asked-struggle-with-mobile-security/141829/
+	--
+	--
+
+[malware]
+	 https://threatpost.com/trickbot-remote-desktop/141879/
+	 https://www.welivesecurity.com/2019/02/15/navigating-murky-waters-android-banking-malware/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'regional', u'handling', u'tips', u'protection', u'china', u'secure', u'macos', u'trickbot', u'content', u'we', u'conference', u'has', u'statements', u'ddos', u'when', u'leave', u'settle', u'organizations', u'newsletters', u'main', u'hacker', u'webcasts', u'certification', u'espa\xf1ol', u'black', u'pullstring', u'laptops', u'server', u'financial', u'remote', u'markets', u'flaw', u'systems', u'week', u'regulation', u'scheme', u'part', u'electric', u'banking', u'scams', u'orders', u'named', u'australia', u'popular', u'dating', u'disclosure', u'up', u'users', u'firms', u'meet', u'30', u'ccprojectzeromembers', u'software', u'out', u'final', u'plugin', u'career', u'ce', u'phones', u'podcasts', u'linkedin', u'security-based', u'ios', u'executive', u'testimony', u'twitter', u'executives', u'education', u'other']
+6 [u'updates', u'cnet', u'network', u'features', u'hacking', u'securities', u'magazine', u'wordpress', u'devices', u'team', u'trend', u'ibm', u'mac', u'tablets', u'avis', u'kane', u'lindsey', u'millions', u'through', u'awards', u'technology', u'careers', u'ai', u'program', u'20', u'micro', u'store', u'threatlist', u'incident', u'hackers', u'innovation', u'odonnell', u'#kmm_items', u'link', u'info', u'bulletin', u'issues', u'breaches', u'resources', u'parliament', u'investor', u'our', u'#kmm_articles', u'enforcement', u'computer', u'acquires', u'comment', u'paul']
+7 [u'dns', u'free', u'advisory', u'10', u'programs', u'test', u'focus', u'pay', u'multiples', u'seals', u'investment', u'company', u'information', u'interviews', u'linux', u'uk', u'tara', u'huawei', u'products', u'app', u'adopts', u'agency', u'view', u'web', u'bug', u'4g']
+8 [u's\xe9curit\xe9', u'interview', u'over', u'report', u'dactualit\xe9', u'sites', u'antivirus', u'charged', u'podcast', u'play', u'startup', u'big', u'breach', u'announces', u'jan']
+9 [u'insider', u'hacken', u'cars', u'director', u'rules', u'business', u'compliance', u'social', u'windows', u'application', u'exchange', u'ecosystem']
+10 [u'reports', u'after', u'trading', u'top', u'acquisition', u'terms', u'product', u'investors', u'folt\xfdn', u'industry', u'public', u'full', u'search', u'cet', u'vulnerabilities', u'most', u'tom\xe1\u0161', u'broersma', u'matthew', u'smart']
+11 [u'risk', u'service', u'releases', u'services', u'press']
+12 [u'ransomware', u'says', u'million', u'fraud', u'two', u'research', u'phishing', u'vuln\xe9rabilit\xe9s', u'email', u'android']
+13 [u'former', u'blog', u'threat']
+14 [u'office', u'intelligence', u'apps']
+15 [u'vulnerability', u'microsoft']
+16 [u'cybersecurity', u'internet', u'infosecurity', u'facebook', u'cybercrime']
+17 [u'attacks', u'veille', u'attack']
+18 [u'iot', u'cloud']
+19 [u'google', u'2018']
+20 [u'apple']
+22 [u'threats']
+23 [u'mobile']
+26 [u'new']
+32 [u'charges']
+33 [u'privacy']
+35 [u'2019']
+38 [u'malware']
+42 [u'best']
+82 [u'sec']
+
+
