@@ -1,0 +1,232 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 https://securityintelligence.com/icedid-operators-using-atsengine-injection-panel-to-hit-e-commerce-sites/?src=widget/
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [service, hacking] https://www.welivesecurity.com/2019/02/19/criminal-hacking-hits-managed-service-providers-reasons-responses/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.securityweek.com/offensive-security-releases-kali-linux-20191/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	 http://www.securityweek.com/exploit-code-published-recent-container-escape-vulnerability/
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/sha-2-sur-windows-7-non-alors-plus-de-mises-a-jour-des-juillet-39880821.htm/
+	--
+	--
+
+[phishing]
+	 http://www.zdnet.fr/actualites/barometre-cesin-le-phishing-reste-l-attaque-la-plus-frequente-pour-les-entreprises-francaises-39880813.htm/
+	--
+	--
+
+[facebook]
+	 https://www.scmagazine.com/home/security-news/privacy-compliance/uk-committee-hammers-facebook-on-privacy-failures/
+	 http://www.securityweek.com/digital-gangsters-uk-wants-tougher-rules-facebook/
+	--
+	 [facebook, microsoft] https://www.cybersecurity-insiders.com/know-how-google-microsoft-and-facebook-protect-user-data-from-cyber-attacks/
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	 [service, hacking] https://www.welivesecurity.com/2019/02/19/criminal-hacking-hits-managed-service-providers-reasons-responses/
+	--
+
+[intelligence]
+	 http://www.securityweek.com/british-intelligence-says-huawei-risk-manageable-ft/
+	 https://securityintelligence.com/global-cyber-intelligence-maven-limor-kessem-is-a-guiding-light-for-women-in-security/
+	--
+	--
+
+[microsoft]
+	--
+	 [facebook, microsoft] https://www.cybersecurity-insiders.com/know-how-google-microsoft-and-facebook-protect-user-data-from-cyber-attacks/
+	--
+
+[breach]
+	 http://www.securityweek.com/wendys-reaches-50-million-settlement-banks-over-data-breach/
+	--
+	--
+
+[attacks]
+	 https://www.infosecurity-magazine.com:443/news/cpx360-prepare-attack-prevention-1-1/
+	--
+	--
+
+[ransomware]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI4MDQ4OA==/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.cybersecurity-insiders.com/huawei-5g-mobile-security-risks-can-be-managed-says-the-uk/
+	--
+	--
+
+[malware]
+	 http://www.securityweek.com/storage-maker-qnap-warns-malware-targeting-its-nas-devices/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'regional', u'secure', u'macos', u'my', u'network', u'content', u'bad', u'we', u'protect', u'conference', u'has', u'hat', u'statements', u'down', u'managed', u'global', u'leave', u'settle', u'ibm', u'newsletters', u'applications', u'main', u'webcasts', u'lindsey', u'espa\xf1ol', u'through', u'laptops', u'technology', u'charged', u'multiples', u'server', u'financial', u'program', u'systems', u'week', u'avec', u'major', u'regulation', u'scheme', u'banking', u'handling', u'orders', u'opinion', u'recent', u'australia', u'odonnell', u'disclosure', u'breaches', u'firms', u'30', u'ccprojectzeromembers', u'final', u'enforcement', u'career', u'podcasts', u'linkedin', u'security-based', u'executive', u'web', u'testimony', u'twitter', u'executives', u'bug', u'education', u'other']
+6 [u'updates', u'cnet', u'protection', u'dns', u'over', u'features', u'5g', u'securities', u'magazine', u'devices', u'test', u'trend', u'mac', u'tablets', u'mais', u'avis', u'careers', u'20', u'micro', u'store', u'play', u'threatlist', u'incident', u'hackers', u'firm', u'popular', u'innovation', u'#kmm_items', u'link', u'bulletin', u'issues', u'resources', u'app', u'investor', u'our', u'#kmm_articles', u'computer', u'acquires', u'comment', u'phones']
+7 [u'free', u'advisory', u'10', u'digital', u'team', u'pay', u'seals', u'investment', u'information', u'interviews', u'user', u'named', u'tara', u'products', u'announces', u'adopts', u'agency', u'view', u'4g']
+8 [u'reports', u'after', u'hacking', u'sites', u'programs', u'focus', u'dactualit\xe9', u'awards', u'antivirus', u'podcast', u'ai', u'startup', u'big', u'info', u'jan']
+9 [u'interview', u'trading', u'report', u'insider', u'hacken', u'cars', u'business', u'social', u'company', u'most', u'linux', u'windows', u'application', u'exchange', u'ecosystem']
+10 [u's\xe9curit\xe9', u'top', u'acquisition', u'terms', u'product', u'investors', u'folt\xfdn', u'director', u'industry', u'public', u'full', u'compliance', u'two', u'cet', u'vulnerabilities', u'services', u'tom\xe1\u0161', u'vuln\xe9rabilit\xe9s', u'breach', u'huawei', u'broersma', u'matthew', u'smart']
+11 [u'risk', u'ransomware', u'rules', u'search', u'threat', u'email', u'press']
+12 [u'says', u'fraud', u'research']
+13 [u'vulnerability', u'office', u'service', u'releases', u'blog', u'phishing', u'android']
+14 [u'million', u'former', u'uk', u'cybercrime']
+15 [u'internet', u'attack', u'apps']
+16 [u'cybersecurity', u'infosecurity', u'intelligence']
+17 [u'attacks', u'iot', u'veille', u'apple', u'2018']
+18 [u'microsoft', u'facebook', u'cloud']
+19 [u'threats']
+23 [u'google']
+24 [u'new']
+25 [u'mobile']
+32 [u'charges']
+34 [u'malware', u'privacy']
+37 [u'2019']
+42 [u'best']
+82 [u'sec']
+
+
