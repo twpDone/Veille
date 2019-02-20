@@ -1,0 +1,232 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.cybersecurity-insiders.com/chinese-database-hack-reveals-the-grievances-in-government-surveillance/
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 https://www.cybersecurity-insiders.com/cloud-security-startup-adya-acquired-by-qualys/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	 https://www.scmagazine.com/home/opinion/using-the-zero-trust-model-to-prevent-phishing/
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	 [hacking, microsoft] https://www.infosecurity-magazine.com:443/news/microsoft-russians-hacking-1/
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://threatpost.com/microsoft-updates-os-sha-1/142000/
+	 http://www.zdnet.fr/actualites/microsoft-devoile-une-attaque-d-apt28-contre-des-entites-politiques-europeennes-39880911.htm/
+	--
+	 [hacking, microsoft] https://www.infosecurity-magazine.com:443/news/microsoft-russians-hacking-1/
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/data-breach/dunn-brothers-coffee-holiday-inn-among-those-exposed-by-third-party-payment-card-vendor-breach/
+	 http://www.securityweek.com/breach-pos-firm-hits-hundreds-us-restaurants-hotels/
+	 https://www.scmagazine.com/home/security-news/wendys-has-agreed-to-pay-50-million-to-settle-negligence-claims-following-its-2015-2016-data-breach-that-affected-more-than-1000-of-the-burger-chains-locations/
+	--
+	--
+
+[attacks]
+	 http://www.securityweek.com/supply-chain-attacks-nearly-doubled-2018-symantec/
+	--
+	--
+
+[ransomware]
+	 https://threatpost.com/gandcrab-decryptor-ransomware/141973/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 http://www.zdnet.fr/actualites/des-caisses-enregistreuses-infectees-par-un-malware-39880913.htm/
+	 https://threatpost.com/atm-jackpotting-malware-winpot/141960/
+	 http://www.securityweek.com/new-multi-stage-malware-updated-daily/
+	 https://www.scmagazine.com/home/security-news/a-multi-staged-malware-dropping-multiple-payloads-is-infecting-its-victims-without-a-clear-purpose-and-has-shown-a-significant-uptick-in-activity-since-january-2019/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'updated', u'regional', u'companies', u'my', u'attaque', u'medical', u'bad', u'we', u'protect', u'conference', u'hat', u'statements', u'when', u'leave', u'ibm', u'newsletters', u'mac', u'mais', u'main', u'webcasts', u'than', u'espa\xf1ol', u'through', u'sean', u'awards', u'laptops', u'technology', u'par', u'week', u'charged', u'multiples', u'server', u'critical', u'os', u'financial', u'ai', u'keane', u'flaws', u'regulation', u'scheme', u'banking', u'hackers', u'handling', u'orders', u'analysis', u'named', u'australia', u'disclosure', u'opinion', u'agenda', u'software', u'announces', u'final', u'enforcement', u'which', u'hits', u'career', u'comment', u'phones', u'podcasts', u'linkedin', u'security-based', u'executive', u'web', u'testimony', u'twitter', u'education', u'other']
+6 [u'updates', u'cnet', u'features', u'securities', u'test', u'team', u'tablets', u'avis', u'hack', u'surveillance', u'careers', u'information', u'store', u'startup', u'incident', u'user', u'popular', u'#kmm_items', u'info', u'bulletin', u'resources', u'indian', u'tools', u'ccprojectzeromembers', u'investor', u'#kmm_articles', u'computer', u'government']
+7 [u'dns', u'over', u'network', u'apt', u'acquisition', u'advisory', u'10', u'trend', u'program', u'investment', u'interviews', u'part', u'threatlist', u'linux', u'big', u'link', u'windows', u'huawei', u'products', u'our', u'adopts', u'agency', u'view', u'bug', u'4g']
+8 [u'reports', u'after', u'free', u'sites', u'programs', u'devices', u'focus', u'says', u'dactualit\xe9', u'antivirus', u'pay', u'podcast', u'company', u'micro', u'firm', u'jan']
+9 [u'risk', u'protection', u'vulnerability', u'interview', u'trading', u'hacking', u'report', u'insider', u'hacken', u'cars', u'investors', u'folt\xfdn', u'rules', u'business', u'seals', u'social', u'most', u'tom\xe1\u0161', u'tara', u'application', u'exchange', u'ecosystem']
+10 [u's\xe9curit\xe9', u'top', u'terms', u'product', u'director', u'industry', u'public', u'full', u'compliance', u'two', u'20', u'cet', u'vulnerabilities', u'services', u'vuln\xe9rabilit\xe9s', u'uk', u'broersma', u'matthew']
+11 [u'releases', u'ransomware', u'search', u'threat', u'phishing', u'email', u'press']
+12 [u'former', u'fraud', u'research']
+13 [u'office', u'service', u'blog']
+14 [u'million', u'iot', u'intelligence', u'facebook', u'apple', u'attack', u'android', u'apps']
+15 [u'attacks', u'breach', u'cybercrime']
+16 [u'internet', u'infosecurity', u'smart']
+17 [u'veille']
+18 [u'threats', u'cloud']
+19 [u'mobile']
+20 [u'cybersecurity']
+21 [u'google']
+22 [u'microsoft', u'2018']
+25 [u'new']
+31 [u'charges']
+34 [u'2019']
+37 [u'privacy']
+39 [u'malware']
+42 [u'best']
+82 [u'sec']
+
+
