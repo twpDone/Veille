@@ -1,0 +1,268 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://www.cybersecurity-insiders.com/gear-up-your-secure-access-strategy-for-2019/
+	 https://www.cybersecurity-insiders.com/zero-trust-secure-access-in-2019/
+	 https://www.cybersecurity-insiders.com/category/technology/protect/access-control/
+	--
+	 [access, attacks] https://threatpost.com/bronze-union-apt-updates-remote-access-trojans-in-fresh-wave-of-attacks/142219/
+	--
+
+[attack]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI4OTk1OA==/
+	 https://www.scmagazine.com/home/security-news/vulnerabilities/computers-vulnerable-to-attack-through-usb-ports-report/
+	--
+	 [attack, hacking] http://www.securityweek.com/elasticsearch-clusters-under-attack-multiple-hacking-groups/
+	 [attack, cloud] https://threatpost.com/cloudborne-iaas-attack-cloud/142223/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 https://threatpost.com/hacker-capsize-ship-sea/142077/
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	 https://www.sec.gov/news/press-release/2019-16/
+	--
+	--
+
+[threats]
+	 https://www.infosecurity-magazine.com:443/opinions/breaking-kill-chain-protect-1/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	 [dns, attacks] https://www.welivesecurity.com/2019/02/25/escalating-dns-attacks-domain-name-worried/
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://threatpost.com/winrar-flaw-500-million-users/142080/
+	 http://www.securityweek.com/farseer-backdoor-targets-users-south-east-asia/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-079/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-077/
+	--
+	--
+
+[cloud]
+	 http://www.securityweek.com/intel-sgx-card-extends-memory-protections-existing-cloud-servers/
+	 https://www.scmagazine.com/home/security-news/ibm-updates-firmware-to-fix-flaw-in-cloud-servers-bmc-component/
+	 https://www.cybersecurity-insiders.com/email-security-firm-zix-acquires-cloud-security-firm-appriver/
+	 https://www.cybersecurity-insiders.com/sonicwall-aims-to-protect-wireless-networks-cloud-apps-and-endpoints-from-elusive-cyber-threats/
+	--
+	 [attack, cloud] https://threatpost.com/cloudborne-iaas-attack-cloud/142223/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	 https://www.infosecurity-magazine.com:443/news/hackers-exploit-bangladesh-embassy-1/
+	--
+	--
+
+[services]
+	 https://www.silicon.co.uk/workspace/financial-services-report-five-fold-rise-in-data-breaches-241805/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/restful-web-services/
+	--
+	--
+
+[windows]
+	--
+	 [windows, malware] https://www.scmagazine.com/home/security-news/cybercrime/farseer-backdoor-targets-windows-systems-linked-to-henbox-malware/
+	--
+
+[phishing]
+	 https://www.safetydetective.com/blog/what-is-phishing-malware-and-how-to-protect-against-it/
+	--
+	 [phishing, malware] https://threatpost.com/phishing-scam-malware-google-recaptcha/142142/
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/vous-avez-achete-une-montre-connectee-c-est-sans-doute-une-apple-watch-39881321.htm/
+	--
+	--
+
+[hacking]
+	 https://threatpost.com/modern-car-warning/142190/
+	--
+	 [attack, hacking] http://www.securityweek.com/elasticsearch-clusters-under-attack-multiple-hacking-groups/
+	--
+
+[intelligence]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI4OTQwOA==/
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/hololens-2-pourquoi-l-avenir-de-l-informatique-est-entre-les-mains-de-microsoft-39881195.htm/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/breach-could-impact-roughly-326000-uconn-health-patients/
+	 https://www.welivesecurity.com/2019/02/27/spot-your-password-stolen-security-breach/
+	--
+	--
+
+[attacks]
+	 https://www.scmagazine.com/home/security-news/cybercrime/iot-devices-attacked-faster-than-ever-ddos-attacks-up-dramatically-netscout/
+	 https://www.cybersecurity-insiders.com/power-systems-in-data-centers-are-vulnerable-to-cyber-attacks/
+	 https://www.cybersecurity-insiders.com/plug-in-devices-make-laptops-and-desktops-vulnerable-to-cyber-attacks/
+	 http://www.securityweek.com/thunderclap-flaws-expose-computers-attacks-peripheral-devices/
+	 https://www.cybersecurity-insiders.com/pennsylvania-ranks-second-worst-in-cyber-attacks-as-per-fbi-data-study/
+	 https://www.welivesecurity.com/2019/02/27/highly-critical-bug-exposes-unpatched-drupal-sites/
+	--
+	 [attacks, malware] https://www.scmagazine.com/home/retail/fin6-using-frameworkpos-scraping-malware-in-pos-attacks/
+	 [dns, attacks] https://www.welivesecurity.com/2019/02/25/escalating-dns-attacks-domain-name-worried/
+	 [attacks, ransomware] https://securityintelligence.com/cryptojacking-rises-450-percent-as-cybercriminals-pivot-from-ransomware-to-stealthier-attacks/
+	 [access, attacks] https://threatpost.com/bronze-union-apt-updates-remote-access-trojans-in-fresh-wave-of-attacks/142219/
+	--
+
+[ransomware]
+	--
+	 [ransomware, malware] https://www.cybersecurity-insiders.com/forget-ransomware-and-cryptojacking-as-formjacking-becomes-the-latest-trending-malware/
+	 [attacks, ransomware] https://securityintelligence.com/cryptojacking-rises-450-percent-as-cybercriminals-pivot-from-ransomware-to-stealthier-attacks/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.silicon.co.uk/workspace/mwc-2019-cutting-edge-cameras-5g-on-display-at-mobile-world-congress-241751/
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/home/security-news/stanislav-lisov-a-33-year-old-russian-national-who-created-the-neverquest-banking-trojan-pled-guilty-in-a-manhattan-federal-court/
+	 https://www.cybersecurity-insiders.com/fileless-malware-detection-a-crash-course/
+	 https://threatpost.com/porn-malware-dark-web/142105/
+	 https://www.silicon.co.uk/workspace/researchers-tie-babyshark-espionage-malware-to-north-korea-241791/
+	--
+	 [attacks, malware] https://www.scmagazine.com/home/retail/fin6-using-frameworkpos-scraping-malware-in-pos-attacks/
+	 [phishing, malware] https://threatpost.com/phishing-scam-malware-google-recaptcha/142142/
+	 [ransomware, malware] https://www.cybersecurity-insiders.com/forget-ransomware-and-cryptojacking-as-formjacking-becomes-the-latest-trending-malware/
+	 [windows, malware] https://www.scmagazine.com/home/security-news/cybercrime/farseer-backdoor-targets-windows-systems-linked-to-henbox-malware/
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'seals', u'companies', u'protection', u'mobility', u'machine', u'regional', u'law', u'cameras', u'silicon', u'cl\xe9s', u'firmware', u'detection', u'protect', u'chiffres', u'hat', u'securities', u'statements', u'wireless', u'counsel', u'identity', u'division', u'says', u'france', u'ibm', u'newsletters', u'course', u'main', u'than', u'espa\xf1ol', u'black', u'up', u'pay', u'week', u'financial', u'program', u'breaking', u'regulation', u'scheme', u'threatlist', u'banking', u'community', u'outil', u'source', u'popular', u'trends', u'disclosure', u'link', u'tara', u'desktops', u'breaches', u'app', u'ccprojectzeromembers', u'control', u'software', u'investor', u'announced', u'final', u'enforcement', u'staff', u'career', u'comment', u'phones', u'podcasts', u'security-based', u'executive', u'twitter']
+6 [u'over', u'content', u'features', u'10', u'when', u'focus', u'leave', u'team', u'tablets', u'avis', u'hacker', u'careers', u'execution', u'intel', u'server', u'critical', u'winrar', u'through', u'computers', u'targets', u'incident', u'linux', u'big', u'#kmm_items', u'computer', u'bulletin', u'resources', u'apt', u'our', u'announces', u'#kmm_articles', u'acquires', u'linkedin', u'testimony', u'education']
+7 [u'network', u'free', u'advisory', u'conference', u'devices', u'trend', u'insider', u'information', u'micro', u'interviews', u'vulnerable', u'networks', u'hackers', u'named', u'files', u'uk', u'code', u'breach', u'this', u'chief', u'adopts', u'agency', u'view', u'exploited', u'web']
+8 [u'updates', u'cnet', u'reports', u'secure', u'dns', u'acquisition', u'report', u'sites', u'programs', u'5g', u'lindsey', u'investors', u'dactualit\xe9', u'antivirus', u'laptops', u'investment', u'company', u'20', u'most', u'odonnell', u'exchange', u'products', u'apple', u'jan', u'bug']
+9 [u'mwc', u'risk', u'after', u'trading', u'social', u'digital', u'test', u'internet', u'hacken', u'awards', u'former', u'folt\xfdn', u'industry', u'podcast', u'remote', u'compliance', u'flaws', u'two', u'flaw', u'threat', u'tom\xe1\u0161', u'vuln\xe9rabilit\xe9s', u'application', u'broersma', u'matthew', u'ecosystem', u'4g']
+10 [u's\xe9curit\xe9', u'top', u'releases', u'ransomware', u'terms', u'product', u'cars', u'rules', u'fraud', u'public', u'full', u'search', u'cet', u'drupal', u'microsoft', u'windows', u'facebook', u'business', u'attack', u'apps']
+11 [u'interview', u'director', u'firm', u'press']
+12 [u'service', u'hacking', u'research', u'services', u'phishing', u'access']
+13 [u'office', u'million', u'blog', u'google', u'email', u'android']
+14 [u'iot', u'vulnerabilities', u'intelligence', u'smart']
+16 [u'infosecurity', u'2018']
+17 [u'veille', u'cybercrime']
+19 [u'vulnerability', u'cybersecurity']
+22 [u'mobile']
+24 [u'new', u'threats']
+25 [u'cloud']
+28 [u'attacks', u'charges']
+29 [u'privacy']
+39 [u'malware']
+42 [u'best']
+47 [u'2019']
+82 [u'sec']
+
+
