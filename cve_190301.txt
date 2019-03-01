@@ -1,0 +1,54 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2008-3473
+2019-02-27T20:00:43.537-05:00	:CVE-2008-3473 (Score:9.3)['cpe:/a:microsoft:internet_explorer:5.01:sp4', 'cpe:/a:microsoft:internet_explorer:6', 'cpe:/a:microsoft:internet_explorer:6:sp1', 'cpe:/a:microsoft:internet_explorer:7']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2013-5654
+2019-02-21T12:15:54.697-05:00	:CVE-2013-5654 (Score:9.4)['cpe:/a:yingzhipython_project:yingzhipython:1.9']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-10612
+2019-02-22T10:14:38.410-05:00	:CVE-2018-10612 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15380
+2019-02-22T09:29:34.607-05:00	:CVE-2018-15380 (Score:8.3)['cpe:/a:cisco:hyperflex_hx_data_platform:3.0%281a%29', 'cpe:/a:cisco:hyperflex_hx_data_platform:3.5%281a%29']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-19007
+2019-02-21T12:55:23.340-05:00	:CVE-2018-19007 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-19036
+2019-02-22T14:04:36.643-05:00	:CVE-2018-19036 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-20122
+2019-02-22T09:50:35.500-05:00	:CVE-2018-20122 (Score:10.0)['cpe:/o:fastweb:fastgate_firmware:1.0.1b']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-4012
+2019-02-21T13:39:56.430-05:00	:CVE-2018-4012 (Score:9.3)['cpe:/a:webroot:brightcloud']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1988
+2019-02-28T14:19:32.420-05:00	:CVE-2019-1988 (Score:9.3)['cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1991
+2019-02-28T14:18:41.167-05:00	:CVE-2019-1991 (Score:9.3)['cpe:/o:google:android:7.0', 'cpe:/o:google:android:7.1.1', 'cpe:/o:google:android:7.1.2', 'cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1994
+2019-02-28T14:18:08.743-05:00	:CVE-2019-1994 (Score:9.3)['cpe:/o:google:android:8.0', 'cpe:/o:google:android:8.1', 'cpe:/o:google:android:9.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-5909
+2019-02-22T15:00:11.313-05:00	:CVE-2019-5909 (Score:10.0)['cpe:/a:yokogawa:centum_vp:r5.01.00', 'cpe:/a:yokogawa:centum_vp:r5.01.20', 'cpe:/a:yokogawa:centum_vp:r5.02.00', 'cpe:/a:yokogawa:centum_vp:r5.03.00']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7684
+2019-02-22T13:04:29.887-05:00	:CVE-2019-7684 (Score:10.0)['cpe:/a:inxedu:inxedu:2018-12-24']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-8317
+2019-02-21T12:48:19.377-05:00	:CVE-2019-8317 (Score:9.0)['cpe:/o:dlink:dir-878_firmware:1.12a1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-8950
+2019-02-21T14:58:48.330-05:00	:CVE-2019-8950 (Score:10.0)['cpe:/o:dasannetworks:h665_firmware:1.46p1-0028']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-8985
+2019-02-22T14:09:49.053-05:00	:CVE-2019-8985 (Score:9.0)['cpe:/o:netis-systems:wf2411_firmware:2.1.36123', 'cpe:/o:netis-systems:wf2880_firmware:2.1.36123']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-9082
+2019-02-25T13:29:24.183-05:00	:CVE-2019-9082 (Score:10.0)['cpe:/a:opensourcebms:open_source_background_management_system:1.1.1']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-9201
+2019-02-27T16:38:16.820-05:00	:CVE-2019-9201 (Score:9.0)['cpe:/o:phoenixcontact:axc_1050_firmware:-', 'cpe:/o:phoenixcontact:ilc_131_eth%2fxc_firmware:-', 'cpe:/o:phoenixcontact:ilc_131_eth_firmware:-', 'cpe:/o:phoenixcontact:ilc_151_eth%2fxc_firmware:-', 'cpe:/o:phoenixcontact:ilc_151_eth_firmware:-', 'cpe:/o:phoenixcontact:ilc_171_eth_2tx_firmware:-', 'cpe:/o:phoenixcontact:ilc_191_eth_2tx_firmware:-', 'cpe:/o:phoenixcontact:ilc_191_me%2fan_firmware:-']

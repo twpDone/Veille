@@ -1,0 +1,234 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://www.cybersecurity-insiders.com/cyber-attack-news-trending-now-on-google/
+	--
+	--
+
+[routers]
+	 https://threatpost.com/cisco-fixes-critical-flaw-in-wireless-vpn-firewall-routers/142284/
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI5MDY4Mw==/
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	 [threats, mobile] https://www.cybersecurity-insiders.com/six-mobile-security-threats-which-need-your-attention/
+	--
+
+[scams]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/social-media-scams/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/tech-support-scams/
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI5MDY3Nw==/
+	--
+	 [threat, intelligence] https://scmagazine.icrowdnewswire.com/news.php?id=MTI5MDY4MA==/
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 http://www.securityweek.com/un-aviation-agency-concealed-serious-hack-media/
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	 [cloud, services, microsoft] https://www.cybersecurity-insiders.com/microsoft-unveils-two-new-cloud-security-services-for-enterprise-customers/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	 [cloud, services, microsoft] https://www.cybersecurity-insiders.com/microsoft-unveils-two-new-cloud-security-services-for-enterprise-customers/
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.securityweek.com/microsoft-unveils-new-azure-windows-defender-atp-tools/
+	--
+
+[phishing]
+	 https://www.infosecurity-magazine.com:443/news/sslbased-phishing-surges-400-from-1/
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	 https://www.cnet.com/the-apple-core/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	 [threat, intelligence] https://scmagazine.icrowdnewswire.com/news.php?id=MTI5MDY4MA==/
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/securite-microsoft-etoffe-son-offre-avec-un-siem-39881353.htm/
+	--
+	 [cloud, services, microsoft] https://www.cybersecurity-insiders.com/microsoft-unveils-two-new-cloud-security-services-for-enterprise-customers/
+	 [windows, microsoft] http://www.securityweek.com/microsoft-unveils-new-azure-windows-defender-atp-tools/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 https://www.cybersecurity-insiders.com/north-koreas-dangerous-weapon-is-cyber-attacks-and-not-nukes/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	 http://www.securityweek.com/lawyer-russian-cybercrime-suspect-hunger-strike/
+	--
+	--
+
+[mobile]
+	--
+	 [threats, mobile] https://www.cybersecurity-insiders.com/six-mobile-security-threats-which-need-your-attention/
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'updates', u'companies', u'my', u'regional', u'financial', u'cl\xe9s', u'chiffres', u'hat', u'securities', u'statements', u'son', u'down', u'wireless', u'counsel', u'devices', u'when', u'division', u'excellence', u'france', u'newsletters', u'main', u'than', u'espa\xf1ol', u'black', u'technology', u'critical', u'porter', u'doug', u'program', u'breaking', u'avec', u'regulation', u'scheme', u'threatlist', u'networks', u'incident', u'wearable', u'trends', u'disclosure', u'files', u'breaches', u'breach', u'app', u'insight', u'coinhive', u'2016', u'investor', u'announces', u'final', u'enforcement', u'cryptocurrency', u'exploited', u'phones', u'podcasts', u'security-based', u'olenick', u'executive', u'twitter', u'education']
+6 [u'secure', u'over', u'cameras', u'content', u'free', u'features', u'10', u'bad', u'5g', u'leave', u'team', u'avis', u'up', u'multiples', u'careers', u'cisco', u'exposed', u'banking', u'linux', u'#kmm_items', u'link', u'bulletin', u'resources', u'exchange', u'apple', u'ccprojectzeromembers', u'this', u'software', u'our', u'#kmm_articles', u'staff', u'acquires', u'career', u'comment', u'linkedin', u'testimony', u'bug', u'hacker']
+7 [u'mwc', u'cnet', u'network', u'advisory', u'report', u'programs', u'test', u'focus', u'trend', u'insider', u'tablets', u'lindsey', u'antivirus', u'execution', u'remote', u'flaw', u'information', u'micro', u'interviews', u'scams', u'hackers', u'named', u'big', u'popular', u'odonnell', u'uk', u'facebook', u'products', u'adopts', u'view', u'web']
+8 [u'seals', u's\xe9curit\xe9', u'reports', u'dns', u'trading', u'acquisition', u'ransomware', u'conference', u'digital', u'internet', u'investors', u'dactualit\xe9', u'laptops', u'investment', u'flaws', u'company', u'20', u'drupal', u'tara', u'code', u'chief', u'jan', u'4g']
+9 [u'interview', u'top', u'sites', u'product', u'hacken', u'cars', u'awards', u'former', u'week', u'podcast', u'compliance', u'most', u'access', u'broersma', u'attack', u'agency', u'matthew', u'ecosystem']
+10 [u'hacking', u'releases', u'terms', u'folt\xfdn', u'rules', u'fraud', u'public', u'full', u'search', u'cet', u'threat', u'tom\xe1\u0161', u'application', u'apps']
+11 [u'risk', u'after', u'director', u'business', u'industry', u'two', u'microsoft', u'firm', u'vuln\xe9rabilit\xe9s', u'press']
+12 [u'social', u'research', u'windows']
+13 [u'office', u'service', u'blog', u'services', u'email']
+14 [u'vulnerabilities', u'intelligence', u'phishing']
+15 [u'million', u'iot', u'android', u'smart']
+16 [u'infosecurity']
+17 [u'vulnerability', u'veille', u'google', u'2018']
+19 [u'cybersecurity', u'cybercrime']
+21 [u'mobile', u'threats']
+25 [u'new']
+26 [u'attacks']
+28 [u'charges', u'cloud', u'privacy']
+32 [u'malware']
+45 [u'best']
+51 [u'2019']
+82 [u'sec']
+
+
