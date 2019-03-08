@@ -1,0 +1,263 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 https://securityintelligence.com/category/incident-response/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://securityintelligence.com/category/identity-access/
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI5MzA1Nw==/
+	 https://threatpost.com/unikey-bleedingbit-hotel/142523/
+	--
+	--
+
+[attack]
+	 https://www.cybersecurity-insiders.com/google-trending-cyber-attack-news-headlines/
+	 https://threatpost.com/foreshadow-attack/142299/
+	 https://www.cybersecurity-insiders.com/apt-lucky-mouse-group-targets-canada-icao-via-cyber-attack/
+	--
+	 [attack, facebook, mobile] https://www.cybersecurity-insiders.com/facebook-mobile-security-authentication-creates-cyber-attack-vulnerability/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 https://www.safetydetective.com/blog/coca-cola-groupon-mcdonalds-and-fiverr-websites-taken-down-by-anonymous-hacker-group/
+	 http://www.securityweek.com/hungarian-judge-oks-extradition-portuguese-hacker/
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	 https://securityintelligence.com/category/fraud-protection/
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI5MzA2Mg==/
+	 https://threatpost.com/rsac-2019-for-domestic-abuse-iot-devices-pose-new-threat/142332/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/author/alfredoo/
+	 https://www.infosecurity-magazine.com:443/news/rsac-machine-learning-email-1-1-1/
+	 https://securityintelligence.com/category/threat-hunting/
+	--
+	--
+
+[users]
+	--
+	 [users, facebook] https://www.cybersecurity-insiders.com/google-android-apps-send-private-info-of-users-to-facebook/
+	--
+
+[infosec]
+	--
+	 [infosec, cloud] https://www.cybersecurity-insiders.com/alcide-and-hytrust-win-2019-infosec-awards-for-cloud-security/
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-091/
+	--
+	--
+
+[cloud]
+	 https://www.cybersecurity-insiders.com/cloud-and-5g-to-boost-network-security-business-says-palo-alto/
+	 https://securityintelligence.com/category/cloud-protection/
+	--
+	 [infosec, cloud] https://www.cybersecurity-insiders.com/alcide-and-hytrust-win-2019-infosec-awards-for-cloud-security/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 https://securityintelligence.com/category/security-services/
+	--
+	--
+
+[windows]
+	 http://www.securityweek.com/google-discloses-actively-exploited-windows-vulnerability/
+	 http://www.zdnet.fr/actualites/chrome-et-windows-7-les-deux-font-la-paire-de-failles-39881723.htm/
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://www.scmagazine.com/home/security-news/facebooks-zuckerberg-commits-to-privacy-focused-platform/
+	 https://www.silicon.co.uk/workspace/zuckerberg-announces-privacy-focused-future-for-facebook-242149/
+	 http://www.zdnet.fr/actualites/les-conversations-sur-facebook-messenger-pas-vraiment-privees-39881737.htm/
+	--
+	 [users, facebook] https://www.cybersecurity-insiders.com/google-android-apps-send-private-info-of-users-to-facebook/
+	 [attack, facebook, mobile] https://www.cybersecurity-insiders.com/facebook-mobile-security-authentication-creates-cyber-attack-vulnerability/
+	--
+
+[apple]
+	 https://www.cybersecurity-insiders.com/bitglass-security-spotlight-apple-cryptocurrency-and-mass-breaches/
+	--
+	--
+
+[hacking]
+	 http://www.securityweek.com/man-admits-hacking-minnesota-databases-over-cop-acquittal/
+	 https://www.cybersecurity-insiders.com/healthcare-breaches-and-the-rise-of-hacking-and-it-incidents/
+	--
+	--
+
+[intelligence]
+	 https://securityintelligence.com/category/artificial-intelligence/
+	 https://securityintelligence.com/category/security-intelligence-analytics/
+	--
+	--
+
+[microsoft]
+	 http://www.securityweek.com/zerodium-offers-500000-vmware-esxi-microsoft-hyper-v-exploits/
+	 https://www.silicon.co.uk/workspace/microsoft-integrates-yammer-into-teams-collaboration-tool-242161/
+	 http://www.zdnet.fr/actualites/sur-le-microsoft-store-le-developpeurs-gardent-95-des-recettes-39881703.htm/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/data-breach/sonic-hit-5-million-suite-over-2017-data-breach/
+	--
+	--
+
+[attacks]
+	 https://www.scmagazine.com/home/security-news/ceo-blames-unmanaged-third-party-code-for-recent-attacks-data-privacy-scandals/
+	--
+	 [attacks, ransomware] https://securityintelligence.com/cryptojacking-rises-450-percent-as-cybercriminals-pivot-from-ransomware-to-stealthier-attacks/?src=widget/
+	--
+
+[ransomware]
+	--
+	 [attacks, ransomware] https://securityintelligence.com/cryptojacking-rises-450-percent-as-cybercriminals-pivot-from-ransomware-to-stealthier-attacks/?src=widget/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.sec.gov/news/press-release/2019-27/
+	 https://securityintelligence.com/category/mobile-security-podcasts/
+	 https://www.cybersecurity-insiders.com/how-android-the-worlds-most-popular-mobile-os-is-preparing-for-esim/
+	--
+	 [attack, facebook, mobile] https://www.cybersecurity-insiders.com/facebook-mobile-security-authentication-creates-cyber-attack-vulnerability/
+	--
+
+[malware]
+	 https://www.infosecurity-magazine.com:443/news/rsac-cc-malware-1-1-1-1/
+	 https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/security-101-the-impact-of-cryptocurrency-mining-malware/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'mwc', u'rsac', u'my', u'chiffres', u'regional', u'cl\xe9s', u'cop', u'5g', u'securities', u'counsel', u'says', u'france', u'newsletters', u'statements', u'mais', u'bradley', u'white', u'topics', u'espa\xf1ol', u'technology', u'pay', u'week', u'exposed', u'act', u'os', u'ai', u'barth', u'response', u'regulation', u'scheme', u'toujours', u'linux', u'firm', u'disclosure', u'issues', u'testimony', u'insight', u'investor', u'final', u'cryptocurrency', u'exploited', u'career', u'linkedin', u'executive', u'success', u'education']
+6 [u'dns', u'financial', u'features', u'hat', u'down', u'digital', u'test', u'update', u'trend', u'ciso', u'avis', u'10', u'up', u'sites', u'antivirus', u'careers', u'dark', u'micro', u'flaws', u'information', u'20', u'pc', u'recent', u'trends', u'#kmm_items', u'uk', u'bulletin', u'firms', u'ccprojectzeromembers', u'our', u'announces', u'#kmm_articles', u'retail', u'enforcement', u'podcasts', u'identity', u'government', u'twitter']
+7 [u'cnet', u's\xe9curit\xe9', u'protection', u'trading', u'cameras', u'advisory', u'launches', u'left', u'focus', u'team', u'insider', u'tablets', u'lindsey', u'than', u'laptops', u'nest', u'interviews', u'tom', u'banking', u'incident', u'big', u'popular', u'odonnell', u'into', u'link', u'info', u'breaches', u'breach', u'resources', u'exchange', u'attack', u'adopts', u'agency', u'phishing', u'hacker', u'4g']
+8 [u'reports', u'interview', u'after', u'free', u'top', u'chrome', u'experts', u'social', u'dactualit\xe9', u'pas', u'multiples', u'podcast', u'investment', u'search', u'company', u'microsoft', u'named', u'broersma', u'jan', u'matthew', u'bug']
+9 [u'over', u'ransomware', u'report', u'product', u'hacken', u'investors', u'rules', u'industry', u'compliance', u'two', u'vulnerabilities', u'application', u'products', u'apple', u'chief', u'ecosystem', u'web', u'apps']
+10 [u'hacking', u'terms', u'awards', u'former', u'full', u'cet', u'most', u'hackers', u'email']
+11 [u'secure', u'network', u'releases', u'internet', u'folt\xfdn', u'director', u'tom\xe1\u0161', u'windows', u'view', u'press']
+12 [u'cars', u'business', u'fraud', u'public']
+13 [u'office', u'million', u'blog', u'services', u'2018']
+14 [u'research', u'service', u'threat', u'vuln\xe9rabilit\xe9s', u'android']
+15 [u'risk', u'access', u'cybercrime']
+16 [u'vulnerability', u'infosecurity']
+17 [u'veille', u'intelligence', u'facebook']
+19 [u'cloud']
+21 [u'attacks', u'smart']
+22 [u'conference', u'iot', u'rsa']
+23 [u'cybersecurity', u'google']
+24 [u'mobile', u'threats']
+25 [u'new']
+28 [u'charges', u'malware']
+31 [u'privacy']
+40 [u'best']
+67 [u'2019']
+79 [u'sec']
+
+
