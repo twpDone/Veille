@@ -1,0 +1,257 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 http://www.securityweek.com/venezuelas-maduro-says-cyber-attack-prevented-power-restoration/
+	 https://threatpost.com/rsa-operational-technology-supply-chain/142587/
+	 http://www.securityweek.com/attack-software-giant-citrix-attributed-iranian-hackers/
+	 https://threatpost.com/citrix-password-spraying/142649/
+	 https://threatpost.com/rsa-conference-2019-the-expanding-automation-platform-attack-surface/142631/
+	 https://www.cybersecurity-insiders.com/venezuela-power-outage-caused-by-us-cyber-attack/
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-medical-billing-company-wolverine-solutions-group/
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/threat-actors-launched-ransomware-attacks-against-three-u-s-colleges-seizing-the-data-on-students-applying-for-admission/
+	 [attack, hacker, facebook] http://www.securityweek.com/gif-attack-facebook-messenger-earned-hacker-10000/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-news-of-jackson-county-n-columbia-surgical-specialists/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	 [attack, hacker, facebook] http://www.securityweek.com/gif-attack-facebook-messenger-earned-hacker-10000/
+	--
+
+[industry]
+	 https://www.welivesecurity.com/2019/03/11/gaming-industry-scope-attackers-asia/
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.infosecurity-magazine.com:443/news/nasas-poor-cybersecurity-1-1/
+	--
+	--
+
+[users]
+	--
+	 [users, phishing, facebook] https://www.scmagazine.com/home/security-news/phishing/facebook-phishing-campaign-hitting-ios-users/
+	 [users, attacks] https://www.cybersecurity-insiders.com/google-chrome-users-are-vulnerable-to-cyber-attacks/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	 [cloud, services] http://www.securityweek.com/google-launches-new-cloud-security-services/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI5NjAxNw==/
+	--
+	 [cloud, services] http://www.securityweek.com/google-launches-new-cloud-security-services/
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	 https://www.scmagazine.com/home/security-news/phishing/
+	--
+	 [users, phishing, facebook] https://www.scmagazine.com/home/security-news/phishing/facebook-phishing-campaign-hitting-ios-users/
+	--
+
+[facebook]
+	 https://threatpost.com/facebook-alleges-two-ukrainians-scraped-data-from-63k-profiles/142666/
+	 https://www.cybersecurity-insiders.com/emails-to-be-replaced-by-facebook-messengerbut-are-you-sure/
+	 http://www.securityweek.com/mark-zuckerberg-describes-new-privacy-centric-facebook/
+	 https://www.scmagazine.com/home/security-news/facebook-sues-app-makers-over-browser-extensions-that-allegedly-scraped-user-data/
+	 https://www.scmagazine.com/home/security-news/gop-senator-checks-ftc-on-toothless-efforts-to-curb-facebook-google-privacy-violations/
+	--
+	 [users, phishing, facebook] https://www.scmagazine.com/home/security-news/phishing/facebook-phishing-campaign-hitting-ios-users/
+	 [attack, hacker, facebook] http://www.securityweek.com/gif-attack-facebook-messenger-earned-hacker-10000/
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-annonce-une-presentation-evenement-le-25-mars-39881881.htm/
+	 http://www.zdnet.fr/actualites/box-les-donnees-de-grandes-entreprises-dont-apple-exposees-a-cause-de-comptes-mal-configures-39881865.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	 [users, attacks] https://www.cybersecurity-insiders.com/google-chrome-users-are-vulnerable-to-cyber-attacks/
+	 [attacks, ransomware] https://threatpost.com/rsa-ransomware-payments-josh-zelonis/142645/
+	--
+
+[ransomware]
+	 http://www.securityweek.com/georgia-county-criticized-over-400k-ransomware-payment/
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-medical-billing-company-wolverine-solutions-group/
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/threat-actors-launched-ransomware-attacks-against-three-u-s-colleges-seizing-the-data-on-students-applying-for-admission/
+	 [attacks, ransomware] https://threatpost.com/rsa-ransomware-payments-josh-zelonis/142645/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-news-of-jackson-county-n-columbia-surgical-specialists/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.cybersecurity-insiders.com/mobile-security-compromise-is-making-companies-vulnerable-to-data-loss-downtime-and-reputational-damage/
+	 http://www.zdnet.fr/actualites/les-smartphones-pliables-ne-bouleverseront-pas-l-industrie-du-mobile-39881535.htm/
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'regional', u'updates', u'companies', u'my', u'financial', u'cameras', u'venezuela', u'acquisition', u'launches', u'things', u'5g', u'securities', u'counsel', u'test', u'update', u'navigation', u'france', u'ciso', u'newsletters', u'statements', u'mais', u'lindsey', u'topics', u'professional', u'espa\xf1ol', u'laptops', u'technology', u'dark', u'critical', u'caused', u'response', u'regulation', u'scheme', u'electric', u'recent', u'big', u'odonnell', u'disclosure', u'users', u'breach', u'power', u'access', u'testimony', u'investor', u'final', u'enforcement', u'staff', u'career', u'isc\xb2', u'linkedin', u'automation', u'identity', u'center', u'executive', u'government', u'other', u'4g']
+6 [u'county', u'dns', u'gaming', u'free', u'features', u'hacking', u'aim', u'digital', u'trend', u'tablets', u'avis', u'10', u'antivirus', u'careers', u'viser', u'micro', u'citrix', u'program', u'takes', u'information', u'20', u'microsoft', u'linux', u'into', u'link', u'bulletin', u'resources', u'apple', u'ccprojectzeromembers', u'software', u'broersma', u'announces', u'retail', u'podcasts', u'matthew', u'ios', u'web', u'twitter', u'education']
+7 [u'seals', u'cnet', u'trading', u'top', u'advisory', u'team', u'insider', u'than', u'multiples', u'flaws', u'two', u'interviews', u'tom', u'most', u'banking', u'incident', u'named', u'continue', u'info', u'tara', u'exchange', u'products', u'adopts', u'agency', u'bug']
+8 [u's\xe9curit\xe9', u'protection', u'reports', u'interview', u'after', u'chrome', u'social', u'hacker', u'dactualit\xe9', u'former', u'pay', u'podcast', u'investment', u'search', u'vulnerable', u'hackers', u'up', u'chief', u'jan', u'apps']
+9 [u'product', u'hacken', u'investors', u'rules', u'compliance', u'company', u'exposed', u'windows', u'uk', u'application', u'our', u'ecosystem', u'phishing']
+10 [u'over', u'network', u'releases', u'terms', u'says', u'awards', u'folt\xfdn', u'director', u'full', u'cet', u'firm', u'tom\xe1\u0161', u'firms']
+11 [u'report', u'industry', u'public', u'service', u'vulnerabilities', u'view', u'email', u'press']
+12 [u'cars', u'fraud', u'threat']
+13 [u'office', u'internet', u'blog', u'business', u'vuln\xe9rabilit\xe9s', u'cybercrime']
+14 [u'risk', u'research', u'iot', u'android']
+15 [u'vulnerability', u'services', u'threats']
+16 [u'million', u'infosecurity', u'intelligence', u'2018']
+17 [u'veille']
+18 [u'attacks', u'smart']
+19 [u'new', u'ransomware']
+20 [u'mobile']
+21 [u'google', u'cloud']
+22 [u'attack']
+23 [u'facebook']
+24 [u'cybersecurity']
+25 [u'conference']
+27 [u'malware']
+28 [u'charges']
+29 [u'rsa']
+32 [u'privacy']
+40 [u'best']
+63 [u'2019']
+80 [u'sec']
+
+
