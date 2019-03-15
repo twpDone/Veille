@@ -1,0 +1,253 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 http://www.securityweek.com/default-account-cisco-cspc-allows-unauthorized-access/
+	--
+	 [access, cloud] https://www.cybersecurity-insiders.com/the-many-benefits-of-a-cloud-access-security-broker/
+	--
+
+[attack]
+	 https://www.cybersecurity-insiders.com/cyber-attack-on-whatsapp-leads-to-a-2-hour-major-outage/
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-news-trending-on-google/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	 https://www.sec.gov/news/press-release/2019-29/
+	 https://www.sec.gov/news/press-release/2019-34/
+	--
+	--
+
+[threats]
+	 https://threatpost.com/insider-threats-get-mean-nasty-and-very-personal/142640/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	 https://threatpost.com/three-ways-dns-is-weaponized-and-how-to-mitigate-the-risk/142759/
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-112/
+	--
+	--
+
+[cloud]
+	 https://www.cybersecurity-insiders.com/cloud-security-needs-in-higher-education/
+	 https://www.scmagazine.com/home/email-security/stolen-email-credentials-being-used-to-pry-into-cloud-accounts/
+	--
+	 [cloud, attacks] https://www.cybersecurity-insiders.com/making-it-rain-cryptocurrency-mining-attacks-in-the-cloud/
+	 [access, cloud] https://www.cybersecurity-insiders.com/the-many-benefits-of-a-cloud-access-security-broker/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-110/
+	--
+	--
+
+[windows]
+	 http://www.securityweek.com/details-actively-exploited-windows-flaw-made-public/
+	 https://threatpost.com/intel-windows-10-graphics-drivers/142778/
+	 http://www.zdnet.fr/actualites/astuce-windows-10-quand-vous-devez-et-ne-devez-pas-mettre-en-pause-les-mises-a-jour-39881919.htm/
+	--
+	--
+
+[phishing]
+	--
+	 [phishing, attacks] https://threatpost.com/threatlist-phishing-attacks-doubled-in-2018/142732/
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/facebook-perd-deux-dirigeants-cles-39882081.htm/
+	 https://www.scmagazine.com/home/security-news/facebook-reportedly-under-criminal-probe-for-data-sharing-practices-with-partners/
+	 https://www.welivesecurity.com/2019/03/14/facebook-suffer-severe-outage/
+	 http://www.zdnet.fr/actualites/facebook-victime-d-un-changement-de-configuration-serveur-39882083.htm/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-google-et-godaddy-ont-emis-des-certificats-tls-avec-des-numeros-de-serie-trop-faibles-39882011.htm/
+	 http://www.zdnet.fr/actualites/qualcomm-ne-peut-pas-recuperer-les-milliards-payes-a-apple-39882087.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-105/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-106/
+	--
+	--
+
+[breach]
+	 https://www.cybersecurity-insiders.com/collection-1-data-breach/
+	 https://www.infosecurity-magazine.com:443/news/kathmandu-investigates-card-1/
+	--
+	--
+
+[attacks]
+	 https://threatpost.com/imap-attacks-compromise-accounts/142824/
+	--
+	 [cloud, attacks] https://www.cybersecurity-insiders.com/making-it-rain-cryptocurrency-mining-attacks-in-the-cloud/
+	 [phishing, attacks] https://threatpost.com/threatlist-phishing-attacks-doubled-in-2018/142732/
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-news-trending-on-google/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.cybersecurity-insiders.com/how-to-keep-your-mobile-banking-apps-secure/
+	 https://www.cybersecurity-insiders.com/psd2s-dynamic-linking-in-a-mobile-world/
+	 https://www.cybersecurity-insiders.com/check-point-reveals-details-on-latest-mobile-adware-and-data-stealing-malware-campaigns/
+	--
+	--
+
+[malware]
+	 https://threatpost.com/glitchpos-malware-credit-card/142804/
+	 https://www.infosecurity-magazine.com:443/news/dmsniff-pos-malware-uses-dga-to-1/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'seals', u'lindsey', u'gaming', u'cameras', u'hacking', u'acquisition', u'chrome', u'three', u'programs', u'securities', u'statements', u'counsel', u'outage', u'newsletters', u'mais', u'platform', u'training', u'topics', u'espa\xf1ol', u'laptops', u'spotlight', u'intel', u'os', u'ai', u'remote', u'flaw', u'response', u'week', u'major', u'avec', u'regulation', u'scheme', u'targeted', u'odonnell', u'disclosure', u'into', u'info', u'tara', u'opinion', u'broersma', u'final', u'update', u'cryptocurrency', u'staff', u'career', u'linkedin', u'matthew', u'government', u'testimony', u'stories', u'details', u'4g']
+6 [u'regional', u'cnet', u's\xe9curit\xe9', u'patches', u'dns', u'over', u'features', u'top', u'ne', u'ciso', u'tablets', u'avis', u'alfred', u'than', u'deux', u'sites', u'pas', u'pay', u'ng', u'multiples', u'careers', u'execution', u'exposed', u'accounts', u'takes', u'information', u'20', u'threatlist', u'banking', u'hackers', u'linux', u'popular', u'link', u'bulletin', u'code', u'exchange', u'products', u'ccprojectzeromembers', u'investor', u'announces', u'retail', u'enforcement', u'exploited', u'phones', u'podcasts', u'identity', u'executive', u'web', u'bug', u'education']
+7 [u'trading', u'report', u'digital', u'says', u'trend', u'france', u'product', u'antivirus', u'micro', u'critical', u'investment', u'interviews', u'incident', u'firm', u'uk', u'resources', u'chief', u'our', u'adopts', u'agency', u'twitter']
+8 [u'protection', u'reports', u'interview', u'free', u'tom', u'internet', u'10', u'dactualit\xe9', u'former', u'folt\xfdn', u'podcast', u'search', u'compliance', u'flaws', u'two', u'company', u'threat', u'tom\xe1\u0161', u'named', u'application', u'access', u'firms', u'apple', u'jan', u'phishing']
+9 [u'after', u'network', u'advisory', u'team', u'hacken', u'rules', u'microsoft', u'huawei', u'ecosystem']
+10 [u'full', u'terms', u'cars', u'investors', u'awards', u'business', u'cet', u'cybercrime']
+11 [u'insider', u'releases', u'director', u'social', u'vuln\xe9rabilit\xe9s', u'view', u'email', u'smart', u'press']
+12 [u'ransomware', u'industry', u'research', u'most', u'windows', u'iot', u'apps']
+13 [u'service', u'million', u'blog']
+14 [u'vulnerability', u'office', u'fraud', u'public', u'android']
+15 [u'services', u'facebook', u'attack']
+16 [u'risk', u'infosecurity', u'vulnerabilities', u'intelligence', u'threats']
+17 [u'cybersecurity', u'veille']
+18 [u'new', u'2018']
+19 [u'google']
+20 [u'conference']
+21 [u'cloud']
+22 [u'attacks']
+23 [u'rsa']
+25 [u'mobile']
+29 [u'charges', u'privacy']
+34 [u'malware']
+41 [u'best']
+55 [u'2019']
+78 [u'sec']
+
+
