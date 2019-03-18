@@ -1,0 +1,236 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/boston-legal-system-reigning-under-ransomware-attack/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://www.cybersecurity-insiders.com/cyber-threats-can-target-1-in-5-home-pcs-operating-across-the-world/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 https://threatpost.com/unpatched-fujitsu-wireless-keyboard-bug-allows-keystroke-injection/142847/
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	 http://www.zdnet.fr/actualites/les-attaques-explosent-contre-winrar-en-raison-d-une-faille-39882147.htm/
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 http://www.securityweek.com/hackers-bypass-mfa-cloud-accounts-imap-protocol/
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTI5ODkzOQ==/
+	--
+	 [cloud, attacks] https://www.scmagazine.com/home/security-news/password-spraying-attacks-abuse-imap-to-break-into-targets-cloud-accounts/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	 [exploit, ransomware] https://www.cybersecurity-insiders.com/all-about-yatron-ransomware-using-eternalblue-nsa-exploit/
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/prive-de-windows-et-android-huawei-a-un-os-de-secours-39882137.htm/
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://www.infosecurity-magazine.com:443/news/facebook-fixed-but-did-outage-hurt/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/appstore-apple-accuse-spotify-de-vouloir-jouer-au-passager-clandestin-39882103.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/application-guard-de-microsoft-arrive-sur-chrome-et-firefox-39882123.htm/
+	 http://www.zdnet.fr/actualites/quitter-les-gafam-imaginez-vous-votre-vie-sans-microsoft-39882099.htm/
+	--
+	--
+
+[breach]
+	 https://www.infosecurity-magazine.com:443/news/spectrum-healthcare-latest-to-1/
+	--
+	--
+
+[attacks]
+	 https://www.cybersecurity-insiders.com/hackers-launch-cyber-attacks-on-gmail-accounts/
+	 http://www.securityweek.com/recently-patched-winrar-flaw-exploited-apt-attacks/
+	--
+	 [cloud, attacks] https://www.scmagazine.com/home/security-news/password-spraying-attacks-abuse-imap-to-break-into-targets-cloud-accounts/
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/boston-legal-system-reigning-under-ransomware-attack/
+	 [exploit, ransomware] https://www.cybersecurity-insiders.com/all-about-yatron-ransomware-using-eternalblue-nsa-exploit/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.cybersecurity-insiders.com/android-antivirus-apps-fail-to-offer-malware-protection-in-reality/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'mwc', u'leaders', u'patches', u'secure', u'dns', u'gaming', u'hacking', u'acquisition', u'fail', u'programs', u'left', u'securities', u'wireless', u'counsel', u'billion', u'ciso', u'newsletters', u'statements', u'still', u'mais', u'records', u'teri', u'alfred', u'topics', u'espa\xf1ol', u'laptops', u'ng', u'takes', u'robinson', u'response', u'ceo', u'identity', u'scheme', u'threatlist', u'linux', u'user', u'recent', u'disclosure', u'announcing', u'this', u'testimony', u'broersma', u'final', u'exploited', u'career', u'linkedin', u'matthew', u'protecting', u'government', u'education', u'4g']
+6 [u'regional', u'cnet', u's\xe9curit\xe9', u'trading', u'features', u'top', u'experts', u'digital', u'outage', u'says', u'france', u'tablets', u'avis', u'hacker', u'than', u'pay', u'week', u'multiples', u'careers', u'legal', u'ai', u'20', u'banking', u'into', u'up', u'bulletin', u'resources', u'exchange', u'products', u'investor', u'announces', u'retail', u'enforcement', u'staff', u'podcasts', u'executive']
+7 [u'over', u'trend', u'internet', u'sites', u'micro', u'critical', u'two', u'interviews', u'incident', u'firm', u'uk', u'apple', u'our', u'adopts', u'agency', u'phishing', u'twitter']
+8 [u'vulnerability', u'team', u'lindsey', u'10', u'dactualit\xe9', u'folt\xfdn', u'intel', u'exposed', u'accounts', u'podcast', u'investment', u'search', u'flaws', u'information', u'tom', u'hackers', u'tom\xe1\u0161', u'named', u'odonnell', u'access', u'chief', u'jan', u'web']
+9 [u'reports', u'interview', u'after', u'network', u'free', u'advisory', u'report', u'insider', u'product', u'hacken', u'awards', u'former', u'rules', u'compliance', u'company', u'threat', u'application', u'huawei', u'ecosystem', u'email', u'bug']
+10 [u'protection', u'terms', u'cars', u'investors', u'antivirus', u'public', u'social', u'cet', u'most', u'microsoft', u'link', u'firms', u'ccprojectzeromembers', u'cybercrime']
+11 [u'releases', u'director', u'full', u'vuln\xe9rabilit\xe9s', u'view', u'press', u'apps']
+12 [u'business', u'industry', u'windows', u'facebook', u'smart']
+13 [u'service', u'blog', u'fraud', u'research']
+14 [u'risk', u'office', u'iot', u'services']
+15 [u'vulnerabilities', u'attack', u'android']
+16 [u'infosecurity', u'intelligence', u'2018']
+17 [u'new', u'million', u'veille']
+18 [u'google']
+19 [u'conference', u'cloud']
+20 [u'ransomware', u'cybersecurity', u'mobile']
+21 [u'threats']
+22 [u'attacks']
+23 [u'rsa']
+29 [u'charges']
+31 [u'privacy']
+36 [u'malware']
+40 [u'best']
+59 [u'2019']
+77 [u'sec']
+
+
