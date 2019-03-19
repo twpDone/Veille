@@ -1,0 +1,244 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	 https://www.silicon.co.uk/workspace/new-mirai-variant-targets-enterprise-networks-242545/
+	 https://threatpost.com/mirai-enterprise-systems/142889/
+	 http://www.securityweek.com/new-mirai-variant-targets-enterprise-iot-devices/
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://threatpost.com/threatlist-ddos-attack-sizes-drop-85-percent-post-fbi-crackdown/142907/
+	--
+	 [attack, injection] https://www.scmagazine.com/home/security-news/vulnerabilities/fujitsu-wireless-keyboard-vulnerable-to-keystroke-injection-attack/
+	 [attack, breach] https://www.cybersecurity-insiders.com/cyber-attack-leads-to-a-data-breach-at-meditab-health-tech-company/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-orange-county/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 https://www.scmagazine.com/home/security-news/beto-orourke-was-teen-hacker-in-cult-of-the-dead-cow/
+	 https://www.infosecurity-magazine.com:443/news/not-proud-of-hacker-past-beto-1/
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	 [attack, injection] https://www.scmagazine.com/home/security-news/vulnerabilities/fujitsu-wireless-keyboard-vulnerable-to-keystroke-injection-attack/
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 http://www.zdnet.fr/actualites/netflix-ne-participera-pas-au-futur-service-de-vod-d-apple-39882199.htm/
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.infosecurity-magazine.com:443/opinions/insider-threat-issue-2019-1/
+	--
+	 [threat, intelligence] http://www.securityweek.com/not-all-context-threat-intelligence-created-equal/
+	 [threat, microsoft] https://threatpost.com/sandcat-fruityarmor-exploiting-microsoft-win32k/142751/
+	--
+
+[users]
+	 https://threatpost.com/google-location-tracking-apps/142882/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.scmagazine.com/home/security-news/hack-u-next-ariana-grande-file-is-one-of-100-ways-attackers-are-exploiting-winrar-bug/
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-115/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-114/
+	--
+	--
+
+[cloud]
+	 http://www.zdnet.fr/actualites/quels-outils-de-gestion-de-projet-en-mode-cloud-pour-les-pros-39882013.htm/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	 https://threatpost.com/windows-bug-spoof-dialog-boxes/142711/
+	 http://www.securityweek.com/chrome-firefox-get-windows-defender-application-guard-extensions/
+	--
+	 [windows, microsoft] https://www.silicon.co.uk/workspace/microsoft-extends-application-guard-to-chrome-firefox-242505/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/la-critique-d-apple-a-l-egard-de-google-et-facebook-tient-un-peu-de-la-plaisanterie-39882215.htm/
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	 [threat, intelligence] http://www.securityweek.com/not-all-context-threat-intelligence-created-equal/
+	--
+
+[microsoft]
+	--
+	 [windows, microsoft] https://www.silicon.co.uk/workspace/microsoft-extends-application-guard-to-chrome-firefox-242505/
+	 [threat, microsoft] https://threatpost.com/sandcat-fruityarmor-exploiting-microsoft-win32k/142751/
+	--
+
+[breach]
+	--
+	 [attack, breach] https://www.cybersecurity-insiders.com/cyber-attack-leads-to-a-data-breach-at-meditab-health-tech-company/
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-orange-county/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 http://www.zdnet.fr/actualites/free-passe-sous-la-barre-des-20-millions-d-abonnes-fixe-et-mobile-39882213.htm/
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'secure', u'dns', u'gaming', u'cameras', u'associate', u'hacking', u'acquisition', u'analytics', u'targeting', u'three', u'experts', u'things', u'programs', u'securities', u'statements', u'wireless', u'counsel', u'outage', u'says', u'france', u'ciso', u'newsletters', u'mais', u'topics', u'espa\xf1ol', u'laptops', u'dark', u'intel', u'exposed', u'porter', u'accounts', u'ai', u'identity', u'scheme', u'networks', u'hackers', u'disclosure', u'up', u'tara', u'breach', u'mirai', u'access', u'huawei', u'this', u'announces', u'final', u'update', u'computer', u'career', u'linkedin', u'facial', u'testimony', u'twitter', u'recognition', u'education', u'4g']
+6 [u'cnet', u'trading', u'report', u'chrome', u'devices', u'avis', u'than', u'sites', u'pay', u'week', u'careers', u'seals', u'flaws', u'two', u'information', u'variant', u'response', u'threatlist', u'firm', u'bulletin', u'attackers', u'resources', u'exchange', u'products', u'investor', u'retail', u'staff', u'podcasts', u'executive']
+7 [u'regional', u's\xe9curit\xe9', u'machine', u'features', u'top', u'trend', u'tablets', u'10', u'folt\xfdn', u'multiples', u'micro', u'20', u'major', u'interviews', u'incident', u'linux', u'tom\xe1\u0161', u'uk', u'broersma', u'our', u'enforcement', u'agency', u'phishing', u'matthew']
+8 [u'vulnerability', u'interview', u'free', u'team', u'internet', u'dactualit\xe9', u'antivirus', u'podcast', u'investment', u'search', u'compliance', u'microsoft', u'banking', u'apple', u'chief', u'adopts', u'jan', u'email', u'web', u'bug', u'hacker']
+9 [u'after', u'network', u'advisory', u'insider', u'product', u'hacken', u'lindsey', u'former', u'rules', u'public', u'company', u'ecosystem', u'named', u'odonnell', u'android']
+10 [u'reports', u'enterprise', u'terms', u'digital', u'investors', u'cet', u'most', u'link', u'facebook', u'firms', u'ccprojectzeromembers', u'cybercrime', u'apps']
+11 [u'cars', u'releases', u'awards', u'business', u'industry', u'full', u'social', u'windows', u'application', u'view', u'smart', u'press']
+12 [u'protection', u'director', u'research', u'threat', u'vuln\xe9rabilit\xe9s']
+13 [u'service', u'blog', u'fraud']
+14 [u'risk', u'services']
+15 [u'office', u'million']
+16 [u'infosecurity', u'iot', u'google']
+17 [u'attacks', u'veille', u'intelligence', u'cloud']
+18 [u'cybersecurity', u'vulnerabilities', u'threats', u'2018']
+19 [u'ransomware', u'conference']
+22 [u'rsa']
+23 [u'mobile']
+24 [u'new', u'attack']
+28 [u'malware']
+29 [u'charges']
+34 [u'privacy']
+40 [u'best']
+57 [u'2019']
+76 [u'sec']
+
+
