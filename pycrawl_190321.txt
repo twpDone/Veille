@@ -1,0 +1,244 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	 https://www.scmagazine.com/home/security-news/mirai-variant-adds-11-news-exploits-shifting-focus-to-enterprise-iot-devices/
+	--
+	--
+
+[access]
+	 https://www.cybersecurity-insiders.com/breaking-the-silence-about-privileged-access-management-at-gartner-iam-summit/
+	--
+	--
+
+[attack]
+	 https://www.cybersecurity-insiders.com/cost-to-launch-a-cyber-attack/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://threatpost.com/podcast-the-high-risk-threats-behind-the-norsk-hydro-cyberattack/142954/
+	 https://www.cybersecurity-insiders.com/cyber-threats-are-emerging-faster-than-dhss-expectations/
+	--
+	 [threats, mobile] https://threatpost.com/post-perimeter-security-mobile-enterprise/142880/
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.cybersecurity-insiders.com/cyber-threat-to-hydel-power-facilities/
+	--
+	--
+
+[users]
+	 http://www.securityweek.com/google-photos-flaw-allowed-hackers-track-users/
+	--
+	 [users, microsoft] https://www.cybersecurity-insiders.com/microsoft-cybersecurity-chief-urges-users-to-stop-using-legacy-ie/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-117/
+	--
+	--
+
+[cloud]
+	 http://www.securityweek.com/authentication-bypass-vulnerability-found-softnas-cloud/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTMwMTg1OA==/
+	--
+	--
+
+[windows]
+	 http://www.securityweek.com/windows-hello-support-added-firefox-66/
+	 http://www.zdnet.fr/actualites/certains-utilisateurs-de-windows-7-et-81-signalent-des-problemes-sur-security-essentials-et-windows-defender-39882301.htm/
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/microsoft-propose-un-premier-apercu-public-de-windows-virtual-desktop-39882355.htm/
+	--
+
+[phishing]
+	 https://www.scmagazine.com/home/security-news/phishing/amex-netflix-customers-targeted-in-phishing-campaign/
+	 https://threatpost.com/phishing-campaign-saudi-gov/142998/
+	--
+	--
+
+[facebook]
+	 https://www.cybersecurity-insiders.com/google-and-facebook-data-and-ad-scam-with-nhs/
+	 https://www.scmagazine.com/home/security-news/facebook-patches-denial-of-service-flaw-in-its-open-source-fizz-tls-implementation/
+	 http://www.securityweek.com/man-pleads-guilty-over-100m-bec-scheme-targeting-google-facebook/
+	--
+	--
+
+[apple]
+	 http://www.securityweek.com/apple-oracle-vmware-software-hacked-pwn2own-2019/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/les-premieres-voitures-renault-nissan-utilisant-la-plate-forme-microsoft-connected-vehicle-arrivent-39882335.htm/
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/microsoft-propose-un-premier-apercu-public-de-windows-virtual-desktop-39882355.htm/
+	 [users, microsoft] https://www.cybersecurity-insiders.com/microsoft-cybersecurity-chief-urges-users-to-stop-using-legacy-ie/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	 https://securityintelligence.com/the-business-of-organized-cybercrime-rising-intergang-collaboration-in-2018/
+	--
+	--
+
+[mobile]
+	 https://www.cnet.com/topics/mobile-accessories/
+	--
+	 [threats, mobile] https://threatpost.com/post-perimeter-security-mobile-enterprise/142880/
+	--
+
+[malware]
+	 https://threatpost.com/fin7-ramps-up-campaigns-with-two-fresh-malware-samples/142975/
+	 https://www.scmagazine.com/home/security-news/upgraded-cardinal-rat-malware-targets-israeli-fintech-firms/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'companies', u'patches', u'dns', u'machine', u'gaming', u'cameras', u'associate', u'hacking', u'acquisition', u'targeting', u'chrome', u'programs', u'proposes', u'securities', u'statements', u'counsel', u'test', u'billion', u'france', u'ciso', u'newsletters', u'mais', u'topics', u'espa\xf1ol', u'up', u'review', u'firewall', u'laptops', u'pas', u'dark', u'learning', u'exposed', u'porter', u'act', u'flaw', u'electric', u'threatlist', u'banking', u'breaches', u'huawei', u'investor', u'announces', u'final', u'gallery', u'computer', u'career', u'phones', u'linkedin', u'identity', u'facial', u'testimony', u'twitter', u'recognition', u'bug', u'education', u'hacker', u'4g']
+6 [u'cnet', u'trading', u'report', u'patch', u'5g', u'tablets', u'avis', u'pay', u'careers', u'response', u'20', u'scheme', u'firm', u'disclosure', u'bulletin', u'resources', u'access', u'exchange', u'products', u'firefox', u'our', u'retail', u'staff', u'podcasts']
+7 [u's\xe9curit\xe9', u'free', u'features', u'advisory', u'team', u'trend', u'webcasts', u'internet', u'folt\xfdn', u'micro', u'flaws', u'two', u'company', u'information', u'interviews', u'defender', u'incident', u'tom\xe1\u0161', u'uk', u'tara', u'broersma', u'enforcement', u'update', u'agency', u'matthew', u'apps']
+8 [u'regional', u'protection', u'after', u'top', u'enterprise', u'need', u'digital', u'insider', u'product', u'mac', u'lindsey', u'than', u'dactualit\xe9', u'antivirus', u'case', u'multiples', u'seals', u'investment', u'search', u'compliance', u'hackers', u'linux', u'odonnell', u'software', u'jan', u'email', u'executive', u'web']
+9 [u'interview', u'hacken', u'awards', u'former', u'most', u'named', u'firms', u'apple', u'adopts', u'ecosystem']
+10 [u'reports', u'network', u'terms', u'million', u'10', u'investors', u'rules', u'industry', u'podcast', u'cet', u'link', u'application', u'ccprojectzeromembers', u'cybercrime', u'phishing']
+11 [u'vulnerability', u'cars', u'public', u'full', u'social', u'threat', u'facebook', u'chief', u'view', u'android', u'press']
+12 [u'service', u'ransomware', u'business', u'research', u'iot']
+13 [u'releases', u'director', u'blog', u'fraud', u'services', u'windows', u'microsoft', u'vuln\xe9rabilit\xe9s']
+15 [u'office', u'attacks', u'conference']
+16 [u'risk', u'infosecurity', u'intelligence', u'smart']
+17 [u'veille', u'cloud', u'2018']
+19 [u'attack']
+21 [u'cybersecurity', u'vulnerabilities', u'rsa']
+22 [u'new']
+24 [u'google']
+25 [u'threats']
+26 [u'mobile']
+29 [u'charges']
+31 [u'privacy']
+32 [u'malware']
+40 [u'best']
+57 [u'2019']
+76 [u'sec']
+
+
