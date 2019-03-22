@@ -1,0 +1,248 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 https://securityintelligence.com/5-characteristics-of-an-effective-incident-response-team-lessons-from-the-front-line/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, malware] https://www.scmagazine.com/home/security-news/despite-arrests-fin7-launched-2018-attack-campaigns-featuring-new-malware/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-norsk-hydro/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-the-british-police-federation/
+	 [attack, breach] https://scmagazine.icrowdnewswire.com/news.php?id=MTI5ODExMQ==/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	 [threats, attacks] http://www.securityweek.com/how-three-2018s-critical-threats-used-email-execute-attacks/
+	--
+
+[scams]
+	--
+	 [scams, facebook] https://www.scmagazine.com/home/security-news/cybercrime/google-facebook-fraudster-pleads-guilty-to-stealing-123-million-in-bec-scams/
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 http://www.zdnet.fr/actualites/comcast-va-lancer-son-service-de-video-en-streaming-39882389.htm/
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 http://www.securityweek.com/threat-hunting-tips-improve-security-operations/
+	--
+	--
+
+[users]
+	--
+	 [users, facebook] http://www.securityweek.com/facebook-stored-passwords-hundreds-millions-users-plain-text/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-121/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 http://www.zdnet.fr/actualites/services-de-free-floating-paris-met-le-hola-39882405.htm/
+	--
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/evitez-ce-patch-windows-7-pour-echapper-aux-rappels-de-microsoft-39882393.htm/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://www.scmagazine.com/home/security-news/privacy-compliance/facebook-is-once-again-making-headlines-after-the-company-discovered-it-had-been-storing-hundreds-of-millions-of-users-passwords-in-plain-text-for-years/
+	 http://www.zdnet.fr/actualites/facebook-a-stocke-en-clair-des-centaines-de-millions-de-mots-de-passe-39882381.htm/
+	 http://www.securityweek.com/facebook-pays-big-bounty-dos-flaw-fizz-tls-library/
+	 https://threatpost.com/facebook-stored-passwords-in-plain-text-for-years/143032/
+	 https://www.infosecurity-magazine.com:443/news/facebook-left-millions-of-1/
+	--
+	 [scams, facebook] https://www.scmagazine.com/home/security-news/cybercrime/google-facebook-fraudster-pleads-guilty-to-stealing-123-million-in-bec-scams/
+	 [users, facebook] http://www.securityweek.com/facebook-stored-passwords-hundreds-millions-users-plain-text/
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/evitez-ce-patch-windows-7-pour-echapper-aux-rappels-de-microsoft-39882393.htm/
+	--
+
+[breach]
+	 http://www.securityweek.com/finland-investigate-suspected-nokia-chinese-data-breach/
+	--
+	 [attack, breach] https://scmagazine.icrowdnewswire.com/news.php?id=MTI5ODExMQ==/
+	--
+
+[attacks]
+	 https://threatpost.com/magecart-mypillow-emerisleep-attack/143022/
+	--
+	 [attacks, malware] http://www.securityweek.com/fin7-hackers-use-new-malware-recent-attacks/
+	 [threats, attacks] http://www.securityweek.com/how-three-2018s-critical-threats-used-email-execute-attacks/
+	--
+
+[ransomware]
+	 https://www.cybersecurity-insiders.com/now-we-have-hardware-to-protect-against-ransomware/
+	 https://www.infosecurity-magazine.com:443/news/uk-police-federation-hit-by-1/
+	 https://www.cybersecurity-insiders.com/youtuber-pewdiepie-fans-target-victims-with-ransomware-for-100m-subscribers/
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-norsk-hydro/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-the-british-police-federation/
+	--
+
+[cybercrime]
+	 https://securityintelligence.com/the-business-of-organized-cybercrime-rising-intergang-collaboration-in-2018/?src=widget/
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	 [attack, malware] https://www.scmagazine.com/home/security-news/despite-arrests-fin7-launched-2018-attack-campaigns-featuring-new-malware/
+	 [attacks, malware] http://www.securityweek.com/fin7-hackers-use-new-malware-recent-attacks/
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'companies', u'dns', u'machine', u'gaming', u'series', u'associate', u'hacking', u'patch', u'we', u'protect', u'three', u'programs', u'proposes', u'5g', u'securities', u'statements', u'abel', u'counsel', u'test', u'global', u'france', u'ciso', u'newsletters', u'still', u'mais', u'platform', u'webcasts', u'topics', u'espa\xf1ol', u'review', u'laptops', u'case', u'dark', u'hacks', u'critical', u'porter', u'act', u'os', u'recent', u'seals', u'breaking', u'robert', u'scheme', u'banking', u'stored', u'analysis', u'info', u'huawei', u'firefox', u'app', u'testimony', u'investor', u'announces', u'final', u'text', u'computer', u'career', u'linkedin', u'identity', u'facial', u'twitter', u'recognition', u'education', u'hacker', u'4g']
+6 [u's\xe9curit\xe9', u'cnet', u'trading', u'top', u'enterprise', u'report', u'billion', u'tablets', u'avis', u'20', u'pay', u'careers', u'exposed', u'flaws', u'information', u'defender', u'used', u'big', u'disclosure', u'bulletin', u'resources', u'exchange', u'products', u'software', u'our', u'retail', u'update', u'staff', u'ce', u'phones', u'plain', u'podcasts', u'executive']
+7 [u'regional', u'passwords', u'features', u'advisory', u'need', u'trend', u'product', u'mac', u'than', u'multiples', u'micro', u'two', u'company', u'response', u'interviews', u'popular', u'up', u'access', u'firms', u'apple', u'broersma', u'enforcement', u'agency', u'matthew']
+8 [u'protection', u'vulnerability', u'free', u'team', u'insider', u'internet', u'10', u'dactualit\xe9', u'folt\xfdn', u'investment', u'search', u'threat', u'startup', u'incident', u'linux', u'tom\xe1\u0161', u'uk', u'chief', u'jan', u'web', u'apps']
+9 [u'after', u'network', u'digital', u'hacken', u'awards', u'podcast', u'public', u'hackers', u'ecosystem', u'named', u'adopts', u'email', u'phishing']
+10 [u'reports', u'terms', u'lindsey', u'millions', u'investors', u'antivirus', u'former', u'rules', u'industry', u'odonnell', u'link', u'application', u'ccprojectzeromembers']
+11 [u'interview', u'cars', u'releases', u'full', u'compliance', u'social', u'microsoft', u'cybercrime', u'view', u'press']
+12 [u'cet', u'research', u'windows', u'vuln\xe9rabilit\xe9s']
+13 [u'service', u'million', u'director', u'blog', u'fraud', u'iot', u'services', u'smart']
+14 [u'risk', u'business', u'most']
+15 [u'office', u'intelligence', u'android', u'conference']
+16 [u'infosecurity', u'cloud']
+17 [u'veille']
+18 [u'cybersecurity', u'attacks', u'vulnerabilities', u'attack', u'rsa']
+19 [u'new', u'threats', u'google', u'2018']
+21 [u'facebook']
+27 [u'ransomware', u'mobile']
+29 [u'charges']
+32 [u'privacy']
+35 [u'malware']
+40 [u'best']
+54 [u'2019']
+76 [u'sec']
+
+
