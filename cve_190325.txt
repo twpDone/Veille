@@ -1,0 +1,18 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-15906
+2019-03-21T15:24:18.027-04:00	:CVE-2018-15906 (Score:9.0)['cpe:/a:solarwinds:serv-u_ftp_server:15.1.6']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-19276
+2019-03-21T13:48:19.493-04:00	:CVE-2018-19276 (Score:10.0)['cpe:/a:openmrs:openmrs:2.1::~~standalone~~~']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-19512
+2019-03-22T12:27:41.450-04:00	:CVE-2018-19512 (Score:9.0)['cpe:/a:ens:webgalamb:7.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-20106
+2019-03-18T13:48:23.967-04:00	:CVE-2018-20106 (Score:9.3)['cpe:/a:opensuse:yast2-printer:4.0.2']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-1674
+2019-03-18T15:00:15.953-04:00	:CVE-2019-1674 (Score:9.0)['cpe:/a:cisco:webex_meetings_online:t33.0.5', 'cpe:/a:cisco:webex_meetings_online:t33.6.0', 'cpe:/a:cisco:webex_meetings_online:t33.6.1', 'cpe:/a:cisco:webex_meetings_online:t33.6.2']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-3712
+2019-03-19T13:34:14.077-04:00	:CVE-2019-3712 (Score:8.3)

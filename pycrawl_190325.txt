@@ -1,0 +1,244 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://www.scmagazine.com/home/security-news/vulnerabilities/medtronic-defibrillators-vulnerable-to-attack/
+	 https://www.cybersecurity-insiders.com/cyber-attack-news-which-is-trending-now-on-google/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	 [industry, breach] http://www.securityweek.com/industry-reactions-norsk-hydro-breach-feedback-friday/
+	--
+
+[fraud]
+	--
+	 [fraud, hacking] https://www.scmagazine.com/home/security-news/hedge-fund-manager-sentenced-to-60-months-security-fraud-hacking-scheme/
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [service, apple] http://www.zdnet.fr/blogs/digital-home-revolution/it-s-show-time-apple-lance-enfin-son-service-de-svod-39882463.htm/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.safetydetective.com/blog/what-is-spoofing-and-how-to-mitigate-an-under-the-radar-threat/
+	 https://threatpost.com/drones-breach-cyberdefenses/143075/
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTMwMzA2Ng==/
+	--
+	 [threat, attacks] https://www.infosecurity-magazine.com:443/news/virtualized-calls-a-top-threat-for-1/
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-123/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTMwMzA3MA==/
+	--
+	 [services, phishing] https://www.scmagazine.com/home/security-news/phishing-scam-stings-oregon-dept-of-human-services-compromises-emails-containing-resident-data/
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	 [services, phishing] https://www.scmagazine.com/home/security-news/phishing-scam-stings-oregon-dept-of-human-services-compromises-emails-containing-resident-data/
+	--
+
+[facebook]
+	 https://www.welivesecurity.com/2019/03/22/facebook-exposed-millions-passwords-employees/
+	 https://threatpost.com/dos-bug-facebook-fizz-tls/143086/
+	--
+	--
+
+[apple]
+	--
+	 [service, apple] http://www.zdnet.fr/blogs/digital-home-revolution/it-s-show-time-apple-lance-enfin-son-service-de-svod-39882463.htm/
+	--
+
+[hacking]
+	 http://www.securityweek.com/pwn2own-2019-researchers-win-tesla-after-hacking-its-browser/
+	--
+	 [fraud, hacking] https://www.scmagazine.com/home/security-news/hedge-fund-manager-sentenced-to-60-months-security-fraud-hacking-scheme/
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.securityweek.com/microsoft-launches-defender-atp-endpoint-security-macos/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/new-jersey-bill-would-broaden-pii-requiring-breach-notification/
+	--
+	 [industry, breach] http://www.securityweek.com/industry-reactions-norsk-hydro-breach-feedback-friday/
+	--
+
+[attacks]
+	 https://www.cybersecurity-insiders.com/large-scale-cyber-attacks-on-eu-law-enforcement-agencies-says-europol/
+	--
+	 [threat, attacks] https://www.infosecurity-magazine.com:443/news/virtualized-calls-a-top-threat-for-1/
+	--
+
+[ransomware]
+	 http://www.securityweek.com/uk-police-federation-hit-ransomware/
+	 http://www.zdnet.fr/actualites/ransomware-la-sulfureuse-hypothese-sur-la-situation-chez-norsk-hydro-39882453.htm/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.cybersecurity-insiders.com/south-korea-researchers-find-36-new-mobile-security-vulnerabilities-in-lte/
+	--
+	 [mobile, malware] https://www.safetydetective.com/blog/how-to-remove-mobile-malware-and-keep-your-device-protected/
+	--
+
+[malware]
+	--
+	 [mobile, malware] https://www.safetydetective.com/blog/how-to-remove-mobile-malware-and-keep-your-device-protected/
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'companies', u'dns', u'machine', u'gaming', u'over', u'associate', u'targeting', u'ip', u'trusted', u'programs', u'5g', u'securities', u'marketing', u'son', u'counsel', u'tesla', u'says', u'france', u'ciso', u'newsletters', u'statements', u'webcasts', u'13', u'browser', u'topics', u'professional', u'espa\xf1ol', u'up', u'laptops', u'dark', u'act', u'22', u'vulnerable', u'banking', u'handling', u'analysis', u'victims', u'disclosure', u'info', u'breach', u'access', u'huawei', u'firefox', u'testimony', u'software', u'investor', u'south', u'final', u'update', u'career', u'linkedin', u'twitter', u'education', u'hacker', u'4g']
+6 [u's\xe9curit\xe9', u'cnet', u'personal', u'passwords', u'trading', u'features', u'target', u'enterprise', u'we', u'need', u'test', u'tablets', u'avis', u'lindsey', u'researchers', u'careers', u'critical', u'flaws', u'hit', u'used', u'user', u'odonnell', u'bulletin', u'resources', u'exchange', u'products', u'apple', u'our', u'announces', u'retail', u'which', u'staff', u'computer', u'phones', u'podcasts', u'identity', u'executive']
+7 [u'regional', u'tom', u'team', u'trend', u'product', u'mac', u'internet', u'pay', u'week', u'multiples', u'micro', u'two', u'company', u'information', u'response', u'20', u'interviews', u'scheme', u'defender', u'broersma', u'pwn2own', u'agency', u'matthew']
+8 [u'free', u'advisory', u'report', u'things', u'insider', u'millions', u'than', u'10', u'dactualit\xe9', u'folt\xfdn', u'exposed', u'podcast', u'investment', u'search', u'incident', u'tom\xe1\u0161', u'firms', u'this', u'chief', u'enforcement', u'jan', u'email', u'phishing']
+9 [u'reports', u'norsk', u'network', u'hacking', u'hacken', u'awards', u'compliance', u'linux', u'ecosystem', u'uk', u'hydro', u'adopts', u'apps']
+10 [u'protection', u'top', u'terms', u'investors', u'antivirus', u'former', u'rules', u'public', u'full', u'cet', u'windows', u'microsoft', u'hackers', u'named', u'link', u'ccprojectzeromembers', u'web']
+11 [u'after', u'digital', u'cars', u'releases', u'industry', u'threat', u'most', u'vuln\xe9rabilit\xe9s', u'application', u'cybercrime', u'view', u'press']
+12 [u'vulnerability', u'interview', u'service', u'million', u'director', u'social', u'research', u'android']
+13 [u'blog', u'iot']
+14 [u'risk', u'business', u'fraud', u'services', u'threats', u'cloud']
+15 [u'office', u'intelligence', u'smart']
+16 [u'attacks', u'infosecurity', u'conference']
+17 [u'veille', u'google', u'facebook']
+18 [u'rsa']
+19 [u'2018']
+20 [u'cybersecurity', u'attack']
+22 [u'vulnerabilities']
+24 [u'new']
+26 [u'ransomware', u'mobile']
+29 [u'charges']
+31 [u'privacy']
+33 [u'malware']
+40 [u'best']
+60 [u'2019']
+75 [u'sec']
+
+
