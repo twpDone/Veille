@@ -1,0 +1,249 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 http://www.securityweek.com/supply-chain-attack-used-install-backdoors-asus-computers/
+	 https://www.scmagazine.com/home/security-news/cybercrime/a-threat-actor-hijacked-asuss-software-update-to-install-backdoors-on-thousands-of-computers-and-ultimately-push-malware-to-machines/
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	 [threats, mobile] https://securityintelligence.com/how-to-lift-the-veil-on-mobile-application-security-threats/
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	 [threat, intelligence, attacks] https://scmagazine.icrowdnewswire.com/news.php?id=MTMwNDk2OA==/
+	--
+
+[users]
+	 https://www.infosecurity-magazine.com:443/news/over-one-million-asus-users-1/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.scmagazine.com/home/security-news/government-and-defense/mueller-finds-no-coordination-with-russia-in-election-hack-influence-campaign-leaves-obstruction-decision-to-barr/
+	 https://www.welivesecurity.com/2019/03/25/white-hats-hack-tesla-keep/
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-127/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-124/
+	--
+	--
+
+[cloud]
+	 http://www.zdnet.fr/actualites/quels-outils-pour-gerer-et-utiliser-des-ressources-dans-le-cloud-39882185.htm/
+	--
+	 [cloud, services] https://www.cybersecurity-insiders.com/better-put-these-10-cloud-security-questions-to-your-cloud-services-provider-csp/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTMwNDk4NA==/
+	--
+	 [services, apple] https://www.silicon.co.uk/workspace/apple-takes-on-media-giants-banks-in-services-push-242733/
+	 [services, apple] http://www.zdnet.fr/actualites/apple-lance-apple-card-et-developpe-ses-services-de-paiement-39882551.htm/
+	 [cloud, services] https://www.cybersecurity-insiders.com/better-put-these-10-cloud-security-questions-to-your-cloud-services-provider-csp/
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.securityweek.com/facebook-blocks-more-accounts-over-influence-campaigns/
+	--
+	 [facebook, mobile] http://www.securityweek.com/new-settings-help-hackers-test-facebook-mobile-apps/
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-livre-ios-122-avec-apple-news-plus-et-support-des-nouveaux-airpods-39882557.htm/
+	 https://threatpost.com/apple-ios-12-2-patches-51-serious-flaws/143162/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-129/
+	--
+	 [services, apple] https://www.silicon.co.uk/workspace/apple-takes-on-media-giants-banks-in-services-push-242733/
+	 [services, apple] http://www.zdnet.fr/actualites/apple-lance-apple-card-et-developpe-ses-services-de-paiement-39882551.htm/
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	 [threat, intelligence, attacks] https://scmagazine.icrowdnewswire.com/news.php?id=MTMwNDk2OA==/
+	--
+
+[microsoft]
+	 http://www.securityweek.com/microsoft-finds-privilege-escalation-code-execution-flaws-huawei-tool/
+	--
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 https://threatpost.com/grandstream-bugs-smbs-attacks/143141/
+	 https://www.cybersecurity-insiders.com/asus-computers-are-vulnerable-to-software-supply-chain-cyber-attacks/
+	--
+	 [threat, intelligence, attacks] https://scmagazine.icrowdnewswire.com/news.php?id=MTMwNDk2OA==/
+	--
+
+[ransomware]
+	 https://www.scmagazine.com/home/security-news/decryption-tool-created-for-ransomware-designed-to-boost-pewdiepie-subscriptions/
+	 http://www.securityweek.com/lockergoga-ransomware-neutralized-shortcut-files/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.cybersecurity-insiders.com/mobile-world-congress-and-the-next-big-thing/
+	--
+	 [facebook, mobile] http://www.securityweek.com/new-settings-help-hackers-test-facebook-mobile-apps/
+	 [threats, mobile] https://securityintelligence.com/how-to-lift-the-veil-on-mobile-application-security-threats/
+	--
+
+[malware]
+	 https://threatpost.com/steganography-combat/143096/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'companies', u'dns', u'machine', u'gaming', u'associate', u'enterprise', u'need', u'things', u'programs', u'5g', u'securities', u'wireless', u'tesla', u'france', u'ciso', u'newsletters', u'statements', u'webcasts', u'topics', u'espa\xf1ol', u'up', u'laptops', u'week', u'execution', u'learning', u'act', u'threatlist', u'defender', u'zacks', u'handling', u'user', u'recent', u'cyberattack', u'disclosure', u'aviva', u'code', u'breach', u'access', u'huawei', u'opinion', u'hit', u'testimony', u'investor', u'announces', u'keep', u'final', u'staff', u'partners', u'key', u'career', u'linkedin', u'executive', u'web', u'twitter', u'bug', u'education']
+6 [u'cnet', u'leaders', u'trading', u'features', u'tool', u'white', u'counsel', u'mac', u'tablets', u'avis', u'millions', u'case', u'careers', u'information', u'20', u'computers', u'banking', u'firm', u'big', u'bulletin', u'resources', u'exchange', u'products', u'this', u'our', u'retail', u'computer', u'podcasts', u'identity', u'thought', u'4g']
+7 [u'regional', u'over', u'hacking', u'advisory', u'report', u'team', u'trend', u'product', u'pay', u'multiples', u'micro', u'company', u'interviews', u'scheme', u'vulnerable', u'phishing', u'uk', u'enforcement', u'update', u'agency', u'email', u'phones', u'ios']
+8 [u'protection', u'norsk', u'after', u'test', u'internet', u'than', u'dactualit\xe9', u'antivirus', u'folt\xfdn', u'exposed', u'podcast', u'investment', u'search', u'flaws', u'response', u'incident', u'finds', u'tom\xe1\u0161', u'tara', u'firms', u'hydro', u'chief', u'adopts', u'jan']
+9 [u's\xe9curit\xe9', u'reports', u'network', u'free', u'top', u'we', u'digital', u'hacken', u'10', u'investors', u'former', u'rules', u'seals', u'public', u'compliance', u'threat', u'microsoft', u'linux', u'ecosystem', u'software']
+10 [u'terms', u'insider', u'cars', u'releases', u'full', u'cet', u'most', u'windows', u'named', u'google', u'link', u'ccprojectzeromembers', u'broersma', u'matthew']
+11 [u'service', u'awards', u'industry', u'social', u'two', u'vuln\xe9rabilit\xe9s', u'application', u'cybercrime', u'view', u'press', u'apps']
+12 [u'director', u'android', u'smart']
+13 [u'interview', u'blog', u'business', u'research', u'asus', u'hackers', u'attack']
+14 [u'vulnerability', u'fraud']
+15 [u'office', u'conference', u'million', u'iot', u'apple']
+16 [u'infosecurity', u'intelligence']
+17 [u'veille', u'services', u'threats', u'2018', u'rsa']
+18 [u'facebook', u'cloud']
+19 [u'risk', u'attacks']
+20 [u'cybersecurity']
+21 [u'vulnerabilities']
+22 [u'new']
+24 [u'ransomware']
+29 [u'charges']
+30 [u'privacy']
+31 [u'mobile', u'malware']
+40 [u'best']
+50 [u'2019']
+75 [u'sec']
+
+
