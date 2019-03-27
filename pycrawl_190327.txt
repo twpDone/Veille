@@ -1,0 +1,231 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, ransomware] https://threatpost.com/lockergoga-ransomware-norsk-hydro-wiper/143181/
+	 [attack, facebook] https://www.cybersecurity-insiders.com/facebook-cyber-attack-impacts-110000-australians/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-131/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	--
+	 [attack, facebook] https://www.cybersecurity-insiders.com/facebook-cyber-attack-impacts-110000-australians/
+	--
+
+[apple]
+	 https://www.scmagazine.com/home/security-news/apples-latest-round-of-security-updates-includes-51-ios-fixes/
+	 http://www.securityweek.com/apple-patches-vulnerabilities-ios-macos-safari/
+	 http://www.zdnet.fr/actualites/apple-remporte-une-victoire-juridique-au-forceps-contre-qualcomm-39882617.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/legal-security-news/supreme-court-allows-data-breach-lawsuit-against-zappos-to-continue/
+	--
+	--
+
+[attacks]
+	 https://www.cybersecurity-insiders.com/cyber-attacks-to-cost-the-world-6-trillion-by-2020/
+	 http://www.securityweek.com/iran-linked-cyberspy-group-apt33-continues-attacks-saudi-arabia-us/
+	 https://www.scmagazine.com/home/security-news/memory-attacks-get-security-pros-attention/
+	--
+	--
+
+[ransomware]
+	 http://www.zdnet.fr/actualites/ransomware-devriez-vous-payer-39848522.htm/
+	 https://www.infosecurity-magazine.com:443/news/norsk-hydro-ransomware-costs-hit-1-1/
+	 http://www.zdnet.fr/actualites/ransomware-norsk-hydro-a-deja-perdu-40-millions-de-dollars-39882609.htm/
+	 http://www.zdnet.fr/actualites/un-bug-dans-lockergoga-peut-faire-crasher-le-ransomware-avant-le-chiffrement-des-fichiers-39882595.htm/
+	--
+	 [attack, ransomware] https://threatpost.com/lockergoga-ransomware-norsk-hydro-wiper/143181/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'updates', u'companies', u'dns', u'gaming', u'associate', u'workforce', u'formation', u'enterprise', u'programs', u'securities', u'presence', u'tesla', u'test', u'france', u'organizations', u'ciso', u'newsletters', u'statements', u'still', u'eu', u'webcasts', u'13', u'topics', u'espa\xf1ol', u'laptops', u'world', u'act', u'remote', u'week', u'flaws', u'computers', u'defender', u'zacks', u'firm', u'handling', u'recent', u'big', u'disclosure', u'aviva', u'access', u'great', u'opinion', u'this', u'testimony', u'investor', u'announces', u'keep', u'final', u'staff', u'career', u'linkedin', u'executive', u'twitter', u'employment', u'education', u'expands']
+6 [u'cnet', u'leaders', u'over', u'trading', u'features', u'white', u'hacking', u'mac', u'tablets', u'avis', u'millions', u'up', u'careers', u'exposed', u'critical', u'20', u'scheme', u'vulnerable', u'threatlist', u'banking', u'cyberattack', u'bulletin', u'resources', u'huawei', u'firms', u'exchange', u'products', u'our', u'retail', u'computer', u'podcasts', u'identity', u'thought', u'web', u'4g']
+7 [u'regional', u'protection', u'patches', u'advisory', u'we', u'need', u'5g', u'counsel', u'team', u'trend', u'product', u'pay', u'micro', u'company', u'response', u'interviews', u'microsoft', u'phishing', u'finds', u'uk', u'adopts', u'enforcement', u'agency', u'email', u'phones', u'ios', u'bug']
+8 [u's\xe9curit\xe9', u'free', u'top', u'10', u'than', u'dactualit\xe9', u'antivirus', u'multiples', u'podcast', u'investment', u'search', u'compliance', u'information', u'incident', u'linux', u'chief', u'software', u'jan', u'apps']
+9 [u'after', u'network', u'investors', u'digital', u'hacken', u'former', u'folt\xfdn', u'technology', u'rules', u'public', u'threat', u'most', u'ecosystem', u'tom\xe1\u0161', u'named', u'tara', u'update']
+10 [u'reports', u'norsk', u'report', u'terms', u'insider', u'cars', u'releases', u'awards', u'seals', u'full', u'two', u'cet', u'windows', u'link', u'ccprojectzeromembers', u'hydro', u'broersma', u'matthew']
+11 [u'service', u'internet', u'industry', u'social', u'iot', u'application', u'view', u'android', u'press']
+12 [u'vulnerability', u'director', u'research', u'asus', u'hackers', u'google', u'vuln\xe9rabilit\xe9s', u'cybercrime']
+13 [u'interview', u'blog', u'fraud', u'services', u'apple']
+14 [u'million', u'business', u'cloud']
+15 [u'office', u'conference', u'intelligence', u'rsa', u'smart']
+16 [u'infosecurity']
+17 [u'risk', u'veille', u'facebook', u'attack']
+18 [u'new', u'2018']
+19 [u'cybersecurity']
+20 [u'vulnerabilities']
+21 [u'threats']
+24 [u'attacks']
+26 [u'ransomware']
+27 [u'mobile']
+29 [u'charges', u'malware', u'privacy']
+40 [u'best']
+50 [u'2019']
+75 [u'sec']
+
+
