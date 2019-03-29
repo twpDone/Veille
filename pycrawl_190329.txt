@@ -1,0 +1,233 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://www.infosecurity-magazine.com:443/news/vuls-in-pydio-8/
+	--
+	--
+
+[attack]
+	--
+	 [attack, routers] https://threatpost.com/cisco-releases-flood-of-patches-for-ios-xe-and-small-business-routers/143228/
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/damages-from-ransomware-attack-on-norsk-hydro-reach-as-high-as-40m/
+	--
+
+[routers]
+	--
+	 [attack, routers] https://threatpost.com/cisco-releases-flood-of-patches-for-ios-xe-and-small-business-routers/143228/
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 https://www.scmagazine.com/home/security-news/malware/an-android-trojan-dubbed-gustuff-was-found-to-be-capable-of-targeting-more-than-1000-global-banking-apps-cryptocurrency-and-marketplace-applications/
+	 http://www.securityweek.com/new-shodan-service-keeps-track-internet-exposed-systems/
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	 [cloud, microsoft] https://www.cybersecurity-insiders.com/microsoft-azure-offers-cloud-support-for-iot-security/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 http://www.zdnet.fr/actualites/amazon-web-services-va-s-implanter-en-colombie-39882721.htm/
+	 https://www.scmagazine.com/home/government/gao-takes-fiscal-services-to-task-over-new-and-old-cyber-problems/
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	 https://www.scmagazine.com/home/security-news/phishing/south-korean-websites-hit-with-rare-waterhole-phishing-scheme/
+	--
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://www.infosecurity-magazine.com:443/news/microsoft-significant-disruption-1/
+	 http://www.securityweek.com/microsoft-takes-control-99-domains-used-iranian-cyberspies/
+	 https://www.scmagazine.com/home/security-news/legal-security-news/microsoft-grabs-apt35-charming-kitten-websites-in-court-ordered-take-down/
+	--
+	 [cloud, microsoft] https://www.cybersecurity-insiders.com/microsoft-azure-offers-cloud-support-for-iot-security/
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/data-breach/uconn-health-center-hit-with-5m-suite-over-breach/
+	--
+	--
+
+[attacks]
+	 https://threatpost.com/lazarus-tactics-cryptocurrency-attacks/143249/
+	--
+	--
+
+[ransomware]
+	 https://www.cybersecurity-insiders.com/fact-sheet-of-lockergoga-ransomware-which-hit-norsk-hydro/
+	--
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/damages-from-ransomware-attack-on-norsk-hydro-reach-as-high-as-40m/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.silicon.co.uk/workspace/pc/asus-servers-hijacked-malware-242797/
+	 http://www.securityweek.com/winrar-vulnerability-exploited-deliver-new-malware/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'dns', u'gaming', u'financial', u'trading', u'associate', u'white', u'protect', u'board', u'5g', u'securities', u'test', u'says', u'targets', u'ciso', u'newsletters', u'statements', u'offers', u'webcasts', u'topics', u'espa\xf1ol', u'review', u'laptops', u'technology', u'drives', u'charged', u'act', u'websites', u'health', u'information', u'ethics', u'systems', u'startup', u'zacks', u'finds', u'firm', u'recent', u'big', u'disclosure', u'aviva', u'breaches', u'networks', u'opinion', u'this', u'testimony', u'software', u'investor', u'final', u'staff', u'career', u'linkedin', u'ios', u'executive', u'government', u'twitter', u'education']
+6 [u'cnet', u'leaders', u'patches', u'over', u'features', u'hacking', u'enterprise', u'report', u'no', u'trend', u'tablets', u'avis', u'millions', u'antivirus', u'week', u'multiples', u'careers', u'exposed', u'micro', u'takes', u'response', u'20', u'scheme', u'risks', u'theft', u'donn\xe9es', u'handling', u'tara', u'bulletin', u'resources', u'access', u'exchange', u'our', u'retail', u'south', u'enforcement', u'have', u'computer', u'comment', u'phones', u'podcasts', u'identity', u'thought', u'4g']
+7 [u'regional', u'free', u'counsel', u'digital', u'insider', u'product', u'than', u'up', u'pay', u'seals', u'investment', u'interviews', u'hit', u'banking', u'linux', u'windows', u'products', u'apple', u'adopts', u'update', u'agency', u'email', u'bug']
+8 [u'protection', u'advisory', u'need', u'team', u'lindsey', u'dactualit\xe9', u'search', u'compliance', u'company', u'threat', u'asus', u'incident', u'hackers', u'odonnell', u'firms', u'chief', u'jan', u'web', u'apps']
+9 [u's\xe9curit\xe9', u'norsk', u'network', u'top', u'internet', u'hacken', u'10', u'folt\xfdn', u'rules', u'critical', u'podcast', u'public', u'two', u'microsoft', u'ecosystem', u'tom\xe1\u0161', u'named', u'google', u'huawei', u'hydro', u'broersma', u'matthew']
+10 [u'terms', u'cars', u'investors', u'awards', u'former', u'full', u'cet', u'vuln\xe9rabilit\xe9s', u'link', u'ccprojectzeromembers']
+11 [u'reports', u'after', u'releases', u'industry', u'social', u'most', u'phishing', u'uk', u'application', u'cybercrime', u'attack', u'view', u'press']
+12 [u'interview', u'director', u'research']
+13 [u'blog', u'fraud', u'facebook', u'android', u'smart']
+14 [u'vulnerability', u'service', u'million', u'business']
+15 [u'office', u'conference', u'iot', u'intelligence', u'2018']
+16 [u'attacks', u'infosecurity']
+17 [u'veille', u'rsa']
+18 [u'risk', u'vulnerabilities', u'services']
+19 [u'cybersecurity', u'cloud']
+23 [u'new']
+24 [u'threats']
+26 [u'ransomware']
+29 [u'charges', u'mobile', u'malware', u'privacy']
+41 [u'best']
+57 [u'2019']
+74 [u'sec']
+
+
