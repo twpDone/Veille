@@ -1,0 +1,236 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, breach] https://www.cybersecurity-insiders.com/cyber-attack-on-navicent-health-and-data-breach-details/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://www.cybersecurity-insiders.com/top-15-cyber-threats-for-2019/
+	--
+	 [threats, malware] https://www.safetydetective.com/blog/most-dangerous-new-malware-and-security-threats/
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 https://www.infosecurity-magazine.com:443/news/magento-warns-ecommerce-sql-risk/
+	 https://threatpost.com/magento-xss-csrf-rce-vulnerabilities/143274/
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.safetydetective.com/blog/what-is-spyware-protecting-your-data-against-a-common-threat/
+	--
+	--
+
+[users]
+	 https://www.scmagazine.com/home/network-security/google-rolls-out-expanded-2fa-for-g-suite-users/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/facebook-appelle-la-regulation-d-internet-a-la-rescousse-39882795.htm/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-renonce-a-commercialiser-son-tapis-de-charge-sans-fil-airpower-39882789.htm/
+	--
+	--
+
+[hacking]
+	 http://www.securityweek.com/georgia-man-admits-hacking-accounts-athletes-and-musicians/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/l-antivirus-microsoft-defender-veut-empecher-a-des-malwares-de-le-desactiver-39882751.htm/
+	 http://www.securityweek.com/microsoft-launches-azure-security-center-iot/
+	 https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-defender-advanced-threat-protection-atp-service-featured-in-windows-version-1809-discovered-an-nsa-inspired-backdoor-vulnerability-in-huawei-laptops/
+	--
+	--
+
+[breach]
+	 https://www.infosecurity-magazine.com:443/news/toyota-japan-hacked-vietnam-office/
+	 http://www.securityweek.com/buca-di-beppo-planet-hollywood-restaurants-hit-card-breach/
+	 https://www.scmagazine.com/home/security-news/toyota-reports-second-breach-in-five-weeks/
+	 http://www.securityweek.com/millions-toyota-customers-japan-hit-data-breach/
+	--
+	 [attack, breach] https://www.cybersecurity-insiders.com/cyber-attack-on-navicent-health-and-data-breach-details/
+	--
+
+[attacks]
+	 https://www.safetydetective.com/blog/what-is-ransomware-how-to-prevent-attacks-in/
+	--
+	--
+
+[ransomware]
+	 https://www.cybersecurity-insiders.com/wordpress-and-joomla-websites-serving-ransomware/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.safetydetective.com/blog/avast-mobile-download-avast-mobile-security-free-antivirus-app-for-android-iphone/
+	--
+	--
+
+[malware]
+	--
+	 [threats, malware] https://www.safetydetective.com/blog/most-dangerous-new-malware-and-security-threats/
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'companies', u'dns', u'gaming', u'japan', u'trading', u'associate', u'white', u'customers', u'5g', u'statements', u'test', u'ciso', u'newsletters', u'bezos', u'man', u'webcasts', u'topics', u'espa\xf1ol', u'review', u'tous', u'charged', u'testimony', u'doug', u'ethics', u'olenick', u'22', u'firm', u'handling', u'disclosure', u'networks', u'access', u'firms', u'great', u'act', u'software', u'investor', u'final', u'update', u'staff', u'computer', u'career', u'phones', u'linkedin', u'hearted', u'executive', u'jeff', u'twitter', u'education']
+6 [u'cnet', u'norsk', u'phone', u'financial', u'features', u'enterprise', u'securities', u'says', u'trend', u'tablets', u'avis', u'hacked', u'lindsey', u'up', u'laptops', u'case', u'multiples', u'careers', u'cisco', u'exposed', u'micro', u'websites', u'takes', u'20', u'ceo', u'scheme', u'asus', u'theft', u'recent', u'world', u'odonnell', u'windows', u'bulletin', u'resources', u'hydro', u'our', u'retail', u'south', u'adopts', u'enforcement', u'podcasts', u'identity', u'web', u'bug', u'4g']
+7 [u'regional', u'amazon', u'report', u'need', u'counsel', u'insider', u'product', u'than', u'10', u'antivirus', u'pay', u'investment', u'interviews', u'hit', u'banking', u'tara', u'products', u'agency', u'email', u'apps']
+8 [u'protection', u'after', u'free', u'advisory', u'team', u'dactualit\xe9', u'rules', u'seals', u'search', u'compliance', u'two', u'response', u'incident', u'uk', u'breach', u'huawei', u'exchange', u'apple', u'jan', u'government']
+9 [u's\xe9curit\xe9', u'hacking', u'hacken', u'millions', u'investors', u'podcast', u'company', u'threat', u'named', u'this', u'broersma', u'ecosystem', u'matthew']
+10 [u'reports', u'network', u'top', u'terms', u'things', u'digital', u'cars', u'awards', u'folt\xfdn', u'week', u'critical', u'public', u'full', u'cet', u'tom\xe1\u0161', u'link', u'application', u'ccprojectzeromembers', u'chief']
+11 [u'interview', u'service', u'releases', u'former', u'industry', u'social', u'iot', u'microsoft', u'phishing', u'vuln\xe9rabilit\xe9s', u'facebook', u'attack', u'view', u'android', u'press']
+12 [u'vulnerability', u'internet', u'director', u'business', u'most', u'google', u'cybercrime']
+13 [u'million', u'blog', u'fraud', u'research', u'smart']
+14 [u'services', u'cloud']
+15 [u'conference', u'veille', u'2018']
+16 [u'infosecurity', u'intelligence']
+18 [u'office', u'ransomware', u'attacks', u'rsa']
+19 [u'risk', u'cybersecurity']
+20 [u'new', u'vulnerabilities']
+25 [u'malware']
+29 [u'privacy']
+30 [u'charges']
+31 [u'mobile']
+32 [u'threats']
+41 [u'best']
+62 [u'2019']
+73 [u'sec']
+
+
