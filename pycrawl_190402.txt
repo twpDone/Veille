@@ -1,0 +1,246 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTMwODQ5OQ==/
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://threatpost.com/google-warns-of-growing-android-attack-vector-backdoored-sdks-and-pre-installed-apps/143332/
+	 https://www.cybersecurity-insiders.com/israel-to-become-a-victim-of-cyber-attack-on-april-7/
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-new-york-capital-city-albany/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-cost-on-aluminum-producer-norsk-hydro-estimated-to-be-41m/
+	 [attack, breach] https://www.cybersecurity-insiders.com/cyber-attack-leads-to-a-data-breach-of-2-15-million-card-details-of-planet-hollywood/
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/ransomware/albany-n-y-hit-with-ransomware-attack/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTMwODQ5NQ==/
+	--
+	--
+
+[fraud]
+	--
+	 [fraud, facebook] https://www.infosecurity-magazine.com:443/news/facebook-pulls-spam-and-fraud-from-1/
+	--
+
+[threats]
+	 https://www.cybersecurity-insiders.com/four-steps-to-protect-your-intellectual-property-from-insider-threats/
+	--
+	--
+
+[scams]
+	 https://threatpost.com/march-madness-scams/143339/
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	--
+	 [cloud, services] http://www.zdnet.fr/actualites/quels-services-cloud-pour-la-telephonie-et-les-sms-39882189.htm/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	 [cloud, services] http://www.zdnet.fr/actualites/quels-services-cloud-pour-la-telephonie-et-les-sms-39882189.htm/
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/mises-a-jour-windows-10-le-guide-complet-pour-les-entreprises-de-toutes-tailles-39882829.htm/
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://www.infosecurity-magazine.com:443/news/facebook-boss-calls-greater-1/
+	--
+	 [fraud, facebook] https://www.infosecurity-magazine.com:443/news/facebook-pulls-spam-and-fraud-from-1/
+	--
+
+[apple]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-139/
+	 http://www.zdnet.fr/actualites/apple-vendre-plus-d-iphone-mais-moins-chers-39882841.htm/
+	 https://www.silicon.co.uk/mobility/apple-cancels-wireless-charging-plans-over-technical-issues-242927/
+	--
+	 [apple, mobile] https://www.cybersecurity-insiders.com/apple-releases-ios-12-2-with-bug-fixes-for-over-50-mobile-security-issues/
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://www.silicon.co.uk/workspace/microsoft-claims-speed-advantage-with-open-source-python-type-checker-242965/
+	 http://www.cert.ssi.gouv.fr/alerte/CERTFR-2019-ALE-004/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/data-breach/2m-credit-cards-exposed-in-buca-di-beppo-earl-of-sandwich-planet-hollywood-parent-company-breach/
+	--
+	 [attack, breach] https://www.cybersecurity-insiders.com/cyber-attack-leads-to-a-data-breach-of-2-15-million-card-details-of-planet-hollywood/
+	--
+
+[attacks]
+	--
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-new-york-capital-city-albany/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-cost-on-aluminum-producer-norsk-hydro-estimated-to-be-41m/
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/ransomware/albany-n-y-hit-with-ransomware-attack/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	 [apple, mobile] https://www.cybersecurity-insiders.com/apple-releases-ios-12-2-with-bug-fixes-for-over-50-mobile-security-issues/
+	--
+
+[malware]
+	 https://threatpost.com/game-of-thrones-malware-piracy/143318/
+	 http://www.securityweek.com/attackers-store-malware-hidden-directories-compromised-https-sites/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'companies', u'dns', u'gaming', u'trading', u'cameras', u'associate', u'report', u'need', u'ics', u'statements', u'test', u'newsletters', u'mais', u'webcasts', u'topics', u'espa\xf1ol', u'sean', u'tous', u'charged', u'intel', u'act', u'information', u'ethics', u'health', u'finds', u'hackers', u'recent', u'disclosure', u'into', u'attackers', u'access', u'huawei', u'firms', u'products', u'united', u'testimony', u'announces', u'final', u'cryptocurrency', u'staff', u'career', u'linkedin', u'government', u'twitter', u'bug', u'education', u'keane']
+6 [u'cnet', u'over', u'features', u'enterprise', u'securities', u'steps', u'digital', u'trend', u'tablets', u'avis', u'lindsey', u'white', u'than', u'up', u'laptops', u'week', u'careers', u'micro', u'takes', u'20', u'scheme', u'asus', u'threatlist', u'hit', u'world', u'big', u'odonnell', u'bulletin', u'resources', u'investor', u'our', u'york', u'retail', u'adopts', u'enforcement', u'podcasts', u'identity', u'executive', u'4g']
+7 [u'four', u'regional', u'seals', u'norsk', u'financial', u'hacking', u'property', u'intellectual', u'counsel', u'team', u'ciso', u'product', u'card', u'antivirus', u'pay', u'multiples', u'exposed', u'critical', u'investment', u'response', u'interviews', u'firm', u'windows', u'uk', u'tara', u'capital', u'hydro', u'agency', u'email']
+8 [u'protection', u'after', u'free', u'advisory', u'dactualit\xe9', u'rules', u'compliance', u'two', u'threat', u'regulation', u'incident', u'chief', u'jan', u'web', u'apps']
+9 [u's\xe9curit\xe9', u'interview', u'network', u'top', u'protect', u'hacken', u'10', u'investors', u'former', u'podcast', u'iot', u'phishing', u'named', u'breach', u'broersma', u'ecosystem']
+10 [u'vulnerability', u'service', u'search', u'cars', u'awards', u'public', u'full', u'company', u'cet', u'microsoft', u'link', u'application', u'exchange', u'apple', u'ccprojectzeromembers', u'matthew']
+11 [u'reports', u'millions', u'releases', u'folt\xfdn', u'social', u'tom\xe1\u0161', u'view', u'press']
+12 [u'terms', u'director', u'research', u'most', u'vuln\xe9rabilit\xe9s', u'android', u'smart']
+13 [u'insider', u'blog', u'business', u'industry', u'cybercrime']
+14 [u'internet', u'fraud', u'google', u'rsa']
+15 [u'million', u'veille', u'intelligence', u'facebook']
+16 [u'risk', u'attacks', u'infosecurity', u'services', u'2018']
+17 [u'office', u'conference', u'vulnerabilities']
+18 [u'cloud']
+19 [u'cybersecurity', u'attack']
+21 [u'new']
+26 [u'ransomware']
+27 [u'privacy']
+28 [u'malware']
+29 [u'threats']
+30 [u'charges']
+34 [u'mobile']
+39 [u'best']
+54 [u'2019']
+73 [u'sec']
+
+
