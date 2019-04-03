@@ -1,0 +1,239 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	 [access, microsoft] https://blog.trendmicro.com/trendlabs-security-intelligence/microsoft-edge-and-internet-explorer-zero-days-allow-access-to-confidential-session-data/
+	--
+
+[attack]
+	--
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/ransomware/michigan-medical-practice-folds-after-ransomware-attack/
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/ransomware/arizona-beverages-ransomware-attack-exacerbated-by-unpatched-servers-poorly-configured-back-up-system/
+	--
+
+[routers]
+	--
+	 [routers, attacks] https://blog.trendmicro.com/trendlabs-security-intelligence/home-routers-mitigating-attacks-that-turn-them-to-zombies/
+	--
+
+[kit]
+	--
+	 [kit, phishing] https://threatpost.com/mobile-phishing-targets-verizon/143366/
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 https://www.infosecurity-magazine.com:443/news/wheels-up-air-service-a-go-after-1/
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 http://www.zdnet.fr/actualites/multicloud-comment-aller-au-dela-du-cloud-hybride-39880949.htm/
+	 https://www.silicon.co.uk/workspace/okta-launches-hybrid-cloud-identity-management-243403/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	 https://threatpost.com/financial-apps-are-ripe-for-exploit-via-reverse-engineering/143348/
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	 [kit, phishing] https://threatpost.com/mobile-phishing-targets-verizon/143366/
+	--
+
+[facebook]
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/les-livres-n-ont-plus-leur-place-sur-le-microsoft-store-39882901.htm/
+	 http://www.zdnet.fr/actualites/e-commerce-microsoft-viendrait-chasser-sur-les-terres-de-shopify-39882907.htm/
+	--
+	 [access, microsoft] https://blog.trendmicro.com/trendlabs-security-intelligence/microsoft-edge-and-internet-explorer-zero-days-allow-access-to-confidential-session-data/
+	--
+
+[breach]
+	 http://www.securityweek.com/georgia-tech-breach-hits-13-million-people/
+	 https://www.silicon.co.uk/workspace/google-pulls-plug-on-failed-google-social-network-after-data-breach-243369/
+	--
+	--
+
+[attacks]
+	 https://threatpost.com/half-all-attacks-supply-chain/143391/
+	--
+	 [routers, attacks] https://blog.trendmicro.com/trendlabs-security-intelligence/home-routers-mitigating-attacks-that-turn-them-to-zombies/
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/ransomware/michigan-medical-practice-folds-after-ransomware-attack/
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/ransomware/arizona-beverages-ransomware-attack-exacerbated-by-unpatched-servers-poorly-configured-back-up-system/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.cybersecurity-insiders.com/google-offers-a-review-of-its-android-mobile-security/
+	 https://www.silicon.co.uk/workspace/study-finds-systemic-mobile-financial-app-insecurity-243423/
+	--
+	--
+
+[malware]
+	 http://www.securityweek.com/chinese-woman-carrying-malware-allegedly-got-mar-lago/
+	 https://www.scmagazine.com/home/security-news/game-of-thrones-report-finds-the-show-is-the-most-popular-malware-lure/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'launches', u'dns', u'gaming', u'trading', u'associate', u'enterprise', u'we', u'steps', u'statements', u'test', u'trend', u'apache', u'ciso', u'newsletters', u'webcasts', u'lindsey', u'white', u'topics', u'certification', u'espa\xf1ol', u'review', u'laptops', u'tous', u'charged', u'act', u'scanner', u'ethics', u'ceo', u'micro', u'hackers', u'popular', u'odonnell', u'disclosure', u'windows', u'women', u'firms', u'products', u'testimony', u'insight', u'announces', u'final', u'cryptocurrency', u'staff', u'career', u'comment', u'isc\xb2', u'phones', u'linkedin', u'government', u'twitter', u'education', u'4g']
+6 [u'cnet', u'norsk', u'features', u'protect', u'property', u'securities', u'intellectual', u'tablets', u'avis', u'than', u'careers', u'exposed', u'20', u'regulation', u'identity', u'scheme', u'hit', u'world', u'source', u'breach', u'resources', u'access', u'hydro', u'investor', u'our', u'retail', u'adopts', u'enforcement', u'podcasts', u'ios', u'executive']
+7 [u'four', u'regional', u'seals', u'vulnerability', u'over', u'hacking', u'counsel', u'digital', u'team', u'10', u'antivirus', u'pay', u'multiples', u'critical', u'investment', u'information', u'response', u'iot', u'interviews', u'threatlist', u'incident', u'finds', u'firm', u'edge', u'into', u'uk', u'tara', u'bulletin', u'agency', u'which']
+8 [u's\xe9curit\xe9', u'reports', u'free', u'advisory', u'product', u'millions', u'dactualit\xe9', u'up', u'technology', u'rules', u'compliance', u'company', u'threat', u'apple', u'jan']
+9 [u'protection', u'interview', u'financial', u'network', u'top', u'hacken', u'podcast', u'public', u'search', u'two', u'phishing', u'named', u'exchange', u'ecosystem']
+10 [u'cars', u'investors', u'awards', u'full', u'cet', u'link', u'ccprojectzeromembers', u'chief', u'broersma', u'matthew', u'web', u'apps']
+11 [u'service', u'terms', u'internet', u'former', u'folt\xfdn', u'industry', u'tom\xe1\u0161', u'application', u'view', u'press']
+12 [u'after', u'insider', u'releases', u'director', u'social', u'research', u'vuln\xe9rabilit\xe9s', u'cybercrime']
+13 [u'risk', u'blog', u'fraud', u'most', u'services', u'facebook', u'rsa']
+14 [u'million', u'business', u'microsoft', u'2018', u'smart']
+15 [u'conference', u'veille', u'intelligence', u'email']
+16 [u'infosecurity', u'cloud', u'attack']
+17 [u'office', u'android']
+18 [u'attacks', u'google']
+19 [u'cybersecurity', u'vulnerabilities']
+22 [u'new']
+26 [u'ransomware']
+27 [u'privacy']
+30 [u'charges']
+31 [u'threats']
+34 [u'malware']
+38 [u'mobile']
+40 [u'best']
+51 [u'2019']
+73 [u'sec']
+
+
