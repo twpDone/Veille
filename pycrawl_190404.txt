@@ -1,0 +1,239 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	 [industry, attacks] http://www.securityweek.com/long-equipment-life-cycles-expose-manufacturing-industry-attacks-study/
+	--
+
+[fraud]
+	 https://www.infosecurity-magazine.com:443/news/despite-fear-of-fraud-taxpayers-1/
+	 https://www.sec.gov/news/press-release/2019-51/
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://www.scmagazine.com/home/opinion/executive-insight/its-raining-phishes-out-there-do-you-know-what-your-users-are-doing/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 http://www.securityweek.com/anatomy-hack-perception-vs-reality/
+	 https://www.scmagazine.com/home/security-news/mobile-security/freshmen-hack-high-school-wifi-to-avoid-a-test/
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-144/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-145/
+	--
+	--
+
+[cloud]
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	 http://www.zdnet.fr/actualites/amazon-aws-le-guide-complet-du-plus-grand-fournisseur-mondial-de-services-en-ligne-pour-les-entreprises-39882899.htm/
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	 https://www.scmagazine.com/home/security-news/phishing/verizon-customers-are-being-targeted-by-a-phishing-campaign-with-a-mobile-first-approach-to-infecting-users/
+	--
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/plus-de-540-millions-d-enregistrements-facebook-trouves-sur-des-serveurs-amazon-39882993.htm/
+	 http://www.securityweek.com/aws-s3-buckets-exposed-millions-facebook-records/
+	 https://www.cybersecurity-insiders.com/facebook-keeps-user-info-open-to-hackers-on-amazon-servers/
+	 https://threatpost.com/facebook-data-of-millions-exposed-in-leaky-datasets/143412/
+	 https://www.scmagazine.com/home/security-news/data-breach/540m-facebook-member-records-exposed-by-an-unsecure-aws-s3-bucket/
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.securityweek.com/microsoft-paid-2000000-bounty-rewards-2018/
+	 https://www.scmagazine.com/application-security/81-potentially-dangerous-apps-from-in-the-microsoft-store/
+	--
+	--
+
+[breach]
+	 https://www.scmagazine.com/home/security-news/data-breach/georgia-tech-stung-with-1-3-million-person-data-breach/
+	 https://www.infosecurity-magazine.com:443/news/georgia-tech-breach-13m-staff-1-1/
+	--
+	--
+
+[attacks]
+	 https://www.cybersecurity-insiders.com/iran-cyber-attacks-the-uk/
+	 https://www.cybersecurity-insiders.com/almost-all-financial-apps-are-vulnerable-to-cyber-attacks/
+	--
+	 [industry, attacks] http://www.securityweek.com/long-equipment-life-cycles-expose-manufacturing-industry-attacks-study/
+	--
+
+[ransomware]
+	 https://www.cybersecurity-insiders.com/ransomware-news-for-this-day/
+	 https://www.infosecurity-magazine.com:443/news/a-spot-of-ransomware-hits-arizonas/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'launches', u'dns', u'gaming', u'trading', u'associate', u'enterprise', u'things', u'programs', u'officer', u'happy', u'ciso', u'newsletters', u'statements', u'white', u'than', u'13', u'topics', u'espa\xf1ol', u'tous', u'charged', u'critical', u'act', u'doug', u'program', u'information', u'ethics', u'olenick', u'ceo', u'regulation', u'store', u'scams', u'finds', u'linux', u'georgia', u'wearable', u'popular', u'disclosure', u'servers', u'windows', u'code', u'firms', u'products', u'this', u'testimony', u'insight', u'investor', u'announces', u'final', u'cryptocurrency', u'career', u'phones', u'linkedin', u'government', u'twitter', u'education', u'4g']
+6 [u'cnet', u'over', u'features', u'hacking', u'securities', u'digital', u'test', u'says', u'trend', u'tablets', u'avis', u'10', u'up', u'laptops', u'pay', u'careers', u'brief', u'history', u'20', u'micro', u'interviews', u'scheme', u'threatlist', u'hackers', u'firm', u'cybers\xe9curit\xe9', u'attackers', u'resources', u'access', u'our', u'out', u'retail', u'adopts', u'enforcement', u'staff', u'podcasts', u'executive', u'bug']
+7 [u's\xe9curit\xe9', u'regional', u'experts', u'counsel', u'team', u'product', u'technology', u'investment', u'response', u'incident', u'info', u'agency', u'comment', u'ios', u'identity']
+8 [u'network', u'top', u'advisory', u'records', u'antivirus', u'multiples', u'rules', u'dactualit\xe9', u'compliance', u'iot', u'user', u'bulletin', u'exchange', u'apple', u'app', u'jan']
+9 [u'reports', u'interview', u'free', u'hacken', u'lindsey', u'podcast', u'search', u'two', u'company', u'threat', u'phishing', u'named', u'odonnell', u'ecosystem']
+10 [u'protection', u'hot', u'service', u'terms', u'cars', u'investors', u'awards', u'former', u'public', u'full', u'cet', u'link', u'uk', u'breach', u'ccprojectzeromembers', u'broersma', u'matthew', u'web']
+11 [u'vulnerability', u'after', u'financial', u'insider', u'releases', u'folt\xfdn', u'exposed', u'tom\xe1\u0161', u'cybercrime', u'chief', u'attack', u'rsa', u'view', u'press', u'apps']
+12 [u'millions', u'director', u'industry', u'social', u'research', u'vulnerabilities', u'most', u'application']
+13 [u'risk', u'million', u'amazon', u'internet', u'blog', u'business', u'microsoft']
+14 [u'conference', u'services', u'vuln\xe9rabilit\xe9s', u'smart']
+15 [u'fraud', u'veille', u'intelligence', u'google', u'2018', u'email', u'android']
+16 [u'infosecurity', u'cloud']
+17 [u'office']
+21 [u'attacks']
+22 [u'ransomware', u'facebook']
+23 [u'new', u'cybersecurity']
+24 [u'threats']
+29 [u'privacy']
+31 [u'charges']
+32 [u'mobile']
+35 [u'malware']
+40 [u'best']
+47 [u'2019']
+74 [u'sec']
+
+
