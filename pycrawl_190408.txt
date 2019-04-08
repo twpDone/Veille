@@ -1,0 +1,255 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, routers, cloud] https://threatpost.com/hackers-abuse-google-cloud-platform-to-attack-d-link-routers/143492/
+	 [attack, phishing] https://blog.trendmicro.com/trendlabs-security-intelligence/phishing-attack-uses-browser-extension-tool-singlefile-to-obfuscate-malicious-log-in-pages/
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/ransomware/genesee-county-ransomware-attack-more-severe-than-originally-thought/
+	--
+
+[routers]
+	--
+	 [attack, routers, cloud] https://threatpost.com/hackers-abuse-google-cloud-platform-to-attack-d-link-routers/143492/
+	 [routers, dns] https://www.infosecurity-magazine.com:443/news/attackers-target-home-routers-with-1/
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	 https://www.scmagazine.com/home/opinion/executive-insight/three-lessons-from-the-top-cybersecurity-threats-of-2018/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 https://securityintelligence.com/icedid-banking-trojan-spruces-up-injection-tactics-to-add-stealth/
+	 https://securityintelligence.com/icedid-banking-trojan-spruces-up-injection-tactics-to-add-stealth/?src=widget/
+	--
+	--
+
+[dns]
+	--
+	 [dns, users] http://www.securityweek.com/ongoing-dns-hijacking-campaign-targets-gmail-paypal-netflix-users/
+	 [routers, dns] https://www.infosecurity-magazine.com:443/news/attackers-target-home-routers-with-1/
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://threatpost.com/free-cynet-threat-assessment-for-mid-sized-and-large-organizations/143445/
+	--
+	 [threat, malware] https://www.scmagazine.com/home/security-news/cybercrime/bromium-researchers-spotted-scammers-used-nevada-data-centers-to-distributed-dridex-gandcrab-and-other-malware-in-the-jurisdiction-of-us-law-enforcement/
+	--
+
+[users]
+	--
+	 [dns, users] http://www.securityweek.com/ongoing-dns-hijacking-campaign-targets-gmail-paypal-netflix-users/
+	 [users, facebook] https://www.welivesecurity.com/2019/04/04/540-million-records-facebook-apps/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 http://www.zdnet.fr/actualites/sap-perd-le-patron-de-sa-branche-cloud-39883131.htm/
+	--
+	 [attack, routers, cloud] https://threatpost.com/hackers-abuse-google-cloud-platform-to-attack-d-link-routers/143492/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	 [services, malware] http://www.securityweek.com/new-xwo-malware-looks-exposed-services-default-passwords/
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/microsoft-change-la-facon-dont-windows-10-deconnecte-les-peripheriques-de-stockage-usb-39883145.htm/
+	--
+
+[phishing]
+	--
+	 [attack, phishing] https://blog.trendmicro.com/trendlabs-security-intelligence/phishing-attack-uses-browser-extension-tool-singlefile-to-obfuscate-malicious-log-in-pages/
+	 [phishing, hacking, ransomware] http://www.zdnet.fr/actualites/le-phishing-une-menace-negligee-au-contraire-du-ransomware-ou-du-hacking-39883063.htm/
+	--
+
+[facebook]
+	 https://threatpost.com/facebook-and-amazon-are-locked-in-a-blame-game-over-leaked-data-whos-really-to-blame/143467/
+	 https://www.scmagazine.com/home/security-news/malware/brazilian-banking-trojan-basbanke-spreads-via-facebook-and-whatapp-promos/
+	 https://www.infosecurity-magazine.com:443/news/facebook-home-to-74-black-market-1/
+	 https://www.scmagazine.com/home/security-news/cybercrime/74-facebook-groups-for-cybercriminals-found/
+	 https://threatpost.com/podcast-chris-vickery-on-upguards-discovery-of-millions-of-facebook-records/143535/
+	 http://www.zdnet.fr/actualites/facebook-demande-les-mots-de-passe-email-de-ses-utilisateurs-39883113.htm/
+	--
+	 [users, facebook] https://www.welivesecurity.com/2019/04/04/540-million-records-facebook-apps/
+	 [facebook, cybercrime] https://threatpost.com/facebook-boots-74-cybercrime-groups-from-platform/143512/
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/apple-music-serait-passe-devant-spotify-aux-tats-unis-39883129.htm/
+	 http://www.zdnet.fr/actualites/amazon-travaille-sur-des-ecouteurs-sans-fil-compatibles-alexa-pour-concurrencer-les-airpods-d-apple-39883111.htm/
+	--
+	--
+
+[hacking]
+	--
+	 [phishing, hacking, ransomware] http://www.zdnet.fr/actualites/le-phishing-une-menace-negligee-au-contraire-du-ransomware-ou-du-hacking-39883063.htm/
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/microsoft-change-la-facon-dont-windows-10-deconnecte-les-peripheriques-de-stockage-usb-39883145.htm/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	 https://securityintelligence.com/cryptojacking-attacks-whos-mining-on-your-coin/
+	--
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware] https://www.scmagazine.com/home/security-news/ransomware/genesee-county-ransomware-attack-more-severe-than-originally-thought/
+	 [phishing, hacking, ransomware] http://www.zdnet.fr/actualites/le-phishing-une-menace-negligee-au-contraire-du-ransomware-ou-du-hacking-39883063.htm/
+	--
+
+[cybercrime]
+	--
+	 [facebook, cybercrime] https://threatpost.com/facebook-boots-74-cybercrime-groups-from-platform/143512/
+	--
+
+[mobile]
+	 https://threatpost.com/this-preinstalled-mobile-security-app-delivered-vulnerabilities-not-protection/143468/
+	--
+	--
+
+[malware]
+	 https://www.infosecurity-magazine.com:443/news/us-web-servers-hosted-10-malware-1/
+	--
+	 [services, malware] http://www.securityweek.com/new-xwo-malware-looks-exposed-services-default-passwords/
+	 [threat, malware] https://www.scmagazine.com/home/security-news/cybercrime/bromium-researchers-spotted-scammers-used-nevada-data-centers-to-distributed-dridex-gandcrab-and-other-malware-in-the-jurisdiction-of-us-law-enforcement/
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'leaders', u'trading', u'cameras', u'associate', u'too', u'enterprise', u'analytics', u'three', u'experts', u'programs', u'statements', u'abel', u'digital', u'test', u'targets', u'organizations', u'ciso', u'newsletters', u'card', u'white', u'browser', u'topics', u'espa\xf1ol', u'sites', u'tous', u'charged', u'act', u'response', u'ceo', u'robert', u'regulation', u'threatlist', u'finds', u'linux', u'firm', u'trojan', u'user', u'recent', u'spring', u'disclosure', u'xiaomi', u'attackers', u'products', u'testimony', u'investor', u'final', u'staff', u'career', u'linkedin', u'audio', u'twitter', u'tactics', u'education', u'4g']
+6 [u'cnet', u'launches', u'personal', u'features', u'hacking', u'amazon', u'securities', u'trend', u'tablets', u'avis', u'records', u'training', u'review', u'laptops', u'technology', u'careers', u'program', u'investment', u'flaws', u'20', u'micro', u'interviews', u'scheme', u'tom', u'big', u'into', u'info', u'uk', u'users', u'bulletin', u'breach', u'access', u'firms', u'this', u'retail', u'adopts', u'enforcement', u'nist', u'comment', u'podcasts', u'ios', u'identity', u'thought', u'government']
+7 [u's\xe9curit\xe9', u'regional', u'do', u'things', u'counsel', u'team', u'says', u'product', u'millions', u'than', u'pay', u'multiples', u'incident', u'up', u'windows', u'exchange', u'insight', u'our', u'agency', u'phones']
+8 [u'vulnerability', u'reports', u'dns', u'financial', u'network', u'advisory', u'odonnell', u'lindsey', u'dactualit\xe9', u'rules', u'exposed', u'search', u'compliance', u'banking', u'hackers', u'resources', u'apple', u'jan', u'executive', u'apps']
+9 [u'after', u'hacken', u'cars', u'10', u'antivirus', u'week', u'public', u'two', u'company', u'iot', u'named', u'chief']
+10 [u'interview', u'service', u'ransomware', u'terms', u'insider', u'investors', u'awards', u'former', u'industry', u'full', u'cet', u'phishing', u'ecosystem', u'link', u'application', u'ccprojectzeromembers', u'broersma', u'matthew']
+11 [u'protection', u'free', u'top', u'internet', u'releases', u'folt\xfdn', u'podcast', u'threat', u'most', u'microsoft', u'tom\xe1\u0161', u'rsa', u'view', u'android', u'web', u'press']
+12 [u'research', u'app']
+13 [u'risk', u'million', u'director', u'blog', u'business', u'fraud', u'services', u'intelligence']
+14 [u'conference', u'attacks', u'social', u'vulnerabilities', u'cybercrime', u'2018', u'attack', u'email', u'smart']
+15 [u'veille', u'vuln\xe9rabilit\xe9s']
+16 [u'infosecurity', u'google']
+17 [u'office', u'cloud']
+20 [u'new']
+22 [u'facebook']
+27 [u'cybersecurity']
+28 [u'privacy']
+32 [u'charges']
+33 [u'mobile']
+35 [u'malware']
+38 [u'threats']
+40 [u'best']
+48 [u'2019']
+74 [u'sec']
+
+
