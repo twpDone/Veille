@@ -1,0 +1,251 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 https://www.scmagazine.com/home/security-news/malware/second-triton-trisis-critical-infrastructure-attack-spotted/
+	 https://threatpost.com/sas-2019-joe-fitzpatrick-warns-of-the-5-supply-chain-attack/143684/
+	--
+	 [attack, service] https://www.cybersecurity-insiders.com/finland-election-results-service-hit-by-cyber-attack/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	 http://www.securityweek.com/czech-court-rights-alleged-russian-hacker-violated/
+	--
+	 [hacker, attacks] http://www.securityweek.com/cars-exposed-hacker-attacks-hardcoded-credentials-mycar-apps/
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	 [attack, service] https://www.cybersecurity-insiders.com/finland-election-results-service-hit-by-cyber-attack/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.cybersecurity-insiders.com/prying-eyes-inside-the-enterprise-bitglass-insider-threat-report/
+	 https://threatpost.com/the-anatomy-of-threat-hunting-what-you-need-to-know-and-why/143663/
+	--
+	--
+
+[users]
+	--
+	 [users, exploit] https://www.scmagazine.com/home/security-news/vulnerabilities/exodus-intelligence-security-researcher-istvan-kurucsai-discovered-and-published-a-proof-of-concept-vulnerability-in-google-chrome/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 https://www.cybersecurity-insiders.com/why-containers-are-the-future-of-cloud-computing-2/
+	 http://www.securityweek.com/cloud-security-firm-bitglass-raises-70-million/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	 [users, exploit] https://www.scmagazine.com/home/security-news/vulnerabilities/exodus-intelligence-security-researcher-istvan-kurucsai-discovered-and-published-a-proof-of-concept-vulnerability-in-google-chrome/
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	 [windows, microsoft] http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-158/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/l-ufc-que-choisir-obtient-la-condamnation-de-facebook-39883317.htm/
+	 https://www.silicon.co.uk/workspace/facebook-changes-user-terms-under-pressure-from-european-commission-243789/
+	--
+	--
+
+[apple]
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 https://www.silicon.co.uk/workspace/slack-deepens-integration-with-microsoft-office-243803/
+	 https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-april-2019-patch-tuesday-released-fixes-for-74-vulnerabilities-15-of-which-were-classified-as-critical/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-155/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-160/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-159/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-156/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-157/
+	--
+	 [windows, microsoft] http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-158/
+	--
+
+[breach]
+	 https://threatpost.com/yahoo-offers-117-5m-settlement-in-data-breach-lawsuit/143671/
+	 https://www.scmagazine.com/home/security-news/data-breach/yahoo-offers-117-million-to-settle-2016-data-breach-suit/
+	--
+	--
+
+[attacks]
+	 https://www.welivesecurity.com/2019/04/10/credential-stuffing-attacks-login/
+	 https://www.silicon.co.uk/workspace/study-highlights-relentless-attacks-on-critical-infrastructure-243771/
+	--
+	 [hacker, attacks] http://www.securityweek.com/cars-exposed-hacker-attacks-hardcoded-credentials-mycar-apps/
+	--
+
+[ransomware]
+	 https://www.silicon.co.uk/workspace/prolific-london-based-ransomware-blackmailer-jailed-243783/
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/home/security-news/stuxnet-research-reveals-possible-4th-accomplice-newly-discovered-versions-of-flame-and-duqu-malware/
+	 https://www.scmagazine.com/home/finance/a-new-stealer-malware-dubbed-baldr-has-been-taking-the-cybercrime-market-by-storm/
+	 http://www.securityweek.com/baldr-stealer-malware-active-wild-ongoing-updates/
+	 https://www.scmagazine.com/home/security-news/researchers-uncover-new-tajmahal-apt-framework-plus-a-new-gaza-cybergang-malware-campaign/
+	 https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/
+	 http://www.securityweek.com/triton-hackers-focus-maintaining-access-compromised-systems-fireeye/
+	 https://threatpost.com/triton-ics-malware-second-victim/143658/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'four', u'companies', u'active', u'dns', u'adobe', u'white', u'login', u'targeting', u'programs', u'ics', u'test', u'update', u'billion', u'global', u'fake', u'ciso', u'newsletters', u'statements', u'mining', u'topics', u'espa\xf1ol', u'infrastructure', u'behind', u'andrew', u'laptops', u'tous', u'porter', u'act', u'scheme', u'tajmahal', u'threatlist', u'sanders', u'big', u'popular', u'disclosure', u'info', u'attackers', u'breaches', u'breach', u'meet', u'30', u'apple', u'app', u'testimony', u'software', u'investor', u'final', u'cryptocurrency', u'need', u'allow', u'staff', u'career', u'linkedin', u'ios', u'identity', u'center', u'twitter', u'education', u'other', u'4g']
+6 [u'trading', u'associate', u'features', u'hacking', u'enterprise', u'patch', u'securities', u'bulletin', u'tablets', u'platform', u'avis', u'than', u'sas', u'20', u'pay', u'careers', u'program', u'investment', u'flash', u'endpoint', u'interviews', u'incident', u'firm', u'user', u'source', u'apt', u'uk', u'firms', u'exchange', u'our', u'announces', u'retail', u'adopts', u'enforcement', u'jan', u'comment', u'podcasts', u'routers', u'hacker']
+7 [u's\xe9curit\xe9', u'regional', u'updates', u'cnet', u'interview', u'network', u'ransomware', u'digital', u'odonnell', u'team', u'trend', u'product', u'lindsey', u'10', u'critical', u'financial', u'micro', u'banking', u'up', u'windows', u'resources', u'products', u'control', u'insight', u'web']
+8 [u'vulnerability', u'reports', u'after', u'free', u'advisory', u'counsel', u'millions', u'dactualit\xe9', u'antivirus', u'multiples', u'podcast', u'search', u'compliance', u'information', u'chief', u'out', u'agency', u'phones', u'executive']
+9 [u'hacken', u'awards', u'rules', u'exposed', u'industry', u'public', u'company', u'threat', u'most', u'ecosystem', u'named', u'apps']
+10 [u'top', u'rsa', u'investors', u'business', u'full', u'cet', u'phishing', u'link', u'application', u'ccprojectzeromembers', u'cybercrime', u'broersma', u'matthew']
+11 [u'service', u'terms', u'internet', u'cars', u'former', u'social', u'press']
+12 [u'protection', u'insider', u'folt\xfdn', u'flaws', u'two', u'research', u'iot', u'services', u'tom\xe1\u0161', u'view', u'smart']
+13 [u'million', u'director', u'blog', u'fraud', u'intelligence', u'2018', u'email', u'android']
+14 [u'conference', u'releases', u'vuln\xe9rabilit\xe9s']
+15 [u'risk', u'veille', u'google', u'attack']
+16 [u'infosecurity']
+17 [u'vulnerabilities']
+18 [u'office', u'microsoft']
+20 [u'cloud']
+21 [u'facebook']
+22 [u'attacks', u'mobile']
+23 [u'new', u'cybersecurity']
+29 [u'threats', u'privacy']
+31 [u'charges']
+39 [u'best']
+43 [u'malware']
+50 [u'2019']
+75 [u'sec']
+
+

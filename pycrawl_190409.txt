@@ -1,0 +1,243 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	 https://threatpost.com/new-mirai-samples-grow-the-number-of-processors-targets/143566/
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	--
+	 [attack, routers] https://threatpost.com/tp-link-routers-vulnerable-to-zero-day-buffer-overflow-attack/143575/
+	--
+
+[routers]
+	 https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-fixes-previously-issued-flawed-patches-for-routers/
+	 https://securityintelligence.com/buffer-overflow-vulnerability-in-tp-link-routers-can-allow-remote-attackers-to-take-control/
+	 https://securityintelligence.com/buffer-overflow-vulnerability-in-tp-link-routers-can-allow-remote-attackers-to-take-control/?src=widget/
+	--
+	 [attack, routers] https://threatpost.com/tp-link-routers-vulnerable-to-zero-day-buffer-overflow-attack/143575/
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	 [hacker, breach] https://www.scmagazine.com/home/security-news/report-israel-examines-hackers-claim-of-voter-registry-breach/
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.cybersecurity-insiders.com/cyber-threat-alert-for-canada-october-elections/
+	--
+	--
+
+[users]
+	--
+	 [users, apple] https://threatpost.com/exodus-spyware-apple-ios/143544/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 http://www.securityweek.com/600-million-cybersecurity-budget-jpmorgan-chief-endorses-ai-and-cloud/
+	 http://www.zdnet.fr/actualites/quels-outils-pour-faire-du-marketing-efficace-en-mode-cloud-39882191.htm/
+	--
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	 [services, intelligence] http://www.securityweek.com/chat-services-be-diligent-must-have-data-source-intelligence-programs/
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/les-utilisateurs-de-windows-10-famille-sont-les-grands-gagnants-du-processus-de-mise-a-jour-39883169.htm/
+	--
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://www.cybersecurity-insiders.com/facebook-twitter-instagram-and-google-face-ban-in-the-uk/
+	--
+	--
+
+[apple]
+	 http://www.securityweek.com/apple-device-management-firm-fleetsmith-raises-30-million/
+	--
+	 [users, apple] https://threatpost.com/exodus-spyware-apple-ios/143544/
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	 [services, intelligence] http://www.securityweek.com/chat-services-be-diligent-must-have-data-source-intelligence-programs/
+	--
+
+[microsoft]
+	 https://www.silicon.co.uk/workspace/data-protection-regulator-to-probe-eu-institutions-contracts-with-microsoft-243767/
+	 http://www.zdnet.fr/actualites/microsoft-edge-chromium-les-preversions-du-navigateur-sont-disponibles-39883201.htm/
+	--
+	--
+
+[breach]
+	 http://www.securityweek.com/cost-data-breach-uk-increases-more-41-two-years/
+	--
+	 [hacker, breach] https://www.scmagazine.com/home/security-news/report-israel-examines-hackers-claim-of-voter-registry-breach/
+	--
+
+[attacks]
+	 http://www.securityweek.com/leap-cyber-attacks-against-elections-oecd-countries-canada/
+	--
+	--
+
+[ransomware]
+	--
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	--
+	--
+
+[malware]
+	 https://www.infosecurity-magazine.com:443/news/fake-malware-tricks-radiologists-1/
+	 https://threatpost.com/spam-campaigns-spread-trickbot-malware-with-tax-lure/143551/
+	 https://www.cybersecurity-insiders.com/exodus-malware-spreading-across-ios-devices/
+	 https://securityintelligence.com/cybercriminals-spoof-major-accounting-and-payroll-firms-in-tax-season-malware-campaigns/
+	 https://www.safetydetective.com/blog/what-is-malware/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'four', u'companies', u'launches', u'dns', u'trading', u'cameras', u'associate', u'white', u'enterprise', u'amazon', u'countries', u'detection', u'tony', u'three', u'statements', u'test', u'says', u'fake', u'ciso', u'newsletters', u'mining', u'browser', u'topics', u'espa\xf1ol', u'review', u'andrew', u'technology', u'tous', u'charged', u'act', u'22', u'ceo', u'regulation', u'scheme', u'threatlist', u'sanders', u'user', u'recent', u'source', u'big', u'disclosure', u'into', u'users', u'code', u'access', u'huawei', u'products', u'testimony', u'investor', u'out', u'announces', u'final', u'staff', u'career', u'linkedin', u'linux', u'education', u'4g']
+6 [u'elections', u'features', u'hacking', u'targeting', u'programs', u'securities', u'devices', u'digital', u'bulletin', u'trend', u'tablets', u'platform', u'avis', u'records', u'canada', u'20', u'laptops', u'careers', u'program', u'investment', u'information', u'micro', u'exodus', u'interviews', u'incident', u'hackers', u'info', u'windows', u'firms', u'exchange', u'retail', u'adopts', u'enforcement', u'phones', u'podcasts', u'hearted', u'identity', u'government']
+7 [u's\xe9curit\xe9', u'regional', u'cnet', u'network', u'counsel', u'product', u'millions', u'than', u'10', u'pay', u'multiples', u'exposed', u'banking', u'firm', u'our', u'agency', u'comment', u'twitter', u'routers']
+8 [u'reports', u'interview', u'after', u'financial', u'advisory', u'ransomware', u'team', u'dactualit\xe9', u'rules', u'search', u'compliance', u'up', u'resources', u'apple', u'insight', u'jan']
+9 [u'vulnerability', u'free', u'hacken', u'cars', u'awards', u'antivirus', u'industry', u'public', u'iot', u'ecosystem', u'named', u'executive', u'web', u'apps']
+10 [u'service', u'terms', u'things', u'insider', u'former', u'full', u'company', u'cet', u'most', u'microsoft', u'phishing', u'link', u'uk', u'application', u'ccprojectzeromembers', u'this', u'chief', u'broersma', u'matthew']
+11 [u'protection', u'top', u'odonnell', u'internet', u'lindsey', u'investors', u'folt\xfdn', u'week', u'podcast', u'two', u'tom\xe1\u0161', u'app', u'rsa', u'view', u'ios', u'press']
+12 [u'business', u'research', u'threat', u'vulnerabilities', u'android', u'smart']
+13 [u'releases', u'director', u'blog', u'fraud', u'vuln\xe9rabilit\xe9s', u'2018']
+14 [u'conference', u'social', u'intelligence', u'cybercrime']
+15 [u'risk', u'veille', u'services', u'attack']
+16 [u'million', u'infosecurity', u'google', u'email']
+17 [u'office', u'attacks']
+19 [u'cloud']
+21 [u'facebook']
+22 [u'new']
+27 [u'privacy']
+28 [u'cybersecurity']
+30 [u'mobile']
+31 [u'charges']
+35 [u'threats']
+39 [u'best']
+43 [u'malware']
+52 [u'2019']
+76 [u'sec']
+
+
