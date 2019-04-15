@@ -1,0 +1,254 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 https://www.scmagazine.com/home/security-news/study-67-percent-of-hotel-websites-grant-third-parties-access-to-personal-booking-data-reservations/
+	--
+	--
+
+[attack]
+	--
+	 [attack, breach] https://scmagazine.icrowdnewswire.com/news.php?id=MTMzNjcwOQ==/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	 [industry, attacks] http://www.securityweek.com/industry-reactions-new-triton-attacks-critical-infrastructure/
+	--
+
+[fraud]
+	 https://www.sec.gov/news/press-release/2019-55/
+	--
+	 [fraud, users] https://www.scmagazine.com/home/security-news/cybercrime/as-two-factor-authentication-becomes-more-popular-threat-actors-have-proven-once-again-how-this-security-feature-can-be-exploited-if-not-implemented-properly/
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	 https://www.safetydetective.com/blog/what-you-need-to-know-about-social-engineering/
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 http://www.securityweek.com/winning-security-strategy-redefine-threat-landscape/
+	--
+	--
+
+[users]
+	 https://www.infosecurity-magazine.com:443/news/russia-plans-cut-users-off-global-1/
+	 https://threatpost.com/wordpress-urges-users-to-uninstall-yuzo-plugin-after-flaw-exploited/143710/
+	--
+	 [fraud, users] https://www.scmagazine.com/home/security-news/cybercrime/as-two-factor-authentication-becomes-more-popular-threat-actors-have-proven-once-again-how-this-security-feature-can-be-exploited-if-not-implemented-properly/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://www.infosecurity-magazine.com:443/news/mailgun-web-issues-from-wordpress-1/
+	--
+	--
+
+[linux]
+	 http://www.zdnet.fr/actualites/le-poste-de-travail-linux-est-en-difficulte-39883239.htm/
+	--
+	--
+
+[cloud]
+	--
+	 [cloud, microsoft] https://www.silicon.co.uk/workspace/microsoft-aws-shortlisted-for-pentagon-cloud-contract-243961/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	 [exploit, windows, microsoft] http://www.zdnet.fr/actualites/microsoft-un-exploit-winrar-donne-aux-attaquants-le-controle-total-du-pc-windows-39883407.htm/
+	--
+
+[services]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTMzNjY3OA==/
+	--
+	--
+
+[windows]
+	 http://www.zdnet.fr/actualites/une-zero-day-d-internet-explorer-permet-le-vol-de-fichiers-sur-les-pc-windows-39883433.htm/
+	--
+	 [exploit, windows, microsoft] http://www.zdnet.fr/actualites/microsoft-un-exploit-winrar-donne-aux-attaquants-le-controle-total-du-pc-windows-39883407.htm/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/localisation-des-donnees-facebook-condamne-en-russie-39883455.htm/
+	 http://www.securityweek.com/facebook-pays-120000-bounties-bountycon/
+	 http://www.zdnet.fr/actualites/le-patron-de-netflix-va-quitter-le-conseil-d-administration-de-facebook-39883461.htm/
+	 https://threatpost.com/sas-2019-fake-news-peddlers-adopt-clever-new-trick-to-fool-facebook-twitter/143701/
+	--
+	--
+
+[apple]
+	 http://www.zdnet.fr/actualites/comment-apple-a-ete-dupe-par-de-faux-iphone-39883435.htm/
+	--
+	--
+
+[hacking]
+	 http://www.securityweek.com/attacker-offers-advice-matrixorg-after-hacking-its-systems/
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.securityweek.com/microsoft-introduces-security-configuration-framework/
+	 https://www.cybersecurity-insiders.com/microsoft-says-that-its-email-accounts-were-fraudulently-accessed-by-hackers/
+	--
+	 [exploit, windows, microsoft] http://www.zdnet.fr/actualites/microsoft-un-exploit-winrar-donne-aux-attaquants-le-controle-total-du-pc-windows-39883407.htm/
+	 [cloud, microsoft] https://www.silicon.co.uk/workspace/microsoft-aws-shortlisted-for-pentagon-cloud-contract-243961/
+	--
+
+[breach]
+	--
+	 [attack, breach] https://scmagazine.icrowdnewswire.com/news.php?id=MTMzNjcwOQ==/
+	--
+
+[attacks]
+	 https://www.scmagazine.com/home/security-news/phishing/emotet-now-using-stolen-emails-for-new-attacks/
+	--
+	 [industry, attacks] http://www.securityweek.com/industry-reactions-new-triton-attacks-critical-infrastructure/
+	--
+
+[ransomware]
+	 https://www.scmagazine.com/home/security-news/ransomware/a-new-ransomware-dubbed-cryptopokemon-is-encrypting-user-files-and-demanding-approximately-104-worth-of-bitcoin-to-decrypt-the-files/
+	 https://www.scmagazine.com/home/security-news/ransomware/garfield-county-utah-falls-victim-to-ransomware-pays-attackers/
+	 https://www.scmagazine.com/home/security-news/ransomware/ransomware-knocks-greenville-n-c-offline/
+	--
+	--
+
+[cybercrime]
+	 https://www.infosecurity-magazine.com:443/news/england-wales-police-dedicated-1/
+	--
+	--
+
+[mobile]
+	 https://threatpost.com/threatlist-tax-scammers-launch-a-raft-of-fake-mobile-apps/143728/
+	--
+	--
+
+[malware]
+	 http://www.securityweek.com/bayrob-malware-operators-convicted-us/
+	 https://threatpost.com/romanian-duo-convicted-of-malware-scheme-infecting-400000-computers/143745/
+	 https://www.cybersecurity-insiders.com/worlds-7-most-dreaded-malware/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'updates', u'companies', u'dns', u'fraudulently', u'over', u'trading', u'content', u'silicon', u'enterprise', u'things', u'programs', u'wordpress', u'update', u'certification', u'france', u'ciso', u'newsletters', u'statements', u'looking', u'topics', u'sas', u'espa\xf1ol', u'infrastructure', u'laptops', u'charged', u'exposed', u'porter', u'act', u'program', u'identity', u'assange', u'donn\xe9es', u'trojan', u'user', u'popular', u'breaches', u'products', u'apple', u'testimony', u'software', u'investor', u'out', u'final', u'plugin', u'career', u'comment', u'isc\xb2', u'phones', u'linkedin', u'ios', u'education']
+6 [u'cnet', u'produits', u'associate', u'features', u'white', u'proposes', u'securities', u'team', u'tablets', u'avis', u'millions', u'than', u'20', u'pay', u'careers', u'interviews', u'scheme', u'threatlist', u'banking', u'incident', u'pc', u'disclosure', u'up', u'bulletin', u'firms', u'exchange', u'this', u'broersma', u'our', u'retail', u'adopts', u'enforcement', u'which', u'jan', u'podcasts', u'matthew', u'web', u'government', u'4g']
+7 [u's\xe9curit\xe9', u'regional', u'seals', u'interview', u'network', u'free', u'digital', u'says', u'trend', u'product', u'webcasts', u'antivirus', u'tous', u'multiples', u'financial', u'podcast', u'investment', u'information', u'micro', u'workers', u'fake', u'tara', u'resources', u'access', u'insight', u'need', u'agency', u'apps']
+8 [u'counsel', u'odonnell', u'lindsey', u'dactualit\xe9', u'search', u'compliance', u'flaws', u'week', u'windows', u'uk', u'chief', u'android', u'executive', u'twitter']
+9 [u'protection', u'hacken', u'cars', u'million', u'10', u'awards', u'rules', u'public', u'company', u'hackers', u'application', u'attackers', u'ecosystem']
+10 [u'reports', u'service', u'hacking', u'rsa', u'insider', u'releases', u'investors', u'industry', u'full', u'cet', u'iot', u'threat', u'named', u'link', u'ccprojectzeromembers']
+11 [u'top', u'advisory', u'terms', u'internet', u'former', u'business', u'phishing', u'cybercrime', u'press']
+12 [u'vulnerability', u'after', u'director', u'social', u'two', u'research', u'most', u'google', u'2018', u'view', u'smart']
+13 [u'ransomware', u'blog', u'services', u'intelligence']
+14 [u'folt\xfdn', u'vulnerabilities', u'tom\xe1\u0161', u'vuln\xe9rabilit\xe9s', u'attack', u'conference']
+15 [u'fraud', u'veille', u'cloud']
+16 [u'risk', u'infosecurity']
+17 [u'office', u'attacks', u'email']
+20 [u'microsoft']
+22 [u'mobile']
+23 [u'new']
+24 [u'facebook']
+25 [u'threats']
+28 [u'privacy']
+29 [u'cybersecurity']
+33 [u'charges']
+39 [u'best']
+40 [u'malware']
+51 [u'2019']
+75 [u'sec']
+
+
