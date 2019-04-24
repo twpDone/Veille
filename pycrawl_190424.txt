@@ -1,0 +1,256 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	--
+	--
+
+[attack]
+	 http://www.securityweek.com/kaspersky-links-shadowhammer-supply-chain-attack-shadowpad-hackers/
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/supply-chain-attack/
+	 https://www.cybersecurity-insiders.com/cyber-attack-on-japan-to-initiate-war-with-the-united-states/
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-disrupts-the-weather-channel-for-90-minutes/
+	 [attack, ransomware] https://www.silicon.co.uk/workspace/fbi-investigating-ransomware-attack-that-took-live-broadcast-offline-245439/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-aebi-schmidt/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	 https://www.infosecurity-magazine.com:443/news/uk-government-huawei-provide-1/
+	--
+	--
+
+[hacker]
+	 https://www.scmagazine.com/home/opinion/executive-insight/how-to-be-an-ethical-hacker/
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	 https://www.sec.gov/news/press-release/2019-58/
+	--
+	--
+
+[threats]
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	 https://blog.trendmicro.com/trendlabs-security-intelligence/tag/xxe-injection/
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	 http://www.zdnet.fr/actualites/delegation-de-service-public-relative-au-reseau-de-communications-electroniques-tres-haut-debit-de-la-plaque-sud-39883773.htm/
+	--
+	 [service, cloud, services] https://scmagazine.icrowdnewswire.com/news.php?id=MTM4Njc1MA==/
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	--
+	--
+
+[users]
+	 https://www.silicon.co.uk/workspace/oracle-warns-users-of-critical-security-flaws-245435/
+	--
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	--
+	--
+
+[linux]
+	--
+	--
+
+[cloud]
+	 https://www.cybersecurity-insiders.com/by-2023-cloud-security-spending-to-reach-12-6-billion/
+	--
+	 [service, cloud, services] https://scmagazine.icrowdnewswire.com/news.php?id=MTM4Njc1MA==/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	 [service, cloud, services] https://scmagazine.icrowdnewswire.com/news.php?id=MTM4Njc1MA==/
+	--
+
+[windows]
+	 https://threatpost.com/windows-zero-day-active-exploits/143820/
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/microsoft-paint-restera-finalement-integre-a-windows-10-39883811.htm/
+	 [windows, microsoft] https://www.scmagazine.com/home/network-security/machines-running-popular-av-software-go-unresponsive-after-microsoft-windows-update/
+	--
+
+[phishing]
+	--
+	--
+
+[facebook]
+	 https://threatpost.com/three-fourths-of-consumers-dont-trust-facebook-threatpost-poll-finds/143963/
+	--
+	--
+
+[apple]
+	 https://threatpost.com/privacy-iphone-apples-targeted-ad-tracking/144025/
+	--
+	--
+
+[hacking]
+	 https://www.cybersecurity-insiders.com/ethical-hacking-as-a-post-graduation-opportunity/
+	--
+	--
+
+[intelligence]
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTM4Njg1Ng==/
+	--
+	--
+
+[microsoft]
+	 http://www.zdnet.fr/actualites/microsoft-bloque-la-mise-a-jour-de-mai-2019-sur-les-pc-utilisant-un-stockage-usb-ou-des-cartes-sd-39883825.htm/
+	--
+	 [windows, microsoft] http://www.zdnet.fr/actualites/microsoft-paint-restera-finalement-integre-a-windows-10-39883811.htm/
+	 [windows, microsoft] https://www.scmagazine.com/home/network-security/machines-running-popular-av-software-go-unresponsive-after-microsoft-windows-update/
+	--
+
+[breach]
+	 http://www.securityweek.com/bodybuildingcom-discloses-data-breach/
+	 https://www.scmagazine.com/home/security-news/data-breach/emcare-data-breach-exposes-60000-employees-patients/
+	 http://www.securityweek.com/healthcare-firm-emcare-says-60000-employees-and-patients-exposed-breach/
+	 https://www.scmagazine.com/home/government/washington-state-legislature-passes-data-breach-law-but-punts-on-privacy-law/
+	--
+	--
+
+[attacks]
+	 https://threatpost.com/teamviewer-attacks-state-department/144014/
+	 https://www.cybersecurity-insiders.com/these-cybersecurity-issues-can-expose-your-personal-data-to-cyber-attacks/
+	--
+	--
+
+[ransomware]
+	--
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-disrupts-the-weather-channel-for-90-minutes/
+	 [attack, ransomware] https://www.silicon.co.uk/workspace/fbi-investigating-ransomware-attack-that-took-live-broadcast-offline-245439/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/ransomware-attack-on-aebi-schmidt/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.scmagazine.com/home/opinion/executive-insight/automate-your-mobile-application-security-without-the-staff/
+	--
+	--
+
+[malware]
+	 https://www.scmagazine.com/home/security-news/flashpoint-our-site-was-not-dishing-malware/
+	 https://www.welivesecurity.com/2019/04/23/wannacryptor-accidental-hero-pleads-guilty-malware/
+	 https://threatpost.com/carbanak-source-code-complex-malware/144059/
+	 https://threatpost.com/wannacry-hero-pleads-guilty-to-kronos-malware-charges/143997/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'training', u'law', u'trading', u'silicon', u'enterprise', u'programs', u'securities', u'statements', u'digital', u'odonnell', u'team', u'says', u'fake', u'france', u'ciso', u'newsletters', u'explorer', u'mais', u'lindsey', u'than', u'topics', u'espa\xf1ol', u'systems', u'laptops', u'career', u'technology', u'tous', u'act', u'doug', u'building', u'strong', u'allows', u'targeted', u'incident', u'firm', u'analysis', u'disclosure', u'info', u'up', u'malicious', u'evan', u'oracle', u'download', u'access', u'products', u'kaspersky', u'this', u'united', u'testimony', u'investor', u'out', u'final', u'staff', u'attaques', u'phones', u'linkedin', u'olenick', u'identity', u'bug', u'hacker']
+6 [u'cnet', u'interview', u'over', u'associate', u'features', u'hacking', u'report', u'billion', u'market', u'tablets', u'avis', u'pay', u'careers', u'porter', u'program', u'information', u'20', u'interviews', u'threatlist', u'point', u'pc', u'passwords', u'popular', u'bulletin', u'exchange', u'account', u'retail', u'adopts', u'jan', u'podcasts', u'twitter', u'apps']
+7 [u's\xe9curit\xe9', u'regional', u'secure', u'top', u'detection', u'update', u'trend', u'product', u'millions', u'10', u'professional', u'exposed', u'critical', u'podcast', u'micro', u'week', u'most', u'banking', u'culture', u'development', u'attackers', u'resources', u'firms', u'apple', u'software', u'our', u'enforcement', u'need', u'agency', u'web', u'government', u'education']
+8 [u'seals', u'dns', u'after', u'free', u'5g', u'counsel', u'multiples', u'rules', u'investment', u'dactualit\xe9', u'search', u'two', u'iot', u'phishing', u'source', u'tara', u'breach', u'insight']
+9 [u'protection', u'financial', u'advisory', u'insider', u'hacken', u'cars', u'antivirus', u'compliance', u'ecosystem', u'application', u'code', u'huawei', u'executive']
+10 [u'rsa', u'terms', u'internet', u'awards', u'former', u'industry', u'public', u'full', u'company', u'threat', u'named', u'google', u'link', u'users', u'ccprojectzeromembers', u'chief', u'broersma', u'matthew', u'android']
+11 [u'reports', u'releases', u'investors', u'business', u'cet', u'research', u'windows', u'uk', u'cybercrime', u'view', u'press']
+12 [u'service', u'million', u'director', u'vulnerabilities', u'hackers', u'smart']
+13 [u'network', u'conference', u'services', u'microsoft']
+14 [u'risk', u'fraud', u'social', u'vuln\xe9rabilit\xe9s', u'2018']
+15 [u'folt\xfdn', u'blog', u'veille', u'intelligence', u'tom\xe1\u0161']
+16 [u'vulnerability', u'infosecurity']
+17 [u'office']
+18 [u'facebook', u'cloud', u'email']
+20 [u'mobile']
+22 [u'ransomware', u'attacks', u'threats']
+23 [u'attack']
+25 [u'new']
+27 [u'cybersecurity']
+30 [u'privacy']
+32 [u'charges']
+36 [u'malware']
+40 [u'best']
+49 [u'2019']
+73 [u'sec']
+
+
