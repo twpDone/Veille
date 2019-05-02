@@ -1,0 +1,262 @@
+[+] Crawling :https://www.silicon.co.uk/workspace
+[+] Crawling :https://www.infosecurity-magazine.com/news/
+[+] Crawling :https://www.sec.gov/news/pressreleases
+[+] Crawling :https://www.upguard.com/breaches
+[+] Crawling :https://www.cybersecurity-insiders.com/
+[+] Crawling :https://blog.hackenproof.com/
+[+] Crawling :https://www.safetydetective.com/blog/
+[+] Crawling :https://www.flashpoint-intel.com/blog/
+[+] Crawling :http://blog.trendmicro.com/trendlabs-security-intelligence/
+[+] Crawling :https://www.information-security.fr
+[-] Crawling Exception <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)>>
+[+] Crawling :https://securityintelligence.com/category/x-force/
+[+] Crawling :https://bugs.chromium.org/p/project-zero/issues/list
+[+] Crawling :http://www.welivesecurity.com/
+[+] Crawling :http://www.securityfocus.com
+[+] Crawling :http://www.cert-ist.com/public/
+[+] Crawling :http://www.cert.ssi.gouv.fr
+[+] Crawling :http://pseudonyme.over-blog.net/
+[+] Crawling :http://thehackernews.com/
+[+] Crawling :https://www.cnet.com/topics/security/
+[+] Crawling :https://nakedsecurity.sophos.com/
+[-] Crawling Exception No status line received - the server has closed the connection>
+[+] Crawling :https://www.scmagazine.com
+[+] Crawling :http://www.zdnet.fr/actualites/securite-3900046206q.htm
+[+] Crawling :https://threatpost.com/
+[+] Crawling :http://www.securityweek.com/cybercrime
+
+[cerber]
+	--
+	--
+
+[incident]
+	--
+	--
+
+[mirai]
+	--
+	--
+
+[access]
+	 http://www.securityweek.com/hackers-had-access-citrix-network-five-months/
+	--
+	--
+
+[attack]
+	 http://www.securityweek.com/kaspersky-analyzes-hacking-groups-homegrown-attack-tools/
+	 https://www.cybersecurity-insiders.com/hong-kongs-amnesty-international-hit-by-chinas-apt-groups-cyber-attack/
+	--
+	 [attack, users, phishing, mobile] https://www.cybersecurity-insiders.com/phishing-attack-on-the-mobile-version-of-google-chrome-users/
+	 [attack, phishing] https://www.scmagazine.com/home/security-news/phishing/further-details-on-wipro-phishing-attack-revealed/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/norsk-hydro-ransomware-attack-costs-52-million/
+	--
+
+[routers]
+	--
+	--
+
+[kit]
+	--
+	--
+
+[hacker]
+	--
+	--
+
+[industry]
+	--
+	--
+
+[fraud]
+	 https://www.sec.gov/news/press-release/2019-60/
+	 https://www.sec.gov/news/press-release/2019-62/
+	 https://www.welivesecurity.com/2019/04/25/bec-fraud-losses-doubled-2018/
+	--
+	--
+
+[threats]
+	 https://securityintelligence.com/posts/facial-recognition-deepfakes-and-biometric-pii-preparing-for-a-future-of-faceless-threats/
+	 https://scmagazine.icrowdnewswire.com/news.php?id=MTQxNDU3OA==/
+	--
+	--
+
+[scams]
+	--
+	--
+
+[injection]
+	--
+	--
+
+[dns]
+	--
+	--
+
+[service]
+	--
+	--
+
+[faille]
+	--
+	--
+
+[threat]
+	 https://www.cybersecurity-insiders.com/2019-insider-threat-solutions-guide/
+	 https://www.cybersecurity-insiders.com/cyber-threat-alert-for-those-using-internet-explorer/
+	 https://www.flashpoint-intel.com/threat-response-and-readiness/
+	--
+	--
+
+[users]
+	 https://threatpost.com/google-play-adware-30-million/144098/
+	 https://threatpost.com/users-urged-to-disable-wordpress-plugin-after-unpatched-flaw-disclosed/144159/
+	--
+	 [attack, users, phishing, mobile] https://www.cybersecurity-insiders.com/phishing-attack-on-the-mobile-version-of-google-chrome-users/
+	--
+
+[infosec]
+	--
+	--
+
+[hack]
+	 https://threatpost.com/bec-hack-cons-catholic-church/144212/
+	 https://threatpost.com/netflix-compromised-widevine-drm-hack/144220/
+	--
+	--
+
+[linux]
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-183/
+	 http://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-188/
+	--
+	--
+
+[cloud]
+	 https://www.cybersecurity-insiders.com/cloudpassage-named-in-top-8-cloud-security-solution-providers-by-datamation/
+	 http://www.securityweek.com/cloud-security-firm-divvycloud-raises-19-million/
+	--
+	 [cloud, microsoft] https://www.silicon.co.uk/cloud/microsoft-1-trillion-cloud-growth-245663/
+	--
+
+[scripting]
+	--
+	--
+
+[exploit]
+	--
+	--
+
+[services]
+	--
+	--
+
+[windows]
+	--
+	--
+
+[phishing]
+	--
+	 [attack, users, phishing, mobile] https://www.cybersecurity-insiders.com/phishing-attack-on-the-mobile-version-of-google-chrome-users/
+	 [attack, phishing] https://www.scmagazine.com/home/security-news/phishing/further-details-on-wipro-phishing-attack-revealed/
+	--
+
+[facebook]
+	 http://www.zdnet.fr/actualites/instagram-messenger-whatsapp-comment-facebook-veut-seduire-les-entreprises-39884211.htm/
+	 https://threatpost.com/threatpost-news-wrap-podcast-for-apr-26/144144/
+	 https://threatpost.com/facebook-5-billion-ftc-fine/144104/
+	 https://www.cybersecurity-insiders.com/canada-might-ban-facebook-in-the-region-for-breaching-data-privacy-laws/
+	--
+	--
+
+[apple]
+	 https://www.cybersecurity-insiders.com/apple-card-and-the-future-of-payments/
+	 http://www.zdnet.fr/actualites/qualcomm-va-gagner-gros-grace-a-apple-pres-de-5-milliards-de-dollars-39884215.htm/
+	--
+	--
+
+[hacking]
+	--
+	--
+
+[intelligence]
+	--
+	--
+
+[microsoft]
+	 http://www.securityweek.com/microsoft-expands-security-and-compliance-features-365-customers/
+	--
+	 [cloud, microsoft] https://www.silicon.co.uk/cloud/microsoft-1-trillion-cloud-growth-245663/
+	--
+
+[breach]
+	--
+	--
+
+[attacks]
+	--
+	 [attacks, ransomware] https://www.cybersecurity-insiders.com/browser-based-cyber-attacks-are-surging-up-like-ransomware-attacks/
+	 [attacks, ransomware] https://www.cybersecurity-insiders.com/oracle-weblogic-servers-are-vulnerable-to-ransomware-attacks/
+	 [attacks, ransomware] https://www.cybersecurity-insiders.com/ransomware-attacks-which-will-grab-your-attention-in-2019/
+	--
+
+[ransomware]
+	 https://www.welivesecurity.com/2019/04/30/buhtrap-backdoor-ransomware-advertising-platform/
+	 https://threatpost.com/new-sodinokibi-ransomware-exploits-critical-oracle-weblogic-flaw/144233/
+	 https://www.scmagazine.com/home/security-news/new-sodinokibi-ransomware-delivered-via-oracle-weblogic-vulnerability/
+	--
+	 [attacks, ransomware] https://www.cybersecurity-insiders.com/browser-based-cyber-attacks-are-surging-up-like-ransomware-attacks/
+	 [attack, ransomware] https://www.cybersecurity-insiders.com/norsk-hydro-ransomware-attack-costs-52-million/
+	 [attacks, ransomware] https://www.cybersecurity-insiders.com/oracle-weblogic-servers-are-vulnerable-to-ransomware-attacks/
+	 [attacks, ransomware] https://www.cybersecurity-insiders.com/ransomware-attacks-which-will-grab-your-attention-in-2019/
+	--
+
+[cybercrime]
+	--
+	--
+
+[mobile]
+	 https://www.cybersecurity-insiders.com/follow-these-3-mobile-security-measures-to-protect-your-enterprise-networks/
+	--
+	 [attack, users, phishing, mobile] https://www.cybersecurity-insiders.com/phishing-attack-on-the-mobile-version-of-google-chrome-users/
+	--
+
+[malware]
+	 https://threatpost.com/ad-server-patched-malware-distribution/144280/
+	--
+	--
+
+[vigil@nce]
+	--
+	--
+
+[altran]
+	--
+	--
+
+
+ KeyWords : 
+5 [u'trading', u'silicon', u'report', u'detection', u'launches', u'programs', u'securities', u'accounting', u'team', u'ciso', u'newsletters', u'vodafone', u'statements', u'platform', u'millions', u'than', u'future', u'topics', u'espa\xf1ol', u'review', u'laptops', u'tous', u'porter', u'remote', u'history', u'scam', u'information', u'found', u'regulation', u'threatlist', u'incident', u'hackers', u'fund', u'recent', u'popular', u'disclosure', u'users', u'huawei', u'30', u'products', u'account', u'investor', u'final', u'adopts', u'which', u'staff', u'career', u'comment', u'phones', u'va', u'linkedin', u'identity', u'executive', u'web', u'testimony', u'education']
+6 [u'regional', u'cnet', u'reports', u'dns', u'law', u'associate', u'john', u'odonnell', u'certification', u'says', u'tablets', u'avis', u'lindsey', u'pay', u'careers', u'podcast', u'small', u'spotlight', u'20', u'week', u'interviews', u'tom', u'linux', u'exploits', u'fake', u'up', u'bulletin', u'access', u'exchange', u'stop', u'software', u'our', u'announces', u'retail', u'bec', u'agency', u'jan', u'podcasts', u'twitter']
+7 [u's\xe9curit\xe9', u'seals', u'after', u'features', u'hacking', u'enterprise', u'protect', u'devices', u'trend', u'product', u'botnet', u'multiples', u'rules', u'critical', u'advertising', u'two', u'flaw', u'micro', u'microsoft', u'tara', u'resources', u'broersma', u'enforcement', u'update', u'matthew']
+8 [u'protection', u'over', u'financial', u'counsel', u'10', u'dactualit\xe9', u'investment', u'search', u'vulnerable', u'windows', u'uk', u'application', u'firms', u'out']
+9 [u'interview', u'free', u'service', u'internet', u'hacken', u'cars', u'awards', u'antivirus', u'former', u'industry', u'most', u'analysis', u'ecosystem', u'chief']
+10 [u'rsa', u'advisory', u'terms', u'insider', u'releases', u'director', u'program', u'public', u'full', u'weblogic', u'vulnerabilities', u'named', u'link', u'ccprojectzeromembers', u'apps']
+11 [u'network', u'top', u'investors', u'company', u'cet', u'threat', u'services', u'phishing', u'oracle', u'apple', u'cybercrime', u'view', u'android', u'press']
+12 [u'research', u'smart', u'email']
+13 [u'risk', u'conference', u'business', u'social', u'iot', u'google']
+14 [u'vulnerability', u'office', u'intelligence', u'vuln\xe9rabilit\xe9s', u'2018']
+15 [u'folt\xfdn', u'blog', u'veille', u'tom\xe1\u0161']
+16 [u'infosecurity']
+17 [u'threats']
+18 [u'million', u'compliance', u'facebook']
+19 [u'fraud', u'cloud']
+22 [u'new']
+23 [u'mobile', u'attack']
+25 [u'cybersecurity', u'attacks']
+26 [u'ransomware']
+31 [u'charges', u'malware']
+40 [u'privacy']
+41 [u'best']
+47 [u'2019']
+75 [u'sec']
+
+

@@ -1,0 +1,33 @@
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2015-1326
+2019-04-27T17:10:59.963-04:00	:CVE-2015-1326 (Score:9.3)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-16660
+2019-04-29T09:22:00.387-04:00	:CVE-2018-16660 (Score:9.0)['cpe:/a:imperva:securesphere:13.0.10', 'cpe:/a:imperva:securesphere:13.1.10', 'cpe:/a:imperva:securesphere:13.2.10']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-19442
+2019-04-29T09:29:00.257-04:00	:CVE-2018-19442 (Score:10.0)['cpe:/o:neatorobotics:botvac_connected_firmware:2.2.0']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2018-20434
+2019-04-30T15:55:24.097-04:00	:CVE-2018-20434 (Score:10.0)['cpe:/a:librenms:librenms:1.46']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-11081
+2019-04-30T13:07:07.827-04:00	:CVE-2019-11081 (Score:10.0)['cpe:/a:dentsplysirona:sidexis:4.2']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-11444
+2019-04-29T12:09:17.943-04:00	:CVE-2019-11444 (Score:9.0)['cpe:/a:liferay:liferay_portal:7.1.2:ga3']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-3705
+2019-04-29T15:24:12.087-04:00	:CVE-2019-3705 (Score:10.0)['cpe:/o:dell:idrac6_firmware:1.0', 'cpe:/o:dell:idrac6_firmware:1.1', 'cpe:/o:dell:idrac6_firmware:1.2', 'cpe:/o:dell:idrac6_firmware:1.3', 'cpe:/o:dell:idrac6_firmware:1.5', 'cpe:/o:dell:idrac6_firmware:1.6', 'cpe:/o:dell:idrac6_firmware:1.7', 'cpe:/o:dell:idrac6_firmware:1.8', 'cpe:/o:dell:idrac6_firmware:1.95', 'cpe:/o:dell:idrac7_firmware:1.00.00', 'cpe:/o:dell:idrac7_firmware:1.06.06', 'cpe:/o:dell:idrac7_firmware:1.10.10', 'cpe:/o:dell:idrac7_firmware:1.20.20', 'cpe:/o:dell:idrac7_firmware:1.23.23', 'cpe:/o:dell:idrac7_firmware:1.37.35', 'cpe:/o:dell:idrac7_firmware:1.40.40']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-3706
+2019-04-29T15:25:45.620-04:00	:CVE-2019-3706 (Score:10.0)['cpe:/o:dell:idrac9_firmware:3.20.21.20', 'cpe:/o:dell:idrac9_firmware:3.21.24.22', 'cpe:/o:dell:idrac9_firmware:3.23.23.23']
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-3707
+2019-04-29T15:28:00.437-04:00	:CVE-2019-3707 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7214
+2019-04-30T12:46:40.753-04:00	:CVE-2019-7214 (Score:10.0)
+
+	 > https://nvd.nist.gov/vuln/detail/CVE-2019-7304
+2019-04-30T09:36:19.450-04:00	:CVE-2019-7304 (Score:10.0)['cpe:/o:canonical:ubuntu_linux:14.04::~~lts~~~', 'cpe:/o:canonical:ubuntu_linux:16.04::~~lts~~~', 'cpe:/o:canonical:ubuntu_linux:18.04::~~lts~~~', 'cpe:/o:canonical:ubuntu_linux:18.10']
